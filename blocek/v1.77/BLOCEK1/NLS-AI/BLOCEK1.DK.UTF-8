@@ -1,0 +1,139 @@
+## Blocek1, Danish, dk, cp865
+## This translation was created by Google AI. 
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=j#1;VYZNAM=!1>J<SB>a '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>ej '
+#_CANCEL
+<BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>nnuller
+#_CANCEL2
+' <BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>nnuller '
+#_POMOC
+<BARVA=!;KLAVESY=h;VYZNAM=!4>H<SB>jælp
+#_PALETA
+Pa<BARVA=!;KLAVESY=l;VYZNAM=!6>l<SB>et
+#_MIXBAREV
+<BARVA=!;KLAVESY=b;VYZNAM=!7>B<SB>land farver
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>isk
+#_ZADAT
+An<BARVA=!;KLAVESY=g;VYZNAM=!14>g<SB>iv
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+N<BARVA=!;KLAVESY=y;VYZNAM=!19>y<SB>t dir.
+#_ZPET
+<BARVA=!;KLAVESY=t;VYZNAM=!20>T<SB>ilbage
+#_VPRED
+<BARVA=!;KLAVESY=f;VYZNAM=!21>F<SB>rem
+#_FS_NAHORU
+O<BARVA=!;KLAVESY=p;VYZNAM=!23>p<SB>
+#_FS_TRIDENI
+<BARVA=!;KLAVESY=s;VYZNAM=!24>S<SB>ortering
+#_INFO
+'Info:            '
+#_DOTAZ
+'Spørgsmål:       '
+#_ANONE_DOTAZ
+'Spørgsmål:       '
+#_CHYBA
+Fejl!
+#_VLOZ_TEXT
+Indsæt tekst:
+#_VYBER_BARVU
+Vælg farve:
+#_FS_ADR_JAKSEMAJMENOVAT
+Indtast mappenavn
+#_FS_PRO_CTENI
+'skrivebeskyttet, '
+#_FS_SKRYTY
+'skjult, '
+#_FS_SYSTEMOVY
+'system, '
+#_FS_ARCHIVOVAT
+'arkiv, '
+#_FS_ZADNE
+ingen.
+#_FS_ZPRAVA
+Besked:
+#_FS_SOUBOR
+'Fil: '
+#_FS_VELIKOST
+'Størrelse: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' byte'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Ændret: '
+#_FS_ATRIBUTY
+'Attributter: '
+#_FS_VYBER_SOUBOR
+Vælg fil:
+#_FS_SOUBORNEVYTVOREN
+Kunne ikke oprette fil.
+#_FS_ADRESARNEVYTVOREN
+Kunne ikke oprette mappe.
+#_FS_DISK2
+Drev:
+#_FS_DISK3
+'Drev '
+#_FS_JMENOVKADISKU
+'Disketiket:     '
+#_FS_SYSTEMSOUBORU
+'Filsystem:      '
+#_FS_KAPACITA
+'Kapacitet:      '
+#_FS_VOLNEHO
+'Ledig plads:    '
+#_FS_SERCISLO
+Serienummer:
+#_FS_VYBER_NECO
+En fil skal vælges.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Drevet er ikke klar.
+#_FS_TRIDENI_NADPIS
+Sortering:
+#_FS_TRIDENI_MIX1
+navn*dato*filtype
+#_FS_TRIDENI_MIX2
+stigende*faldende
+#_PREPSATSOUBOR
+Overskriv fil?
+#_VSEPOL
+alle elementer
+#_VYBPOL
+valgte elementer
+#_ZAMPOL
+afviste elementer
+#_VYBINFO
+I det højre panel er alle elementer og i det venstre de valgte.
+Valg og sletning foretages med Enter.
+Skift mellem paneler med Tab.
+#_VYBINFO2
+I det venstre panel vises valgte elementer og i det højre de afviste.
+Valg og sletning foretages med Enter.
+Skift mellem paneler med Tab.
+#_MOUSE_NOT_INSTALLED
+Muse-driver ikke installeret. Indlæs CTmouse eller lignende.
+#_LFB_NOT_AVAILABLE
+Dit grafikkort understøtter ikke LFB-tilstand for den anmodede videotilstand.

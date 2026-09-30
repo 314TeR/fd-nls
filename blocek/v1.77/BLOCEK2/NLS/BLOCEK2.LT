@@ -1,0 +1,727 @@
+## Blocek2, lithuanian, lt, cp775,
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Lietuvi÷     (lt)
+#identifikuj_se2
+blocek2.lt
+#sys_font
+775-16.fv
+#sys_font_maly
+775-14.fv
+#chyba_videomodu
+Nepasiekiamas nurodytas vaizdo reÿimas:
+#sys_font_kodovani
+775
+#m1
+<BARVA=!;KLAVESY=f>F<SB>ailas
+#m2
+<BARVA=!;KLAVESY=p>P<SB>arinktys
+#m3
+P<BARVA=!;KLAVESY=a>a<SB>galba
+#m31
+<BARVA=!;KLAVESY=a>A<SB>pie program–
+#m32
+S<BARVA=!;KLAVESY=k>k<SB>aityti INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>istemos informacija
+#m34
+H<BARVA=!;KLAVESY=i>i<SB>pertekstin” pagalba
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ekstas
+#m11
+<BARVA=!;KLAVESY=n>N<SB>aujas    <<F1>>
+#m12
+<BARVA=!;KLAVESY=a>A<SB>tidaryti <<F3>>
+#m13
+<BARVA=!;KLAVESY=i>I<SB>’saugoti  <<F2>>
+#m14
+<BARVA=!;KLAVESY=g>G<SB>r‘ÿti ‘ DOS
+#m15
+<BARVA=!;KLAVESY=b>B<SB>aigti   <<ESC>>
+#m16
+U<BARVA=!;KLAVESY=z>ÿ<SB>daryti  <<Alt-F3>>
+#m21
+Spalv÷ s<BARVA=!;KLAVESY=i>i<SB>rinkimas
+#m211
+P<BARVA=!;KLAVESY=r>r<SB>iekio spalva
+#m212
+<BARVA=!;KLAVESY=f>F<SB>ono spalva
+#m213
+<BARVA=!;KLAVESY=p>P<SB>agrindo spalva
+#m215
+Eilut”s i<BARVA=!;KLAVESY=s>’<SB>ry’kinimo spalva
+#m22
+<BARVA=!;KLAVESY=k>K<SB>alba
+#m23
+<BARVA=!;KLAVESY=d>D<SB>abartin”s eilut”s i’ry’kinimas
+#m24
+ærif<BARVA=!;KLAVESY=t>t<SB>o pasirinkimas
+#m25
+Vaizdo <BARVA=!;KLAVESY=f>f<SB>iltro pasirinkimas
+#m26
+Pageidaujama k<BARVA=!;KLAVESY=l>l<SB>aviat◊ra
+#m27
+æoninis <BARVA=!;KLAVESY=s>s<SB>kydelis
+#m28
+I’sau<BARVA=!;KLAVESY=g>g<SB>oti nustatymus
+#m29
+Tarp÷ is<BARVA=!;KLAVESY=r>r<SB>y’kinimas
+#m41
+Konvertuoti ‘ <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+Konvertuoti <BARVA=!;KLAVESY=i>i<SB>’ UTF-8
+#m43
+Eilu—i÷ l<BARVA=!;KLAVESY=a>a<SB>uÿymas
+#m431
+Uÿ<BARVA=!;KLAVESY=f>f<SB>iksuoti eilu—i÷ lauÿym–
+#m432
+Eilu—i÷ s<BARVA=!;KLAVESY=u>u<SB>jungimas
+#m44
+I<BARVA=!;KLAVESY=e>e<SB>’koti      <<Ctrl-F>>
+#m45
+Ie’koti t<BARVA=!;KLAVESY=o>o<SB>liau <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=p>P<SB>akeisti      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=z>œ<SB>ym”s
+#m47
+<BARVA=!;KLAVESY=s>S<SB>imboli÷ ÿem”lapis
+#m48
+Kodavimo <BARVA=!;KLAVESY=k>k<SB>onvertavimas <<CTRL-K>>
+#m49
+Operacijos su <BARVA=!;KLAVESY=b>b<SB>lokais
+#m490
+Generuoti <BARVA=!;KLAVESY=q>Q<SB>R kod–
+#m491
+Simboliai ‘ HTML <BARVA=!;KLAVESY=e>e<SB>ntitetus
+#m492
+Ω <BARVA=!;KLAVESY=d>d<SB>idÿi–sias raides
+#m493
+Ω <BARVA=!;KLAVESY=m>m<SB>aÿ–sias raides
+#m494
+H<BARVA=!;KLAVESY=t>T<SB>ML entitetai ‘ simbolius
+#m495
+B<BARVA=!;KLAVESY=r>r<SB>◊k’niniai kodai
+#vyber_soubor
+Pasirinkite fail–:
+#jak_to_ulozit
+Kaip i’saugoti?
+#soubor_existuje_prepsat
+Toks failas jau yra
+perra’yti?
+#o_programu
+pagalba
+#napoveda
+pagalba
+#varovani
+<BARVA=51200>‘sp”jimas!<SB>
+#opravdu_konec
+Ar tikrai norite baigti?
+Nei’saugoti pakeitimai bus prarasti.
+#tento_soubor_uz_jednou_mame
+æis failas jau atidarytas.
+Blocek leis jums j‘ atidaryti dar kart–,
+bet jis veiks nepriklausomai nuo pirmojo atvejo!
+t.y. NE KAIP IDE PASCAL
+#unicode
+unicode
+#zalamovani
+eilu—i÷ lauÿymas
+#proporcionalni_mod
+proporcingas
+#vyber_barvu_popredi
+Pasirinkite priekio spalv–
+#vyber_barvu_pozadi
+Pasirinkite fono spalv–
+#vyber_barvu_zakladu
+Pasirinkite pagrindo spalv–
+#vyber_barvu_prosv
+Pasirinkite spalv–
+#zda_pro_rad
+Ar i’ry’kinti dabartin“ eilut“?
+#nastaveni_ulozeno
+Nustatymai i’saugoti
+
+#zatim_neni
+æi funkcija kol kas nepasiekiama.
+
+#hypertextova_napoveda
+Hipertekstin” pagalba
+
+#napoveda_koren
+Blocek - tekst÷ redaktorius ir vaizd÷ perÿi◊ros programa
+
+Pagalbos temos:
+1) <OK="napoveda_klavesy">Valdymas<OK/>
+2) <OK="napoveda_mys">Valdymas pele<OK/>
+3) <OK="napoveda_prvky">Valdymo elementai<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Valdymas<SB;SF>
+<barva=65535>F10<sb>   - ‘eiti ‘ pagrindin‘ meniu
+<barva=65535>F1<sb>    - sukurti nauj– fail–
+<barva=65535>F2<sb>    - i’saugoti fail–
+<barva=65535>F3<sb>    - atidaryti fail–
+<barva=65535>Alt+F3<sb> - uÿdaryti fail–
+<barva=65535>Alt+F1<sb> - atidaryti fail– INFO.TXT
+<barva=65535>Ctrl+F<sb> - ie’koti
+<barva=65535>Ctrl+S<sb> - t“sti paie’k–
+<barva=65535>Ctrl+H<sb> - ie’koti ir pakeisti
+<barva=65535>Ctrl+A<sb> - paÿym”ti vis– dokument– kaip blok–
+<barva=65535>Ctrl+Q<sb> - pasi◊lys susijus‘ simbol‘ paskutiniam ‘vestam [a,?,...]
+<barva=65535>Ctrl+K<sb> - simboli÷ konvertavimo tarp ‘vairi÷ koduo—i÷ funkcijos
+<barva=65535>Ctrl+L<sb> - greitas eilut”s redagavimo meniu i’kvietimas
+<BARVA=65535>LShift+Alt<sb> - pakeisti klaviat◊ros nustatymus
+<barva=65535>Ctrl+Alt+auk’tyn<sb>  - paÿym”ti vis– dabartin“ eilut“ kaip blok–
+<barva=65535>Ctrl+Alt+ÿemyn<sb>    - paÿym”ti ÿod‘ po ÿymekliu kaip blok–
+<barva=65535>Ctrl+Alt+kair”n<sb>  - paÿym”ti visus simbolius ‘ kair“ nuo ÿymeklio
+<barva=65535>Ctrl+Alt+de’in”n<sb> - paÿym”ti visus simbolius ‘ de’in“ nuo ÿymeklio
+<barva=65535>Backspace<sb> - i’trinti simbol‘ ‘ kair“ nuo ÿymeklio
+<barva=65535>Delete<sb> - i’trinti simbol‘ ‘ de’in“ nuo ÿymeklio
+<barva=65535>Shift+Delete<sb> - i’trinti pasirinkt– blok–
+<barva=65535>*rodykl”s<sb> - ÿymeklio jud”jimas
+<barva=65535>*Ctrl+PageUp<sb> arba <barva=65535>*Ctrl+Home<sb> - pereiti ‘ pirm– dokumento eilut“
+<barva=65535>*Ctrl+PageDown<sb> arba <barva=65535>*Ctrl+End<sb> - pereiti ‘ paskutin“ dokumento eilut“
+<barva=65535>*Ctrl+de’in”n<sb> - jud”ti vienu ÿodÿiu ‘ de’in“
+<barva=65535>*Ctrl+kair”n<sb> - jud”ti vienu ÿodÿiu ‘ kair“
+   Klavi’ai paÿym”ti "*" gali b◊ti kombinuojami su klavi’u <barva=65535><Shift><sb>.
+   Tokiu atveju bloko dydis keisis kartu su ÿymeklio jud”jimu.
+<barva=65535>Ctrl+[1-7]<sb> - kopijuoti paÿym”t– blok– ‘ i’karpin“ nr. 1-7
+<barva=65535>Alt+[1-7]<sb> - ‘klijuoti tekst– i’ i’karpin”s nr. 1-7
+<barva=65535>Ctrl+pliusas<sb> ir <barva=65535>Ctrl+minusas<sb> - greitas nar’ymas tarp atidaryt÷ fail÷
+<barva=65535>ESC<sb>   - pabaiga
+<barva=65535>Alt+F2<sb> - i’saugoti dabartin‘ ekran–
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Valdymas pele<SB;SF>
+<barva=65535>1) Dokumento lange<SB>
+Kairysis paspaudimas (KP) - perkelia ÿymekl‘ ‘ nurodyt– teksto viet–.
+KP+shift - nurodo teksto bloko pradÿi– ir pabaig–
+KP laikymas ir pel”s vilkimas - interaktyvus teksto bloko ÿym”jimas
+De’inysis paspaudimas (DP) - rodo informacij– apie pasirinkt– simbol‘ ir si◊lo dialog–
+simboli÷ konvertavimui. Taip pat si◊lo funkcijas darbui su ÿym”mis.
+
+<barva=65535>2) Atidaryt÷ fail÷ korteli÷ juostoje<SB>
+Paspaudimas KP - perjungia fail– ‘ pagrindin‘ lang–
+Paspaudimas DP - keli÷ failo parink—i÷ meniu
+(uÿdarymas, vis÷ kit÷ uÿdarymas, viso kelio iki failo rodymas)
+
+<barva=65535>3) Teksto i’karpini÷ indikatoriuje<SB>
+Paspaudimas KP - operacij÷ meniu su pasirinktos i’karpin”s turiniu
+
+<barva=65535>4) Kitos pastabos<SB>
+->> Visi kiti grafin”s s–sajos elementai dabar naudoja tik kair‘j‘ pel”s mygtuk–.
+->> Beveik visus dialogo langus galima perkelti ekrane velkant uÿ vir’utin”s pavadinimo juostos.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Valdymo elementai<SB;SF>
+Didÿiausi– dal‘ uÿima <barva=65535>pagrindinis langas<SB>. Jame rodomas redaguojamas dokumentas
+arba vaizdas. Kairiajame dokumento lango kra’te gali b◊ti ’oninis skydelis, rodantis,
+kaip baigiasi atskiros dokumento eilut”s.
+<barva=65535>1) Nuolatin” eilut”<SB>
+Pagrindinis meniu: <barva=65535>Failas<SB>, <barva=65535>Tekstas<SB>, <barva=65535>Parinktys<SB>, <barva=65535>Pagalba<SB>
+De’in”je yra <OK="napoveda_indikatory">i’karpini÷ indikatoriai<OK/>, sunumeruoti 1-7.
+Vir’utiniame de’iniajame kampe yra s–ra’as klaviat◊ros i’d”stymui pasirinkti. J‘ galima atidaryti ir su <OK="napoveda_klavesy">ALT+SHIFT<OK/>.
+
+<barva=65535>2) Kontekstin” eilut”<SB>
+Ji kei—iasi priklausomai nuo pagrindinio lango turinio.
+
+<barva=65535>3) Atidaryt÷ fail÷ kortel”s<SB>
+Atidarius fail–, jo kortel” atsiranda ’ioje juostoje.
+
+#napoveda_indikatory
+Jei nukopijuosite tekst– ‘ i’karpin“ (su <OK="napoveda_klavesy">CTRL+[1-7]<OK/>),
+indikatorius taps baltas. Jei i’karpin” tu’—ia, rodomas perbrauktas apskritimas.
+7-osios i’karpin”s indikatorius gali atrodyti kaip <BARVA=65535>7W<SB>.
+Tai rei’kia, kad ji susieta su MS Windows sistemos i’karpine. Detal”s faile TECHNOTE.TXT.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versija 1.77b
+Kompiliavimo data: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek - tai tekst÷ redaktorius ir vaizd÷ perÿi◊ros programa,
+galinti dirbti su failais UTF-8 koduot”je.
+Ji puikiai tinka dideliems failams ir ilgoms eilut”ms.
+A—i◊ Mateusz Viste uÿ Unikodo ’riftus.
+Blocek taip pat veikia kaip paprast÷ vaizd÷ format÷ perÿi◊ros programa,
+ta—iau vaizd÷ redaguoti negalima.
+
+æi programa platinama pagal GNU/GPL licencij–.
+
+#parametr_otaznik
+Sintaks”:
+BLOCEK [failas1 [, failas2 [,...]]]
+#ovladani_obrazku
+pilnas ekranas*o<<>>O*+90*-90*horiz*vert*Exif duomenys
+
+#soubor_nebyl_ulozen
+Failas nebuvo i’saugotas!
+Diske nepakanka vietos arba diskas
+yra tik skaitymui
+
+#chyba_font_int
+Klaida ‘keliant ’rifto fail–
+#chyba_font_neint
+Tr◊ksta ’rifto failo arba klaida ‘keliant fail–:
+
+#informace_exif
+Informacija i’ Exif bloko
+#exif_date_strs
+Data ir laikas:         *Originalo data ir laikas:*Fiksavimo data ir laikas:
+#exif_camera_info
+Gamintojas:*Modelis:*Apra’ymas:*Programin” ‘ranga:*æviesos ’altinis:*Blykst”:*Ekspozicijos reÿimas:*ISO:*Ekspozicijos laikas:*Orientacija:*Artinimas:
+#exif_lightsrc_info
+Neÿinomas*Dienos ’viesa*Fluorescencin”*Volframin”*Blykst”*Standartin” ’viesa A*Standartin” ’viesa B*Standartin” ’viesa C*D55*D65*D75*Kitas ’altinis*Neÿinomas
+#exif_flash_info
+Be blykst”s*Blykst”*Blykst” be i’ankstini÷ blyksni÷*Blykst” su i’ankstiniais blyksniais*Automatin” blykst”*Be blykst”s*Neÿinoma
+#exif_expos_mode
+Neÿinomas*Rankinis reÿimas*Normali programa*Diafragmos prioritetas*Uÿrakto prioritetas*K◊rybin” programa*Veiksmo reÿimas*Portreto reÿimas*Peizaÿo reÿimas*Neÿinomas
+#exif_orientation_desc
+Normali*Horiz. atspindys*Pasukta 180¯*Vert. atspindys*Pasukta 90¯ kair”n ir atspind”ta*Pasukta 90¯ de’in”n*Pasukta 90¯ de’in”n ir atspind”ta*Pasukta 90¯ kair”n*Neÿinoma
+#exif_zoom_unused
+Nenaudojamas
+#exif_GPS_info
+GPS vietos informacija*platuma:*ilguma:*auk’tis:*azimutas*æ*P*V*R*m*o*'*''
+#zkopirovat_exif
+Ω i’karpin“
+#nejde_o_obrazek
+Failas paÿeistas arba vaizdo
+duomenys nepalaikomo formato.
+Failas bus atidarytas kaip tekstas.
+#nelze_fixovat_zalamani
+æi funkcija pasiekiama tik
+eilu—i÷ lauÿymo reÿimu.
+#vyhledavani
+Paie’ka
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>paie’kos reÿimas<POZADI=->
+#vyhled_mozn
+nuo ÿymeklio p<BARVA=!;KLAVESY=i>i<SB>rmyn
+nuo ÿymeklio at<BARVA=!;KLAVESY=g>g<SB>al
+nuo <BARVA=!;KLAVESY=f>f<SB>ailo pradÿios
+#roz_vel_pismen
+<BARVA=!;KLAVESY=s>S<SB>kirti didÿi–sias ir maÿ–sias raides
+
+#text_nenalezen
+Ie’komas tekstas nerastas.
+#nahradit_vyskyt
+Ar pakeisti ’‘ atvej‘?
+#potvrzovat
+<BARVA=!;KLAVESY=p>p<SB>atvirtinti
+#nahradvse
+pakeisti <BARVA=!;KLAVESY=v>v<SB>isk–
+#hledany_text
+ie’komas tekstas:
+#novy_text
+naujas tekstas
+#nahrada_textu
+teksto pakeitimas
+#vyber_filtr
+Pasirinkite filtr–
+#opravdu_zavrit
+Failas buvo pakeistas.
+Ar i’saugoti?
+#zavrit_ostatni
+Uÿdaryti visus kitus
+#umisteni_souboru
+Failo vieta
+#bezejmenny
+<BARVA=46815><<naujas>><SB>
+#bezejmenny_soubor
+Naujas failas
+
+#zrusit_nac
+Ar at’aukti ‘k”lim–?
+#chybi_bcfg
+Konfig◊racijos failas <BARVA=65535>BLOCEK.CFG<SB>
+dar neegzistuoja.
+Jis bus sukurtas nukopijuojant
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Konfig◊racijos failas <BARVA=65535>BLOCEK.CFG<SB>
+n”ra tinkamo formato.
+Jis bus perra’ytas i’
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Ω konfig◊racijos fail– <BARVA=65535>BLOCEK.CFG<SB>
+i’ failo <BARVA=65535>DEFAULT.CFG<SB> buvo nukopijuoti ’ie elementai:
+#pocet_zmen
+Rasta*Pakeitim÷ skai—ius:*Atvej÷ skai—ius*F<BARVA=!;KLAVESY=u>u<SB>nkcija: eilut”s atvej÷ skai—ius
+#neniswap
+J◊s÷ sistema nepalaiko virtualios atminties!
+Tai gali b◊ti pavojinga d”l atminties tr◊kumo.
+æiuo metu ‘diegta:
+#dpmineznamy
+<BARVA=333>neÿinomas DPMI tvarkykl” :-(<SB>
+#kaslinaswap
+(æ‘ tikrinim– galite at’aukti BLOCEK.CFG nustat“
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Visas s–ra’as...
+#vybprefkl
+Kokios klaviat◊ros tur”t÷ b◊ti pagrindiniame meniu?
+#vybprefflt
+Kokie filtrai tur”t÷ b◊ti pagrindiniame meniu?
+
+#asciiauto
+automatinis aptikimas
+
+#vkod
+<PODTRH=+>numatytasis<PODTRH=->
+#ckod
+<PODTRH=+>tikslinis<PODTRH=->
+#oznaceno
+paÿym”ta:
+#ozn_nic
+nieko
+#kompinfo
+Procesorius:*Atmintis:*MB RAM*Video:* VESA versija:*Vaizdo reÿimas:*Vaizdo atmintis:*Atnaujinimo daÿnis:*BIOS numatytasis*DOS versija:*DOS simboli÷ rinkinys:*æalies kodas pagal DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>aizdo reÿimai*Vaizdo reÿim÷ apÿvalga
+#kompinfo_lfn
+Ilgieji fail÷ pavadinimai (LFN):
+#schranka_c
+I’karpin” nr.
+#schranka_do
+Kopijuoti ‘ i’karpin“
+#schranka_ze
+Ωklijuoti i’ i’karpin”s
+#schranka_copy
+Kopijuoti ‘ kit– i’karpin“
+#schranka_smaz
+I’trinti
+#vyber_jazyk
+Pasirinkite kalb–
+#nutny_restart
+Norint pakeisti kalb–, reikia i’ naujo paleisti program–.
+#prevod_html_entity
+Konvertavimas ‘ HTML entitetus
+#prevod_html_ent_info
+Simboliai su ASCII ar Unicode reik’me vir’ 127
+bus konvertuoti ‘ HTML entitetus.
+Konvertavimo srit‘ nustato teksto blokas.
+#text_je_v_unicode
+Tekstas yra Unicode formato.
+#text_je_v_ascii
+Tekstas yra ASCII koduot”s ir bus
+konvertuotas pagal konvertavimo lentel“.
+#neni_oz_blok
+Nepaÿym”tas joks blokas - tod”l konvertuosiu
+vis– tekst–
+#prevod_mala_velka
+Tekstas didÿiosiomis raid”mis
+#prevod_mala_velka_inf
+Maÿ–sias raides pasirinktame bloke pakei—ia didÿiosiomis.
+Kiti simboliai nekei—iami.
+#prevod_velka_mala
+Tekstas maÿosiomis raid”mis
+#prevod_velka_mala_inf
+Didÿi–sias raides pasirinktame bloke pakei—ia maÿosiomis.
+Kiti simboliai nekei—iami.
+#kodovani_dokumentu
+koduot”:
+#help_non_unicode
+Tik pakei—ia simboli÷ rinkinio ÿym”jim–. æriftas nekei—iamas.
+#help_inter_znaku
+Konvertavimas tarp simboli÷ ir keli÷ simboli÷ sek÷ UTF-8 / UTF-16.
+Jei ‘vyksta Unicode / ne Unicode keitimas, ’riftas pasikeis.
+#help_tabkonv_znaku
+Naudojant konvertavimo lenteles, simboliai konvertuojami ‘ kit– koduot“.
+Simboli÷ skai—ius i’lieka toks pat.
+
+#analyza_nedef_zn_dok
+Neapibr”ÿt÷ simboli÷ analiz” visame tekste
+
+#analyza_nedef_zn_blok
+Neapibr”ÿt÷ simboli÷ analiz” pasirinktame bloke
+
+#poc_vysk_nedef_znaku_n
+simbolio atvej÷ skai—ius
+
+#poc_vysk_nedef_znaku_vse
+vis÷ neapibr”ÿt÷ simboli÷ skai—ius
+
+#poc_vysk_nedef_znaku_unik
+unikali÷ neapibr”ÿt÷ simboli÷ skai—ius:*j÷ sritis:
+
+#zamena_znaku
+Pakeisti simbol‘ kitu?
+
+#nedefinovany_znak
+Neapibr”ÿtas simbolis*Neapibr. simboli÷ analiz”
+
+#nedefinovany_znak_zam
+Ar pakeisti visus neapibr”ÿtus simbolius?
+
+#zamena_znaku_radiob1
+Vienkartinis simbolio pakeitimas
+Visame dokumente
+Paÿym”tame bloke
+
+#zamena_znaku_radiob2
+visur
+nuo pradÿios iki paÿym”to simbolio
+nuo paÿym”to simbolio toliau
+
+#znak_k_zamene
+Pakaitinis simbolis...
+
+#dotaz_pri_zmene
+Klausti kei—iant?
+
+#kodovaniascii_dlg
+Tik”tina ASCII koduot”:*ne‘manoma nustatyti*Ar sutinkate?
+
+#polozka_dos
+(lentelinis)*(nelentelinis)*daugiau...
+
+#tbl_filtr_ascii
+Konvertavimas grup”je:*numatytoji koduot”*tikslin” koduot”
+
+#niz_nonunicode1
+Kokia koduote rodomas tekstas?
+
+#niz_nonunicode2
+Numatytoji ir tikslin” koduot”s yra vienodos.
+Joki÷ pakeitim÷ nedaroma.
+
+#ascii_2_utf_1
+Konvertavimas tarp ASCII ir UTF-8 ar UTF-16
+
+#ascii_2_utf_2
+Blok÷ operacijos (nekei—ia dokumento koduot”s)
+
+#ascii_2_utf_3
+Viso dokumento operacijos (pakei—ia koduot“ ‘ unicode)
+
+#uni_2_utf_1
+Konvertavimas tarp Unicode ir UTF-8 ar UTF-16
+
+#uni_2_utf_2
+Blok÷ operacijos (nekei—ia dokumento koduot”s)
+
+#uni_2_utf_3
+Viso dokumento operacijos (pakei—ia koduot“ ‘ ne unicode)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS koduot”je)
+
+#prohozeni_endianity
+Unicode bait÷ tvarkos (Endianity) sukeitimas
+
+#tab_konv_zn
+Dokument– ÿymi tik kaip ne Unicode.
+Simbolius vir’ 255 pakeis pakaitiniu simboliu.
+
+#zda_prenastavit_font1
+Ar pakeisti ’rift– ir nurodyti koduot“ kaip ne Unicode?
+
+#zda_prenastavit_font2
+Ar pakeisti ’rift– ir nurodyti koduot“ kaip Unicode?
+
+#pren_font_ano
+(jei konvertuojamas visas tekstas, rekomenduojama TAIP)
+
+#pren_font_ne
+(jei konvertuojama tik dalis teksto, rekomenduojama NE)
+
+#preznacit_kodovani
+Ar pakeisti dokumento koduot”s ÿym”jim–?
+
+#zm_kod_dok
+Dokumento koduot”s keitimas
+
+#zak_unicode
+Dokumentas uÿkoduotas Unicode standartu.
+
+#sada_a_filtr_souborem
+Dokumento simboli÷ rinkinys ir filtras apibr”ÿiami failu:
+
+#interp_nonuni
+Ne Unicode interpretacija
+
+#konv_zn_utf
+Konvertavimas simbolis/UTF seka
+
+#tab_konv_zz
+Lentelinis konvertavimas simbolis/simbolis
+
+#zmena_fontu
+ærifto keitimas
+
+#nas_zal_rad
+Eilu—i÷ lauÿymo nustatymai
+
+#nas_zal_mozn
+pagal lang–
+78 simboliai
+80 simboli÷
+pasirinktinis...
+
+#filesel_nejde_konverze
+Nurodyto pavadinimo negalima teisingai konvertuoti
+‘ dabartin‘ DOS kod÷ puslap‘.
+Ar vis tiek t“sti?
+
+#podrobnosti
+I’sami informacija
+
+#moznosti...
+Parinktys...
+
+#form_konc_rad
+Eilu—i÷ pabaigos formatas
+
+#form_konc_help
+Rekomenduojama palikti CRLF standart–,
+kuris naudojamas DOS ir Windows.
+LF yra Unix/Linux standartas, o
+CR naudojamas Macintosh.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Bait÷ tvarkos ÿyma (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Taikoma tik Unicode failams.
+Tai yra trij÷ bait÷ seka failo pradÿioje.
+Rekomenduojama UTF-16, UTF-8 paprastai nenaudojama.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Ar tikrai uÿfiksuoti eilu—i÷ lauÿym– visame tekste?
+
+#rozs_fix_lom_blok
+Blokas neturi eilut”s pabaigos.
+Ar i’pl”sti ir t“sti?
+
+#jen_nezalam_rezim
+æi funkcija pasiekiama tik nelauÿymo reÿimu.
+
+#opravdu_spoj_radky
+Ar tikrai visame tekste sujungti pastraip÷ eilutes?
+
+#nahr_faze
+1-a faz”:*2-a faz”:*3-a faz”:
+
+#jen_v_bloku
+Tik <BARVA=!;KLAVESY=b>b<SB>loke
+
+#prevod_z_html_entit
+Dekoduoti HTML entitetus ‘ simbolius
+
+#prevod_z_html_entit_info
+Atpaÿ‘sta HTML entitetus (pvz., &#8222;) ir pakei—ia juos Unicode simboliais.
+
+#qr_vygenerovany
+Generuotas QR kodas
+
+#qr_ulozit
+I’saugoti
+
+#qr_velikost
+Ta’ko dydis QR kode (1-20)
+
+#qr_uspech
+S”km”! I’saugota pavadinimu:
+
+#qr_chyba
+Klaida konvertuojant ‘ QR kod–.
+
+#qr_chyba_save
+Klaida i’saugant QR kod–.
+
+#qr_tvorba
+QR kod÷ k◊rimas
+
+#qr_text
+Tekstas konvertavimui ‘ QR kod–
+
+#related_characters
+Susij“ simboliai
+
+#zalozky
+œym”s*œym” nr.*Rodyti ÿymes
+
+#menu_slovo
+meniu/ÿodis
+
+#dialogy_menu_slovo
+Dialogas Ie’koti*Dialogas Pakeisti*DIDœIOSIOMIS*maÿosiomis*Pirmos didÿiosios*Ω i’karpin“
+
+#menu_radek
+meniu/eilut”
+
+#dialogy_menu_radek1
+Eilut” ‘ blok–:
+<BARVA=!;KLAVESY=s>s<SB>u lauÿymu
+<BARVA=!;KLAVESY=b>b<SB>e lauÿymo
+
+#dialogy_menu_radek2
+Tarpai:
+pa’alinti tarpus p<BARVA=!;KLAVESY=r>r<SB>adÿioje
+pa’alinti tarpus <BARVA=!;KLAVESY=p>p<SB>abaigoje
+
+#dialogy_menu_radek3
+Ωtrauka:
+pagal a<BARVA=!;KLAVESY=u>u<SB>k’tesn“ eilut“
+pagal tabu<BARVA=!;KLAVESY=l>l<SB>iatori÷
+
+#pmysmenu
+<BARVA=!;KLAVESY=s>s<SB>imbolis
+ÿ<BARVA=!;KLAVESY=o>o<SB>dis
+<BARVA=!;KLAVESY=e>e<SB>ilut”
+
+#doprad
+Eilut”s uÿbaigimas
+
+#doprad_txt
+Ωveskite vien– ar daugiau simboli÷, kuriais
+uÿpildysiu erdv“ nuo eilut”s pabaigos iki
+pel”s paspaudimo vietos.
+Numatytasis yra [tarpas]
+
+#zarovnani
+Lygiavimas:*kair”n*de’in”n
+
+#carkod_tvorba
+Br◊k’niniai kodai
+
+#carkod_instr
+Ωveskite numer‘ arba trump– tekst–
+Pastaba: Kai kurie br◊k’nini÷ kod÷ formatai palaiko tik skai—ius. Be to,
+kai kurios koduot”s (pvz., EAN-13) reikalauja galiojan—i÷ kod÷ su kontroline suma.
+Nors negaliojantis numeris gali b◊ti uÿkoduotas, skaitytuvas gali jo neatpaÿinti.
+
+#carkod_ulozit
+I’saugoti
+
+#carkod_uspech
+S”km”! I’saugota pavadinimu:
+
+#carkod_chyba
+Klaida konvertuojant ‘ br◊k’nin‘ kod–.
+
+#carkod_chyba_save
+Klaida i’saugant br◊k’nin‘ kod–.
+
+#carkod_combine
+Prid”ti uÿkoduot– eilut“
+
+#carkod_mozn
+æi– eilut“ galima uÿkoduoti ‘ ’iuos br◊k’ninius kodus:

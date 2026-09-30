@@ -1,0 +1,139 @@
+## Blocek1, Hungarian, hu, CP852
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' I<BARVA=!;KLAVESY=g#1;VYZNAM=!1>g<SB>en '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>em '
+#_CANCEL
+<BARVA=!;KLAVESY=m#2;VYZNAM=!3>M<SB>Çgse
+#_CANCEL2
+' <BARVA=!;KLAVESY=m#2;VYZNAM=!3>M<SB>Çgse '
+#_POMOC
+<BARVA=!;KLAVESY=s;VYZNAM=!4>S<SB>£g¢
+#_PALETA
+<BARVA=!;KLAVESY=p;VYZNAM=!6>P<SB>aletta
+#_MIXBAREV
+S<BARVA=!;KLAVESY=z;VYZNAM=!7>z<SB>°nkeverÇs
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=l;VYZNAM=!9>L<SB>emez
+#_ZADAT
+Mega<BARVA=!;KLAVESY=d;VYZNAM=!14>d<SB>†s
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+È<BARVA=!;KLAVESY=j;VYZNAM=!19>j<SB> kvt.
+#_ZPET
+<BARVA=!;KLAVESY=v;VYZNAM=!20>V<SB>issza
+#_VPRED
+<BARVA=!;KLAVESY=e;VYZNAM=!21>E<SB>lãre
+#_FS_NAHORU
+<BARVA=!;KLAVESY=f;VYZNAM=!23>F<SB>el
+#_FS_TRIDENI
+<BARVA=!;KLAVESY=r;VYZNAM=!24>R<SB>endezÇs
+#_INFO
+'Info:            '
+#_DOTAZ
+'KÇrdÇs:          '
+#_ANONE_DOTAZ
+'KÇrdÇs:          '
+#_CHYBA
+Hiba!
+#_VLOZ_TEXT
+Szîveg beill.:
+#_VYBER_BARVU
+Sz°nv†laszt†s:
+#_FS_ADR_JAKSEMAJMENOVAT
+Kvt. nevÇnek megad†sa
+#_FS_PRO_CTENI
+'csak olv., '
+#_FS_SKRYTY
+'rejtett, '
+#_FS_SYSTEMOVY
+'rendszer, '
+#_FS_ARCHIVOVAT
+'arch°v, '
+#_FS_ZADNE
+nincsenek.
+#_FS_ZPRAVA
+özenet:
+#_FS_SOUBOR
+'F†jl: '
+#_FS_VELIKOST
+'MÇret: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' b†jt'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Utols¢ m¢d.: '
+#_FS_ATRIBUTY
+'Attrib.: '
+#_FS_VYBER_SOUBOR
+F†jl kiv†laszt†sa:
+#_FS_SOUBORNEVYTVOREN
+F†jl nem hozhat¢ lÇtre.
+#_FS_ADRESARNEVYTVOREN
+Kvt. nem hozhat¢ lÇtre.
+#_FS_DISK2
+Meghajt¢k:
+#_FS_DISK3
+'Meghajt¢ '
+#_FS_JMENOVKADISKU
+'C°mke:          '
+#_FS_SYSTEMSOUBORU
+'F†jlrendszer:   '
+#_FS_KAPACITA
+'Kapacit†s:      '
+#_FS_VOLNEHO
+'Szabad terÅlet: '
+#_FS_SERCISLO
+Sorozatsz†m:
+#_FS_VYBER_NECO
+V†lasszon ki egy f†jlt.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Meghajt¢ nem †ll kÇszen.
+#_FS_TRIDENI_NADPIS
+RendezÇs:
+#_FS_TRIDENI_MIX1
+nÇv*d†tum*kiterjesztÇs
+#_FS_TRIDENI_MIX2
+nîvekvã*csîkkenã
+#_PREPSATSOUBOR
+F†jl felÅl°r†sa?
+#_VSEPOL
+îsszes elem
+#_VYBPOL
+kiv†l. elemek
+#_ZAMPOL
+elvetett elemek
+#_VYBINFO
+A jobb oldali panelen az îsszes elem, a bal oldalin a kiv†lasztottak.
+Kiv†laszt†s Çs tîrlÇs Enterrel tîrtÇnik.
+Panelek kîzîtti v†lt†s a Tab billenty˚vel.
+#_VYBINFO2
+A bal oldali panelen a kiv†lasztott elemek, a jobb oldalin az elvetettek.
+Kiv†laszt†s Çs tîrlÇs Enterrel tîrtÇnik.
+Panelek kîzîtti v†lt†s a Tab billenty˚vel.
+#_MOUSE_NOT_INSTALLED
+Nincs egÇrillesztã telep°tve. Tîltsîn be CTmouse-t vagy hasonl¢t.
+#_LFB_NOT_AVAILABLE
+A videok†rtya nem t†mogatja az LFB m¢dot a kÇrt videom¢dhoz.

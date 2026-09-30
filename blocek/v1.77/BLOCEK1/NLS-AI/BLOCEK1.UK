@@ -1,0 +1,139 @@
+## Blocek1, Ukrainian, uk, cp1125
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=о#1;VYZNAM=!1>О<SB>К '
+#_OK2
+' <BARVA=!;KLAVESY=о#1#2;VYZNAM=!1>О<SB>К '
+#_ANO
+' <BARVA=!;KLAVESY=т#1;VYZNAM=!1>Т<SB>ак '
+#_NE
+' <BARVA=!;KLAVESY=н#2;VYZNAM=!2>Н<SB>ў '
+#_CANCEL
+<BARVA=!;KLAVESY=с#2;VYZNAM=!3>С<SB>касувати
+#_CANCEL2
+' <BARVA=!;KLAVESY=с#2;VYZNAM=!3>С<SB>касувати '
+#_POMOC
+<BARVA=!;KLAVESY=д;VYZNAM=!4>Д<SB>овўдка
+#_PALETA
+<BARVA=!;KLAVESY=п;VYZNAM=!6>П<SB>алўтра
+#_MIXBAREV
+<BARVA=!;KLAVESY=з;VYZNAM=!7>З<SB>мўшати кольори
+#_FS_INFO
+<BARVA=!;KLAVESY=ў;VYZNAM=!8>Ў<SB>нфо
+#_FS_DISK
+Д<BARVA=!;KLAVESY=и;VYZNAM=!9>и<SB>ск
+#_ZADAT
+<BARVA=!;KLAVESY=в;VYZNAM=!14>В<SB>вести
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+Новий <BARVA=!;KLAVESY=к;VYZNAM=!19>к<SB>ат.
+#_ZPET
+Н<BARVA=!;KLAVESY=а;VYZNAM=!20>а<SB>зад
+#_VPRED
+Впе<BARVA=!;KLAVESY=р;VYZNAM=!21>р<SB>ед
+#_FS_NAHORU
+В<BARVA=!;KLAVESY=г;VYZNAM=!23>г<SB>ору
+#_FS_TRIDENI
+Сорт<BARVA=!;KLAVESY=у;VYZNAM=!24>у<SB>вання
+#_INFO
+'Ўнфо:            '
+#_DOTAZ
+'Питання:         '
+#_ANONE_DOTAZ
+'Питання:         '
+#_CHYBA
+Помилка!
+#_VLOZ_TEXT
+Вставити текст:
+#_VYBER_BARVU
+Вибрати колўр:
+#_FS_ADR_JAKSEMAJMENOVAT
+Введўть ўм'я каталогу
+#_FS_PRO_CTENI
+'тўльки читання, '
+#_FS_SKRYTY
+'прихований, '
+#_FS_SYSTEMOVY
+'системний, '
+#_FS_ARCHIVOVAT
+'архўвний, '
+#_FS_ZADNE
+немаї.
+#_FS_ZPRAVA
+Повўдомлення:
+#_FS_SOUBOR
+'Файл: '
+#_FS_VELIKOST
+'Розмўр: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' байтўв'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Змўнено: '
+#_FS_ATRIBUTY
+'Атрибути: '
+#_FS_VYBER_SOUBOR
+Виберўть файл:
+#_FS_SOUBORNEVYTVOREN
+Не вдалося створити файл.
+#_FS_ADRESARNEVYTVOREN
+Не вдалося створити каталог.
+#_FS_DISK2
+Диски:
+#_FS_DISK3
+'Диск '
+#_FS_JMENOVKADISKU
+'Мўтка диска:    '
+#_FS_SYSTEMSOUBORU
+'Файлова сист.:  '
+#_FS_KAPACITA
+'Їмнўсть:        '
+#_FS_VOLNEHO
+'Вўльний простўр:'
+#_FS_SERCISLO
+Серўйний номер:
+#_FS_VYBER_NECO
+Необхўдно вибрати файл.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Диск не готовий.
+#_FS_TRIDENI_NADPIS
+Сортування:
+#_FS_TRIDENI_MIX1
+назва*дата*розширення
+#_FS_TRIDENI_MIX2
+за зростанням*за спаданням
+#_PREPSATSOUBOR
+Перезаписати файл?
+#_VSEPOL
+усў елементи
+#_VYBPOL
+вибранў елем.
+#_ZAMPOL
+вўдхиленў елем.
+#_VYBINFO
+У правўй панелў всў елементи, у лўвўй - вибранў.
+Вибўр ў видалення здўйснюїться клавўшею Enter.
+Перемикання мўж панелями - Tab.
+#_VYBINFO2
+У лўвўй панелў вибранў елементи, у правўй - вўдхиленў.
+Вибўр ў видалення здўйснюїться клавўшею Enter.
+Перемикання мўж панелями - Tab.
+#_MOUSE_NOT_INSTALLED
+Драйвер мишў не встановлено. Завантажте CTmouse.
+#_LFB_NOT_AVAILABLE
+Ваша вўдеокарта не пўдтримуї режим LFB для цього вўдеорежиму.

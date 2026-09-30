@@ -1,0 +1,728 @@
+## Blocek2, estonian, et, cp775,
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Eesti        (et)
+#identifikuj_se2
+blocek2.et
+#sys_font
+775-16.fv
+#sys_font_maly
+775-14.fv
+#chyba_videomodu
+Nõutud videorežiim pole saadaval:
+#sys_font_kodovani
+775
+#m1
+<BARVA=!;KLAVESY=f>F<SB>ail
+#m2
+<BARVA=!;KLAVESY=v>V<SB>alikud
+#m3
+<BARVA=!;KLAVESY=a>A<SB>bi
+#m31
+<BARVA=!;KLAVESY=p>P<SB>rogrammist
+#m32
+<BARVA=!;KLAVESY=l>L<SB>oe INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>üsteemi info
+#m34
+<BARVA=!;KLAVESY=h>H<SB>üperteksti abi
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ekst
+#m11
+<BARVA=!;KLAVESY=u>U<SB>us    <<F1>>
+#m12
+<BARVA=!;KLAVESY=a>A<SB>va <<F3>>
+#m13
+<BARVA=!;KLAVESY=s>S<SB>alvesta  <<F2>>
+#m14
+<BARVA=!;KLAVESY=m>M<SB>ine DOS-i
+#m15
+<BARVA=!;KLAVESY=v>V<SB>älju   <<ESC>>
+#m16
+Su<BARVA=!;KLAVESY=l>l<SB>ge  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=v>V<SB>ärvide valik
+#m211
+<BARVA=!;KLAVESY=e>E<SB>siplaan
+#m212
+<BARVA=!;KLAVESY=t>T<SB>aust
+#m213
+<BARVA=!;KLAVESY=a>A<SB>lus
+#m215
+<BARVA=!;KLAVESY=r>R<SB>ea esiletõstmine
+#m22
+<BARVA=!;KLAVESY=k>K<SB>eel
+#m23
+Aktiivse rea <BARVA=!;KLAVESY=e>e<SB>siletõst
+#m24
+<BARVA=!;KLAVESY=f>F<SB>ondi valik
+#m25
+Pildifiltri <BARVA=!;KLAVESY=p>p<SB>alik
+#m26
+K<BARVA=!;KLAVESY=l>l<SB>aviatuurid
+#m27
+Kül<BARVA=!;KLAVESY=g>g<SB>paneel
+#m28
+<BARVA=!;KLAVESY=s>S<SB>alvesta seaded
+#m29
+<BARVA=!;KLAVESY=t>T<SB>ühikute esiletõst
+#m41
+Konverteeri <BARVA=!;KLAVESY=u>U<SB>TF-8-sse
+#m42
+Konverteeri U<BARVA=!;KLAVESY=t>T<SB>F-8-st
+#m43
+<BARVA=!;KLAVESY=r>R<SB>idade murdmine
+#m431
+<BARVA=!;KLAVESY=f>F<SB>ikseeri murdmine
+#m432
+Ü<BARVA=!;KLAVESY=h>h<SB>enda read
+#m44
+<BARVA=!;KLAVESY=o>O<SB>tsi      <<Ctrl-F>>
+#m45
+Otsi <BARVA=!;KLAVESY=e>e<SB>dasi <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=a>A<SB>senda      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=j>J<SB>ärjehoidjad
+#m47
+<BARVA=!;KLAVESY=s>S<SB>ümbolite kaart
+#m48
+<BARVA=!;KLAVESY=k>K<SB>odeeringu konvert <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=p>P<SB>lokioperatsioonid
+#m490
+Loo <BARVA=!;KLAVESY=q>Q<SB>R kood
+#m491
+Sümbolid HT<BARVA=!;KLAVESY=m>M<SB>L entiteetideks
+#m492
+S<BARVA=!;KLAVESY=u>u<SB>urtähtedeks
+#m493
+Väi<BARVA=!;KLAVESY=k>k<SB>etähtedeks
+#m494
+HTM<BARVA=!;KLAVESY=l>L<SB> entiteedid sümboliteks
+#m495
+Triipkoo<BARVA=!;KLAVESY=d>d<SB>id
+#vyber_soubor
+Vali fail:
+#jak_to_ulozit
+Kuidas seda salvestada?
+#soubor_existuje_prepsat
+See fail on juba olemas
+kas kirjutada üle?
+#o_programu
+abi
+#napoveda
+abi
+#varovani
+<BARVA=51200>hoiatus!<SB>
+#opravdu_konec
+Kas soovid tõesti väljuda?
+Salvestamata muudatused kaovad.
+#tento_soubor_uz_jednou_mame
+See fail on juba avatud.
+Blocek lubab sul selle uuesti avada,
+kuid see töötab esimesest sõltumatult!
+st MITTE NAGU IDE PASCAL
+#unicode
+unicode
+#zalamovani
+ridade murdmine
+#proporcionalni_mod
+proportsionaalne
+#vyber_barvu_popredi
+Vali esiplaanivärv
+#vyber_barvu_pozadi
+Vali taustavärv
+#vyber_barvu_zakladu
+Vali alusvärv
+#vyber_barvu_prosv
+Vali värv
+#zda_pro_rad
+Kas tõsta aktiivne rida esile?
+#nastaveni_ulozeno
+Seaded on salvestatud
+
+#zatim_neni
+See funktsioon pole veel saadaval.
+
+#hypertextova_napoveda
+Hüperteksti abi
+
+#napoveda_koren
+Blocek - tekstiredaktor ja pildivaatur
+
+Abi teemad:
+1) <OK="napoveda_klavesy">Juhtimine<OK/>
+2) <OK="napoveda_mys">Hiirega juhtimine<OK/>
+3) <OK="napoveda_prvky">Juhtelemendid<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Juhtimine<SB;SF>
+<barva=65535>F10<sb>   - sisene peamenüüsse
+<barva=65535>F1<sb>    - loo uus fail
+<barva=65535>F2<sb>    - salvesta fail
+<barva=65535>F3<sb>    - ava fail
+<barva=65535>Alt+F3<sb> - sulge fail
+<barva=65535>Alt+F1<sb> - ava fail INFO.TXT
+<barva=65535>Ctrl+F<sb> - otsi
+<barva=65535>Ctrl+S<sb> - jätka otsimist
+<barva=65535>Ctrl+H<sb> - otsi ja asenda
+<barva=65535>Ctrl+A<sb> - vali kogu dokument plokina
+<barva=65535>Ctrl+Q<sb> - pakub sarnast sümbolit viimati sisestatule [a,?,...]
+<barva=65535>Ctrl+K<sb> - funktsioonid sümbolite konverteerimiseks kodeeringute vahel
+<barva=65535>Ctrl+L<sb> - rea redigeerimise menüü kiire väljakutsumine
+<BARVA=65535>LShift+Alt<sb> - muuda klaviatuuri seadeid
+<barva=65535>Ctrl+Alt+üles<sb>  - vali kogu praegune rida plokina
+<barva=65535>Ctrl+Alt+alla<sb>    - vali kursori all olev sõna plokina
+<barva=65535>Ctrl+Alt+vasakule<sb>  - vali kõik sümbolid kursorist vasakul plokina
+<barva=65535>Ctrl+Alt+paremale<sb> - vali kõik sümbolid kursorist paremal plokina
+<barva=65535>Backspace<sb> - kustuta sümbol kursorist vasakul
+<barva=65535>Delete<sb> - kustuta sümbol kursorist paremal
+<barva=65535>Shift+Delete<sb> - kustuta valittu plokk
+<barva=65535>*nooled<sb> - kursori liigutamine
+<barva=65535>*Ctrl+PageUp<sb> või <barva=65535>*Ctrl+Home<sb> - liigu dokumendi esimesele reale
+<barva=65535>*Ctrl+PageDown<sb> või <barva=65535>*Ctrl+End<sb> - liigu dokumendi viimasele reale
+<barva=65535>*Ctrl+paremale<sb> - liigu ühe sõna võrra paremale
+<barva=65535>*Ctrl+vasakule<sb> - liigu ühe sõna võrra vasakule
+   Sümboliga "*" tähistatud klahve või klahvikombinatsioone saab
+   kombineerida klahviga <barva=65535><Shift><sb>.
+   Sellisel juhul muutub ploki suurus koos kursori liikumisega.
+<barva=65535>Ctrl+[1-7]<sb> - kopeeri valitud plokk lõikepuhvrisse nr 1-7
+<barva=65535>Alt+[1-7]<sb> - kleebi tekst lõikepuhvrist nr 1-7 kursori asukohta
+<barva=65535>Ctrl+pluss<sb> ja <barva=65535>Ctrl+miinus<sb> - kiire kerimine avatud failide vahel
+<barva=65535>ESC<sb>   - välju
+<barva=65535>Alt+F2<sb> - salvesta praegune ekraan
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Hiirega juhtimine<SB;SF>
+<barva=65535>1) Dokumendi aknas<SB>
+Vasakklõps (VK) - viib kursori näidatud kohta tekstis.
+VK+shift - määrab tekstiploki alguse ja lõpu
+VK allhoidmine ja hiire lohistamine - interaktiivne tekstiploki valimine
+Paremklõps (PK) - näitab teavet valitud sümboli kohta ja pakub dialoogi
+sümbolite konverteerimiseks. Samuti pakub funktsioone järjehoidjatega töötamiseks.
+
+<barva=65535>2) Avatud failide vahekaartidel<SB>
+Klõps VK-ga - lülitab faili peaaknasse
+Klõps PK-ga - faili valikute menüü
+(sulgemine, kõigi teiste sulgemine, faili täieliku asukoha näitamine)
+
+<barva=65535>3) Teksti lõikepuhvrite indikaatoril<SB>
+Klõps VK-ga - toimingute menüü valitud lõikepuhvri sisuga
+
+<barva=65535>4) Muud märkused<SB>
+->> Kõik muud graafilise liidese elemendid kasutavad nüüd ainult hiire vasakut nuppu.
+->> Peaaegu kõiki dialoogiaknaid saab ekraanil liigutada, lohistades ülemisest tiitliribast.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Juhtelemendid<SB;SF>
+Suurema osa tööalast hõtab <barva=65535>peaaken<SB>. See kuvab kas redigeeritavat dokumenti
+või pilti. Dokumendi akna vasakus servas võib olla külgpaneel, mis näitab,
+kuidas dokumendi üksikud read lõppevad.
+<barva=65535>1) Pidev rida<SB>
+Peamenüü elementidega: <barva=65535>Fail<SB>, <barva=65535>Tekst<SB>, <barva=65535>Valikud<SB>, <barva=65535>Abi<SB>
+Sellest paremal on <OK="napoveda_indikatory">lõikepuhvrite indikaatorid<OK/> tekstiplokkidele, nummerdatud 1-7.
+Veelgi paremal on rippmenüü klaviatuuri paigutuse valimiseks. Seda saab avada ka <OK="napoveda_klavesy">ALT+SHIFT<OK/> abil.
+
+<barva=65535>2) Kontekstirida<SB>
+See muutub sõltuvalt peaakna sisust.
+
+<barva=65535>3) Avatud failide vahekaardid<SB>
+Kui avate faili, ilmub selle vahekaart sellele ribale.
+
+#napoveda_indikatory
+Kui kopeerite teksti lõikepuhvrisse (<OK="napoveda_klavesy">CTRL+[1-7]<OK/> abil),
+muutub indikaator valgeks. Kui lõikepuhver on tühi, kuvatakse see läbikriipsutatud ringina.
+Lõikepuhvri nr 7 indikaator võib välja näha nagu <BARVA=65535>7W<SB>.
+See tähendab, et see on ühendatud MS Windowsi süsteemi lõikepuhvriga. Üksikasjad failis TECHNOTE.TXT.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versioon 1.77b
+Kompileerimise kuupäev: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek on tekstiredaktor ja pildivaatur,
+mis suudab töötada failidega UTF-8 kodeeringus.
+See sobib hästi suurte failide ja pikkade ridadega.
+Täname Mateusz Vistet Unicode'i fontide eest.
+Blocek toimib ka tavaliste pildivormingute vaaturina,
+kuid pilte redigeerida ei saa.
+
+Seda programmi levitatakse GNU/GPL litsentsi tingimustel.
+
+#parametr_otaznik
+Süntaks:
+BLOCEK [fail1 [, fail2 [,...]]]
+#ovladani_obrazku
+täisekraan*o<<>>O*+90*-90*horis*vert*Exif andmed
+
+#soubor_nebyl_ulozen
+Faili ei salvestatud!
+Kettal pole piisavalt ruumi või
+ketas on kirjutuskaitstud
+
+#chyba_font_int
+Viga fondifaili laadimisel
+#chyba_font_neint
+Fondifail puudub või viga faili laadimisel:
+
+#informace_exif
+Exif-ploki teave
+#exif_date_strs
+Kuupäev ja kellaaeg:         *Originaali kuupäev ja kellaaeg:*Jäädvustamise kuupäev ja kellaaeg:
+#exif_camera_info
+Tootja:*Mudel:*Kirjeldus:*Tarkvara:*Valgusallikas:*Välk:*Säritusrežiim:*ISO:*Säriaeg:*Suund:*Suum:
+#exif_lightsrc_info
+Tundmatu*Päevavalgus*Luminofoor*Volfram*Välk*Standardvalgus A*Standardvalgus B*Standardvalgus C*D55*D65*D75*Muu allikas*Tundmatu
+#exif_flash_info
+Ilma välguta*Välk*Välk ilma eelvälguta*Välk koos eelvälguga*Automaatne välk*Ilma välguta*Tundmatu
+#exif_expos_mode
+Tundmatu*Käsitsirežiim*Tavaprogramm*Ava prioriteet*Säriaja prioriteet*Loominguline programm*Tegevusrežiim*Portreerežiim*Maastikurežiim*Tundmatu
+#exif_orientation_desc
+Tavaline*Horis. peegeldus*Pööratud 180°*Vert. peegeldus*Pööratud 90° vasakule ja peegeldatud*Pööratud 90° paremale*Pööratud 90° paremale ja peegeldatud*Pööratud 90° vasakule*Tundmatu
+#exif_zoom_unused
+Kasutamata
+#exif_GPS_info
+GPS asukohateave*laius:*pikkus:*kõrgus:*asimuut*P*L*I*L*m*o*'*''
+#zkopirovat_exif
+Lõikepuhvrisse
+#nejde_o_obrazek
+Fail on rikutud või pildiandmed
+pole toetatud vormingus.
+Fail avatakse tekstina.
+#nelze_fixovat_zalamani
+See funktsioon on saadaval ainult
+ridade murdmise režiimis.
+#vyhledavani
+Otsing
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>otsingu režiim<POZADI=->
+#vyhled_mozn
+kursorist e<BARVA=!;KLAVESY=d>d<SB>asi
+kursorist ta<BARVA=!;KLAVESY=g>g<SB>asi
+faili <BARVA=!;KLAVESY=a>a<SB>lgusest
+#roz_vel_pismen
+Tõ<BARVA=!;KLAVESY=s>s<SB>tutundlik
+
+#text_nenalezen
+Otsitavat teksti ei leitud.
+#nahradit_vyskyt
+Kas asendada see leid?
+#potvrzovat
+<BARVA=!;KLAVESY=k>k<SB>innita
+#nahradvse
+ase<BARVA=!;KLAVESY=n>n<SB>da kõik
+#hledany_text
+otsitav tekst:
+#novy_text
+uus tekst
+#nahrada_textu
+teksti asendamine
+#vyber_filtr
+Vali filter
+#opravdu_zavrit
+Faili on muudetud.
+Kas soovid salvestada?
+#zavrit_ostatni
+Sulge kõik teised
+#umisteni_souboru
+Faili asukoht
+#bezejmenny
+<BARVA=46815><<uus>><SB>
+#bezejmenny_soubor
+Uus fail
+
+#zrusit_nac
+Kas tühistada laadimine?
+#chybi_bcfg
+Konfiguratsioonifail <BARVA=65535>BLOCEK.CFG<SB>
+veel puudub.
+See luuakse faili <BARVA=65535>DEFAULT.CFG<SB>
+kopeerimise teel
+#chybny_bcfg
+Konfiguratsioonifail <BARVA=65535>BLOCEK.CFG<SB>
+ei ole õiges vormingus.
+See kirjutatakse üle failist
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Konfiguratsioonifaili <BARVA=65535>BLOCEK.CFG<SB>
+kopeeriti failist <BARVA=65535>DEFAULT.CFG<SB> järgmised üksused:
+#pocet_zmen
+Leitud*Muudatuste arv:*Leidude arv*<BARVA=!;KLAVESY=f>F<SB>unktsioon: stringi leidude arv
+#neniswap
+Teie süsteem ei toeta virtuaalset mälu!
+See võib mälupuuduse tõttu ohtlik olla.
+Praegu on installitud:
+#dpmineznamy
+<BARVA=333>tundmatu DPMI draiver :-(<SB>
+#kaslinaswap
+(Seda kontrolli saate tühistada failis BLOCEK.CFG,
+määrates <BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Täielik nimekiri...
+#vybprefkl
+Millised klaviatuurid peaksid olema peamenüüs?
+#vybprefflt
+Millised filtrid peaksid olema peamenüüs?
+
+#asciiauto
+automaatne tuvastamine
+
+#vkod
+<PODTRH=+>vaikimisi<PODTRH=->
+#ckod
+<PODTRH=+>sihtmärk<PODTRH=->
+#oznaceno
+valitud:
+#ozn_nic
+mitte midagi
+#kompinfo
+Protsessor:*Mälu:*MB RAM*Video:* VESA versioon:*Videorežiim:*Videomälu:*Värskendussagedus:*BIOS vaikeväärtus:*DOS-i versioon:*DOS-i sümbolistik:*Riigikood vastavalt DOS-ile:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideorežiimid*Videorežiimide ülevaade
+#kompinfo_lfn
+Pikad failinimed (LFN):
+#schranka_c
+Lõikepuhver nr
+#schranka_do
+Kopeeri lõikepuhvrisse
+#schranka_ze
+Kleebi lõikepuhvrist
+#schranka_copy
+Kopeeri teise lõikepuhvrisse
+#schranka_smaz
+Kustuta
+#vyber_jazyk
+Vali keel
+#nutny_restart
+Keele muutmiseks tuleb programm taaskäivitada.
+#prevod_html_entity
+Konverteeri HTML entiteetideks
+#prevod_html_ent_info
+Sümbolid, mille ASCII või Unicode väärtus on üle 127,
+konverteeritakse HTML entiteetideks.
+Konverteerimisala määratakse tekstiplokiga.
+#text_je_v_unicode
+Tekst on Unicode vormingus.
+#text_je_v_ascii
+Tekst on ASCII kodeeringus ja konverteeritakse
+vastavalt konverteerimistabelile.
+#neni_oz_blok
+Ühtegi plokki pole valitud - konverteerin
+kogu teksti.
+#prevod_mala_velka
+Tekst suurtähtedeks
+#prevod_mala_velka_inf
+Muudab valitud plokis väiketähed suurtähtedeks.
+Muid sümboleid ei muudeta.
+#prevod_velka_mala
+Tekst väiketähtedeks
+#prevod_velka_mala_inf
+Muudab valitud plokis suurtähed väiketähtedeks.
+Muid sümboleid ei muudeta.
+#kodovani_dokumentu
+kodeering:
+#help_non_unicode
+Muudab ainult sümbolistiku tähistust. Fonti ei muudeta.
+#help_inter_znaku
+Konverteerimine sümbolite ja mitme sümboliga jadade vahel (UTF-8 / UTF-16).
+Kui toimub muudatus Unicode / mitte-Unicode, siis font muutub.
+#help_tabkonv_znaku
+Konverteerimistabelite abil muudetakse sümbolid teise kodeeringusse.
+Sümbolite arv jääb samaks.
+
+#analyza_nedef_zn_dok
+Määratlemata sümbolite analüüs kogu tekstis
+
+#analyza_nedef_zn_blok
+Määratlemata sümbolite analüüs valitud plokis
+
+#poc_vysk_nedef_znaku_n
+sümboli leidude arv
+
+#poc_vysk_nedef_znaku_vse
+kõigi määratlemata sümbolite arv
+
+#poc_vysk_nedef_znaku_unik
+unikaalsete määratlemata sümbolite arv:*nende ulatus:
+
+#zamena_znaku
+Kas asendada sümbol teisega?
+
+#nedefinovany_znak
+Määratlemata sümbol*Määratl. sümbolite analüüs
+
+#nedefinovany_znak_zam
+Kas asendada kõik määratlemata sümbolid?
+
+#zamena_znaku_radiob1
+Ühekordne sümboli asendamine
+Kogu dokumendis
+Valitud plokis
+
+#zamena_znaku_radiob2
+kõikjal
+algusest kuni valitud sümbolini
+valitud sümbolist edasi
+
+#znak_k_zamene
+Asendussümbol...
+
+#dotaz_pri_zmene
+Kas küsida muutmise ajal?
+
+#kodovaniascii_dlg
+Tõenäoline ASCII kodeering:*ei saa määrata*Kas nõustud?
+
+#polozka_dos
+(tabelipõhine)*(ilma tabelita)*veel...
+
+#tbl_filtr_ascii
+Grupikonversioon:*vaikimisi kodeering*sihtkodeering
+
+#niz_nonunicode1
+Millises kodeeringus on tekst kuvatud?
+
+#niz_nonunicode2
+Vaikimisi ja sihtkodeering on identsed.
+Muudatusi ei tehta.
+
+#ascii_2_utf_1
+Konverteerimine ASCII ja UTF-8 või UTF-16 vahel
+
+#ascii_2_utf_2
+Ploki toimingud (ei muuda dokumendi kodeeringut)
+
+#ascii_2_utf_3
+Kogu dokumendi toimingud (muudab kodeeringu unicode'iks)
+
+#uni_2_utf_1
+Konverteerimine Unicode'i ja UTF-8 või UTF-16 vahel
+
+#uni_2_utf_2
+Ploki toimingud (ei muuda dokumendi kodeeringut)
+
+#uni_2_utf_3
+Kogu dokumendi toimingud (muudab kodeeringu mitte-unicode'iks)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS-i kodeeringus)
+
+#prohozeni_endianity
+Unicode'i baidijärjestuse (Endianity) vahetamine
+
+#tab_konv_zn
+Tähistab dokumendi ainult mitte-Unicode'ina.
+Sümbolid üle 255 asendatakse asendussümboliga.
+
+#zda_prenastavit_font1
+Kas muuta fonti ja tähistada kodeering mitte-Unicode'ina?
+
+#zda_prenastavit_font2
+Kas muuta fonti ja tähistada kodeering Unicode'ina?
+
+#pren_font_ano
+(kui konverteeritakse kogu tekst, soovitatakse JAH)
+
+#pren_font_ne
+(kui konverteeritakse ainult osa tekstist, soovitatakse EI)
+
+#preznacit_kodovani
+Kas muuta dokumendi kodeeringu tähistust?
+
+#zm_kod_dok
+Dokumendi kodeeringu muutmine
+
+#zak_unicode
+Dokument on kodeeritud Unicode standardis.
+
+#sada_a_filtr_souborem
+Dokumendi sümbolistik ja filter on määratud failiga:
+
+#interp_nonuni
+Mitte-Unicode tõlgendamine
+
+#konv_zn_utf
+Konverteerimine sümbol/UTF jada
+
+#tab_konv_zz
+Tabelipõhine konverteerimine sümbol/sümbol
+
+#zmena_fontu
+Fondi muutmine
+
+#nas_zal_rad
+Ridade murdmise seaded
+
+#nas_zal_mozn
+vastavalt aknale
+78 sümbolit
+80 sümbolit
+kohandatud...
+
+#filesel_nejde_konverze
+Sisestatud nime ei saa õigesti konverteerida
+praegusele DOS-i koodilehele.
+Kas jätkata ikkagi?
+
+#podrobnosti
+Üksikasjad
+
+#moznosti...
+Valikud...
+
+#form_konc_rad
+Rea lõpu vorming
+
+#form_konc_help
+Soovitatav on jätta CRLF standard,
+mida kasutatakse DOS-is ja Windowsis.
+LF on Unixi/Linuxi standard,
+CR on kasutusel Macintoshis.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Baidijärjestuse märk (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Kehtib ainult Unicode failide puhul.
+See on kolmebaidine jada faili alguses.
+Soovitatav UTF-16 puhul, UTF-8 puhul tavaliselt ei kasutata.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Kas tõesti fikseerida ridade murdmine kogu tekstis?
+
+#rozs_fix_lom_blok
+Plokis pole rea lõppu.
+Kas laiendada ja jätkata?
+
+#jen_nezalam_rezim
+See funktsioon on saadaval ainult ridade murdmiseta režiimis.
+
+#opravdu_spoj_radky
+Kas tõesti ühendada kogu tekstis read lõikudeks?
+
+#nahr_faze
+1. faas:*2. faas:*3. faas:
+
+#jen_v_bloku
+Ainult <BARVA=!;KLAVESY=p>p<SB>lokis
+
+#prevod_z_html_entit
+Dekodeeri HTML entiteedid sümboliteks
+
+#prevod_z_html_entit_info
+Tuvastab HTML entiteedid (nt &#8222;) ja asendab need Unicode sümbolitega.
+
+#qr_vygenerovany
+Loodud QR kood
+
+#qr_ulozit
+Salvesta
+
+#qr_velikost
+Punkti suurus QR koodis (1-20)
+
+#qr_uspech
+Edu! Salvestatud nimega:
+
+#qr_chyba
+Viga QR koodi loomisel.
+
+#qr_chyba_save
+Viga QR koodi salvestamisel.
+
+#qr_tvorba
+QR koodide loomine
+
+#qr_text
+Tekst QR koodiks konverteerimiseks
+
+#related_characters
+Seotud sümbolid
+
+#zalozky
+Järjehoidjad*Järjehoidja nr*Kuva järjehoidjad
+
+#menu_slovo
+menüü/sõna
+
+#dialogy_menu_slovo
+Dialoog Otsi*Dialoog Asenda*SUURTÄHTEDEGA*väiketähtedega*Esimesed suured*Lõikepuhvrisse
+
+#menu_radek
+menüü/rida
+
+#dialogy_menu_radek1
+Rida plokki:
+<BARVA=!;KLAVESY=m>m<SB>urdmisega
+i<BARVA=!;KLAVESY=l>l<SB>ma murdmiseta
+
+#dialogy_menu_radek2
+Tühikud:
+eemalda tühikud <BARVA=!;KLAVESY=a>a<SB>lgusest
+eemalda tühikud lõ<BARVA=!;KLAVESY=p>p<SB>ust
+
+#dialogy_menu_radek3
+Taane:
+eelmise <BARVA=!;KLAVESY=r>r<SB>ea järgi
+tab<BARVA=!;KLAVESY=u>u<SB>laatori järgi
+
+#pmysmenu
+<BARVA=!;KLAVESY=s>s<SB>ümbol
+s<BARVA=!;KLAVESY=õ>õ<SB>na
+<BARVA=!;KLAVESY=r>r<SB>ida
+
+#doprad
+Rea lõpetamine
+
+#doprad_txt
+Sisestage üks või mitu sümbolit, millega
+täidan ruumi rea lõpust hiireklõpsu
+kohani.
+Vaikimisi on [tühik]
+
+#zarovnani
+Joondamine:*vasakule*paremale
+
+#carkod_tvorba
+Triipkoodid
+
+#carkod_instr
+Sisesta number või lühike tekst
+Märkus: Mõned triipkoodivormingud toetavad ainult numbreid. Lisaks
+nõuavad mõned kodeeringud (nt EAN-13) kehtivaid koode kontrollsummaga.
+Ehkki vigast numbrit saab kodeerida, ei pruugi lugeja seda ära tunda.
+
+#carkod_ulozit
+Salvesta
+
+#carkod_uspech
+Edu! Salvestatud nimega:
+
+#carkod_chyba
+Viga triipkoodiks konverteerimisel.
+
+#carkod_chyba_save
+Viga triipkoodi salvestamisel.
+
+#carkod_combine
+Lisa kodeeritud string
+
+#carkod_mozn
+Seda stringi saab kodeerida järgmistesse triipkoodidesse:

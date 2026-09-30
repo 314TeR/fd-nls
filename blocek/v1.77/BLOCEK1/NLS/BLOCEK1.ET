@@ -1,0 +1,139 @@
+## Blocek1, Estonian, et, cp775
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=j#1;VYZNAM=!1>J<SB>ah '
+#_NE
+' <BARVA=!;KLAVESY=e#2;VYZNAM=!2>E<SB>i '
+#_CANCEL
+<BARVA=!;KLAVESY=t#2;VYZNAM=!3>T<SB>Åhista
+#_CANCEL2
+' <BARVA=!;KLAVESY=t#2;VYZNAM=!3>T<SB>Åhista '
+#_POMOC
+A<BARVA=!;KLAVESY=b;VYZNAM=!4>b<SB>i
+#_PALETA
+<BARVA=!;KLAVESY=p;VYZNAM=!6>P<SB>alett
+#_MIXBAREV
+<BARVA=!;KLAVESY=s;VYZNAM=!7>S<SB>ega vÑrve
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=k;VYZNAM=!9>K<SB>etas
+#_ZADAT
+Sisest<BARVA=!;KLAVESY=a;VYZNAM=!14>a<SB>
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+<BARVA=!;KLAVESY=u;VYZNAM=!19>U<SB>us kaust
+#_ZPET
+Ta<BARVA=!;KLAVESY=g;VYZNAM=!20>g<SB>asi
+#_VPRED
+E<BARVA=!;KLAVESY=d;VYZNAM=!21>d<SB>asi
+#_FS_NAHORU
+ö<BARVA=!;KLAVESY=l;VYZNAM=!23>l<SB>es
+#_FS_TRIDENI
+So<BARVA=!;KLAVESY=r;VYZNAM=!24>r<SB>timine
+#_INFO
+'Info:             '
+#_DOTAZ
+'KÅsimus:          '
+#_ANONE_DOTAZ
+'KÅsimus:          '
+#_CHYBA
+Viga!
+#_VLOZ_TEXT
+Sisesta tekst:
+#_VYBER_BARVU
+Vali vÑrv:
+#_FS_ADR_JAKSEMAJMENOVAT
+Sisesta kausta nimi
+#_FS_PRO_CTENI
+'ainult lugemiseks, '
+#_FS_SKRYTY
+'peidetud, '
+#_FS_SYSTEMOVY
+'sÅsteemi, '
+#_FS_ARCHIVOVAT
+'arhiivi, '
+#_FS_ZADNE
+puudub.
+#_FS_ZPRAVA
+S‰num:
+#_FS_SOUBOR
+'Fail: '
+#_FS_VELIKOST
+'Suurus: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' baiti'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Muudetud: '
+#_FS_ATRIBUTY
+'Atribuudid: '
+#_FS_VYBER_SOUBOR
+Vali fail:
+#_FS_SOUBORNEVYTVOREN
+Faili ei saanud luua.
+#_FS_ADRESARNEVYTVOREN
+Kausta ei saanud luua.
+#_FS_DISK2
+Kettad:
+#_FS_DISK3
+'Ketas '
+#_FS_JMENOVKADISKU
+'Ketta silt:     '
+#_FS_SYSTEMSOUBORU
+'FailisÅsteem:   '
+#_FS_KAPACITA
+'Maht:           '
+#_FS_VOLNEHO
+'Vaba ruum:      '
+#_FS_SERCISLO
+Seerianumber:
+#_FS_VYBER_NECO
+Fail peab olema valitud.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Ketas pole valmis.
+#_FS_TRIDENI_NADPIS
+Sortimine:
+#_FS_TRIDENI_MIX1
+nimi*kuupÑev*laiend
+#_FS_TRIDENI_MIX2
+kasvavalt*kahanevalt
+#_PREPSATSOUBOR
+Kas kirjutada fail Åle?
+#_VSEPOL
+k‰ik Åksused
+#_VYBPOL
+valitud Åksused
+#_ZAMPOL
+tagasilÅkatud
+#_VYBINFO
+Paremal paneelil on k‰ik Åksused ja vasakul valitud.
+Valimine ja kustutamine toimub Enteriga.
+Paneelide vahel liikumiseks kasuta Tab-klahvi.
+#_VYBINFO2
+Vasakul paneelil on valitud Åksused ja paremal tagasilÅkatud.
+Valimine ja kustutamine toimub Enteriga.
+Paneelide vahel liikumiseks kasuta Tab-klahvi.
+#_MOUSE_NOT_INSTALLED
+Hiiredraiverit pole installitud. Laadi CTmouse v‰i sarnane.
+#_LFB_NOT_AVAILABLE
+Sinu videokaart ei toeta LFB-reÿiimi selle videoreÿiimi jaoks.

@@ -1,0 +1,752 @@
+## Blocek2, polish, pl, cp852
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Polski       (pl)
+#identifikuj_se2
+blocek2.pl
+#sys_font
+852-16.fv
+#sys_font_maly
+## latin214.fv
+852-14.fv
+#chyba_videomodu
+Żądany tryb wideo jest niedostępny:
+#sys_font_kodovani
+852
+#m1
+<BARVA=!;KLAVESY=p>P<SB>lik
+#m2
+<BARVA=!;KLAVESY=o>O<SB>pcje
+#m3
+Po<BARVA=!;KLAVESY=m>m<SB>oc
+#m31
+<BARVA=!;KLAVESY=o>O<SB> programie
+#m32
+<BARVA=!;KLAVESY=c>C<SB>zytaj INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=i>I<SB>nfo o systemie
+#m34
+Pomoc <BARVA=!;KLAVESY=h>h<SB>ipertekstowa
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ekst
+#m11
+<BARVA=!;KLAVESY=n>N<SB>owy    <<F1>>
+#m12
+<BARVA=!;KLAVESY=o>O<SB>twórz <<F3>>
+#m13
+<BARVA=!;KLAVESY=z>Z<SB>apisz  <<F2>>
+#m14
+Wyjście do <BARVA=!;KLAVESY=d>D<SB>OS
+#m15
+Za<BARVA=!;KLAVESY=k>k<SB>ończ   <<ESC>>
+#m16
+Za<BARVA=!;KLAVESY=m>m<SB>knij  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=k>K<SB>olory
+#m211
+Kolor <BARVA=!;KLAVESY=p>p<SB>ierwszego planu
+#m212
+Kolor <BARVA=!;KLAVESY=t>t<SB>ła
+#m213
+Kolor <BARVA=!;KLAVESY=b>b<SB>azowy
+#m215
+Kolor podś<BARVA=!;KLAVESY=w>w<SB>ietlenia wiersza
+#m22
+<BARVA=!;KLAVESY=j>J<SB>ęzyk
+#m23
+<BARVA=!;KLAVESY=p>P<SB>odświetl akt. wiersz
+#m24
+<BARVA=!;KLAVESY=c>C<SB>zcionka
+#m25
+<BARVA=!;KLAVESY=f>F<SB>iltr obrazu
+#m26
+Kla<BARVA=!;KLAVESY=w>w<SB>iatury
+#m27
+Panel <BARVA=!;KLAVESY=b>b<SB>oczny
+#m28
+<BARVA=!;KLAVESY=z>Z<SB>apisz ustawienia
+#m29
+Pokaż <BARVA=!;KLAVESY=s>s<SB>pacje
+#m41
+Do <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+Z UT<BARVA=!;KLAVESY=f>F<SB>-8
+#m43
+Za<BARVA=!;KLAVESY=w>w<SB>ijanie wierszy
+#m431
+Usta<BARVA=!;KLAVESY=l>l<SB> zawijanie
+#m432
+<BARVA=!;KLAVESY=p>P<SB>ołącz wiersze
+#m44
+<BARVA=!;KLAVESY=s>S<SB>zukaj      <<Ctrl-F>>
+#m45
+Znajdź <BARVA=!;KLAVESY=n>n<SB>astępny <<Ctrl-S>>
+#m46
+Za<BARVA=!;KLAVESY=m>m<SB>ień      <<Ctrl-H>>
+#m460
+Za<BARVA=!;KLAVESY=k>k<SB>ładki
+#m47
+M<BARVA=!;KLAVESY=a>a<SB>pa znaków
+#m48
+K<BARVA=!;KLAVESY=o>o<SB>nwersje <<CTRL-K>>
+#m49
+Operacje na <BARVA=!;KLAVESY=b>b<SB>lokach
+#m490
+Generuj kod <BARVA=!;KLAVESY=q>Q<SB>R
+#m491
+Znaki na <BARVA=!;KLAVESY=h>H<SB>TML
+#m492
+Na <BARVA=!;KLAVESY=d>d<SB>uże litery
+#m493
+Na małe lit<BARVA=!;KLAVESY=e>e<SB>ry
+#m494
+En<BARVA=!;KLAVESY=t>t<SB>ycje HTML na znaki
+#m495
+Kody k<BARVA=!;KLAVESY=r>r<SB>eskowe
+#vyber_soubor
+Wybierz plik:
+#jak_to_ulozit
+Jak to zapisać?
+#soubor_existuje_prepsat
+Taki plik już istnieje
+nadpisać?
+#o_programu
+o programie
+#napoveda
+pomoc
+#varovani
+<BARVA=51200>ostrzeżenie!<SB>
+#opravdu_konec
+Czy na pewno zakończyć?
+Niezapisane zmiany zostaną utracone.
+#tento_soubor_uz_jednou_mame
+Ten plik jest już otwarty.
+Blocek pozwala otworzyć go ponownie,
+ale będzie działał niezależnie od pierwszej instancji!
+tzn.
+NIE JAKO IDE PASCALA
+#unicode
+unicode
+#zalamovani
+zawijanie wierszy
+#proporcionalni_mod
+proporcjonalny
+#vyber_barvu_popredi
+Wybierz kolor pierwszego planu
+#vyber_barvu_pozadi
+Wybierz kolor tła
+#vyber_barvu_zakladu
+Wybierz kolor bazowy
+#vyber_barvu_prosv
+Wybierz kolor
+#zda_pro_rad
+Podświetlać aktualny wiersz?
+#nastaveni_ulozeno
+Ustawienia zapisane
+
+#zatim_neni
+Ta funkcja nie jest jeszcze dostępna.
+
+#hypertextova_napoveda
+Pomoc hipertekstowa
+
+#napoveda_koren
+Blocek - edytor tekstu i przeglądarka obrazów
+
+Tematy pomocy:
+1) <OK="napoveda_klavesy">Sterowanie<OK/>
+2) <OK="napoveda_mys">Sterowanie myszą<OK/>
+3) <OK="napoveda_prvky">Elementy interfejsu<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Sterowanie<SB;SF>
+<barva=65535>F10<sb>   - wejście do menu głównego
+<barva=65535>F1<sb>    - utwórz nowy plik
+<barva=65535>F2<sb>    - zapisz plik
+<barva=65535>F3<sb>    - otwórz plik
+<barva=65535>Alt+F3<sb> - zamknij plik
+<barva=65535>Alt+F1<sb> - otwórz plik INFO.TXT
+<barva=65535>Ctrl+F<sb> - szukaj
+<barva=65535>Ctrl+S<sb> - kontynuuj wyszukiwanie
+<barva=65535>Ctrl+H<sb> - szukaj i zamień
+<barva=65535>Ctrl+A<sb> - zaznacz cały dokument jako blok
+<barva=65535>Ctrl+Q<sb> - oferuje powiązany znak dla ostatnio wpisanego [a,á,...]
+<barva=65535>Ctrl+K<sb> - funkcja konwersji znaków między kodowaniami
+<barva=65535>Ctrl+L<sb> - szybkie menu edycji wiersza
+<BARVA=65535>LShift+Alt<sb> - zmień ustawienia klawiatury
+<barva=65535>Ctrl+Alt+góra<sb>  - zaznacz bieżący wiersz jako blok
+<barva=65535>Ctrl+Alt+dół<sb>   - zaznacz słowo pod kursorem jako blok
+<barva=65535>Ctrl+Alt+lewo<sb>  - zaznacz wszystkie znaki na lewo od kursora
+<barva=65535>Ctrl+Alt+prawo<sb> - zaznacz wszystkie znaki na prawo od kursora
+<barva=65535>Backspace<sb> - usuń znak na lewo od kursora
+<barva=65535>Delete<sb> - usuń znak na prawo od kursora
+<barva=65535>Shift+Delete<sb> - usuń zaznaczony blok
+<barva=65535>*strzałki<sb> - ruch kursora
+<barva=65535>*Ctrl+PageUp<sb> lub <barva=65535>*Ctrl+Home<sb> - skok do pierwszego wiersza dokumentu
+<barva=65535>*Ctrl+PageDown<sb> lub <barva=65535>*Ctrl+End<sb> - skok do ostatniego wiersza dokumentu
+<barva=65535>*Ctrl+prawo<sb> - przeskok o jedno słowo w prawo
+<barva=65535>*Ctrl+lewo<sb> - przeskok o jedno słowo w lewo
+   Klawisze lub kombinacje oznaczone symbolem "*" mogą być
+   łączone z klawiszem <barva=65535><Shift><sb>.
+W takim przypadku rozmiar bloku tekstu zostanie dostosowany
+   wraz z ruchem kursora.
+<barva=65535>Ctrl+[1-7]<sb> - skopiuj zaznaczony blok do schowka nr 1-7
+<barva=65535>Alt+[1-7]<sb> - wklej tekst ze schowka nr 1-7 w miejscu kursora
+<barva=65535>Ctrl+plus<sb> i <barva=65535>Ctrl+minus<sb> (na klawiaturze num.) - szybkie przewijanie między plikami
+<barva=65535>ESC<sb>   - koniec
+<barva=65535>Alt+F2<sb> - zapisz aktualny ekran
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Sterowanie myszą<SB;SF>
+<barva=65535>1) W oknie z dokumentem<SB>
+Kliknięcie lewym przyciskiem (LP) - przenosi kursor w dane miejsce w dokumencie.
+LP+shift - określa początek i koniec bloku tekstu
+Przytrzymanie LP i przeciągnięcie - interaktywne zaznaczanie bloku
+Kliknięcie prawym przyciskiem (PP) - pokazuje info o znaku i otwiera okno
+dialogowe konwersji znaków.
+Oferuje również funkcje zakładek.
+
+<barva=65535>2) Na pasku kart otwartych plików<SB>
+Kliknięcie LP - przełącza plik do głównego okna
+Kliknięcie PP - menu akcji dla danego pliku
+(zamknij, zamknij wszystkie inne, pokaż pełną ścieżkę)
+
+<barva=65535>3) Na wskaźniku schowków tekstowych<SB>
+Kliknięcie LP - menu operacji z zawartością danego schowka
+
+<barva=65535>4) Inne uwagi<SB>
+->> Wszystkie pozostałe elementy interfejsu graficznego używają tylko lewego przycisku myszy
+->> Prawie wszystkie okna dialogowe można przesuwać przeciągając pasek tytułowy.
+->> Przeciągając myszą po tekście w oknach informacyjnych można zaznaczyć tekst, a następnie
+    skopiować go do schowka za pomocą <OK="napoveda_klavesy">CTRL+[1-7]<OK/>.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Elementy interfejsu<SB;SF>
+Większość interfejsu zajmuje <barva=65535>okno główne<SB>. Wyświetla ono dokument
+tekstowy lub przeglądarkę obrazów.
+Na lewej krawędzi dokumentu może znajdować się panel boczny
+sygnalizujący sposób zakończenia poszczególnych wierszy.
+Nad oknem znajdują się trzy panele.
+
+<barva=65535>1) Pasek stały<SB>
+Menu główne: <barva=65535>Plik<SB>, <barva=65535>Tekst<SB>, <barva=65535>Opcje<SB>, <barva=65535>Pomoc<SB>
+Po prawej stronie znajdują się <OK="napoveda_indikatory">wskaźniki schowków<OK/> ponumerowane od 1 do 7.
+Jeszcze dalej po prawej (prawy górny róg) jest lista rozwijana układu klawiatury.
+Można ją również otworzyć skrótem <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Pasek kontekstowy<SB>
+Zmienia się w zależności od zawartości okna głównego.
+Jeśli to obraz, po lewej wyświetla wymiary w pikselach.
+Po prawej przyciski pełnego ekranu, dopasowania oraz obrotu/odbicia.
+Jeśli to dokument, pojawia się przycisk konwersji zestawów znaków
+(dostępny też pod <OK="napoveda_klavesy">CTRL+K<OK/>). Na prawo od niego znajduje się przycisk
+zmiany trybów zawijania wierszy.
+Dalej po prawej jest pole wyboru, które włącza/wyłącza tryb zawijania.
+Całkiem po prawej wyświetlana jest bieżąca kolumna i wiersz z kursorem.
+
+<barva=65535>3) Karty z otwartymi plikami<SB>
+Dopóki żaden plik nie jest załadowany, dolny pasek jest pusty.
+Po otwarciu pliku pojawia się tam jego karta.
+W programie Blocek można mieć otwartych wiele plików naraz.
+Karty wyświetlają się obok siebie i można się między nimi przełączać <OK="napoveda_mys">myszą<OK/>.
+Lewy przycisk myszy przełącza okno główne na wskazany plik.
+Prawy przycisk myszy otwiera podmenu zamykania pliku, zamykania innych lub pokazywania ścieżki.
+
+#napoveda_indikatory
+Jeśli skopiujesz tekst do schowka (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>) lub za pomocą okna dialogowego,
+obecność zawartości jest sygnalizowana zapaleniem wskaźnika niczym żarówki.
+Gdy schowek jest pusty, wskaźnik to przekreślone kółko.
+Wskaźnik schowka nr 7 może wyświetlać się jako <BARVA=65535>7W<SB>.
+Oznacza to, że dostępne są usługi schowka systemu MS Windows.
+W tym przypadku schowek nr 7 jest połączony ze schowkiem Windows w celu wymiany tekstu z innymi programami.
+Szczegóły w pliku TECHNOTE.TXT
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+wersja 1.77b
+data kompilacji: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek to edytor tekstu i przeglądarka obrazów
+obsługująca m.in. pliki w kodowaniu UTF-8,
+co czyni go idealnym narzędziem do tworzenia stron WWW.
+Blocek radzi sobie z bardzo dużymi plikami i długimi
+wierszami. Podziękowania dla Mateusza Viste za czcionki Unicode.
+Blocek działa również jako przeglądarka typowych formatów graficznych,
+ale nie ma możliwości ich edycji.
+Program ten może być rozpowszechniany na warunkach licencji GNU/GPL
+
+#parametr_otaznik
+Składnia:
+BLOCEK [plik1 [, plik2 [,...]]]
+#ovladani_obrazku
+pełny ekran*o<<>>O*+90*-90*poz.*pion.*dane Exif
+
+#soubor_nebyl_ulozen
+Plik nie został zapisany!
+za mało miejsca na dysku lub
+dysk tylko do odczytu
+
+#chyba_font_int
+Błąd podczas wczytywania pliku czcionki
+#chyba_font_neint
+Brak pliku czcionki lub błąd podczas wczytywania pliku:
+
+#informace_exif
+Informacje z bloku Exif
+#exif_date_strs
+Data i czas:*Data i czas oryginału:*Data i czas cyfryzacji:
+#exif_camera_info
+Producent aparatu:*Model aparatu:*Opis:*Oprogramowanie:*Źródło światła:*Lampa błyskowa:*Tryb ekspozycji:*ISO:*Czas ekspozycji:*Orientacja:*Zoom:
+#exif_lightsrc_info
+Nieznane*Światło dzienne*Świetlówka*Żarowe*Lampa błyskowa*Std. światło A*Std. światło B*Std. światło C*D55*D65*D75*Inne źródło*Nieznane
+#exif_flash_info
+Bez lampy*Lampa błyskowa*Lampa bez przedbłysków*Lampa z przedbłyskami*Lampa auto*Bez lampy*Nieznane
+#exif_expos_mode
+Nieznane*Tryb ręczny*Normalny program*Priorytet przysłony*Priorytet migawki*Program kreatywny*Tryb akcji*Tryb portretowy*Tryb krajobrazowy*Nieznane
+#exif_orientation_desc
+Normalna*Odbicie poz.*Obrót o 180°*Odbicie pion.*Obrót o 90° w lewo i odbicie*Obrót o 90° w prawo*Obrót o 90° w prawo i odbicie*Obrót o 90° w lewo*Nieznana
+#exif_zoom_unused
+Nieużywany
+#exif_GPS_info
+Informacje o lokalizacji GPS*szerokość:*długość:*wysokość:*azymut*N*S*W*E*m*o*'*''
+#zkopirovat_exif
+Do schowka
+#nejde_o_obrazek
+Plik jest uszkodzony lub dane
+obrazu mają nieobsługiwany format
+Plik zostanie otwarty jako tekst.
+#nelze_fixovat_zalamani
+Ta funkcja jest dostępna
+tylko w trybie zawijania.
+#vyhledavani
+Wyszukiwanie
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>tryb wyszukiwania<POZADI=->
+#vyhled_mozn
+w <BARVA=!;KLAVESY=d>d<SB>ół
+w <BARVA=!;KLAVESY=g>g<SB>órę
+od po<BARVA=!;KLAVESY=c>c<SB>zątku
+#roz_vel_pismen
+Rozróżniaj wielkość l<BARVA=!;KLAVESY=i>i<SB>ter
+
+#text_nenalezen
+Nie znaleziono podanego tekstu.
+#nahradit_vyskyt
+Czy zastąpić to wystąpienie?
+#potvrzovat
+<BARVA=!;KLAVESY=p>p<SB>otwierdzać
+#nahradvse
+zastąp <BARVA=!;KLAVESY=w>w<SB>szystko
+#hledany_text
+szukany tekst:
+#novy_text
+nowy tekst
+#nahrada_textu
+zastępowanie tekstu
+#vyber_filtr
+Wybierz filtr
+#opravdu_zavrit
+Plik został zmieniony.
+Czy chcesz go zapisać?
+#zavrit_ostatni
+Zamknij wszystkie inne
+#umisteni_souboru
+Lokalizacja pliku
+#bezejmenny
+<BARVA=46815><<nowy>><SB>
+#bezejmenny_soubor
+Nowy plik
+
+#zrusit_nac
+Przerwać wczytywanie?
+#chybi_bcfg
+Plik konfiguracyjny <BARVA=65535>BLOCEK.CFG<SB>
+jeszcze nie istnieje.
+Utworzę go kopiując plik
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Plik konfiguracyjny <BARVA=65535>BLOCEK.CFG<SB>
+ma nieprawidłowy format.
+Dlatego nadpiszę go plikiem
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Do pliku konfiguracyjnego <BARVA=65535>BLOCEK.CFG<SB>
+dodano następujące elementy z pliku <BARVA=65535>DEFAULT.CFG<SB>:
+#pocet_zmen
+Znaleziono*Liczba zmian:*Liczba wystąpień*<BARVA=!;KLAVESY=f>F<SB>unkcja zliczania wystąpień
+#neniswap
+Twój system nie obsługuje pamięci wirtualnej!
+Może to być niebezpieczne i grozi brakiem pamięci.
+Spróbuj użyć innego menedżera DPMI.
+obecnie zainstalowany:
+#dpmineznamy
+<BARVA=333>nieznany menedżer DPMI :-(<SB>
+#kaslinaswap
+(Możesz wyłączyć to sprawdzenie ustawiając
+<BARVA=65530>zkontroluj_swap = 0<SB> w BLOCEK.CFG)
+#plnyseznam
+Pełna lista...
+#vybprefkl
+Które klawiatury powinny być w menu podstawowym?
+#vybprefflt
+Które filtry powinny być w menu podstawowym?
+
+#asciiauto
+autodetekcja
+
+#vkod
+<PODTRH=+>źródłowe<PODTRH=->
+#ckod
+<PODTRH=+>docelowe<PODTRH=->
+#oznaceno
+zaznaczono:
+#ozn_nic
+nic
+#kompinfo
+Procesor:*Pamięć:*MB RAM*Wideo:* Wersja VESA:*Tryb wideo:*Pamięć wideo*Częst. odświeżania:*BIOS default*Wersja DOS:*Zestaw znaków:*Kod kraju DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=t>T<SB>ryby wideo*Przegląd trybów
+#kompinfo_lfn
+Długie nazwy plików (LFN):
+#schranka_c
+Schowek nr
+#schranka_do
+Skopiuj do schowka
+#schranka_ze
+Wklej ze schowka
+#schranka_copy
+Skopiuj do innego schowka
+#schranka_smaz
+Usuń
+#vyber_jazyk
+Wybierz język
+#nutny_restart
+Aby zmienić język, konieczny jest restart programu.
+#prevod_html_entity
+Konwersja na encje HTML
+#prevod_html_ent_info
+Znaki o wartości ASCII/Unicode powyżej 127
+zostaną zamienione na encje HTML.
+Zakres jest określany przez zaznaczony blok.
+#text_je_v_unicode
+Tekst jest w standardzie Unicode.
+#text_je_v_ascii
+Tekst jest w kodowaniu ASCII i zostanie
+przekonwertowany zgodnie z tabelą konwersji.
+#neni_oz_blok
+Nie zaznaczono bloku - przekonwertuję
+cały tekst
+#prevod_mala_velka
+Tekst na wielkie litery
+#prevod_mala_velka_inf
+Zamienia małe litery w zaznaczonym bloku na wielkie.
+Inne znaki pozostają bez zmian.
+#prevod_velka_mala
+Tekst na małe litery
+#prevod_velka_mala_inf
+Zamienia wielkie litery w zaznaczonym bloku na małe.
+Inne znaki pozostają bez zmian.
+#kodovani_dokumentu
+kodowanie:
+#help_non_unicode
+Zmienia jedynie etykietę zestawu znaków. Czcionka pozostaje bez zmian.
+#help_inter_znaku
+Konwersje między znakami a sekwencjami w kodowaniu UTF-8 lub UTF-16.
+Niektóre podfunkcje mają zastosowanie do bloku, inne do całego dokumentu.
+Przełączenie z Unicode na non-Unicode zmieni czcionkę.
+#help_tabkonv_znaku
+Zmienia znaki w dokumencie na inne kodowanie za pomocą tabel.
+Liczba znaków pozostaje taka sama.
+Dotyczy zaznaczonego bloku lub całego tekstu.
+Przełączenie z Unicode na non-Unicode zmieni czcionkę.
+
+#analyza_nedef_zn_dok
+Analiza niezdefiniowanych znaków w dokumencie
+
+#analyza_nedef_zn_blok
+Analiza niezdefiniowanych znaków w bloku
+
+#poc_vysk_nedef_znaku_n
+liczba wystąpień znaku
+
+#poc_vysk_nedef_znaku_vse
+całkowita liczba niezdefiniowanych znaków
+
+#poc_vysk_nedef_znaku_unik
+unikalne niezdefiniowane znaki:*ich zakres:
+
+#zamena_znaku
+Zastąpić znak innym?
+#nedefinovany_znak
+Niezdefiniowany znak*Analiza niezd. znaków (blok/dok)
+
+#nedefinovany_znak_zam
+Zastąpić wszystkie niezdefiniowane znaki?
+
+#zamena_znaku_radiob1
+Jednorazowa zmiana znaku
+W całym dokumencie
+W zaznaczonym bloku
+
+#zamena_znaku_radiob2
+wszędzie
+od początku do zaznaczonego znaku
+od zaznaczonego znaku dalej
+
+#znak_k_zamene
+Znak zastępczy...
+
+#dotaz_pri_zmene
+Pytać podczas zmiany?
+#kodovaniascii_dlg
+Prawdopodobne kodowanie ASCII:*nie można ustalić*Zgadzasz się?
+
+#polozka_dos
+(z tabelą)*(bez tabeli)*więcej...
+
+#tbl_filtr_ascii
+Konwersja w grupie:*kodowanie źródłowe*kodowanie docelowe
+
+#niz_nonunicode1
+W jakim kodowaniu wyświetlany jest tekst?
+
+#niz_nonunicode2
+Kodowanie źródłowe i docelowe są identyczne.
+Nie zostaną wprowadzone żadne zmiany.
+
+#ascii_2_utf_1
+Konwersje między sekwencjami ASCII a UTF-8 lub UTF-16
+
+#ascii_2_utf_2
+Operacje na blokach (nie zmieniają ogólnego kodowania)
+
+#ascii_2_utf_3
+Operacje na całym dokumencie (przełącza na Unicode)
+
+#uni_2_utf_1
+Konwersje między sekwencjami Unicode a UTF-8 lub UTF-16
+
+#uni_2_utf_2
+Operacje na blokach (nie zmieniają ogólnego kodowania)
+
+#uni_2_utf_3
+Operacje na całym dokumencie (przełącza na non-Unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (w kodowaniu DOS)
+
+#prohozeni_endianity
+Odwrócenie Endianness Unicode
+
+#tab_konv_zn
+Nie przeprowadza żadnych konwersji.
+Jedynie oznacza dokument jako non-Unicode.
+Znaki 0-255 się nie zmieniają, wyższe są zastępowane.
+#zda_prenastavit_font1
+Czy zresetować czcionkę i oznaczyć kodowanie jako non-Unicode?
+
+#zda_prenastavit_font2
+Czy zresetować czcionkę i oznaczyć kodowanie jako Unicode?
+#pren_font_ano
+(zostanie przekonwertowany cały tekst, zalecane TAK)
+
+#pren_font_ne
+(zostanie przekonwertowana część tekstu, zalecane NIE)
+
+#preznacit_kodovani
+Czy ponownie oznaczyć kodowanie dokumentu?
+#zm_kod_dok
+Zmiana kodowania dokumentu
+
+#zak_unicode
+Dokument jest zakodowany w standardzie Unicode.
+
+#sada_a_filtr_souborem
+Zestaw znaków i filtr są określone przez plik:
+
+#interp_nonuni
+Interpretacja non-Unicode
+
+#konv_zn_utf
+Konwersja sekwencji znak/UTF
+
+#tab_konv_zz
+Konwersja tabelaryczna znak/znak
+
+#zmena_fontu
+Zmiana czcionki
+
+#nas_zal_rad
+Ustawienia zawijania wierszy
+
+#nas_zal_mozn
+według okna
+78 znaków
+80 znaków
+niestandardowe...
+
+#filesel_nejde_konverze
+Nazwa nie może zostać poprawnie przekonwertowana
+na bieżącą stronę kodową DOS.
+Czy kontynuować mimo to?
+
+#podrobnosti
+Szczegóły
+
+#moznosti...
+Opcje...
+
+#form_konc_rad
+Format końca wiersza
+
+#form_konc_help
+Zaleca się zachowanie standardu CRLF,
+używanego w środowiskach DOS i Windows.
+LF to standard Unix/Linux, a
+CR był używany na komputerach Macintosh.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = znacznik kolejności bajtów
+Dotyczy tylko plików Unicode.
+Jest to trzybajtowa sekwencja
+na początku pliku.
+Zalecana dla plików UTF-16.
+Zazwyczaj nieużywana dla UTF-8.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Czy na pewno chcesz ustalić zawijanie wierszy w całym tekście?
+#rozs_fix_lom_blok
+Blok nie przecina żadnego końca wiersza
+Czy rozszerzyć go i kontynuować?
+
+#jen_nezalam_rezim
+Ta funkcja jest dostępna tylko w trybie bez zawijania.
+#opravdu_spoj_radky
+Czy na pewno chcesz połączyć wiersze w akapitach w całym tekście?
+
+#nahr_faze
+1. faza:*2. faza:*3. faza:
+
+#jen_v_bloku
+<BARVA=!;KLAVESY=t>T<SB>ylko w bloku
+
+#prevod_z_html_entit
+Dekodowanie encji HTML na znaki
+
+#prevod_z_html_entit_info
+Rozpoznaje encje HTML (np. &#8222;) i zastępuje je znakami Unicode
+
+#qr_vygenerovany
+Wygenerowany kod QR
+
+#qr_ulozit
+Zapisz
+
+#qr_velikost
+Rozmiar punktu w kodzie QR (1-20)
+
+#qr_uspech
+Sukces! Zapisano jako:
+
+#qr_chyba
+Błąd podczas konwersji na kod QR.
+
+#qr_chyba_save
+Błąd podczas zapisywania kodu QR.
+#qr_tvorba
+Tworzenie kodów QR
+
+#qr_text
+Tekst do konwersji na kod QR
+
+#related_characters
+Powiązane znaki
+
+#zalozky
+Zakładki*Zakładka nr*Pokaż zakładki
+
+#menu_slovo
+menu/słowo
+
+#dialogy_menu_slovo
+Dialog Szukaj*Dialog Zamień*WIELKIE*małe*Pierwsza Wielka*Do schowka
+
+#menu_radek
+menu/wiersz
+
+#dialogy_menu_radek1
+Wiersz do bloku:
+<BARVA=!;KLAVESY=z>z<SB> zawijaniem
+<BARVA=!;KLAVESY=b>b<SB>ez zawijania
+
+#dialogy_menu_radek2
+Spacje:
+usuń spacje na <BARVA=!;KLAVESY=p>p<SB>oczątku
+usuń spacje na <BARVA=!;KLAVESY=k>k<SB>ońcu
+
+#dialogy_menu_radek3
+Wcięcie:
+według wiersza <BARVA=!;KLAVESY=w>w<SB>yżej
+według <BARVA=!;KLAVESY=t>t<SB>abulacji
+
+#pmysmenu
+<BARVA=!;KLAVESY=z>z<SB>nak
+<BARVA=!;KLAVESY=s>s<SB>łowo
+w<BARVA=!;KLAVESY=i>i<SB>ersz
+
+#doprad
+Uzupełnianie wiersza
+
+#doprad_txt
+Wpisz jeden lub więcej znaków, którymi
+wypełnisz przestrzeń od końca wiersza
+do miejsca kliknięcia.
+Domyślnie jest to [spacja]
+
+#zarovnani
+Wyrównanie:*lewo*prawo
+
+#carkod_tvorba
+Kody kreskowe
+
+#carkod_instr
+Wpisz liczbę lub krótki tekst
+Uwaga: Niektóre formaty kodów obsługują tylko liczby.
+Ponadto, niektóre kodowania (np. EAN-13) wymagają
+ważnych kodów z odpowiednią sumą kontrolną.
+Nieważne numery można zakodować, ale czytniki
+mogą nie być w stanie ich przetworzyć.
+
+#carkod_ulozit
+Zapisz
+
+#carkod_uspech
+Sukces! Zapisano jako:
+
+#carkod_chyba
+Błąd podczas konwersji na kod kreskowy.
+
+#carkod_chyba_save
+Błąd podczas zapisywania kodu kreskowego.
+#carkod_combine
+Dodaj zakodowany ciąg
+
+#carkod_mozn
+Ten ciąg można zakodować w następujących kodach kreskowych:

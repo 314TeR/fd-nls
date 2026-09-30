@@ -1,0 +1,139 @@
+## Blocek1, Norwegian, no, cp865
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=j#1;VYZNAM=!1>J<SB>a '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>ei '
+#_CANCEL
+<BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>vbryt
+#_CANCEL2
+' <BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>vbryt '
+#_POMOC
+<BARVA=!;KLAVESY=h;VYZNAM=!4>H<SB>jelp
+#_PALETA
+Pa<BARVA=!;KLAVESY=l;VYZNAM=!6>l<SB>ett
+#_MIXBAREV
+<BARVA=!;KLAVESY=b;VYZNAM=!7>B<SB>land farger
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>isk
+#_ZADAT
+Opp<BARVA=!;KLAVESY=g;VYZNAM=!14>g<SB>i
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+Ny <BARVA=!;KLAVESY=m;VYZNAM=!19>m<SB>appe
+#_ZPET
+<BARVA=!;KLAVESY=t;VYZNAM=!20>T<SB>ilbake
+#_VPRED
+<BARVA=!;KLAVESY=f;VYZNAM=!21>F<SB>rem
+#_FS_NAHORU
+O<BARVA=!;KLAVESY=p;VYZNAM=!23>p<SB>p
+#_FS_TRIDENI
+<BARVA=!;KLAVESY=s;VYZNAM=!24>S<SB>ortering
+#_INFO
+'Info:            '
+#_DOTAZ
+'Sp›rsm†l:        '
+#_ANONE_DOTAZ
+'Sp›rsm†l:        '
+#_CHYBA
+Feil!
+#_VLOZ_TEXT
+Sett inn tekst:
+#_VYBER_BARVU
+Velg farge:
+#_FS_ADR_JAKSEMAJMENOVAT
+Skriv inn mappenavn
+#_FS_PRO_CTENI
+'skrivebeskyttet, '
+#_FS_SKRYTY
+'skjult, '
+#_FS_SYSTEMOVY
+'system, '
+#_FS_ARCHIVOVAT
+'arkiv, '
+#_FS_ZADNE
+ingen.
+#_FS_ZPRAVA
+Melding:
+#_FS_SOUBOR
+'Fil: '
+#_FS_VELIKOST
+'St›rrelse: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' byte'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Sist endret: '
+#_FS_ATRIBUTY
+'Attributter: '
+#_FS_VYBER_SOUBOR
+Velg fil:
+#_FS_SOUBORNEVYTVOREN
+Kunne ikke opprette fil.
+#_FS_ADRESARNEVYTVOREN
+Kunne ikke opprette mappe.
+#_FS_DISK2
+Stasjoner:
+#_FS_DISK3
+'Stasjon '
+#_FS_JMENOVKADISKU
+'Volumetikett:   '
+#_FS_SYSTEMSOUBORU
+'Filsystem:      '
+#_FS_KAPACITA
+'Kapasitet:      '
+#_FS_VOLNEHO
+'Ledig plass:    '
+#_FS_SERCISLO
+Serienummer:
+#_FS_VYBER_NECO
+Du m† velge en fil.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Stasjonen er ikke klar.
+#_FS_TRIDENI_NADPIS
+Sortering:
+#_FS_TRIDENI_MIX1
+navn*dato*filtype
+#_FS_TRIDENI_MIX2
+stigende*synkende
+#_PREPSATSOUBOR
+Overskrive fil?
+#_VSEPOL
+alle elementer
+#_VYBPOL
+valgte elementer
+#_ZAMPOL
+avviste elementer
+#_VYBINFO
+I h›yre panel er alle elementer og i venstre de valgte.
+Valg og sletting gj›res med Enter.
+Bytt mellom paneler med Tab.
+#_VYBINFO2
+I venstre panel vises valgte elementer og i h›yre de avviste.
+Valg og sletting gj›res med Enter.
+Bytt mellom paneler med Tab.
+#_MOUSE_NOT_INSTALLED
+Musedriver ikke installert. Last inn CTmouse eller lignende.
+#_LFB_NOT_AVAILABLE
+Skjermkortet ditt st›tter ikke LFB-modus for valgt videomodus.

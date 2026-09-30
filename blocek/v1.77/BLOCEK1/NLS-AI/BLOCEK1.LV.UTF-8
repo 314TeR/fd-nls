@@ -1,0 +1,139 @@
+## Blocek1, Latvian, lv, cp775
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=j#1;VYZNAM=!1>J<SB>ā '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>ē '
+#_CANCEL
+<BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>tcelt
+#_CANCEL2
+' <BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>tcelt '
+#_POMOC
+<BARVA=!;KLAVESY=p;VYZNAM=!4>P<SB>alīdzība
+#_PALETA
+Pa<BARVA=!;KLAVESY=l;VYZNAM=!6>l<SB>ete
+#_MIXBAREV
+Jaukt <BARVA=!;KLAVESY=k;VYZNAM=!7>k<SB>rāsas
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>isks
+#_ZADAT
+Ie<BARVA=!;KLAVESY=v;VYZNAM=!14>v<SB>adīt
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+<BARVA=!;KLAVESY=j;VYZNAM=!19>J<SB>auna mape
+#_ZPET
+A<BARVA=!;KLAVESY=t;VYZNAM=!20>t<SB>pakaļ
+#_VPRED
+<BARVA=!;KLAVESY=u;VYZNAM=!21>U<SB>z priekšu
+#_FS_NAHORU
+Au<BARVA=!;KLAVESY=g;VYZNAM=!23>g<SB>šup
+#_FS_TRIDENI
+Š<BARVA=!;KLAVESY=k;VYZNAM=!24>ķ<SB>irošana
+#_INFO
+'Info:            '
+#_DOTAZ
+'Jautājums:       '
+#_ANONE_DOTAZ
+'Jautājums:       '
+#_CHYBA
+Kļūda!
+#_VLOZ_TEXT
+Ievietot tekstu:
+#_VYBER_BARVU
+Izvēlēties krāsu:
+#_FS_ADR_JAKSEMAJMENOVAT
+Ievadiet mapes nosaukumu
+#_FS_PRO_CTENI
+'tikai lasāms, '
+#_FS_SKRYTY
+'slēpts, '
+#_FS_SYSTEMOVY
+'sistēmas, '
+#_FS_ARCHIVOVAT
+'arhīva, '
+#_FS_ZADNE
+nav.
+#_FS_ZPRAVA
+Ziņojums:
+#_FS_SOUBOR
+'Fails: '
+#_FS_VELIKOST
+'Izmērs: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' baiti'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Mainīts: '
+#_FS_ATRIBUTY
+'Atribūti: '
+#_FS_VYBER_SOUBOR
+Izvēlieties failu:
+#_FS_SOUBORNEVYTVOREN
+Neizdevās izveidot failu.
+#_FS_ADRESARNEVYTVOREN
+Neizdevās izveidot mapi.
+#_FS_DISK2
+Diski:
+#_FS_DISK3
+'Disks '
+#_FS_JMENOVKADISKU
+'Diska etiķete:  '
+#_FS_SYSTEMSOUBORU
+'Failu sistēma:  '
+#_FS_KAPACITA
+'Ietilpība:      '
+#_FS_VOLNEHO
+'Brīvā vieta:    '
+#_FS_SERCISLO
+Sērijas numurs:
+#_FS_VYBER_NECO
+Ir jāizvēlas fails.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Disks nav gatavs.
+#_FS_TRIDENI_NADPIS
+Šķirošana:
+#_FS_TRIDENI_MIX1
+nosaukums*datums*paplašinājums
+#_FS_TRIDENI_MIX2
+augoši*dilstoši
+#_PREPSATSOUBOR
+Pārrakstīt failu?
+#_VSEPOL
+visi vienumi
+#_VYBPOL
+izvēlētie vienumi
+#_ZAMPOL
+noraidītie vienumi
+#_VYBINFO
+Labajā panelī ir visi vienumi, bet kreisajā - izvēlētie.
+Izvēle un dzēšana notiek ar Enter.
+Pārslēdzieties starp paneļiem ar Tab.
+#_VYBINFO2
+Kreisajā panelī ir izvēlētie vienumi, bet labajā - noraidītie.
+Izvēle un dzēšana notiek ar Enter.
+Pārslēdzieties starp paneļiem ar Tab.
+#_MOUSE_NOT_INSTALLED
+Peles draiveris nav instalēts. Ielādējiet CTmouse vai līdzīgu.
+#_LFB_NOT_AVAILABLE
+Jūsu videokarte neatbalsta LFB režīmu šim video režīmam.

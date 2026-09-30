@@ -1,0 +1,139 @@
+## Blocek1, Brazilian Portuguese, pb, CP850/858
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=s#1;VYZNAM=!1>S<SB>im '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>∆o '
+#_CANCEL
+<BARVA=!;KLAVESY=c#2;VYZNAM=!3>C<SB>ancelar
+#_CANCEL2
+' <BARVA=!;KLAVESY=c#2;VYZNAM=!3>C<SB>ancelar '
+#_POMOC
+A<BARVA=!;KLAVESY=j;VYZNAM=!4>j<SB>uda
+#_PALETA
+<BARVA=!;KLAVESY=p;VYZNAM=!6>P<SB>aleta
+#_MIXBAREV
+<BARVA=!;KLAVESY=m;VYZNAM=!7>M<SB>isturar cores
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>isco
+#_ZADAT
+Ins<BARVA=!;KLAVESY=e;VYZNAM=!14>e<SB>rir
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+No<BARVA=!;KLAVESY=v;VYZNAM=!19>v<SB>o dir.
+#_ZPET
+Vol<BARVA=!;KLAVESY=t;VYZNAM=!20>t<SB>ar
+#_VPRED
+<BARVA=!;KLAVESY=a;VYZNAM=!21>A<SB>vanáar
+#_FS_NAHORU
+S<BARVA=!;KLAVESY=u;VYZNAM=!23>u<SB>bir
+#_FS_TRIDENI
+O<BARVA=!;KLAVESY=r;VYZNAM=!24>r<SB>denaá∆o
+#_INFO
+'Info:            '
+#_DOTAZ
+'Pergunta:        '
+#_ANONE_DOTAZ
+'Pergunta:        '
+#_CHYBA
+Erro!
+#_VLOZ_TEXT
+Inserir texto:
+#_VYBER_BARVU
+Escolher cor:
+#_FS_ADR_JAKSEMAJMENOVAT
+Nome do diret¢rio
+#_FS_PRO_CTENI
+'somente leitura, '
+#_FS_SKRYTY
+'oculto, '
+#_FS_SYSTEMOVY
+'sistema, '
+#_FS_ARCHIVOVAT
+'arquivo, '
+#_FS_ZADNE
+nenhum.
+#_FS_ZPRAVA
+Mensagem:
+#_FS_SOUBOR
+'Arquivo: '
+#_FS_VELIKOST
+'Tamanho: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' bytes'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Modificado: '
+#_FS_ATRIBUTY
+'Atributos: '
+#_FS_VYBER_SOUBOR
+Escolher arquivo:
+#_FS_SOUBORNEVYTVOREN
+N∆o foi poss°vel criar o arquivo.
+#_FS_ADRESARNEVYTVOREN
+N∆o foi poss°vel criar o diret¢rio.
+#_FS_DISK2
+Unidades:
+#_FS_DISK3
+'Unidade '
+#_FS_JMENOVKADISKU
+'R¢tulo do disco: '
+#_FS_SYSTEMSOUBORU
+'Sist. arquivos:  '
+#_FS_KAPACITA
+'Capacidade:      '
+#_FS_VOLNEHO
+'Espaáo livre:    '
+#_FS_SERCISLO
+N£mero de sÇrie:
+#_FS_VYBER_NECO
+Deve selecionar um arquivo.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+A unidade n∆o est† pronta.
+#_FS_TRIDENI_NADPIS
+Ordenaá∆o:
+#_FS_TRIDENI_MIX1
+nome*data*extens∆o
+#_FS_TRIDENI_MIX2
+ascendente*descendente
+#_PREPSATSOUBOR
+Substituir o arquivo?
+#_VSEPOL
+todos os itens
+#_VYBPOL
+itens selec.
+#_ZAMPOL
+itens rejeitados
+#_VYBINFO
+No painel direito est∆o todos os itens, no esquerdo os selecionados.
+A seleá∆o e exclus∆o s∆o feitas com Enter.
+Alterne entre os painÇis com a tecla Tab.
+#_VYBINFO2
+No painel esquerdo est∆o os itens selecionados, no direito os rejeitados.
+A seleá∆o e exclus∆o s∆o feitas com Enter.
+Alterne entre os painÇis com a tecla Tab.
+#_MOUSE_NOT_INSTALLED
+Driver do mouse n∆o instalado. Carregue o CTmouse ou similar.
+#_LFB_NOT_AVAILABLE
+Sua placa de v°deo n∆o suporta o modo LFB para o modo de v°deo pedido.

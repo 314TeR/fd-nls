@@ -1,0 +1,139 @@
+## Blocek1, Lithuanian, lt, cp775
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=t#1;VYZNAM=!1>T<SB>aip '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>e '
+#_CANCEL
+<BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>tšaukti
+#_CANCEL2
+' <BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>tšaukti '
+#_POMOC
+<BARVA=!;KLAVESY=p;VYZNAM=!4>P<SB>agalba
+#_PALETA
+Pa<BARVA=!;KLAVESY=l;VYZNAM=!6>l<SB>etė
+#_MIXBAREV
+<BARVA=!;KLAVESY=m;VYZNAM=!7>M<SB>aišyti spalvas
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>iskas
+#_ZADAT
+Į<BARVA=!;KLAVESY=v;VYZNAM=!14>v<SB>esti
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+Nau<BARVA=!;KLAVESY=j;VYZNAM=!19>j<SB>as apl.
+#_ZPET
+At<BARVA=!;KLAVESY=g;VYZNAM=!20>g<SB>al
+#_VPRED
+Pirm<BARVA=!;KLAVESY=y;VYZNAM=!21>y<SB>n
+#_FS_NAHORU
+A<BARVA=!;KLAVESY=u;VYZNAM=!23>u<SB>kštyn
+#_FS_TRIDENI
+<BARVA=!;KLAVESY=r;VYZNAM=!24>R<SB>ūšiavimas
+#_INFO
+'Info:            '
+#_DOTAZ
+'Klausimas:       '
+#_ANONE_DOTAZ
+'Klausimas:       '
+#_CHYBA
+Klaida!
+#_VLOZ_TEXT
+Įterpti tekstą:
+#_VYBER_BARVU
+Pasirinkti spalvą:
+#_FS_ADR_JAKSEMAJMENOVAT
+Įveskite aplanko pavadinimą
+#_FS_PRO_CTENI
+'tik skaityti, '
+#_FS_SKRYTY
+'paslėptas, '
+#_FS_SYSTEMOVY
+'sistemos, '
+#_FS_ARCHIVOVAT
+'archyvinis, '
+#_FS_ZADNE
+nėra.
+#_FS_ZPRAVA
+Pranešimas:
+#_FS_SOUBOR
+'Failas: '
+#_FS_VELIKOST
+'Dydis: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' baitų'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Pakeista: '
+#_FS_ATRIBUTY
+'Atributai: '
+#_FS_VYBER_SOUBOR
+Pasirinkti failą:
+#_FS_SOUBORNEVYTVOREN
+Nepavyko sukurti failo.
+#_FS_ADRESARNEVYTVOREN
+Nepavyko sukurti aplanko.
+#_FS_DISK2
+Įrenginiai:
+#_FS_DISK3
+'Įrenginys '
+#_FS_JMENOVKADISKU
+'Disko etiketė:  '
+#_FS_SYSTEMSOUBORU
+'Failų sistema:  '
+#_FS_KAPACITA
+'Talpa:          '
+#_FS_VOLNEHO
+'Laisva vieta:   '
+#_FS_SERCISLO
+Serijos numeris:
+#_FS_VYBER_NECO
+Būtina pasirinkti failą.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Įrenginys neparuoštas.
+#_FS_TRIDENI_NADPIS
+Rūšiavimas:
+#_FS_TRIDENI_MIX1
+pavadinimas*data*plėtinys
+#_FS_TRIDENI_MIX2
+didėjančiai*mažėjančiai
+#_PREPSATSOUBOR
+Perrašyti failą?
+#_VSEPOL
+visi elementai
+#_VYBPOL
+pasirinkti elem.
+#_ZAMPOL
+atmesti elem.
+#_VYBINFO
+Dešiniajame skydelyje yra visi elementai, kairiajame - pasirinkti.
+Pasirinkimas ir trynimas atliekamas su Enter.
+Perjunkite skydelius su Tab.
+#_VYBINFO2
+Kairiajame skydelyje rodomi pasirinkti elementai, dešiniajame - atmesti.
+Pasirinkimas ir trynimas atliekamas su Enter.
+Perjunkite skydelius su Tab.
+#_MOUSE_NOT_INSTALLED
+Pelės tvarkyklė neįdiegta. Įkelkite CTmouse ar panašią.
+#_LFB_NOT_AVAILABLE
+Jūsų vaizdo plokštė nepalaiko LFB šiam prašomam vaizdo režimui.

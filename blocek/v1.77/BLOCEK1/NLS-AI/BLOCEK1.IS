@@ -1,0 +1,139 @@
+## Blocek1, Icelandic, is, CP861
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=j#1;VYZNAM=!1>J<SB>† '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>ei '
+#_CANCEL
+<BARVA=!;KLAVESY=h#2;VYZNAM=!3>H<SB>ëtta viå
+#_CANCEL2
+' <BARVA=!;KLAVESY=h#2;VYZNAM=!3>H<SB>ëtta viå '
+#_POMOC
+Hj†l<BARVA=!;KLAVESY=p;VYZNAM=!4>p<SB>
+#_PALETA
+<BARVA=!;KLAVESY=l;VYZNAM=!6>L<SB>itaspjald
+#_MIXBAREV
+<BARVA=!;KLAVESY=b;VYZNAM=!7>B<SB>landa liti
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>iskur
+#_ZADAT
+<BARVA=!;KLAVESY=s;VYZNAM=!14>S<SB>l† inn
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+Nò <BARVA=!;KLAVESY=m;VYZNAM=!19>m<SB>appa
+#_ZPET
+<BARVA=!;KLAVESY=t;VYZNAM=!20>T<SB>il baka
+#_VPRED
+§<BARVA=!;KLAVESY=f;VYZNAM=!21>f<SB>ram
+#_FS_NAHORU
+<BARVA=!;KLAVESY=u;VYZNAM=!23>U<SB>pp
+#_FS_TRIDENI
+<BARVA=!;KLAVESY=r;VYZNAM=!24>R<SB>îåun
+#_INFO
+'Info:            '
+#_DOTAZ
+'Spurning:        '
+#_ANONE_DOTAZ
+'Spurning:        '
+#_CHYBA
+Villa!
+#_VLOZ_TEXT
+Setja inn texta:
+#_VYBER_BARVU
+Velja lit:
+#_FS_ADR_JAKSEMAJMENOVAT
+Nafn mîppu
+#_FS_PRO_CTENI
+'skrifvariå, '
+#_FS_SKRYTY
+'faliå, '
+#_FS_SYSTEMOVY
+'kerfis, '
+#_FS_ARCHIVOVAT
+'safn, '
+#_FS_ZADNE
+engin.
+#_FS_ZPRAVA
+Skilaboå:
+#_FS_SOUBOR
+'Skr†: '
+#_FS_VELIKOST
+'Stërå: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' bët'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Breytt: '
+#_FS_ATRIBUTY
+'Eigindi: '
+#_FS_VYBER_SOUBOR
+Velja skr†:
+#_FS_SOUBORNEVYTVOREN
+Ekki t¢kst aå b£a til skr†.
+#_FS_ADRESARNEVYTVOREN
+Ekki t¢kst aå b£a til mîppu.
+#_FS_DISK2
+Drif:
+#_FS_DISK3
+'Drif '
+#_FS_JMENOVKADISKU
+'Disksmerki:     '
+#_FS_SYSTEMSOUBORU
+'Skr†arkerfi:    '
+#_FS_KAPACITA
+'Stërå:          '
+#_FS_VOLNEHO
+'Laust pl†ss:    '
+#_FS_SERCISLO
+Raån£mer:
+#_FS_VYBER_NECO
+Velja veråur skr†.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Drif ekki tilb£iå.
+#_FS_TRIDENI_NADPIS
+Rîåun:
+#_FS_TRIDENI_MIX1
+nafn*dagsetning*ending
+#_FS_TRIDENI_MIX2
+hëkkandi*lëkkandi
+#_PREPSATSOUBOR
+Skrifa yfir skr†?
+#_VSEPOL
+îll atriåi
+#_VYBPOL
+valin atriåi
+#_ZAMPOL
+hîfnuå atriåi
+#_VYBINFO
+• hëgri glugga eru îll atriåi og ° ïeim vinstri ïau vîldu.
+Val og eyåing er gerå meå Enter.
+Skipt er † milli glugga meå Tab.
+#_VYBINFO2
+• vinstri glugga eru valin atriåi og ° ïeim hëgri ïau hîfnuåu.
+Val og eyåing er gerå meå Enter.
+Skipt er † milli glugga meå Tab.
+#_MOUSE_NOT_INSTALLED
+M£sarrekill ekki uppsettur. Hladdu inn CTmouse eåa svipuåu.
+#_LFB_NOT_AVAILABLE
+Skj†kortiå ïitt styåur ekki LFB-ham fyrir valinn skj†ham.

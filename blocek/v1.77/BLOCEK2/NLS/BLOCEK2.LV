@@ -1,0 +1,730 @@
+## Blocek2, latvian, lv, cp775,
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+LatvieÕu     (lv)
+#identifikuj_se2
+blocek2.lv
+#sys_font
+775-16.fv
+#sys_font_maly
+775-14.fv
+#chyba_videomodu
+PieprasŒtais video reØŒms nav pieejams:
+#sys_font_kodovani
+775
+#m1
+<BARVA=!;KLAVESY=f>F<SB>ails
+#m2
+<BARVA=!;KLAVESY=i>I<SB>esp‰jas
+#m3
+<BARVA=!;KLAVESY=p>P<SB>alŒdzŒba
+#m31
+<BARVA=!;KLAVESY=p>P<SB>ar programmu
+#m32
+L<BARVA=!;KLAVESY=a>a<SB>sŒt INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>ist‰mas informƒcija
+#m34
+H<BARVA=!;KLAVESY=i>i<SB>perteksta palŒdzŒba
+#m4
+<BARVA=!;KLAVESY=t>T<SB>eksts
+#m11
+<BARVA=!;KLAVESY=j>J<SB>auns    <<F1>>
+#m12
+<BARVA=!;KLAVESY=a>A<SB>tv‰rt <<F3>>
+#m13
+<BARVA=!;KLAVESY=s>S<SB>aglabƒt  <<F2>>
+#m14
+Pƒ<BARVA=!;KLAVESY=r>r<SB>iet uz DOS
+#m15
+I<BARVA=!;KLAVESY=z>z<SB>iet   <<ESC>>
+#m16
+Aiz<BARVA=!;KLAVESY=v>v<SB>‰rt  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=k>K<SB>rƒsu izv‰le
+#m211
+<BARVA=!;KLAVESY=p>P<SB>riekÕplƒna krƒsa
+#m212
+<BARVA=!;KLAVESY=f>F<SB>ona krƒsa
+#m213
+<BARVA=!;KLAVESY=b>B<SB>ƒzes krƒsa
+#m215
+<BARVA=!;KLAVESY=i>I<SB>zceltƒs rindas krƒsa
+#m22
+<BARVA=!;KLAVESY=v>V<SB>aloda
+#m23
+<BARVA=!;KLAVESY=a>A<SB>ktŒvƒs rindas izcelÕana
+#m24
+<BARVA=!;KLAVESY=f>F<SB>onta izv‰le
+#m25
+Att‰lu f<BARVA=!;KLAVESY=i>i<SB>ltra izv‰le
+#m26
+V‰lamƒ k<BARVA=!;KLAVESY=l>l<SB>aviat×ra
+#m27
+Redaktora sƒnu <BARVA=!;KLAVESY=p>p<SB>anelis
+#m28
+<BARVA=!;KLAVESY=s>S<SB>aglabƒt iestatŒjumus
+#m29
+A<BARVA=!;KLAVESY=t>t<SB>starpju izcelÕana
+#m41
+Konvert‰t uz <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+Konvert‰t <BARVA=!;KLAVESY=n>n<SB>o UTF-8
+#m43
+<BARVA=!;KLAVESY=r>R<SB>indu lauÕana
+#m431
+<BARVA=!;KLAVESY=f>F<SB>iks‰t rindu lauÕanu
+#m432
+Rindu a<BARVA=!;KLAVESY=p>p<SB>vienoÕana
+#m44
+<BARVA=!;KLAVESY=m>M<SB>ekl‰t      <<Ctrl-F>>
+#m45
+Mekl‰t <BARVA=!;KLAVESY=t>t<SB>ƒlƒk <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=a>A<SB>izstƒt      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=g>G<SB>rƒmatzŒmes
+#m47
+<BARVA=!;KLAVESY=s>S<SB>imbolu karte
+#m48
+<BARVA=!;KLAVESY=k>K<SB>od‰juma konvert‰Õana <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=o>O<SB>perƒcijas ar blokiem
+#m490
+•ener‰t <BARVA=!;KLAVESY=q>Q<SB>R kodu
+#m491
+Simboli uz HTML <BARVA=!;KLAVESY=e>e<SB>ntŒt‰m
+#m492
+Uz <BARVA=!;KLAVESY=l>l<SB>ielajiem burtiem
+#m493
+Uz m<BARVA=!;KLAVESY=a>a<SB>zajiem burtiem
+#m494
+H<BARVA=!;KLAVESY=t>T<SB>ML entŒtes uz simboliem
+#m495
+SvŒtrko<BARVA=!;KLAVESY=d>d<SB>i
+#vyber_soubor
+Izv‰lieties failu:
+#jak_to_ulozit
+Kƒ to saglabƒt?
+#soubor_existuje_prepsat
+¾ƒds fails jau eksist‰
+pƒrrakstŒt?
+#o_programu
+Par programmu
+#napoveda
+PalŒdzŒba
+#varovani
+<BARVA=51200>brŒdinƒjums!<SB>
+#opravdu_konec
+Vai tieÕƒm iziet?
+Nesaglabƒtƒs izmaiìas tiks zaud‰tas.
+#tento_soubor_uz_jednou_mame
+¾is fails jau ir atv‰rts.
+Blocek ëaus jums to atv‰rt v‰lreiz,
+bet tas darbosies neatkarŒgi no pirmƒs instances!
+t.i. NE K  IDE PASCAL
+#unicode
+unicode
+#zalamovani
+rindu lauÕana
+#proporcionalni_mod
+proporcionƒls
+#vyber_barvu_popredi
+Izv‰lieties priekÕplƒna krƒsu
+#vyber_barvu_pozadi
+Izv‰lieties fona krƒsu
+#vyber_barvu_zakladu
+Izv‰lieties bƒzes krƒsu
+#vyber_barvu_prosv
+Izv‰l‰ties krƒsu
+#zda_pro_rad
+Izcelt aktŒvo rindu?
+#nastaveni_ulozeno
+IestatŒjumi saglabƒti
+
+#zatim_neni
+¾Œ funkcija v‰l nav pieejama.
+
+#hypertextova_napoveda
+Hiperteksta palŒdzŒba
+
+#napoveda_koren
+Blocek - teksta redaktors un att‰lu skatŒtƒjs
+
+PalŒdzŒbas t‰mas:
+1) <OK="napoveda_klavesy">VadŒba<OK/>
+2) <OK="napoveda_mys">VadŒba ar peli<OK/>
+3) <OK="napoveda_prvky">VadŒbas elementi<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>VadŒba<SB;SF>
+<barva=65535>F10<sb>   - ieiet galvenajƒ izv‰ln‰
+<barva=65535>F1<sb>    - izveidot jaunu failu
+<barva=65535>F2<sb>    - saglabƒt failu
+<barva=65535>F3<sb>    - atv‰rt failu
+<barva=65535>Alt+F3<sb> - aizv‰rt failu
+<barva=65535>Alt+F1<sb> - atv‰rt failu INFO.TXT
+<barva=65535>Ctrl+F<sb> - mekl‰t
+<barva=65535>Ctrl+S<sb> - turpinƒt mekl‰Õanu
+<barva=65535>Ctrl+H<sb> - mekl‰t un aizstƒt
+<barva=65535>Ctrl+A<sb> - iezŒm‰t visu dokumentu kƒ bloku
+<barva=65535>Ctrl+Q<sb> - piedƒvƒs saistŒtu simbolu p‰d‰jam ievadŒtajam [a,?...]
+<barva=65535>Ctrl+K<sb> - funkcijas simbolu konvert‰Õanai starp daØƒdiem kod‰jumiem
+<barva=65535>Ctrl+L<sb> - ƒtrs rindas redi…‰Õanas izv‰lnes izsaukums
+<BARVA=65535>LShift+Alt<sb> - mainŒt tastat×ras iestatŒjumus
+<barva=65535>Ctrl+Alt+uz augÕu<sb>  - iezŒm‰t visu paÕreiz‰jo rindu kƒ bloku
+<barva=65535>Ctrl+Alt+uz leju<sb>    - iezŒm‰t vƒrdu zem kursora kƒ bloku
+<barva=65535>Ctrl+Alt+pa kreisi<sb>  - iezŒm‰t visus simbolus pa kreisi no kursora
+<barva=65535>Ctrl+Alt+pa labi<sb> - iezŒm‰t visus simbolus pa labi no kursora
+<barva=65535>Backspace<sb> - dz‰st simbolu pa kreisi no kursora
+<barva=65535>Delete<sb> - dz‰st simbolu pa labi no kursora
+<barva=65535>Shift+Delete<sb> - dz‰st izv‰l‰to bloku
+<barva=65535>*bultiìas<sb> - kursora pƒrvietoÕana
+<barva=65535>*Ctrl+PageUp<sb> vai <barva=65535>*Ctrl+Home<sb> - pƒriet uz dokumenta pirmo rindu
+<barva=65535>*Ctrl+PageDown<sb> vai <barva=65535>*Ctrl+End<sb> - pƒriet uz dokumenta p‰d‰jo rindu
+<barva=65535>*Ctrl+pa labi<sb> - pƒrvietoties par vienu vƒrdu pa labi
+<barva=65535>*Ctrl+pa kreisi<sb> - pƒrvietoties par vienu vƒrdu pa kreisi
+   Taustiìi, kas atzŒm‰ti ar "*", var tikt kombin‰ti ar taustiìu <barva=65535><Shift><sb>.
+   ¾ƒdƒ gadŒjumƒ bloka izm‰rs mainŒsies kopƒ ar kursora pƒrvietoÕanos.
+<barva=65535>Ctrl+[1-7]<sb> - kop‰t iezŒm‰to bloku starpliktuv‰ nr. 1-7
+<barva=65535>Alt+[1-7]<sb> - ielŒm‰t tekstu no starpliktuves nr. 1-7
+<barva=65535>Ctrl+pluss<sb> un <barva=65535>Ctrl+mŒnuss<sb> - ƒtra ritinƒÕana starp atv‰rtajiem failiem
+<barva=65535>ESC<sb>   - beigt
+<barva=65535>Alt+F2<sb> - saglabƒt paÕreiz‰jo ekrƒnu
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>VadŒba ar peli<SB;SF>
+<barva=65535>1) Dokumenta logƒ<SB>
+Kreisais klikÕéis (KK) - pƒrvieto kursoru uz norƒdŒto teksta vietu.
+KK+shift - norƒda teksta bloka sƒkumu un beigas
+KK tur‰Õana un peles vilkÕana - interaktŒva teksta bloka iezŒm‰Õana
+Labais klikÕéis (LK) - parƒda informƒciju par izv‰l‰to simbolu un piedƒvƒ dialogu
+simbolu konvert‰Õanai. Tƒpat piedƒvƒ funkcijas darbam ar grƒmatzŒm‰m.
+
+<barva=65535>2) Atv‰rto failu ciëìu joslƒ<SB>
+KlikÕéis KK - pƒrsl‰dz failu uz galveno logu
+KlikÕéis LK - vairƒku faila opciju izv‰lne
+(aizv‰rÕana, visu pƒr‰jo aizv‰rÕana, pilnƒ ceëa lŒdz failam parƒdŒÕana)
+
+<barva=65535>3) Teksta starpliktuves indikatorƒ<SB>
+KlikÕéis KK - operƒciju izv‰lne ar izv‰l‰tƒs starpliktuves saturu
+
+<barva=65535>4) Citas piezŒmes<SB>
+->> Visi pƒr‰jie grafiskƒ interfeisa elementi tagad izmanto tikai kreiso peles pogu.
+->> GandrŒz visus dialoglodziìus var pƒrvietot ekrƒnƒ, velkot aiz augÕ‰jƒs virsrakstjoslas.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>VadŒbas elementi<SB;SF>
+Lielƒko daëu aizìem <barva=65535>galvenais logs<SB>. Tajƒ tiek parƒdŒts redi…‰jamais dokuments
+vai att‰ls. Dokumenta loga kreisajƒ malƒ var b×t sƒnu panelis, kas norƒda,
+kƒ beidzas atseviÕéas dokumenta rindas.
+<barva=65535>1) PastƒvŒgƒ rinda<SB>
+Galvenƒ izv‰lne: <barva=65535>Fails<SB>, <barva=65535>Teksts<SB>, <barva=65535>Iesp‰jas<SB>, <barva=65535>PalŒdzŒba<SB>
+Pa labi atrodas <OK="napoveda_indikatory">starpliktuves indikatori<OK/>, numur‰ti 1-7.
+AugÕ‰jƒ labajƒ st×rŒ ir saraksts tastat×ras izkƒrtojuma izv‰lei. To var atv‰rt arŒ ar <OK="napoveda_klavesy">ALT+SHIFT<OK/>.
+
+<barva=65535>2) Konteksta rinda<SB>
+Tƒ mainƒs atkarŒbƒ no galvenƒ loga satura.
+
+<barva=65535>3) Atv‰rto failu cilnes<SB>
+Kad atverat failu, tƒ cilne parƒdƒs Õajƒ joslƒ.
+
+#napoveda_indikatory
+Ja iekop‰siet tekstu starpliktuv‰ (ar <OK="napoveda_klavesy">CTRL+[1-7]<OK/>),
+indikators kë×s balts. Ja starpliktuve ir tukÕa, tiek rƒdŒts pƒrsvŒtrots aplis.
+7. starpliktuves indikators var izskatŒties kƒ <BARVA=65535>7W<SB>.
+Tas nozŒm‰, ka tƒ ir saistŒta ar MS Windows sist‰mas starpliktuvi. SŒkƒka informƒcija failƒ TECHNOTE.TXT.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versija 1.77b
+Kompilƒcijas datums: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek ir teksta redaktors un att‰lu skatŒtƒjs,
+kas sp‰j strƒdƒt ar failiem UTF-8 kod‰jumƒ.
+Tas lieliski piem‰rots lieliem failiem un garƒm rindƒm.
+Paldies Mateusz Viste par Unicode fontiem.
+Blocek darbojas arŒ kƒ parastu att‰lu formƒtu skatŒtƒjs,
+bet att‰lus nevar redi…‰t.
+
+¾Œ programma tiek izplatŒta saskaìƒ ar GNU/GPL licenci.
+
+#parametr_otaznik
+Sintakse:
+BLOCEK [fails1 [, fails2 [,...]]]
+#ovladani_obrazku
+pilnekrƒns*o<<>>O*+90*-90*horiz*vert*Exif dati
+
+#soubor_nebyl_ulozen
+Fails netika saglabƒts!
+Diskos nav pietiekami daudz vietas vai disks
+ir tikai lasƒms
+
+#chyba_font_int
+Ielƒd‰jot fonta failu, radƒs kë×da
+#chyba_font_neint
+Tr×kst fonta faila vai tƒ ielƒdes laikƒ radƒs kë×da:
+
+#informace_exif
+Informƒcija no Exif bloka
+#exif_date_strs
+Datums un laiks:         *Ori…inƒla datums un laiks:*Fiks‰Õanas datums un laiks:
+#exif_camera_info
+RaØotƒjs:*Modelis:*Apraksts:*Programmat×ra:*Gaismas avots:*Zibspuldze:*EkspozŒcijas reØŒms:*ISO:*EkspozŒcijas laiks:*Orientƒcija:*Tuvinƒjums:
+#exif_lightsrc_info
+Nezinƒms*Dienasgaisma*Fluoresc‰joÕs*Volframs*Zibspuldze*Standarta gaisma A*Standarta gaisma B*Standarta gaisma C*D55*D65*D75*Cits avots*Nezinƒms
+#exif_flash_info
+Bez zibspuldzes*Zibspuldze*Zibspuldze bez priekÕzibÕìiem*Zibspuldze ar priekÕzibÕìiem*Automƒtiskƒ zibspuldze*Bez zibspuldzes*Nezinƒms
+#exif_expos_mode
+Nezinƒms*Manuƒlais reØŒms*Normƒla programma*Diafragmas prioritƒte*Sl‰dØa prioritƒte*RadoÕƒ programma*DarbŒbas reØŒms*Portreta reØŒms*Ainavas reØŒms*Nezinƒms
+#exif_orientation_desc
+Normƒla*Horiz. atspoguëojums*Pagriezts par 180ø*Vert. atspoguëojums*Pagriezts par 90ø pa kreisi un atspoguëots*Pagriezts par 90ø pa labi*Pagriezts par 90ø pa labi un atspoguëots*Pagriezts par 90ø pa kreisi*Nezinƒma
+#exif_zoom_unused
+Neizmantots
+#exif_GPS_info
+GPS vietas informƒcija*platums:*garums:*augstums:*azimuts*Z*D*R*A*m*grƒdi*min*sek
+#zkopirovat_exif
+Uz starpliktuvi
+#nejde_o_obrazek
+Fails ir bojƒts vai att‰la
+dati neatbalstŒtƒ formƒtƒ.
+Fails tiks atv‰rts kƒ teksts.
+#nelze_fixovat_zalamani
+¾Œ funkcija pieejama tikai
+rindu lauÕanas reØŒmƒ.
+#vyhledavani
+Mekl‰Õana
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>mekl‰Õanas reØŒms<POZADI=->
+#vyhled_mozn
+no kursora uz <BARVA=!;KLAVESY=p>p<SB>riekÕu
+no kursora a<BARVA=!;KLAVESY=t>t<SB>pakaë
+no faila <BARVA=!;KLAVESY=s>s<SB>ƒkuma
+#roz_vel_pismen
+R<BARVA=!;KLAVESY=e>e<SB>…istrjutŒgs
+
+#text_nenalezen
+Mekl‰tais teksts nav atrasts.
+#nahradit_vyskyt
+Vai aizstƒt Õo atradumu?
+#potvrzovat
+apstipri<BARVA=!;KLAVESY=n>n<SB>ƒt
+#nahradvse
+aizstƒt <BARVA=!;KLAVESY=v>v<SB>isu
+#hledany_text
+mekl‰tais teksts:
+#novy_text
+jaunais teksts
+#nahrada_textu
+teksta aizstƒÕana
+#vyber_filtr
+Izv‰lieties filtru
+#opravdu_zavrit
+Fails ir mainŒts.
+Vai saglabƒt?
+#zavrit_ostatni
+Aizv‰rt visus pƒr‰jos
+#umisteni_souboru
+Faila atraÕanƒs vieta
+#bezejmenny
+<BARVA=46815><<jauns>><SB>
+#bezejmenny_soubor
+Jauns fails
+
+#zrusit_nac
+Vai atcelt ielƒdi?
+#chybi_bcfg
+Konfigurƒcijas fails <BARVA=65535>BLOCEK.CFG<SB>
+v‰l neeksist‰.
+Tas tiks izveidots, nokop‰jot
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Konfigurƒcijas fails <BARVA=65535>BLOCEK.CFG<SB>
+nav pareizƒ formƒtƒ.
+Tas tiks pƒrrakstŒts no
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Uz konfigurƒcijas failu <BARVA=65535>BLOCEK.CFG<SB>
+no faila <BARVA=65535>DEFAULT.CFG<SB> tika iekop‰ti Õƒdi elementi:
+#pocet_zmen
+Atrasts*Izmaiìu skaits:*Atradumu skaits*<BARVA=!;KLAVESY=r>R<SB>eØŒms: skaits
+#neniswap
+J×su sist‰ma neatbalsta virtuƒlo atmiìu!
+Tas var b×t bŒstami atmiìas tr×kuma d‰ë.
+¾obrŒd instal‰ts:
+#dpmineznamy
+<BARVA=333>nezinƒms DPMI draiveris :-(<SB>
+#kaslinaswap
+(¾o pƒrbaudi varat atcelt failƒ BLOCEK.CFG, iestatot
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Pilns saraksts...
+#vybprefkl
+Kƒdƒm tastat×rƒm jƒb×t galvenajƒ izv‰ln‰?
+#vybprefflt
+Kƒdiem filtriem jƒb×t galvenajƒ izv‰ln‰?
+
+#asciiauto
+automƒtiska noteikÕana
+
+#vkod
+<PODTRH=+>noklus‰juma<PODTRH=->
+#ckod
+<PODTRH=+>m‰réa<PODTRH=->
+#oznaceno
+iezŒm‰ts:
+#ozn_nic
+nekas
+#kompinfo
+Procesors:*Atmiìa:*MB RAM*Video:* VESA versija:*Video reØŒms:*Video atmiìa:*Atsvaidzes intensitƒte:*BIOS noklus‰jums*DOS versija:*DOS simbolu kopa:*Valsts kods p‰c DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideo reØŒmi*Video reØŒmu pƒrskats
+#kompinfo_lfn
+Garie failu nosaukumi (LFN):
+#schranka_c
+Starpliktuve nr.
+#schranka_do
+Kop‰t uz starpliktuvi
+#schranka_ze
+IelŒm‰t no starpliktuves
+#schranka_copy
+Kop‰t uz citu starpliktuvi
+#schranka_smaz
+Dz‰st
+#vyber_jazyk
+Izv‰lieties valodu
+#nutny_restart
+Lai mainŒtu valodu, programma ir jƒpƒrstart‰.
+#prevod_html_entity
+Konvert‰Õana uz HTML entŒt‰m
+#prevod_html_ent_info
+Simboli ar ASCII vai Unicode v‰rtŒbu virs 127
+tiks konvert‰ti uz HTML entŒt‰m.
+Konvert‰Õanas apgabalu nosaka teksta bloks.
+#text_je_v_unicode
+Teksts ir Unicode formƒtƒ.
+#text_je_v_ascii
+Teksts ir ASCII kod‰jumƒ un tiks
+konvert‰ts p‰c konvert‰Õanas tabulas.
+#neni_oz_blok
+Nav iezŒm‰ts neviens bloks - tƒp‰c konvert‰Õu
+visu tekstu
+#prevod_mala_velka
+Teksts ar lielajiem burtiem
+#prevod_mala_velka_inf
+Mazos burtus iezŒm‰tajƒ blokƒ aizstƒj ar lielajiem.
+Citi simboli netiek mainŒti.
+#prevod_velka_mala
+Teksts ar mazajiem burtiem
+#prevod_velka_mala_inf
+Lielos burtus iezŒm‰tajƒ blokƒ aizstƒj ar mazajiem.
+Citi simboli netiek mainŒti.
+#kodovani_dokumentu
+kod‰jums:
+#help_non_unicode
+Tikai maina simbolu kopas apzŒm‰jumu. Fonts netiek mainŒts.
+#help_inter_znaku
+Konvert‰Õana starp simboliem un vairƒku simbolu sekvenc‰m UTF-8 / UTF-16.
+Ja notiek Unicode / ne Unicode maiìa, fonts mainŒsies.
+#help_tabkonv_znaku
+Izmantojot konvert‰Õanas tabulas, simboli tiek konvert‰ti uz citu kod‰jumu.
+Simbolu skaits paliek tƒds pats.
+
+#analyza_nedef_zn_dok
+Nedefin‰to simbolu analŒze visƒ tekstƒ
+
+#analyza_nedef_zn_blok
+Nedefin‰to simbolu analŒze iezŒm‰tajƒ blokƒ
+
+#poc_vysk_nedef_znaku_n
+simbola atradumu skaits
+
+#poc_vysk_nedef_znaku_vse
+visu nedefin‰to simbolu skaits
+
+#poc_vysk_nedef_znaku_unik
+unikƒlo nedefin‰to simbolu skaits:*to apgabals:
+
+#zamena_znaku
+Aizstƒt simbolu ar citu?
+
+#nedefinovany_znak
+Nedefin‰ts simbols*Nedef. simbolu analŒze
+
+#nedefinovany_znak_zam
+Vai aizstƒt visus nedefin‰tos simbolus?
+
+#zamena_znaku_radiob1
+Vienreiz‰ja simbola aizstƒÕana
+Visƒ dokumentƒ
+IezŒm‰tajƒ blokƒ
+
+#zamena_znaku_radiob2
+visur
+no sƒkuma lŒdz iezŒm‰tajam simbolam
+no iezŒm‰tƒ simbola tƒlƒk
+
+#znak_k_zamene
+Aizstƒj‰jsimbols...
+
+#dotaz_pri_zmene
+Jautƒt mainot?
+
+#kodovaniascii_dlg
+Iesp‰jamais ASCII kod‰jums:*nav iesp‰jams noteikt*Vai piekrŒtat?
+
+#polozka_dos
+(tabulƒrs)*(netabulƒrs)*vairƒk...
+
+#tbl_filtr_ascii
+Konvert‰Õana grupƒ:*noklus‰juma kod‰jums*m‰réa kod‰jums
+
+#niz_nonunicode1
+Kƒdƒ kod‰jumƒ tiek rƒdŒts teksts?
+
+#niz_nonunicode2
+Noklus‰juma un m‰réa kod‰jumi ir vienƒdi.
+Izmaiìas netiek veiktas.
+
+#ascii_2_utf_1
+Konvert‰Õana starp ASCII un UTF-8 vai UTF-16
+
+#ascii_2_utf_2
+Bloku operƒcijas (nemaina dokumenta kod‰jumu)
+
+#ascii_2_utf_3
+Visa dokumenta operƒcijas (maina kod‰jumu uz unicode)
+
+#uni_2_utf_1
+Konvert‰Õana starp Unicode un UTF-8 vai UTF-16
+
+#uni_2_utf_2
+Bloku operƒcijas (nemaina dokumenta kod‰jumu)
+
+#uni_2_utf_3
+Visa dokumenta operƒcijas (maina kod‰jumu uz ne unicode)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS kod‰jumƒ)
+
+#prohozeni_endianity
+Unicode baitu secŒbas (Endianity) samainŒÕana
+
+#tab_konv_zn
+Dokumentu apzŒm‰ tikai kƒ ne Unicode.
+Simbolus virs 255 aizstƒs ar aizstƒj‰jsimbolu.
+
+#zda_prenastavit_font1
+Vai mainŒt fontu un norƒdŒt kod‰jumu kƒ ne Unicode?
+
+#zda_prenastavit_font2
+Vai mainŒt fontu un norƒdŒt kod‰jumu kƒ Unicode?
+
+#pren_font_ano
+(ja tiek konvert‰ts viss teksts, ieteicams J )
+
+#pren_font_ne
+(ja tiek konvert‰ta tikai teksta daëa, ieteicams Ní)
+
+#preznacit_kodovani
+Vai mainŒt dokumenta kod‰juma apzŒm‰jumu?
+
+#zm_kod_dok
+Dokumenta kod‰juma mainŒÕana
+
+#zak_unicode
+Dokuments ir iekod‰ts Unicode standartƒ.
+
+#sada_a_filtr_souborem
+Dokumenta simbolu kopa un filtrs tiek defin‰ts failƒ:
+
+#interp_nonuni
+Ne Unicode interpretƒcija
+
+#konv_zn_utf
+Konvert‰Õana simbols/UTF sekvence
+
+#tab_konv_zz
+Tabulƒra konvert‰Õana simbols/simbols
+
+#zmena_fontu
+Fonta mainŒÕana
+
+#nas_zal_rad
+Rindu lauÕanas iestatŒjumi
+
+#nas_zal_mozn
+p‰c loga
+78 simboli
+80 simboli
+pielƒgots...
+
+#filesel_nejde_konverze
+NorƒdŒto nosaukumu nevar pareizi konvert‰t
+uz paÕreiz‰jo DOS koda lapu.
+Vai tik un tƒ turpinƒt?
+
+#podrobnosti
+SŒkƒka informƒcija
+
+#moznosti...
+Iesp‰jas...
+
+#form_konc_rad
+Rindu beigu formƒts
+
+#form_konc_help
+Ieteicams atstƒt CRLF standartu,
+kas tiek izmantots DOS un Windows.
+LF ir Unix/Linux standarts, bet
+CR tiek izmantots Macintosh.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Baitu secŒbas atzŒme (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Attiecas tikai uz Unicode failiem.
+Tƒ ir trŒs baitu sekvence faila sƒkumƒ.
+Ieteicams UTF-16, UTF-8 parasti neizmanto.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Vai tieÕƒm fiks‰t rindu lauÕanu visƒ tekstƒ?
+
+#rozs_fix_lom_blok
+Blokƒ nav rindas beigu.
+Vai paplaÕinƒt un turpinƒt?
+
+#jen_nezalam_rezim
+¾Œ funkcija pieejama tikai reØŒmƒ bez rindu lauÕanas.
+
+#opravdu_spoj_radky
+Vai tieÕƒm visƒ tekstƒ apvienot rindas rindkopƒs?
+
+#nahr_faze
+1. fƒze:*2. fƒze:*3. fƒze:
+
+#jen_v_bloku
+Tikai <BARVA=!;KLAVESY=b>b<SB>lokƒ
+
+#prevod_z_html_entit
+Dekod‰t HTML entŒtes par simboliem
+
+#prevod_z_html_entit_info
+AtpazŒst HTML entŒtes (piem‰ram, &#8222;) un aizstƒj tƒs ar Unicode simboliem.
+
+#qr_vygenerovany
+•ener‰ts QR kods
+
+#qr_ulozit
+Saglabƒt
+
+#qr_velikost
+Punkta izm‰rs QR kodƒ (1-20)
+
+#qr_uspech
+VeiksmŒgi! Saglabƒts ar nosaukumu:
+
+#qr_chyba
+Kë×da konvert‰jot uz QR kodu.
+
+#qr_chyba_save
+Kë×da saglabƒjot QR kodu.
+
+#qr_tvorba
+QR kodu izveide
+
+#qr_text
+Teksts konvert‰Õanai uz QR kodu
+
+#related_characters
+SaistŒtie simboli
+
+#zalozky
+GrƒmatzŒmes*GrƒmatzŒme nr.*RƒdŒt grƒmatzŒmes
+
+#menu_slovo
+izv‰lne/vƒrds
+
+#dialogy_menu_slovo
+Dialogs Mekl‰t*Dialogs Aizstƒt*LIELAJIEM*mazajiem*Pirmie lielie*Uz starpliktuvi
+
+#menu_radek
+izv‰lne/rinda
+
+#dialogy_menu_radek1
+Rinda blokƒ:
+<BARVA=!;KLAVESY=a>a<SB>r lauÕanu
+<BARVA=!;KLAVESY=b>b<SB>ez lauÕanas
+
+#dialogy_menu_radek2
+Atstarpes:
+noìemt atstarpes <BARVA=!;KLAVESY=s>s<SB>ƒkumƒ
+noìemt atstarpes <BARVA=!;KLAVESY=b>b<SB>eigƒs
+
+#dialogy_menu_radek3
+Atkƒpe:
+p‰c a<BARVA=!;KLAVESY=u>u<SB>gstƒkƒs rindas
+p‰c <BARVA=!;KLAVESY=t>t<SB>abulatora
+
+#dialogy_menu_radek4
+pluss 1 * mŒnuss 1 * pluss 4 * mŒnuss 4
+
+#pmysmenu
+<BARVA=!;KLAVESY=s>s<SB>imbols
+<BARVA=!;KLAVESY=v>v<SB>ƒrds
+<BARVA=!;KLAVESY=r>r<SB>inda
+
+#doprad
+Rindas pabeigÕana
+
+#doprad_txt
+Ievadiet vienu vai vairƒkus simbolus, ar kuriem
+aizpildŒÕu telpu no rindas beigƒm lŒdz
+peles klikÕéa vietai.
+Noklus‰jums ir [atstarpe].
+
+#zarovnani
+LŒdzinƒjums:*pa kreisi*pa labi
+
+#carkod_tvorba
+SvŒtrkodi
+
+#carkod_instr
+Ievadiet numuru vai Œsu tekstu
+PiezŒme: DaØi svŒtrkodu formƒti atbalsta tikai skaitëus. Turklƒt,
+daØi kod‰jumi (piem‰ram, EAN-13) prasa derŒgus kodus ar kontrolsummu.
+Lai gan nederŒgs numurs var tikt iekod‰ts, lasŒtƒjs var to neatpazŒt.
+
+#carkod_ulozit
+Saglabƒt
+
+#carkod_uspech
+VeiksmŒgi! Saglabƒts ar nosaukumu:
+
+#carkod_chyba
+Kë×da konvert‰jot uz svŒtrkodu.
+
+#carkod_chyba_save
+Kë×da saglabƒjot svŒtrkodu.
+
+#carkod_combine
+Pievienot iekod‰tu rindu
+
+#carkod_mozn
+¾o rindu var iekod‰t Õƒdos svŒtrkodos:

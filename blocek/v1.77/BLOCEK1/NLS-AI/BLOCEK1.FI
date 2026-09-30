@@ -1,0 +1,139 @@
+## Blocek1, Finnish, fi, CP865
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=k#1;VYZNAM=!1>K<SB>yll„ '
+#_NE
+' <BARVA=!;KLAVESY=e#2;VYZNAM=!2>E<SB>i '
+#_CANCEL
+<BARVA=!;KLAVESY=p#2;VYZNAM=!3>P<SB>eruuta
+#_CANCEL2
+' <BARVA=!;KLAVESY=p#2;VYZNAM=!3>P<SB>eruuta '
+#_POMOC
+O<BARVA=!;KLAVESY=h;VYZNAM=!4>h<SB>je
+#_PALETA
+Pa<BARVA=!;KLAVESY=l;VYZNAM=!6>l<SB>etti
+#_MIXBAREV
+<BARVA=!;KLAVESY=s;VYZNAM=!7>S<SB>ekoita v„rej„
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+Le<BARVA=!;KLAVESY=v;VYZNAM=!9>v<SB>y
+#_ZADAT
+<BARVA=!;KLAVESY=a;VYZNAM=!14>A<SB>nna
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+<BARVA=!;KLAVESY=u;VYZNAM=!19>U<SB>usi hak.
+#_ZPET
+<BARVA=!;KLAVESY=t;VYZNAM=!20>T<SB>akaisin
+#_VPRED
+Etee<BARVA=!;KLAVESY=n;VYZNAM=!21>n<SB>p„in
+#_FS_NAHORU
+<BARVA=!;KLAVESY=y;VYZNAM=!23>Y<SB>l”s
+#_FS_TRIDENI
+La<BARVA=!;KLAVESY=j;VYZNAM=!24>j<SB>ittele
+#_INFO
+'Info:            '
+#_DOTAZ
+'Kysymys:         '
+#_ANONE_DOTAZ
+'Kysymys:         '
+#_CHYBA
+Virhe!
+#_VLOZ_TEXT
+Sy”t„ teksti:
+#_VYBER_BARVU
+Valitse v„ri:
+#_FS_ADR_JAKSEMAJMENOVAT
+Anna hakemiston nimi
+#_FS_PRO_CTENI
+'vain luku, '
+#_FS_SKRYTY
+'piilotettu, '
+#_FS_SYSTEMOVY
+'j„rjestelm„, '
+#_FS_ARCHIVOVAT
+'arkisto, '
+#_FS_ZADNE
+ei mik„„n.
+#_FS_ZPRAVA
+Viesti:
+#_FS_SOUBOR
+'Tiedosto: '
+#_FS_VELIKOST
+'Koko: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' tavua'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Muutettu: '
+#_FS_ATRIBUTY
+'Attribuutit: '
+#_FS_VYBER_SOUBOR
+Valitse tiedosto:
+#_FS_SOUBORNEVYTVOREN
+Tiedostoa ei voitu luoda.
+#_FS_ADRESARNEVYTVOREN
+Hakemistoa ei voitu luoda.
+#_FS_DISK2
+Asemat:
+#_FS_DISK3
+'Asema '
+#_FS_JMENOVKADISKU
+'Aseman nimi:    '
+#_FS_SYSTEMSOUBORU
+'Tiedostoj„rj.:  '
+#_FS_KAPACITA
+'Kapasiteetti:   '
+#_FS_VOLNEHO
+'Vapaa tila:     '
+#_FS_SERCISLO
+Sarjanumero:
+#_FS_VYBER_NECO
+Tiedosto on valittava.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Asema ei ole valmis.
+#_FS_TRIDENI_NADPIS
+Lajittelu:
+#_FS_TRIDENI_MIX1
+nimi*p„iv„m„„r„*tarkenne
+#_FS_TRIDENI_MIX2
+nouseva*laskeva
+#_PREPSATSOUBOR
+Korvataanko tiedosto?
+#_VSEPOL
+kaikki kohteet
+#_VYBPOL
+valitut kohteet
+#_ZAMPOL
+hyl„tyt kohteet
+#_VYBINFO
+Oikeassa paneelissa on kaikki kohteet ja vasemmassa valitut.
+Valinta ja poisto tehd„„n Enterill„.
+Vaihda paneelien v„lill„ Tabulaattorilla.
+#_VYBINFO2
+Vasemmassa paneelissa n„kyv„t valitut kohteet ja oikeassa hyl„tyt.
+Valinta ja poisto tehd„„n Enterill„.
+Vaihda paneelien v„lill„ Tabulaattorilla.
+#_MOUSE_NOT_INSTALLED
+Hiiriajuria ei asennettu. Lataa CTmouse tai vastaava.
+#_LFB_NOT_AVAILABLE
+N„yt”nohjain ei tue LFB-tilaa pyydetylle n„ytt”tilalle.

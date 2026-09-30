@@ -1,0 +1,752 @@
+## Blocek2, hungarian, hu, cp852
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Magyar       (hu)
+#identifikuj_se2
+blocek2.hu
+#sys_font
+852-16.fv
+#sys_font_maly
+## latin214.fv
+852-14.fv
+#chyba_videomodu
+A kért videomód nem érhető el:
+#sys_font_kodovani
+852
+#m1
+<BARVA=!;KLAVESY=f>F<SB>ájl
+#m2
+<BARVA=!;KLAVESY=o>O<SB>pciók
+#m3
+<BARVA=!;KLAVESY=s>S<SB>úgó
+#m31
+<BARVA=!;KLAVESY=n>N<SB>évjegy
+#m32
+INFO.TXT <BARVA=!;KLAVESY=o>o<SB>lvasása  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=r>R<SB>endszerinformáció
+#m34
+<BARVA=!;KLAVESY=h>H<SB>ipertext súgó
+#m4
+S<BARVA=!;KLAVESY=z>z<SB>öveg
+#m11
+<BARVA=!;KLAVESY=u>U<SB>j    <<F1>>
+#m12
+M<BARVA=!;KLAVESY=e>e<SB>gnyitás <<F3>>
+#m13
+<BARVA=!;KLAVESY=m>M<SB>entés  <<F2>>
+#m14
+Kilépés a <BARVA=!;KLAVESY=d>D<SB>OS-ba
+#m15
+<BARVA=!;KLAVESY=k>K<SB>ilépés   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=b>B<SB>ezárás  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=s>S<SB>zínek
+#m211
+<BARVA=!;KLAVESY=e>E<SB>lőtérszín
+#m212
+<BARVA=!;KLAVESY=h>H<SB>áttérszín
+#m213
+<BARVA=!;KLAVESY=a>A<SB>lapszín
+#m215
+Sor <BARVA=!;KLAVESY=k>k<SB>iemelésének színe
+#m22
+<BARVA=!;KLAVESY=n>N<SB>yelv
+#m23
+<BARVA=!;KLAVESY=a>A<SB>kt. sor kiemelése
+#m24
+<BARVA=!;KLAVESY=b>B<SB>etűtípus
+#m25
+<BARVA=!;KLAVESY=k>K<SB>épszűrő
+#m26
+B<BARVA=!;KLAVESY=i>i<SB>llentyűzetek
+#m27
+<BARVA=!;KLAVESY=o>O<SB>ldalsó panel
+#m28
+Beállí<BARVA=!;KLAVESY=t>t<SB>ások mentése
+#m29
+Szókö<BARVA=!;KLAVESY=z>z<SB>ök mutatása
+#m41
+Konvertálás <BARVA=!;KLAVESY=u>U<SB>TF-8-ra
+#m42
+Konvertálás UT<BARVA=!;KLAVESY=f>F<SB>-8-ból
+#m43
+<BARVA=!;KLAVESY=s>S<SB>ortörés
+#m431
+Sor<BARVA=!;KLAVESY=t>t<SB>örés rögzítése
+#m432
+Sorok <BARVA=!;KLAVESY=e>e<SB>gyesítése
+#m44
+<BARVA=!;KLAVESY=k>K<SB>eresés      <<Ctrl-F>>
+#m45
+Kö<BARVA=!;KLAVESY=v>v<SB>etkező keresése <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=c>C<SB>sere      <<Ctrl-H>>
+#m460
+Könyv<BARVA=!;KLAVESY=j>j<SB>elzők
+#m47
+Karak<BARVA=!;KLAVESY=t>t<SB>ertérkép
+#m48
+K<BARVA=!;KLAVESY=o>o<SB>nverziók <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=b>B<SB>lokkműveletek
+#m490
+<BARVA=!;KLAVESY=q>Q<SB>R-kód generálása
+#m491
+Karakterek <BARVA=!;KLAVESY=h>H<SB>TML entitássá
+#m492
+<BARVA=!;KLAVESY=n>N<SB>agybetűssé
+#m493
+<BARVA=!;KLAVESY=k>K<SB>isbetűssé
+#m494
+HTM<BARVA=!;KLAVESY=l>L<SB> entitások karakterré
+#m495
+Vo<BARVA=!;KLAVESY=n>n<SB>alkódok
+#vyber_soubor
+Válasszon fájlt:
+#jak_to_ulozit
+Hogyan mentsem?
+#soubor_existuje_prepsat
+A fájl már létezik
+felülírja?
+#o_programu
+névjegy
+#napoveda
+súgó
+#varovani
+<BARVA=51200>figyelem!<SB>
+#opravdu_konec
+Valóban kilép?
+A nem mentett változtatások elvesznek.
+#tento_soubor_uz_jednou_mame
+Ez a fájl már meg van nyitva.
+A Blocek lehetővé teszi az ismételt megnyitást,
+de az első példánytól függetlenül fog működni!
+azaz
+NEM ÚGY, MINT A PASCAL IDE
+#unicode
+unicode
+#zalamovani
+sortörés
+#proporcionalni_mod
+arányos
+#vyber_barvu_popredi
+Válasszon előtérszínt
+#vyber_barvu_pozadi
+Válasszon háttérszínt
+#vyber_barvu_zakladu
+Válasszon alapszínt
+#vyber_barvu_prosv
+Válassz színt
+#zda_pro_rad
+Kiemeli az aktuális sort?
+#nastaveni_ulozeno
+Beállítások elmentve
+
+#zatim_neni
+Ez a funkció még nem elérhető.
+
+#hypertextova_napoveda
+Hipertext súgó
+
+#napoveda_koren
+Blocek - szövegszerkesztő és képnézegető
+
+Súgótémák:
+1) <OK="napoveda_klavesy">Vezérlés<OK/>
+2) <OK="napoveda_mys">Egérvezérlés<OK/>
+3) <OK="napoveda_prvky">Felhasználói felület elemei<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Vezérlés<SB;SF>
+<barva=65535>F10<sb>   - belépés a főmenübe
+<barva=65535>F1<sb>    - új fájl létrehozása
+<barva=65535>F2<sb>    - fájl mentése
+<barva=65535>F3<sb>    - fájl megnyitása
+<barva=65535>Alt+F3<sb> - fájl bezárása
+<barva=65535>Alt+F1<sb> - INFO.TXT megnyitása
+<barva=65535>Ctrl+F<sb> - keresés
+<barva=65535>Ctrl+S<sb> - keresés folytatása
+<barva=65535>Ctrl+H<sb> - keresés és csere
+<barva=65535>Ctrl+A<sb> - teljes dokumentum kijelölése blokként
+<barva=65535>Ctrl+Q<sb> - felkínál egy kapcsolódó karaktert az utoljára beírt [a,á,...] helyett
+<barva=65535>Ctrl+K<sb> - funkció a kódolások közötti karakterkonverzióhoz
+<barva=65535>Ctrl+L<sb> - gyorsmenü a sor szerkesztéséhez
+<BARVA=65535>LShift+Alt<sb> - billentyűzet beállításainak módosítása
+<barva=65535>Ctrl+Alt+fel<sb>  - aktuális sor kijelölése blokként
+<barva=65535>Ctrl+Alt+le<sb>   - kurzor alatti szó kijelölése blokként
+<barva=65535>Ctrl+Alt+balra<sb>  - minden karakter kijelölése a kurzortól balra
+<barva=65535>Ctrl+Alt+jobbra<sb> - minden karakter kijelölése a kurzortól jobbra
+<barva=65535>Backspace<sb> - karakter törlése a kurzortól balra
+<barva=65535>Delete<sb> - karakter törlése a kurzortól jobbra
+<barva=65535>Shift+Delete<sb> - kijelölt blokk törlése
+<barva=65535>*nyilak<sb> - kurzor mozgatása
+<barva=65535>*Ctrl+PageUp<sb> vagy <barva=65535>*Ctrl+Home<sb> - ugrás a dokumentum első sorára
+<barva=65535>*Ctrl+PageDown<sb> vagy <barva=65535>*Ctrl+End<sb> - ugrás a dokumentum utolsó sorára
+<barva=65535>*Ctrl+jobbra<sb> - ugrás egy szóval jobbra
+<barva=65535>*Ctrl+balra<sb> - ugrás egy szóval balra
+   A "*"-gal jelölt billentyűk vagy kombinációk
+   kombinálhatók a <barva=65535><Shift><sb> billentyűvel.
+Ekkor a szövegblokk mérete a kurzor mozgásával
+   együtt módosul.
+<barva=65535>Ctrl+[1-7]<sb> - kijelölt blokk másolása az 1-7. vágólapra
+<barva=65535>Alt+[1-7]<sb> - szöveg beillesztése az 1-7. vágólapról a kurzorhoz
+<barva=65535>Ctrl+plusz<sb> és <barva=65535>Ctrl+mínusz<sb> (a num. bill.-en) - gyors görgetés a megnyitott fájlok között
+<barva=65535>ESC<sb>   - kilépés
+<barva=65535>Alt+F2<sb> - aktuális képernyő mentése
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Egérvezérlés<SB;SF>
+<barva=65535>1) A dokumentum ablakában<SB>
+Bal kattintás (BK) - a kurzort az adott helyre mozgatja a szövegben.
+BK+shift - megadja a szövegblokk kezdetét és végét
+BK lenyomva tartása és húzása - interaktív blokkkijelölés
+Jobb kattintás (JK) - megjeleníti a karakter információit és megnyitja
+a karakterkonverziós párbeszédablakot.
+Könyvjelző funkciókat is kínál.
+
+<barva=65535>2) A megnyitott fájlok lapjainak sávján<SB>
+Kattintás BK - a fájlt a főablakba váltja
+Kattintás JK - műveleti menü az adott fájlhoz
+(bezárás, az összes többi bezárása, teljes útvonal mutatása)
+
+<barva=65535>3) A vágólap indikátorán<SB>
+Kattintás BK - műveletek menü a vágólap tartalmával
+
+<barva=65535>4) Egyéb megjegyzések<SB>
+->> Az összes többi felületi elem csak a bal gombot használja
+->> Szinte minden párbeszédpanel áthelyezhető a címsor húzásával.
+->> Ha az információs ablakokban a szövegen húzza az egeret, kijelölheti, majd
+    a vágólapra másolhatja a <OK="napoveda_klavesy">CTRL+[1-7]<OK/> gombokkal.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Felhasználói felület elemei<SB;SF>
+A felület nagy részét a <barva=65535>főablak<SB> foglalja el. Ez egy szerkeszthető
+szöveges dokumentumot vagy a képnézegetőt jeleníti meg.
+A dokumentum bal szélén egy oldalsó panel lehet, amely
+jelzi az egyes sorok befejezésének módját.
+Az ablak felett három panel található.
+
+<barva=65535>1) Rögzített sor<SB>
+Főmenü: <barva=65535>Fájl<SB>, <barva=65535>Szöveg<SB>, <barva=65535>Opciók<SB>, <barva=65535>Súgó<SB>
+A menütől jobbra találhatók a <OK="napoveda_indikatory">vágólap indikátorok<OK/> 1-7-ig számozva.
+Még jobbra (jobb felső sarok) egy legördülő lista a billentyűzetkiosztáshoz.
+Ez a lista az <OK="napoveda_klavesy">ALT+SHIFT<OK/> paranccsal is megnyitható.
+
+<barva=65535>2) Kontextuális sor<SB>
+A főablak tartalmától függően változik.
+Ha kép van benne, bal oldalon mutatja a méreteit képpontban.
+Jobb oldalon a teljes képernyő, az optimális illeszkedés és a forgatás/tükrözés gombjai.
+Ha dokumentum, megjelenik egy gomb a karakterkonverziókhoz
+(elérhető a <OK="napoveda_klavesy">CTRL+K<OK/> paranccsal is). Tőle jobbra egy gomb
+a sortörési módok közötti váltáshoz.
+Még jobbra egy jelölőnégyzet a sortörés be/ki kapcsolására.
+A jobb szélen az aktuális oszlop és sor látható.
+
+<barva=65535>3) Megnyitott fájlok lapjai<SB>
+Amíg nincs betöltve fájl, az alsó sáv üres.
+Amint megnyit egy fájlt, a lapja megjelenik ezen a sávon.
+A Blocekben egyszerre több fájl is nyitva lehet.
+A lapjaik egymás mellett jelennek meg, és az <OK="napoveda_mys">egérrel<OK/> válthat közöttük.
+A bal egérgomb az adott fájlra váltja a főablakot.
+A jobb egérgomb egy almenüt nyit meg a fájl bezárásához, a többi bezárásához vagy az útvonal megjelenítéséhez.
+
+#napoveda_indikatory
+Ha szöveget másol a vágólapra (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>) vagy a párbeszédablakon keresztül,
+annak jelenlétét az jelzi, hogy az indikátor világít, mint egy villanykörte.
+Ha a vágólap üres, áthúzott körként jelenik meg.
+A 7-es indikátor <BARVA=65535>7W<SB> formában jelenhet meg.
+Ez azt jelenti, hogy az MS Windows vágólap szolgáltatásai elérhetők.
+Ebben az esetben a 7-es vágólap a Windows vágólapjához van kapcsolva, hogy szöveget cseréljen más programokkal.
+Részletek a TECHNOTE.TXT fájlban
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+verzió 1.77b
+fordítás dátuma: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+A Blocek egy szövegszerkesztő és képnézegető,
+amely többek között UTF-8 fájlokat is képes kezelni,
+így nagyon alkalmas pl. weboldalak készítésére.
+A Blocek nagyon nagy fájlokat és hosszú sorokat
+is tud kezelni. Köszönet Mateusz Viste-nek az Unicode betűtípusokért.
+A Blocek az elterjedt képformátumok nézegetőjeként is működik,
+de nem tudja őket szerkeszteni.
+Ez a program a GNU/GPL licenc feltételei szerint terjeszthető
+
+#parametr_otaznik
+Szintaxis:
+BLOCEK [fájl1 [, fájl2 [,...]]]
+#ovladani_obrazku
+teljes képernyő*o<<>>O*+90*-90*vízsz.*függ.*Exif adatok
+
+#soubor_nebyl_ulozen
+A fájl nem lett elmentve!
+nincs elég hely a meghajtón vagy
+a meghajtó írásvédett
+
+#chyba_font_int
+Hiba a betűkészlet-fájl betöltése közben
+#chyba_font_neint
+Hiányzó betűkészlet-fájl vagy hiba a fájl betöltése közben:
+
+#informace_exif
+Információk az Exif blokkból
+#exif_date_strs
+Dátum és idő:*Eredeti dátum és idő:*Digitalizálás dátuma:
+#exif_camera_info
+Kamera gyártója:*Kamera modellje:*Leírás:*Szoftver:*Fényforrás:*Vaku:*Expozíciós mód:*ISO:*Expozíciós idő:*Tájolás:*Zoom:
+#exif_lightsrc_info
+Ismeretlen*Nappali fény*Fénycső*Izzólámpa*Vaku*Standard fény A*Standard fény B*Standard fény C*D55*D65*D75*Más forrás*Ismeretlen
+#exif_flash_info
+Nincs vaku*Vaku*Vaku elővillanás nélkül*Vaku elővillanással*Automatikus vaku*Nincs vaku*Ismeretlen
+#exif_expos_mode
+Ismeretlen*Kézi mód*Normál program*Rekesz-előválasztás*Záridő-előválasztás*Kreatív program*Akció mód*Portré mód*Tájkép mód*Ismeretlen
+#exif_orientation_desc
+Normál*Vízszintes tükrözés*180°-os forgatás*Függőleges tükrözés*90° balra forgat és tükröz*90° jobbra forgat*90° jobbra forgat és tükröz*90° balra forgat*Ismeretlen
+#exif_zoom_unused
+Nincs használatban
+#exif_GPS_info
+GPS helyadatok*szélesség:*hosszúság:*magasság:*azimut*É*D*Ny*K*m*o*'*''
+#zkopirovat_exif
+A vágólapra
+#nejde_o_obrazek
+A fájl sérült, vagy a kép adatai
+nem támogatott formátumban vannak
+A fájl szövegként nyílik meg.
+#nelze_fixovat_zalamani
+Ez a funkció csak
+sortörés módban érhető el.
+#vyhledavani
+Keresés
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>keresési mód<POZADI=->
+#vyhled_mozn
+e<BARVA=!;KLAVESY=l>l<SB>őre
+há<BARVA=!;KLAVESY=t>t<SB>ra
+a<BARVA=!;KLAVESY=z>z<SB> elejétől
+#roz_vel_pismen
+<BARVA=!;KLAVESY=k>K<SB>is/nagybetűk megkülönböztetése
+
+#text_nenalezen
+A megadott szöveg nem található.
+#nahradit_vyskyt
+Lecseréli ezt az előfordulást?
+#potvrzovat
+meg<BARVA=!;KLAVESY=e>e<SB>rősít
+#nahradvse
+m<BARVA=!;KLAVESY=i>i<SB>ndent cserél
+#hledany_text
+keresendő szöveg:
+#novy_text
+új szöveg
+#nahrada_textu
+szöveg cseréje
+#vyber_filtr
+Válasszon szűrőt
+#opravdu_zavrit
+A fájl módosult.
+Szeretné menteni?
+#zavrit_ostatni
+Minden más bezárása
+#umisteni_souboru
+Fájl helye
+#bezejmenny
+<BARVA=46815><<új>><SB>
+#bezejmenny_soubor
+Új fájl
+
+#zrusit_nac
+Megszakítja a betöltést?
+#chybi_bcfg
+A <BARVA=65535>BLOCEK.CFG<SB> konfigurációs fájl
+még nem létezik.
+A <BARVA=65535>DEFAULT.CFG<SB> fájl
+másolásával létrehozom.
+#chybny_bcfg
+A <BARVA=65535>BLOCEK.CFG<SB> konfigurációs fájl
+formátuma érvénytelen.
+Ezért felülírom a
+<BARVA=65535>DEFAULT.CFG<SB> fájllal.
+#pridani_bcfg
+A <BARVA=65535>BLOCEK.CFG<SB> konfigurációs fájlhoz
+a következő elemek lettek hozzáadva a <BARVA=65535>DEFAULT.CFG<SB>-ből:
+#pocet_zmen
+Találat*Módosítások száma:*Előfordulások*<BARVA=!;KLAVESY=f>F<SB>unkció az előfordulások számolására
+#neniswap
+A rendszere nem támogatja a virtuális memóriát!
+Ez veszélyes lehet (memóriahiány kockázata).
+Próbáljon meg egy másik DPMI-kezelőt használni.
+jelenleg telepítve:
+#dpmineznamy
+<BARVA=333>ismeretlen DPMI-kezelő :-(<SB>
+#kaslinaswap
+(Ezt az ellenőrzést kikapcsolhatja a
+<BARVA=65530>zkontroluj_swap = 0<SB> beállításával a BLOCEK.CFG-ben)
+#plnyseznam
+Teljes lista...
+#vybprefkl
+Mely billentyűzetek legyenek az alapmenüben?
+#vybprefflt
+Mely szűrők legyenek az alapmenüben?
+
+#asciiauto
+automatikus felismerés
+
+#vkod
+<PODTRH=+>forrás<PODTRH=->
+#ckod
+<PODTRH=+>cél<PODTRH=->
+#oznaceno
+kijelölve:
+#ozn_nic
+semmi
+#kompinfo
+Processzor:*Memória:*MB RAM*Videó:* VESA verzió:*Videomód:*Videomemória:*Frissítési gyak.:*BIOS default*DOS verzió:*Karakterkészlet:*DOS országkód:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideomódok*Módok áttekintése
+#kompinfo_lfn
+Hosszú fájlnevek (LFN):
+#schranka_c
+Vágólap száma
+#schranka_do
+Másolás a vágólapra
+#schranka_ze
+Beillesztés a vágólapról
+#schranka_copy
+Másolás egy másik vágólapra
+#schranka_smaz
+Törlés
+#vyber_jazyk
+Válasszon nyelvet
+#nutny_restart
+A nyelv megváltoztatásához újraindítás szükséges.
+#prevod_html_entity
+Konvertálás HTML entitásokká
+#prevod_html_ent_info
+A 127-nél nagyobb ASCII/Unicode értékű karakterek
+HTML entitásokká lesznek alakítva.
+A tartományt a kijelölt blokk határozza meg.
+#text_je_v_unicode
+A szöveg Unicode formátumú.
+#text_je_v_ascii
+A szöveg ASCII kódolású, és a
+konverziós táblázat szerint lesz konvertálva.
+#neni_oz_blok
+Nincs blokk kijelölve - a teljes
+szöveget konvertálom
+#prevod_mala_velka
+Szöveg nagybetűssé
+#prevod_mala_velka_inf
+A kijelölt blokk kisbetűit nagybetűkké változtatja.
+Más karakterek nem változnak.
+#prevod_velka_mala
+Szöveg kisbetűssé
+#prevod_velka_mala_inf
+A kijelölt blokk nagybetűit kisbetűkké változtatja.
+Más karakterek nem változnak.
+#kodovani_dokumentu
+kódolás:
+#help_non_unicode
+Csak a karakterkészlet címkéjét változtatja meg. A betűtípus nem változik.
+#help_inter_znaku
+Konverziók karakterek és UTF-8 vagy UTF-16 szekvenciák között.
+Egyes alfunkciók egy blokkra, mások a teljes dokumentumra vonatkoznak.
+Az Unicode/nem-Unicode közötti váltás megváltoztatja a betűtípust.
+#help_tabkonv_znaku
+A dokumentum karaktereit táblázatokon keresztül más kódolássá alakítja.
+A karakterek száma ugyanaz marad.
+A kijelölt blokkra vagy a teljes szövegre vonatkozik.
+Az Unicode/nem-Unicode közötti váltás megváltoztatja a betűtípust.
+
+#analyza_nedef_zn_dok
+Meghatározatlan karakterek elemzése a dokumentumban
+
+#analyza_nedef_zn_blok
+Meghatározatlan karakterek elemzése a blokkban
+
+#poc_vysk_nedef_znaku_n
+karakter előfordulásainak száma
+
+#poc_vysk_nedef_znaku_vse
+összes meghatározatlan karakter
+
+#poc_vysk_nedef_znaku_unik
+egyedi meghatározatlan karakterek:*tartományuk:
+
+#zamena_znaku
+Lecseréli a karaktert egy másikra?
+#nedefinovany_znak
+Meghatározatlan karakter*Meghat. karakterek elemzése
+
+#nedefinovany_znak_zam
+Az összes meghatározatlan karakter cseréje?
+
+#zamena_znaku_radiob1
+Egyszeri csere
+Az egész dokumentumban
+A kijelölt blokkban
+
+#zamena_znaku_radiob2
+mindenhol
+az elejétől a karakterig
+a karaktertől kezdve
+
+#znak_k_zamene
+Helyettesítő karakter...
+
+#dotaz_pri_zmene
+Kérdezzen változtatás előtt?
+#kodovaniascii_dlg
+Valószínű ASCII kódolás:*nem határozható meg*Egyetért?
+
+#polozka_dos
+(táblázattal)*(táblázat nélkül)*több...
+
+#tbl_filtr_ascii
+Konverzió a csoportban:*forráskódolás*célkódolás
+
+#niz_nonunicode1
+Milyen kódolásban jelenik meg a szöveg?
+
+#niz_nonunicode2
+A forrás- és a célkódolás azonos.
+Nem történik változás.
+
+#ascii_2_utf_1
+Konverziók ASCII és UTF-8/UTF-16 szekvenciák között
+
+#ascii_2_utf_2
+Blokkműveletek (nem változtatja meg az általános kódolást)
+
+#ascii_2_utf_3
+Műveletek a teljes dokumentumon (Unicode-ra vált)
+
+#uni_2_utf_1
+Konverziók Unicode és UTF-8/UTF-16 szekvenciák között
+
+#uni_2_utf_2
+Blokkműveletek (nem változtatja meg az általános kódolást)
+
+#uni_2_utf_3
+Műveletek a teljes dokumentumon (nem-Unicode [DOS] módra vált)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS kódolásban)
+
+#prohozeni_endianity
+Endianness (Bájtsorrend) cseréje Unicode
+
+#tab_konv_zn
+Nem végez konverziót.
+Csak nem-Unicode-ként címkézi a dokumentumot.
+A 0-255 karakterek nem változnak, a magasabbak helyettesítve lesznek.
+#zda_prenastavit_font1
+Visszaállítsam a betűtípust, és a kódolást nem-Unicode-ként jelöljem meg?
+
+#zda_prenastavit_font2
+Visszaállítsam a betűtípust, és a kódolást Unicode-ként jelöljem meg?
+#pren_font_ano
+(a teljes szöveg konvertálva lesz, IGEN ajánlott)
+
+#pren_font_ne
+(csak a szöveg egy része lesz konvertálva, NEM ajánlott)
+
+#preznacit_kodovani
+Átcímkézzem a dokumentum kódolását?
+#zm_kod_dok
+A dokumentum kódolásának módosítása
+
+#zak_unicode
+A dokumentum az Unicode szabvány szerint van kódolva.
+
+#sada_a_filtr_souborem
+A karakterkészletet és a szűrőt a fájl határozza meg:
+
+#interp_nonuni
+Nem-Unicode értelmezés
+
+#konv_zn_utf
+Szekvencia konverzió karakter/UTF
+
+#tab_konv_zz
+Táblázatos konverzió karakter/karakter
+
+#zmena_fontu
+Betűtípus módosítása
+
+#nas_zal_rad
+Sortörés beállításai
+
+#nas_zal_mozn
+az ablaknak megfelelően
+78 karakter
+80 karakter
+egyéni...
+
+#filesel_nejde_konverze
+A nevet nem lehet helyesen konvertálni
+az aktuális DOS kódlapra.
+Mégis folytatja?
+
+#podrobnosti
+Részletek
+
+#moznosti...
+Opciók...
+
+#form_konc_rad
+Sorvég formátuma
+
+#form_konc_help
+Javasolt a CRLF szabvány megtartása,
+amelyet DOS és Windows környezetben használnak.
+Az LF a Unix/Linux szabvány, a
+CR pedig a Macintosh számítógépeken volt használatos.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = byte order mark
+Csak az Unicode fájlokra vonatkozik.
+Ez egy három bájtos sorozat
+a fájl elején.
+UTF-16 fájlokhoz ajánlott.
+Általában nem használják UTF-8-hoz.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Valóban rögzíteni szeretné a sortörést az egész szövegben?
+#rozs_fix_lom_blok
+A blokk nem keresztez sortörést
+Szeretné kibővíteni és folytatni?
+
+#jen_nezalam_rezim
+Ez a funkció csak sortörés nélküli módban érhető el.
+#opravdu_spoj_radky
+Egyesíti a sorokat bekezdésekké az egész szövegben?
+
+#nahr_faze
+1. fázis:*2. fázis:*3. fázis:
+
+#jen_v_bloku
+<BARVA=!;KLAVESY=c>C<SB>sak a blokkban
+
+#prevod_z_html_entit
+HTML entitások dekódolása karakterekké
+
+#prevod_z_html_entit_info
+Felismeri a HTML entitásokat (pl. &#8222;) és lecseréli őket Unicode karakterekre
+
+#qr_vygenerovany
+QR-kód generálva
+
+#qr_ulozit
+Mentés
+
+#qr_velikost
+Pontméret a QR-kódban (1-20)
+
+#qr_uspech
+Siker! Mentve mint:
+
+#qr_chyba
+Hiba a QR-kód konvertálása során.
+
+#qr_chyba_save
+Hiba a QR-kód mentésekor.
+#qr_tvorba
+QR-kódok létrehozása
+
+#qr_text
+QR-kóddá konvertálandó szöveg
+
+#related_characters
+Kapcsolódó karakterek
+
+#zalozky
+Könyvjelzők*Könyvjelző sz.*Könyvjelzők megjelenítése
+
+#menu_slovo
+menü/szó
+
+#dialogy_menu_slovo
+Keresés párbeszéd*Csere párbeszéd*NAGYBETŰK*kisbetűk*Első Nagybetű*Vágólapra
+
+#menu_radek
+menü/sor
+
+#dialogy_menu_radek1
+Sor blokkba:
+<BARVA=!;KLAVESY=s>s<SB>ortöréssel
+sor<BARVA=!;KLAVESY=t>t<SB>örés nélkül
+
+#dialogy_menu_radek2
+Szóközök:
+szóközök eltávolítása az e<BARVA=!;KLAVESY=l>l<SB>ején
+szóközök eltávolítása a <BARVA=!;KLAVESY=v>v<SB>égén
+
+#dialogy_menu_radek3
+Behúzás:
+a f<BARVA=!;KLAVESY=e>e<SB>lső sor szerint
+t<BARVA=!;KLAVESY=a>a<SB>bulátor szerint
+
+#pmysmenu
+k<BARVA=!;KLAVESY=a>a<SB>rakter
+<BARVA=!;KLAVESY=s>s<SB>zó
+s<BARVA=!;KLAVESY=o>o<SB>r
+
+#doprad
+Sor kiegészítése
+
+#doprad_txt
+Írjon be egy vagy több karaktert a
+sor vége és a kattintás helye
+közötti terület kitöltéséhez.
+Az alapértelmezett a [szóköz]
+
+#zarovnani
+Igazítás:*balra*jobbra
+
+#carkod_tvorba
+Vonalkódok
+
+#carkod_instr
+Adjon meg egy számot vagy egy rövid szöveget
+Megjegyzés: Egyes formátumok csak számokat támogatnak.
+Ezenkívül néhány kódolás (pl. EAN-13) érvényes kódokat
+igényel helyes ellenőrző összeggel.
+Érvénytelen számok is kódolhatók, de az olvasók
+esetleg nem tudják feldolgozni őket.
+
+#carkod_ulozit
+Mentés
+
+#carkod_uspech
+Siker! Mentve mint:
+
+#carkod_chyba
+Hiba a vonalkód konvertálása során.
+
+#carkod_chyba_save
+Hiba a vonalkód mentésekor.
+#carkod_combine
+Kódolt karakterlánc hozzáadása
+
+#carkod_mozn
+Ez a karakterlánc a következő vonalkódokban kódolható:

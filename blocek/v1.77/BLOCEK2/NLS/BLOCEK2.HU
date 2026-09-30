@@ -1,0 +1,752 @@
+## Blocek2, hungarian, hu, cp852
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Magyar       (hu)
+#identifikuj_se2
+blocek2.hu
+#sys_font
+852-16.fv
+#sys_font_maly
+## latin214.fv
+852-14.fv
+#chyba_videomodu
+A k‚rt videom¢d nem ‚rhet‹ el:
+#sys_font_kodovani
+852
+#m1
+<BARVA=!;KLAVESY=f>F<SB> jl
+#m2
+<BARVA=!;KLAVESY=o>O<SB>pci¢k
+#m3
+<BARVA=!;KLAVESY=s>S<SB>£g¢
+#m31
+<BARVA=!;KLAVESY=n>N<SB>‚vjegy
+#m32
+INFO.TXT <BARVA=!;KLAVESY=o>o<SB>lvas sa  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=r>R<SB>endszerinform ci¢
+#m34
+<BARVA=!;KLAVESY=h>H<SB>ipertext s£g¢
+#m4
+S<BARVA=!;KLAVESY=z>z<SB>”veg
+#m11
+<BARVA=!;KLAVESY=u>U<SB>j    <<F1>>
+#m12
+M<BARVA=!;KLAVESY=e>e<SB>gnyit s <<F3>>
+#m13
+<BARVA=!;KLAVESY=m>M<SB>ent‚s  <<F2>>
+#m14
+Kil‚p‚s a <BARVA=!;KLAVESY=d>D<SB>OS-ba
+#m15
+<BARVA=!;KLAVESY=k>K<SB>il‚p‚s   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=b>B<SB>ez r s  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=s>S<SB>z¡nek
+#m211
+<BARVA=!;KLAVESY=e>E<SB>l‹t‚rsz¡n
+#m212
+<BARVA=!;KLAVESY=h>H<SB> tt‚rsz¡n
+#m213
+<BARVA=!;KLAVESY=a>A<SB>lapsz¡n
+#m215
+Sor <BARVA=!;KLAVESY=k>k<SB>iemel‚s‚nek sz¡ne
+#m22
+<BARVA=!;KLAVESY=n>N<SB>yelv
+#m23
+<BARVA=!;KLAVESY=a>A<SB>kt. sor kiemel‚se
+#m24
+<BARVA=!;KLAVESY=b>B<SB>etût¡pus
+#m25
+<BARVA=!;KLAVESY=k>K<SB>‚pszûr‹
+#m26
+B<BARVA=!;KLAVESY=i>i<SB>llentyûzetek
+#m27
+<BARVA=!;KLAVESY=o>O<SB>ldals¢ panel
+#m28
+Be ll¡<BARVA=!;KLAVESY=t>t<SB> sok ment‚se
+#m29
+Sz¢k”<BARVA=!;KLAVESY=z>z<SB>”k mutat sa
+#m41
+Konvert l s <BARVA=!;KLAVESY=u>U<SB>TF-8-ra
+#m42
+Konvert l s UT<BARVA=!;KLAVESY=f>F<SB>-8-b¢l
+#m43
+<BARVA=!;KLAVESY=s>S<SB>ort”r‚s
+#m431
+Sor<BARVA=!;KLAVESY=t>t<SB>”r‚s r”gz¡t‚se
+#m432
+Sorok <BARVA=!;KLAVESY=e>e<SB>gyes¡t‚se
+#m44
+<BARVA=!;KLAVESY=k>K<SB>eres‚s      <<Ctrl-F>>
+#m45
+K”<BARVA=!;KLAVESY=v>v<SB>etkez‹ keres‚se <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=c>C<SB>sere      <<Ctrl-H>>
+#m460
+K”nyv<BARVA=!;KLAVESY=j>j<SB>elz‹k
+#m47
+Karak<BARVA=!;KLAVESY=t>t<SB>ert‚rk‚p
+#m48
+K<BARVA=!;KLAVESY=o>o<SB>nverzi¢k <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=b>B<SB>lokkmûveletek
+#m490
+<BARVA=!;KLAVESY=q>Q<SB>R-k¢d gener l sa
+#m491
+Karakterek <BARVA=!;KLAVESY=h>H<SB>TML entit ss 
+#m492
+<BARVA=!;KLAVESY=n>N<SB>agybetûss‚
+#m493
+<BARVA=!;KLAVESY=k>K<SB>isbetûss‚
+#m494
+HTM<BARVA=!;KLAVESY=l>L<SB> entit sok karakterr‚
+#m495
+Vo<BARVA=!;KLAVESY=n>n<SB>alk¢dok
+#vyber_soubor
+V lasszon f jlt:
+#jak_to_ulozit
+Hogyan mentsem?
+#soubor_existuje_prepsat
+A f jl m r l‚tezik
+fell¡rja?
+#o_programu
+n‚vjegy
+#napoveda
+s£g¢
+#varovani
+<BARVA=51200>figyelem!<SB>
+#opravdu_konec
+Val¢ban kil‚p?
+A nem mentett v ltoztat sok elvesznek.
+#tento_soubor_uz_jednou_mame
+Ez a f jl m r meg van nyitva.
+A Blocek lehet‹v‚ teszi az ism‚telt megnyit st,
+de az els‹ p‚ld nyt¢l fggetlenl fog mûk”dni!
+azaz
+NEM éGY, MINT A PASCAL IDE
+#unicode
+unicode
+#zalamovani
+sort”r‚s
+#proporcionalni_mod
+ar nyos
+#vyber_barvu_popredi
+V lasszon el‹t‚rsz¡nt
+#vyber_barvu_pozadi
+V lasszon h tt‚rsz¡nt
+#vyber_barvu_zakladu
+V lasszon alapsz¡nt
+#vyber_barvu_prosv
+V lassz sz¡nt
+#zda_pro_rad
+Kiemeli az aktu lis sort?
+#nastaveni_ulozeno
+Be ll¡t sok elmentve
+
+#zatim_neni
+Ez a funkci¢ m‚g nem el‚rhet‹.
+
+#hypertextova_napoveda
+Hipertext s£g¢
+
+#napoveda_koren
+Blocek - sz”vegszerkeszt‹ ‚s k‚pn‚zeget‹
+
+S£g¢t‚m k:
+1) <OK="napoveda_klavesy">Vez‚rl‚s<OK/>
+2) <OK="napoveda_mys">Eg‚rvez‚rl‚s<OK/>
+3) <OK="napoveda_prvky">Felhaszn l¢i fellet elemei<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Vez‚rl‚s<SB;SF>
+<barva=65535>F10<sb>   - bel‚p‚s a f‹menbe
+<barva=65535>F1<sb>    - £j f jl l‚trehoz sa
+<barva=65535>F2<sb>    - f jl ment‚se
+<barva=65535>F3<sb>    - f jl megnyit sa
+<barva=65535>Alt+F3<sb> - f jl bez r sa
+<barva=65535>Alt+F1<sb> - INFO.TXT megnyit sa
+<barva=65535>Ctrl+F<sb> - keres‚s
+<barva=65535>Ctrl+S<sb> - keres‚s folytat sa
+<barva=65535>Ctrl+H<sb> - keres‚s ‚s csere
+<barva=65535>Ctrl+A<sb> - teljes dokumentum kijel”l‚se blokk‚nt
+<barva=65535>Ctrl+Q<sb> - felk¡n l egy kapcsol¢d¢ karaktert az utolj ra be¡rt [a, ,...] helyett
+<barva=65535>Ctrl+K<sb> - funkci¢ a k¢dol sok k”z”tti karakterkonverzi¢hoz
+<barva=65535>Ctrl+L<sb> - gyorsmen a sor szerkeszt‚s‚hez
+<BARVA=65535>LShift+Alt<sb> - billentyûzet be ll¡t sainak m¢dos¡t sa
+<barva=65535>Ctrl+Alt+fel<sb>  - aktu lis sor kijel”l‚se blokk‚nt
+<barva=65535>Ctrl+Alt+le<sb>   - kurzor alatti sz¢ kijel”l‚se blokk‚nt
+<barva=65535>Ctrl+Alt+balra<sb>  - minden karakter kijel”l‚se a kurzort¢l balra
+<barva=65535>Ctrl+Alt+jobbra<sb> - minden karakter kijel”l‚se a kurzort¢l jobbra
+<barva=65535>Backspace<sb> - karakter t”rl‚se a kurzort¢l balra
+<barva=65535>Delete<sb> - karakter t”rl‚se a kurzort¢l jobbra
+<barva=65535>Shift+Delete<sb> - kijel”lt blokk t”rl‚se
+<barva=65535>*nyilak<sb> - kurzor mozgat sa
+<barva=65535>*Ctrl+PageUp<sb> vagy <barva=65535>*Ctrl+Home<sb> - ugr s a dokumentum els‹ sor ra
+<barva=65535>*Ctrl+PageDown<sb> vagy <barva=65535>*Ctrl+End<sb> - ugr s a dokumentum utols¢ sor ra
+<barva=65535>*Ctrl+jobbra<sb> - ugr s egy sz¢val jobbra
+<barva=65535>*Ctrl+balra<sb> - ugr s egy sz¢val balra
+   A "*"-gal jel”lt billentyûk vagy kombin ci¢k
+   kombin lhat¢k a <barva=65535><Shift><sb> billentyûvel.
+Ekkor a sz”vegblokk m‚rete a kurzor mozg s val
+   egytt m¢dosul.
+<barva=65535>Ctrl+[1-7]<sb> - kijel”lt blokk m sol sa az 1-7. v g¢lapra
+<barva=65535>Alt+[1-7]<sb> - sz”veg beilleszt‚se az 1-7. v g¢lapr¢l a kurzorhoz
+<barva=65535>Ctrl+plusz<sb> ‚s <barva=65535>Ctrl+m¡nusz<sb> (a num. bill.-en) - gyors g”rget‚s a megnyitott f jlok k”z”tt
+<barva=65535>ESC<sb>   - kil‚p‚s
+<barva=65535>Alt+F2<sb> - aktu lis k‚perny‹ ment‚se
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Eg‚rvez‚rl‚s<SB;SF>
+<barva=65535>1) A dokumentum ablak ban<SB>
+Bal kattint s (BK) - a kurzort az adott helyre mozgatja a sz”vegben.
+BK+shift - megadja a sz”vegblokk kezdet‚t ‚s v‚g‚t
+BK lenyomva tart sa ‚s h£z sa - interakt¡v blokkkijel”l‚s
+Jobb kattint s (JK) - megjelen¡ti a karakter inform ci¢it ‚s megnyitja
+a karakterkonverzi¢s p rbesz‚dablakot.
+K”nyvjelz‹ funkci¢kat is k¡n l.
+
+<barva=65535>2) A megnyitott f jlok lapjainak s vj n<SB>
+Kattint s BK - a f jlt a f‹ablakba v ltja
+Kattint s JK - mûveleti men az adott f jlhoz
+(bez r s, az ”sszes t”bbi bez r sa, teljes £tvonal mutat sa)
+
+<barva=65535>3) A v g¢lap indik tor n<SB>
+Kattint s BK - mûveletek men a v g¢lap tartalm val
+
+<barva=65535>4) Egy‚b megjegyz‚sek<SB>
+->> Az ”sszes t”bbi felleti elem csak a bal gombot haszn lja
+->> Szinte minden p rbesz‚dpanel  thelyezhet‹ a c¡msor h£z s val.
+->> Ha az inform ci¢s ablakokban a sz”vegen h£zza az egeret, kijel”lheti, majd
+    a v g¢lapra m solhatja a <OK="napoveda_klavesy">CTRL+[1-7]<OK/> gombokkal.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Felhaszn l¢i fellet elemei<SB;SF>
+A fellet nagy r‚sz‚t a <barva=65535>f‹ablak<SB> foglalja el. Ez egy szerkeszthet‹
+sz”veges dokumentumot vagy a k‚pn‚zeget‹t jelen¡ti meg.
+A dokumentum bal sz‚l‚n egy oldals¢ panel lehet, amely
+jelzi az egyes sorok befejez‚s‚nek m¢dj t.
+Az ablak felett h rom panel tal lhat¢.
+
+<barva=65535>1) R”gz¡tett sor<SB>
+F‹men: <barva=65535>F jl<SB>, <barva=65535>Sz”veg<SB>, <barva=65535>Opci¢k<SB>, <barva=65535>S£g¢<SB>
+A ment‹l jobbra tal lhat¢k a <OK="napoveda_indikatory">v g¢lap indik torok<OK/> 1-7-ig sz mozva.
+M‚g jobbra (jobb fels‹ sarok) egy leg”rdl‹ lista a billentyûzetkioszt shoz.
+Ez a lista az <OK="napoveda_klavesy">ALT+SHIFT<OK/> paranccsal is megnyithat¢.
+
+<barva=65535>2) Kontextu lis sor<SB>
+A f‹ablak tartalm t¢l fgg‹en v ltozik.
+Ha k‚p van benne, bal oldalon mutatja a m‚reteit k‚ppontban.
+Jobb oldalon a teljes k‚perny‹, az optim lis illeszked‚s ‚s a forgat s/tkr”z‚s gombjai.
+Ha dokumentum, megjelenik egy gomb a karakterkonverzi¢khoz
+(el‚rhet‹ a <OK="napoveda_klavesy">CTRL+K<OK/> paranccsal is). T‹le jobbra egy gomb
+a sort”r‚si m¢dok k”z”tti v lt shoz.
+M‚g jobbra egy jel”l‹n‚gyzet a sort”r‚s be/ki kapcsol s ra.
+A jobb sz‚len az aktu lis oszlop ‚s sor l that¢.
+
+<barva=65535>3) Megnyitott f jlok lapjai<SB>
+Am¡g nincs bet”ltve f jl, az als¢ s v res.
+Amint megnyit egy f jlt, a lapja megjelenik ezen a s von.
+A Blocekben egyszerre t”bb f jl is nyitva lehet.
+A lapjaik egym s mellett jelennek meg, ‚s az <OK="napoveda_mys">eg‚rrel<OK/> v lthat k”z”ttk.
+A bal eg‚rgomb az adott f jlra v ltja a f‹ablakot.
+A jobb eg‚rgomb egy alment nyit meg a f jl bez r s hoz, a t”bbi bez r s hoz vagy az £tvonal megjelen¡t‚s‚hez.
+
+#napoveda_indikatory
+Ha sz”veget m sol a v g¢lapra (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>) vagy a p rbesz‚dablakon keresztl,
+annak jelenl‚t‚t az jelzi, hogy az indik tor vil g¡t, mint egy villanyk”rte.
+Ha a v g¢lap res,  th£zott k”rk‚nt jelenik meg.
+A 7-es indik tor <BARVA=65535>7W<SB> form ban jelenhet meg.
+Ez azt jelenti, hogy az MS Windows v g¢lap szolg ltat sai el‚rhet‹k.
+Ebben az esetben a 7-es v g¢lap a Windows v g¢lapj hoz van kapcsolva, hogy sz”veget cser‚ljen m s programokkal.
+R‚szletek a TECHNOTE.TXT f jlban
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+verzi¢ 1.77b
+ford¡t s d tuma: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+A Blocek egy sz”vegszerkeszt‹ ‚s k‚pn‚zeget‹,
+amely t”bbek k”z”tt UTF-8 f jlokat is k‚pes kezelni,
+¡gy nagyon alkalmas pl. weboldalak k‚sz¡t‚s‚re.
+A Blocek nagyon nagy f jlokat ‚s hossz£ sorokat
+is tud kezelni. K”sz”net Mateusz Viste-nek az Unicode betût¡pusok‚rt.
+A Blocek az elterjedt k‚pform tumok n‚zeget‹jek‚nt is mûk”dik,
+de nem tudja ‹ket szerkeszteni.
+Ez a program a GNU/GPL licenc felt‚telei szerint terjeszthet‹
+
+#parametr_otaznik
+Szintaxis:
+BLOCEK [f jl1 [, f jl2 [,...]]]
+#ovladani_obrazku
+teljes k‚perny‹*o<<>>O*+90*-90*v¡zsz.*fgg.*Exif adatok
+
+#soubor_nebyl_ulozen
+A f jl nem lett elmentve!
+nincs el‚g hely a meghajt¢n vagy
+a meghajt¢ ¡r sv‚dett
+
+#chyba_font_int
+Hiba a betûk‚szlet-f jl bet”lt‚se k”zben
+#chyba_font_neint
+Hi nyz¢ betûk‚szlet-f jl vagy hiba a f jl bet”lt‚se k”zben:
+
+#informace_exif
+Inform ci¢k az Exif blokkb¢l
+#exif_date_strs
+D tum ‚s id‹:*Eredeti d tum ‚s id‹:*Digitaliz l s d tuma:
+#exif_camera_info
+Kamera gy rt¢ja:*Kamera modellje:*Le¡r s:*Szoftver:*F‚nyforr s:*Vaku:*Expoz¡ci¢s m¢d:*ISO:*Expoz¡ci¢s id‹:*T jol s:*Zoom:
+#exif_lightsrc_info
+Ismeretlen*Nappali f‚ny*F‚nycs‹*Izz¢l mpa*Vaku*Standard f‚ny A*Standard f‚ny B*Standard f‚ny C*D55*D65*D75*M s forr s*Ismeretlen
+#exif_flash_info
+Nincs vaku*Vaku*Vaku el‹villan s n‚lkl*Vaku el‹villan ssal*Automatikus vaku*Nincs vaku*Ismeretlen
+#exif_expos_mode
+Ismeretlen*K‚zi m¢d*Norm l program*Rekesz-el‹v laszt s*Z rid‹-el‹v laszt s*Kreat¡v program*Akci¢ m¢d*Portr‚ m¢d*T jk‚p m¢d*Ismeretlen
+#exif_orientation_desc
+Norm l*V¡zszintes tkr”z‚s*180ø-os forgat s*Fgg‹leges tkr”z‚s*90ø balra forgat ‚s tkr”z*90ø jobbra forgat*90ø jobbra forgat ‚s tkr”z*90ø balra forgat*Ismeretlen
+#exif_zoom_unused
+Nincs haszn latban
+#exif_GPS_info
+GPS helyadatok*sz‚less‚g:*hossz£s g:*magass g:*azimut**D*Ny*K*m*o*'*''
+#zkopirovat_exif
+A v g¢lapra
+#nejde_o_obrazek
+A f jl s‚rlt, vagy a k‚p adatai
+nem t mogatott form tumban vannak
+A f jl sz”vegk‚nt ny¡lik meg.
+#nelze_fixovat_zalamani
+Ez a funkci¢ csak
+sort”r‚s m¢dban ‚rhet‹ el.
+#vyhledavani
+Keres‚s
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>keres‚si m¢d<POZADI=->
+#vyhled_mozn
+e<BARVA=!;KLAVESY=l>l<SB>‹re
+h <BARVA=!;KLAVESY=t>t<SB>ra
+a<BARVA=!;KLAVESY=z>z<SB> elej‚t‹l
+#roz_vel_pismen
+<BARVA=!;KLAVESY=k>K<SB>is/nagybetûk megkl”nb”ztet‚se
+
+#text_nenalezen
+A megadott sz”veg nem tal lhat¢.
+#nahradit_vyskyt
+Lecser‚li ezt az el‹fordul st?
+#potvrzovat
+meg<BARVA=!;KLAVESY=e>e<SB>r‹s¡t
+#nahradvse
+m<BARVA=!;KLAVESY=i>i<SB>ndent cser‚l
+#hledany_text
+keresend‹ sz”veg:
+#novy_text
+£j sz”veg
+#nahrada_textu
+sz”veg cser‚je
+#vyber_filtr
+V lasszon szûr‹t
+#opravdu_zavrit
+A f jl m¢dosult.
+Szeretn‚ menteni?
+#zavrit_ostatni
+Minden m s bez r sa
+#umisteni_souboru
+F jl helye
+#bezejmenny
+<BARVA=46815><<£j>><SB>
+#bezejmenny_soubor
+éj f jl
+
+#zrusit_nac
+Megszak¡tja a bet”lt‚st?
+#chybi_bcfg
+A <BARVA=65535>BLOCEK.CFG<SB> konfigur ci¢s f jl
+m‚g nem l‚tezik.
+A <BARVA=65535>DEFAULT.CFG<SB> f jl
+m sol s val l‚trehozom.
+#chybny_bcfg
+A <BARVA=65535>BLOCEK.CFG<SB> konfigur ci¢s f jl
+form tuma ‚rv‚nytelen.
+Ez‚rt fell¡rom a
+<BARVA=65535>DEFAULT.CFG<SB> f jllal.
+#pridani_bcfg
+A <BARVA=65535>BLOCEK.CFG<SB> konfigur ci¢s f jlhoz
+a k”vetkez‹ elemek lettek hozz adva a <BARVA=65535>DEFAULT.CFG<SB>-b‹l:
+#pocet_zmen
+Tal lat*M¢dos¡t sok sz ma:*El‹fordul sok*<BARVA=!;KLAVESY=f>F<SB>unkci¢ az el‹fordul sok sz mol s ra
+#neniswap
+A rendszere nem t mogatja a virtu lis mem¢ri t!
+Ez vesz‚lyes lehet (mem¢riahi ny kock zata).
+Pr¢b ljon meg egy m sik DPMI-kezel‹t haszn lni.
+jelenleg telep¡tve:
+#dpmineznamy
+<BARVA=333>ismeretlen DPMI-kezel‹ :-(<SB>
+#kaslinaswap
+(Ezt az ellen‹rz‚st kikapcsolhatja a
+<BARVA=65530>zkontroluj_swap = 0<SB> be ll¡t s val a BLOCEK.CFG-ben)
+#plnyseznam
+Teljes lista...
+#vybprefkl
+Mely billentyûzetek legyenek az alapmenben?
+#vybprefflt
+Mely szûr‹k legyenek az alapmenben?
+
+#asciiauto
+automatikus felismer‚s
+
+#vkod
+<PODTRH=+>forr s<PODTRH=->
+#ckod
+<PODTRH=+>c‚l<PODTRH=->
+#oznaceno
+kijel”lve:
+#ozn_nic
+semmi
+#kompinfo
+Processzor:*Mem¢ria:*MB RAM*Vide¢:* VESA verzi¢:*Videom¢d:*Videomem¢ria:*Friss¡t‚si gyak.:*BIOS default*DOS verzi¢:*Karakterk‚szlet:*DOS orsz gk¢d:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideom¢dok*M¢dok  ttekint‚se
+#kompinfo_lfn
+Hossz£ f jlnevek (LFN):
+#schranka_c
+V g¢lap sz ma
+#schranka_do
+M sol s a v g¢lapra
+#schranka_ze
+Beilleszt‚s a v g¢lapr¢l
+#schranka_copy
+M sol s egy m sik v g¢lapra
+#schranka_smaz
+T”rl‚s
+#vyber_jazyk
+V lasszon nyelvet
+#nutny_restart
+A nyelv megv ltoztat s hoz £jraind¡t s szks‚ges.
+#prevod_html_entity
+Konvert l s HTML entit sokk 
+#prevod_html_ent_info
+A 127-n‚l nagyobb ASCII/Unicode ‚rt‚kû karakterek
+HTML entit sokk  lesznek alak¡tva.
+A tartom nyt a kijel”lt blokk hat rozza meg.
+#text_je_v_unicode
+A sz”veg Unicode form tum£.
+#text_je_v_ascii
+A sz”veg ASCII k¢dol s£, ‚s a
+konverzi¢s t bl zat szerint lesz konvert lva.
+#neni_oz_blok
+Nincs blokk kijel”lve - a teljes
+sz”veget konvert lom
+#prevod_mala_velka
+Sz”veg nagybetûss‚
+#prevod_mala_velka_inf
+A kijel”lt blokk kisbetûit nagybetûkk‚ v ltoztatja.
+M s karakterek nem v ltoznak.
+#prevod_velka_mala
+Sz”veg kisbetûss‚
+#prevod_velka_mala_inf
+A kijel”lt blokk nagybetûit kisbetûkk‚ v ltoztatja.
+M s karakterek nem v ltoznak.
+#kodovani_dokumentu
+k¢dol s:
+#help_non_unicode
+Csak a karakterk‚szlet c¡mk‚j‚t v ltoztatja meg. A betût¡pus nem v ltozik.
+#help_inter_znaku
+Konverzi¢k karakterek ‚s UTF-8 vagy UTF-16 szekvenci k k”z”tt.
+Egyes alfunkci¢k egy blokkra, m sok a teljes dokumentumra vonatkoznak.
+Az Unicode/nem-Unicode k”z”tti v lt s megv ltoztatja a betût¡pust.
+#help_tabkonv_znaku
+A dokumentum karaktereit t bl zatokon keresztl m s k¢dol ss  alak¡tja.
+A karakterek sz ma ugyanaz marad.
+A kijel”lt blokkra vagy a teljes sz”vegre vonatkozik.
+Az Unicode/nem-Unicode k”z”tti v lt s megv ltoztatja a betût¡pust.
+
+#analyza_nedef_zn_dok
+Meghat rozatlan karakterek elemz‚se a dokumentumban
+
+#analyza_nedef_zn_blok
+Meghat rozatlan karakterek elemz‚se a blokkban
+
+#poc_vysk_nedef_znaku_n
+karakter el‹fordul sainak sz ma
+
+#poc_vysk_nedef_znaku_vse
+”sszes meghat rozatlan karakter
+
+#poc_vysk_nedef_znaku_unik
+egyedi meghat rozatlan karakterek:*tartom nyuk:
+
+#zamena_znaku
+Lecser‚li a karaktert egy m sikra?
+#nedefinovany_znak
+Meghat rozatlan karakter*Meghat. karakterek elemz‚se
+
+#nedefinovany_znak_zam
+Az ”sszes meghat rozatlan karakter cser‚je?
+
+#zamena_znaku_radiob1
+Egyszeri csere
+Az eg‚sz dokumentumban
+A kijel”lt blokkban
+
+#zamena_znaku_radiob2
+mindenhol
+az elej‚t‹l a karakterig
+a karaktert‹l kezdve
+
+#znak_k_zamene
+Helyettes¡t‹ karakter...
+
+#dotaz_pri_zmene
+K‚rdezzen v ltoztat s el‹tt?
+#kodovaniascii_dlg
+Val¢sz¡nû ASCII k¢dol s:*nem hat rozhat¢ meg*Egyet‚rt?
+
+#polozka_dos
+(t bl zattal)*(t bl zat n‚lkl)*t”bb...
+
+#tbl_filtr_ascii
+Konverzi¢ a csoportban:*forr sk¢dol s*c‚lk¢dol s
+
+#niz_nonunicode1
+Milyen k¢dol sban jelenik meg a sz”veg?
+
+#niz_nonunicode2
+A forr s- ‚s a c‚lk¢dol s azonos.
+Nem t”rt‚nik v ltoz s.
+
+#ascii_2_utf_1
+Konverzi¢k ASCII ‚s UTF-8/UTF-16 szekvenci k k”z”tt
+
+#ascii_2_utf_2
+Blokkmûveletek (nem v ltoztatja meg az  ltal nos k¢dol st)
+
+#ascii_2_utf_3
+Mûveletek a teljes dokumentumon (Unicode-ra v lt)
+
+#uni_2_utf_1
+Konverzi¢k Unicode ‚s UTF-8/UTF-16 szekvenci k k”z”tt
+
+#uni_2_utf_2
+Blokkmûveletek (nem v ltoztatja meg az  ltal nos k¢dol st)
+
+#uni_2_utf_3
+Mûveletek a teljes dokumentumon (nem-Unicode [DOS] m¢dra v lt)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS k¢dol sban)
+
+#prohozeni_endianity
+Endianness (B jtsorrend) cser‚je Unicode
+
+#tab_konv_zn
+Nem v‚gez konverzi¢t.
+Csak nem-Unicode-k‚nt c¡mk‚zi a dokumentumot.
+A 0-255 karakterek nem v ltoznak, a magasabbak helyettes¡tve lesznek.
+#zda_prenastavit_font1
+Vissza ll¡tsam a betût¡pust, ‚s a k¢dol st nem-Unicode-k‚nt jel”ljem meg?
+
+#zda_prenastavit_font2
+Vissza ll¡tsam a betût¡pust, ‚s a k¢dol st Unicode-k‚nt jel”ljem meg?
+#pren_font_ano
+(a teljes sz”veg konvert lva lesz, IGEN aj nlott)
+
+#pren_font_ne
+(csak a sz”veg egy r‚sze lesz konvert lva, NEM aj nlott)
+
+#preznacit_kodovani
+µtc¡mk‚zzem a dokumentum k¢dol s t?
+#zm_kod_dok
+A dokumentum k¢dol s nak m¢dos¡t sa
+
+#zak_unicode
+A dokumentum az Unicode szabv ny szerint van k¢dolva.
+
+#sada_a_filtr_souborem
+A karakterk‚szletet ‚s a szûr‹t a f jl hat rozza meg:
+
+#interp_nonuni
+Nem-Unicode ‚rtelmez‚s
+
+#konv_zn_utf
+Szekvencia konverzi¢ karakter/UTF
+
+#tab_konv_zz
+T bl zatos konverzi¢ karakter/karakter
+
+#zmena_fontu
+Betût¡pus m¢dos¡t sa
+
+#nas_zal_rad
+Sort”r‚s be ll¡t sai
+
+#nas_zal_mozn
+az ablaknak megfelel‹en
+78 karakter
+80 karakter
+egy‚ni...
+
+#filesel_nejde_konverze
+A nevet nem lehet helyesen konvert lni
+az aktu lis DOS k¢dlapra.
+M‚gis folytatja?
+
+#podrobnosti
+R‚szletek
+
+#moznosti...
+Opci¢k...
+
+#form_konc_rad
+Sorv‚g form tuma
+
+#form_konc_help
+Javasolt a CRLF szabv ny megtart sa,
+amelyet DOS ‚s Windows k”rnyezetben haszn lnak.
+Az LF a Unix/Linux szabv ny, a
+CR pedig a Macintosh sz m¡t¢g‚peken volt haszn latos.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = byte order mark
+Csak az Unicode f jlokra vonatkozik.
+Ez egy h rom b jtos sorozat
+a f jl elej‚n.
+UTF-16 f jlokhoz aj nlott.
+µltal ban nem haszn lj k UTF-8-hoz.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Val¢ban r”gz¡teni szeretn‚ a sort”r‚st az eg‚sz sz”vegben?
+#rozs_fix_lom_blok
+A blokk nem keresztez sort”r‚st
+Szeretn‚ kib‹v¡teni ‚s folytatni?
+
+#jen_nezalam_rezim
+Ez a funkci¢ csak sort”r‚s n‚lkli m¢dban ‚rhet‹ el.
+#opravdu_spoj_radky
+Egyes¡ti a sorokat bekezd‚sekk‚ az eg‚sz sz”vegben?
+
+#nahr_faze
+1. f zis:*2. f zis:*3. f zis:
+
+#jen_v_bloku
+<BARVA=!;KLAVESY=c>C<SB>sak a blokkban
+
+#prevod_z_html_entit
+HTML entit sok dek¢dol sa karakterekk‚
+
+#prevod_z_html_entit_info
+Felismeri a HTML entit sokat (pl. &#8222;) ‚s lecser‚li ‹ket Unicode karakterekre
+
+#qr_vygenerovany
+QR-k¢d gener lva
+
+#qr_ulozit
+Ment‚s
+
+#qr_velikost
+Pontm‚ret a QR-k¢dban (1-20)
+
+#qr_uspech
+Siker! Mentve mint:
+
+#qr_chyba
+Hiba a QR-k¢d konvert l sa sor n.
+
+#qr_chyba_save
+Hiba a QR-k¢d ment‚sekor.
+#qr_tvorba
+QR-k¢dok l‚trehoz sa
+
+#qr_text
+QR-k¢dd  konvert land¢ sz”veg
+
+#related_characters
+Kapcsol¢d¢ karakterek
+
+#zalozky
+K”nyvjelz‹k*K”nyvjelz‹ sz.*K”nyvjelz‹k megjelen¡t‚se
+
+#menu_slovo
+men/sz¢
+
+#dialogy_menu_slovo
+Keres‚s p rbesz‚d*Csere p rbesz‚d*NAGYBETëK*kisbetûk*Els‹ Nagybetû*V g¢lapra
+
+#menu_radek
+men/sor
+
+#dialogy_menu_radek1
+Sor blokkba:
+<BARVA=!;KLAVESY=s>s<SB>ort”r‚ssel
+sor<BARVA=!;KLAVESY=t>t<SB>”r‚s n‚lkl
+
+#dialogy_menu_radek2
+Sz¢k”z”k:
+sz¢k”z”k elt vol¡t sa az e<BARVA=!;KLAVESY=l>l<SB>ej‚n
+sz¢k”z”k elt vol¡t sa a <BARVA=!;KLAVESY=v>v<SB>‚g‚n
+
+#dialogy_menu_radek3
+Beh£z s:
+a f<BARVA=!;KLAVESY=e>e<SB>ls‹ sor szerint
+t<BARVA=!;KLAVESY=a>a<SB>bul tor szerint
+
+#pmysmenu
+k<BARVA=!;KLAVESY=a>a<SB>rakter
+<BARVA=!;KLAVESY=s>s<SB>z¢
+s<BARVA=!;KLAVESY=o>o<SB>r
+
+#doprad
+Sor kieg‚sz¡t‚se
+
+#doprad_txt
+Örjon be egy vagy t”bb karaktert a
+sor v‚ge ‚s a kattint s helye
+k”z”tti terlet kit”lt‚s‚hez.
+Az alap‚rtelmezett a [sz¢k”z]
+
+#zarovnani
+Igaz¡t s:*balra*jobbra
+
+#carkod_tvorba
+Vonalk¢dok
+
+#carkod_instr
+Adjon meg egy sz mot vagy egy r”vid sz”veget
+Megjegyz‚s: Egyes form tumok csak sz mokat t mogatnak.
+Ezenk¡vl n‚h ny k¢dol s (pl. EAN-13) ‚rv‚nyes k¢dokat
+ig‚nyel helyes ellen‹rz‹ ”sszeggel.
+rv‚nytelen sz mok is k¢dolhat¢k, de az olvas¢k
+esetleg nem tudj k feldolgozni ‹ket.
+
+#carkod_ulozit
+Ment‚s
+
+#carkod_uspech
+Siker! Mentve mint:
+
+#carkod_chyba
+Hiba a vonalk¢d konvert l sa sor n.
+
+#carkod_chyba_save
+Hiba a vonalk¢d ment‚sekor.
+#carkod_combine
+K¢dolt karakterl nc hozz ad sa
+
+#carkod_mozn
+Ez a karakterl nc a k”vetkez‹ vonalk¢dokban k¢dolhat¢:

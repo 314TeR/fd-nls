@@ -1,0 +1,139 @@
+## Blocek1, serbian, sr, cp855
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=о#1;VYZNAM=!1>О<SB>К '
+#_OK2
+' <BARVA=!;KLAVESY=о#1#2;VYZNAM=!1>О<SB>К '
+#_ANO
+' <BARVA=!;KLAVESY=д#1;VYZNAM=!1>Д<SB>а '
+#_NE
+' <BARVA=!;KLAVESY=н#2;VYZNAM=!2>Н<SB>е '
+#_CANCEL
+От<BARVA=!;KLAVESY=к#2;VYZNAM=!3>к<SB>ажи
+#_CANCEL2
+' От<BARVA=!;KLAVESY=к#2;VYZNAM=!3>к<SB>ажи '
+#_POMOC
+<BARVA=!;KLAVESY=п;VYZNAM=!4>П<SB>омоћ
+#_PALETA
+П<BARVA=!;KLAVESY=а;VYZNAM=!6>а<SB>лета
+#_MIXBAREV
+<BARVA=!;KLAVESY=м;VYZNAM=!7>М<SB>ешање боја
+#_FS_INFO
+<BARVA=!;KLAVESY=и;VYZNAM=!8>И<SB>нфо
+#_FS_DISK
+Ди<BARVA=!;KLAVESY=с;VYZNAM=!9>с<SB>к
+#_ZADAT
+<BARVA=!;KLAVESY=у;VYZNAM=!14>У<SB>неси
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+Но<BARVA=!;KLAVESY=в;VYZNAM=!19>в<SB>и дир.
+#_ZPET
+На<BARVA=!;KLAVESY=з;VYZNAM=!20>з<SB>ад
+#_VPRED
+Нап<BARVA=!;KLAVESY=р;VYZNAM=!21>р<SB>ед
+#_FS_NAHORU
+<BARVA=!;KLAVESY=г;VYZNAM=!23>Г<SB>оре
+#_FS_TRIDENI
+Сор<BARVA=!;KLAVESY=т;VYZNAM=!24>т<SB>ирање
+#_INFO
+'Инфо:            '
+#_DOTAZ
+'Питање:          '
+#_ANONE_DOTAZ
+'Питање:          '
+#_CHYBA
+Грешка!
+#_VLOZ_TEXT
+Уметни текст:
+#_VYBER_BARVU
+Изабери боју:
+#_FS_ADR_JAKSEMAJMENOVAT
+Унеси име директоријума
+#_FS_PRO_CTENI
+'само за читање, '
+#_FS_SKRYTY
+'скривено, '
+#_FS_SYSTEMOVY
+'системски, '
+#_FS_ARCHIVOVAT
+'архива, '
+#_FS_ZADNE
+нема.
+#_FS_ZPRAVA
+Порука:
+#_FS_SOUBOR
+'Датотека: '
+#_FS_VELIKOST
+'Величина: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' бајтова'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Измењено: '
+#_FS_ATRIBUTY
+'Атрибути: '
+#_FS_VYBER_SOUBOR
+Изабери датотеку:
+#_FS_SOUBORNEVYTVOREN
+Није могуће креирати датотеку.
+#_FS_ADRESARNEVYTVOREN
+Није могуће креирати директоријум.
+#_FS_DISK2
+Дискови:
+#_FS_DISK3
+'Диск '
+#_FS_JMENOVKADISKU
+'Ознака диска:   '
+#_FS_SYSTEMSOUBORU
+'Систем датотека:'
+#_FS_KAPACITA
+'Капацитет:      '
+#_FS_VOLNEHO
+'Слоб. простор:  '
+#_FS_SERCISLO
+Серијски број:
+#_FS_VYBER_NECO
+Датотека мора бити изабрана.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Диск није спреман.
+#_FS_TRIDENI_NADPIS
+Сортирање:
+#_FS_TRIDENI_MIX1
+име*датум*тип
+#_FS_TRIDENI_MIX2
+узлазно*силазно
+#_PREPSATSOUBOR
+Преписати датотеку?
+#_VSEPOL
+сви елементи
+#_VYBPOL
+изабрани елем.
+#_ZAMPOL
+одбијени елем.
+#_VYBINFO
+У десном окну су сви елементи, а у левом изабрани.
+Избор и брисање се врши помоћу Enter.
+Пребацивање између окана помоћу Tab.
+#_VYBINFO2
+У левом окну су изабрани елементи, а у десном одбијени.
+Избор и брисање се врши помоћу Enter.
+Пребацивање између окана помоћу Tab.
+#_MOUSE_NOT_INSTALLED
+Управљачки програм за миш није инсталиран. Учитајте CTmouse.
+#_LFB_NOT_AVAILABLE
+Ваша графичка картица не подржава LFB режим за овај видео режим.

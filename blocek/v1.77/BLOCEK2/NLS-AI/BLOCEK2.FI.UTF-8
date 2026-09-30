@@ -1,0 +1,751 @@
+## Blocek2, finnish, fi, cp865
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Suomi        (fi)
+#identifikuj_se2
+blocek2.fi
+#sys_font
+865-16.fv
+#sys_font_maly
+865-14.fv
+#chyba_videomodu
+Haluttua videotilaa ei ole saatavilla:
+#sys_font_kodovani
+865
+#m1
+<BARVA=!;KLAVESY=t>T<SB>iedosto
+#m2
+<BARVA=!;KLAVESY=a>A<SB>setukset
+#m3
+<BARVA=!;KLAVESY=o>O<SB>hje
+#m31
+<BARVA=!;KLAVESY=t>T<SB>ietoja
+#m32
+<BARVA=!;KLAVESY=l>L<SB>ue INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=j>J<SB>ärjestelmätiedot
+#m34
+<BARVA=!;KLAVESY=h>H<SB>ypertekstiohje
+#m4
+T<BARVA=!;KLAVESY=e>e<SB>ksti
+#m11
+<BARVA=!;KLAVESY=u>U<SB>usi    <<F1>>
+#m12
+A<BARVA=!;KLAVESY=v>v<SB>aa <<F3>>
+#m13
+T<BARVA=!;KLAVESY=a>a<SB>llenna  <<F2>>
+#m14
+Siirry <BARVA=!;KLAVESY=d>D<SB>OSiin
+#m15
+<BARVA=!;KLAVESY=l>L<SB>opeta   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=s>S<SB>ulje  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=v>V<SB>ärit
+#m211
+<BARVA=!;KLAVESY=e>E<SB>dustaväri
+#m212
+<BARVA=!;KLAVESY=t>T<SB>austaväri
+#m213
+<BARVA=!;KLAVESY=p>P<SB>erusväri
+#m215
+<BARVA=!;KLAVESY=r>R<SB>ivin korostusväri
+#m22
+<BARVA=!;KLAVESY=k>K<SB>ieli
+#m23
+K<BARVA=!;KLAVESY=o>o<SB>rosta nyk. rivi
+#m24
+K<BARVA=!;KLAVESY=i>i<SB>rjasin
+#m25
+K<BARVA=!;KLAVESY=u>u<SB>vasuodatin
+#m26
+<BARVA=!;KLAVESY=n>N<SB>äppäimistöt
+#m27
+<BARVA=!;KLAVESY=s>S<SB>ivupaneeli
+#m28
+<BARVA=!;KLAVESY=t>T<SB>allenna asetukset
+#m29
+N<BARVA=!;KLAVESY=y>y<SB>tä välilyönnit
+#m41
+Muunna <BARVA=!;KLAVESY=u>U<SB>TF-8:aan
+#m42
+UTF-8:s<BARVA=!;KLAVESY=t>t<SB>a
+#m43
+R<BARVA=!;KLAVESY=i>i<SB>vitys
+#m431
+<BARVA=!;KLAVESY=k>K<SB>iinnitä rivitys
+#m432
+<BARVA=!;KLAVESY=y>Y<SB>hdistä rivit
+#m44
+<BARVA=!;KLAVESY=e>E<SB>tsi      <<Ctrl-F>>
+#m45
+Etsi <BARVA=!;KLAVESY=s>s<SB>euraava <<Ctrl-S>>
+#m46
+K<BARVA=!;KLAVESY=o>o<SB>rvaa      <<Ctrl-H>>
+#m460
+Kirjanmer<BARVA=!;KLAVESY=k>k<SB>it
+#m47
+<BARVA=!;KLAVESY=m>M<SB>erkkikartta
+#m48
+Muu<BARVA=!;KLAVESY=n>n<SB>okset <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=l>L<SB>ohkotoiminnot
+#m490
+Luo <BARVA=!;KLAVESY=q>Q<SB>R-koodi
+#m491
+Merkit <BARVA=!;KLAVESY=h>H<SB>TML-entiteeteiksi
+#m492
+<BARVA=!;KLAVESY=i>I<SB>soiksi kirjaimiksi
+#m493
+<BARVA=!;KLAVESY=p>P<SB>ieniksi kirjaimiksi
+#m494
+HTML-<BARVA=!;KLAVESY=e>e<SB>ntiteetit merkeiksi
+#m495
+<BARVA=!;KLAVESY=v>V<SB>iivakoodit
+#vyber_soubor
+Valitse tiedosto:
+#jak_to_ulozit
+Kuinka tämä tallennetaan?
+#soubor_existuje_prepsat
+Tiedosto on jo olemassa
+korvataanko?
+#o_programu
+tietoja
+#napoveda
+ohje
+#varovani
+<BARVA=51200>varoitus!<SB>
+#opravdu_konec
+Lopetetaanko todella?
+Tallentamattomat muutokset menetetään.
+#tento_soubor_uz_jednou_mame
+Tämä tiedosto on jo auki.
+Blocek antaa avata sen uudelleen,
+mutta se toimii riippumattomasti ensimmäisestä!
+ts.
+EI KUTEN PASCAL IDE
+#unicode
+unicode
+#zalamovani
+rivitys
+#proporcionalni_mod
+proportionaal
+#vyber_barvu_popredi
+Valitse edustaväri
+#vyber_barvu_pozadi
+Valitse taustaväri
+#vyber_barvu_zakladu
+Valitse perusväri
+#vyber_barvu_prosv
+Valitse väri
+#zda_pro_rad
+Korostetaanko nykyinen rivi?
+#nastaveni_ulozeno
+Asetukset tallennettu
+
+#zatim_neni
+Tämä toiminto ei ole vielä käytettävissä.
+
+#hypertextova_napoveda
+Hypertekstiohje
+
+#napoveda_koren
+Blocek - tekstieditori ja kuvankatseluohjelma
+
+Ohjeaiheet:
+1) <OK="napoveda_klavesy">Komennot<OK/>
+2) <OK="napoveda_mys">Hiirikomennot<OK/>
+3) <OK="napoveda_prvky">Käyttöliittymän osat<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Komennot<SB;SF>
+<barva=65535>F10<sb>   - avaa päävalikko
+<barva=65535>F1<sb>    - luo uusi tiedosto
+<barva=65535>F2<sb>    - tallenna tiedosto
+<barva=65535>F3<sb>    - avaa tiedosto
+<barva=65535>Alt+F3<sb> - sulje tiedosto
+<barva=65535>Alt+F1<sb> - avaa INFO.TXT
+<barva=65535>Ctrl+F<sb> - etsi
+<barva=65535>Ctrl+S<sb> - jatka etsintää
+<barva=65535>Ctrl+H<sb> - etsi ja korvaa
+<barva=65535>Ctrl+A<sb> - valitse koko asiakirja
+<barva=65535>Ctrl+Q<sb> - ehdottaa samankaltaista merkkiä viimeksi kirjoitetulle [a,á,...]
+<barva=65535>Ctrl+K<sb> - toiminto merkkien muuntamiseen koodausten välillä
+<barva=65535>Ctrl+L<sb> - pika-valikko rivin muokkaamiseen
+<barva=65535>LShift+Alt<sb> - vaihda näppäimistöasetuksia
+<barva=65535>Ctrl+Alt+ylös<sb>  - valitse nykyinen rivi
+<barva=65535>Ctrl+Alt+alas<sb>   - valitse sana osoittimen alla
+<barva=65535>Ctrl+Alt+vasen<sb>  - valitse kaikki merkit osoittimen vasemmalta puolelta
+<barva=65535>Ctrl+Alt+oikea<sb> - valitse kaikki merkit osoittimen oikealta puolelta
+<barva=65535>Backspace<sb> - poista merkki osoittimen vasemmalta puolelta
+<barva=65535>Delete<sb> - poista merkki osoittimen oikealta puolelta
+<barva=65535>Shift+Delete<sb> - poista valittu lohko
+<barva=65535>*nuolet<sb> - siirrä osoitinta
+<barva=65535>*Ctrl+PageUp<sb> tai <barva=65535>*Ctrl+Home<sb> - hyppää asiakirjan ensimmäiselle riville
+<barva=65535>*Ctrl+PageDown<sb> tai <barva=65535>*Ctrl+End<sb> - hyppää asiakirjan viimeiselle riville
+<barva=65535>*Ctrl+oikea<sb> - siirry sana oikealle
+<barva=65535>*Ctrl+vasen<sb> - siirry sana vasemmalle
+   Tähdellä "*" merkityt näppäimet tai yhdistelmät
+   voidaan yhdistää <barva=65535><Shift><sb>-näppäimen kanssa.
+Tällöin tekstilohkon kokoa säädetään
+   osoittimen liikkeen mukana.
+<barva=65535>Ctrl+[1-7]<sb> - kopioi lohko leikepöydälle 1-7
+<barva=65535>Alt+[1-7]<sb> - liitä teksti leikepöydältä 1-7 nykyiseen kohtaan
+<barva=65535>Ctrl+plus<sb> ja <barva=65535>Ctrl+miinus<sb> (numeronäppäimistöllä) - nopea selaus avointen tiedostojen välillä
+<barva=65535>ESC<sb>   - lopeta
+<barva=65535>Alt+F2<sb> - tallenna nykyinen näyttö
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Hiirikomennot<SB;SF>
+<barva=65535>1) Asiakirjaikkunassa<SB>
+Vasen napsautus (VN) - siirtää osoittimen kyseiseen kohtaan tekstissä.
+VN+shift - määrittää tekstilohkon alun ja lopun
+Pidä VN painettuna ja vedä - interaktiivinen lohkon valinta
+Oikea napsautus (ON) - näyttää merkin tiedot ja avaa valintaikkunan
+merkkien muuntamiselle.
+Tarjoaa myös kirjanmerkkitoimintoja.
+
+<barva=65535>2) Avointen tiedostojen välilehtipalkissa<SB>
+Napsauta VN - tuo tiedoston pääikkunaan
+Napsauta ON - kyseisen tiedoston toimintovalikko
+(sulje, sulje kaikki muut, näytä koko polku)
+
+<barva=65535>3) Leikepöydän ilmaisimessa<SB>
+Napsauta VN - valikko toiminnoille leikepöydän sisällön kanssa
+
+<barva=65535>4) Muut huomautukset<SB>
+->> Kaikki muut käyttöliittymän osat käyttävät vain vasenta painiketta
+->> Melkein kaikkia valintaikkunoita voi siirtää vetämällä otsikkopalkista.
+->> Vetämällä tekstiä tietoikkunoissa voit valita ja sitten kopioida
+    tekstin leikepöydälle painamalla <OK="napoveda_klavesy">CTRL+[1-7]<OK/>.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Käyttöliittymän osat<SB;SF>
+Suurin osa käyttöliittymästä on <barva=65535>pääikkuna<SB>. Se näyttää muokattavan
+asiakirjan tai kuvankatselun.
+Asiakirjan vasemmassa reunassa voi olla sivupaneeli,
+joka osoittaa, miten rivit on päätetty.
+Ikkunan yläpuolella on kolme paneelia.
+
+<barva=65535>1) Kiinteä rivi<SB>
+Päävalikko: <barva=65535>Tiedosto<SB>, <barva=65535>Teksti<SB>, <barva=65535>Asetukset<SB>, <barva=65535>Ohje<SB>
+Valikon oikealla puolella on <OK="napoveda_indikatory">leikepöydän ilmaisimet<OK/> numeroitu 1-7.
+Vielä kauempana oikealla (oikeassa yläkulmassa) on pudotusvalikko näppäimistöasettelulle.
+Tämä luettelo voidaan avata myös <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Kontekstuaalinen rivi<SB>
+Muuttuu pääikkunan sisällön mukaan.
+Jos se on kuva, se näyttää vasemmalla koon pikseleinä.
+Oikealla on painikkeet koko näytölle, optimaaliselle sovitukselle ja käännölle/peilaukselle.
+Jos se on asiakirja, näkyy painike merkkien muuntamiseen
+(myös näppäimillä <OK="napoveda_klavesy">CTRL+K<OK/>). Sen oikealla puolella on painike
+rivitystilojen vaihtamiseksi.
+Oikealla on valintaruutu rivityksen kytkemiseksi päälle tai pois.
+Aivan oikealla näkyy nykyinen sarake ja rivi.
+
+<barva=65535>3) Avoimien tiedostojen välilehdet<SB>
+Niin kauan kuin tiedostoa ei ole ladattu, alapalkki on tyhjä.
+Heti kun avaat tiedoston, sen välilehti ilmestyy tähän palkkiin.
+Blocekissa voi olla monia tiedostoja auki samanaikaisesti.
+Niiden välilehdet näkyvät vierekkäin ja voit vaihtaa niitä <OK="napoveda_mys">hiirellä<OK/>.
+Vasen hiiren painike tuo pääikkunan kyseiseen tiedostoon.
+Oikea hiiren painike avaa alivalikon tiedoston sulkemiseksi, muiden sulkemiseksi tai polun näyttämiseksi.
+
+#napoveda_indikatory
+Jos kopioit tekstiä leikepöydälle (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>) tai valintaikkunan kautta,
+sen olemassaolo osoitetaan ilmaisimen syttyessä kuin hehkulamppu.
+Jos leikepöytä on tyhjä, se näytetään yliviivattuna ympyränä.
+Ilmaisin nro 7 voi näkyä muodossa <BARVA=65535>7W<SB>.
+Tämä tarkoittaa, että MS Windowsin leikepöytäpalvelut ovat käytettävissä.
+Tässä tapauksessa leikepöytä 7 on linkitetty Windowsin leikepöytään tekstin vaihtamiseksi muiden ohjelmien kanssa.
+Tarkemmat tiedot ovat tiedostossa TECHNOTE.TXT
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versio 1.77b
+käännöspäivä: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek on tekstieditori ja kuvankatseluohjelma,
+joka pystyy käsittelemään mm. UTF-8-tiedostoja,
+mikä tekee siitä ihanteellisen verkkosivujen luomiseen.
+Blocek pystyy käsittelemään erittäin suuria tiedostoja ja pitkiä
+rivejä. Kiitos Mateusz Vistelle Unicode-kirjasimista.
+Blocek toimii myös yleisten kuvamuotojen katseluohjelmana,
+mutta ei voi muokata niitä.
+Tätä ohjelmaa voidaan levittää GNU/GPL-lisenssin ehtojen mukaisesti.
+
+#parametr_otaznik
+Syntaksi:
+BLOCEK [tiedosto1 [, tiedosto2 [,...]]]
+#ovladani_obrazku
+koko näyttö*o<<>>O*+90*-90*vaaka*pysty*Exif-tiedot
+
+#soubor_nebyl_ulozen
+Tiedostoa ei tallennettu!
+levyllä ei ole tarpeeksi tilaa tai
+levy on vain luku -tilassa
+
+#chyba_font_int
+Virhe fonttitiedoston lataamisessa
+#chyba_font_neint
+Puuttuva fonttitiedosto tai virhe tiedoston lataamisessa:
+
+#informace_exif
+Tietoja Exif-lohkosta
+#exif_date_strs
+Päivämäärä ja aika:*Alkup. päivämäärä ja aika:*Digitointipäivämäärä:
+#exif_camera_info
+Kameran valmistaja:*Kameramalli:*Kuvaus:*Ohjelmisto:*Valonlähde:*Salama:*Valotustila:*ISO:*Valotusaika:*Suunta:*Zoom:
+#exif_lightsrc_info
+Tuntematon*Päivänvalo*Loisteputki*Hehkulamppu*Salama*Vakiovalo A*Vakiovalo B*Vakiovalo C*D55*D65*D75*Muu lähde*Tuntematon
+#exif_flash_info
+Ei salamaa*Salama*Salama ilman esisalamaa*Salama esisalamalla*Automaattinen salama*Ei salamaa*Tuntematon
+#exif_expos_mode
+Tuntematon*Manuaalitila*Normaali ohjelma*Aukon esivalinta*Suljinajan esivalinta*Luova ohjelma*Urheilutila*Muotokuvatila*Maisematila*Tuntematon
+#exif_orientation_desc
+Normaali*Peilattu vaaka*Käännetty 180°*Peilattu pysty*Käännetty 90° vasemmalle ja peilattu*Käännetty 90° oikealle*Käännetty 90° oik. ja peilattu*Käännetty 90° vasemmalle*Tuntematon
+#exif_zoom_unused
+Ei käytössä
+#exif_GPS_info
+GPS-sijaintitiedot*leveysaste:*pituusaste:*korkeus:*atsimuutti*P*E*L*I*m*o*'*''
+#zkopirovat_exif
+Leikepöydälle
+#nejde_o_obrazek
+Tiedosto on vioittunut tai
+kuvadata ei ole tuetussa muodossa
+Tiedosto avataan tekstinä.
+#nelze_fixovat_zalamani
+Tämä toiminto on käytettävissä
+vain rivitystilassa.
+#vyhledavani
+Etsintä
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>etsintätila<POZADI=->
+#vyhled_mozn
+et<BARVA=!;KLAVESY=e>e<SB>enpäin
+t<BARVA=!;KLAVESY=a>a<SB>aksepäin
+al<BARVA=!;KLAVESY=u>u<SB>sta
+#roz_vel_pismen
+<BARVA=!;KLAVESY=h>H<SB>uomioi kirjainkoko
+
+#text_nenalezen
+Määritettyä tekstiä ei löytynyt.
+#nahradit_vyskyt
+Korvataanko tämä osuma?
+#potvrzovat
+<BARVA=!;KLAVESY=v>v<SB>ahvista
+#nahradvse
+korvaa <BARVA=!;KLAVESY=k>k<SB>aikki
+#hledany_text
+etsittävä teksti:
+#novy_text
+uusi teksti
+#nahrada_textu
+tekstin korvaaminen
+#vyber_filtr
+Valitse suodatin
+#opravdu_zavrit
+Tiedostoa on muutettu.
+Haluatko tallentaa sen?
+#zavrit_ostatni
+Sulje kaikki muut
+#umisteni_souboru
+Tiedoston sijainti
+#bezejmenny
+<BARVA=46815><<uusi>><SB>
+#bezejmenny_soubor
+Uusi tiedosto
+
+#zrusit_nac
+Keskeytetäänkö lataus?
+#chybi_bcfg
+Asetustiedostoa <BARVA=65535>BLOCEK.CFG<SB>
+ei ole vielä olemassa.
+Luon sen kopioimalla tiedoston
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Asetustiedosto <BARVA=65535>BLOCEK.CFG<SB>
+on väärässä muodossa.
+Siksi korvaan sen tiedostolla
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Asetustiedostoon <BARVA=65535>BLOCEK.CFG<SB>
+on lisätty nämä kohteet tiedostosta <BARVA=65535>DEFAULT.CFG<SB>:
+#pocet_zmen
+Löytyi*Muutosten lukumäärä:*Osumia*O<BARVA=!;KLAVESY=s>s<SB>umien laskentatoiminto
+#neniswap
+Järjestelmäsi ei tue virtuaalimuistia!
+Tämä voi olla vaarallista (muisti voi loppua).
+Kokeile käyttää toista DPMI-hallintaa.
+tällä hetkellä asennettu:
+#dpmineznamy
+<BARVA=333>tuntematon DPMI-hallinta :-(<SB>
+#kaslinaswap
+(Voit poistaa tämän tarkistuksen käytöstä
+asettamalla <BARVA=65530>zkontroluj_swap = 0<SB> tiedostossa BLOCEK.CFG)
+#plnyseznam
+Koko luettelo...
+#vybprefkl
+Mitkä näppäimistöt tulisi olla perusvalikossa?
+#vybprefflt
+Mitkä suodattimet tulisi olla perusvalikossa?
+
+#asciiauto
+automaattinen tunnistus
+
+#vkod
+<PODTRH=+>lähde<PODTRH=->
+#ckod
+<PODTRH=+>kohde<PODTRH=->
+#oznaceno
+valittu:
+#ozn_nic
+ei mitään
+#kompinfo
+Suoritin:*Muisti:*MB RAM*Video:* VESA-versio:*Videotila:*Videomuisti:*Virkistystaajuus:*BIOS default*DOS-versio:*Merkistö:*DOS-maakoodi:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideotilat*Tilojen yleiskatsaus
+#kompinfo_lfn
+Pitkät tiedostonimet (LFN):
+#schranka_c
+Leikepöytä nro
+#schranka_do
+Kopioi leikepöydälle
+#schranka_ze
+Liitä leikepöydältä
+#schranka_copy
+Kopioi toiselle leikepöydälle
+#schranka_smaz
+Poista
+#vyber_jazyk
+Valitse kieli
+#nutny_restart
+Uudelleenkäynnistys vaaditaan kielen vaihtamiseksi.
+#prevod_html_entity
+Muunna HTML-entiteeteiksi
+#prevod_html_ent_info
+Merkit, joiden ASCII/Unicode-arvo on yli 127
+muunnetaan HTML-entiteeteiksi.
+Alue määräytyy valitun lohkon mukaan.
+#text_je_v_unicode
+Teksti on Unicode-muodossa.
+#text_je_v_ascii
+Teksti on ASCII-koodauksessa ja se
+muunnetaan muunnostaulukon mukaisesti.
+#neni_oz_blok
+Lohkoa ei ole valittu - muunnan
+koko tekstin
+#prevod_mala_velka
+Teksti isoiksi kirjaimiksi
+#prevod_mala_velka_inf
+Muuttaa valitun lohkon pienet kirjaimet isoiksi.
+Muut merkit eivät muutu.
+#prevod_velka_mala
+Teksti pieniksi kirjaimiksi
+#prevod_velka_mala_inf
+Muuttaa valitun lohkon isot kirjaimet pieniksi.
+Muut merkit eivät muutu.
+#kodovani_dokumentu
+koodaus:
+#help_non_unicode
+Muuttaa vain merkistön tunnisteen. Kirjasin ei muutu.
+#help_inter_znaku
+Muunnokset merkkien ja sekvenssien välillä UTF-8 tai UTF-16.
+Jotkin alitoiminnot koskevat lohkoa, toiset koko asiakirjaa.
+Unicoden ja ei-Unicoden välillä vaihtaminen muuttaa kirjasimen.
+#help_tabkonv_znaku
+Muuntaa asiakirjan merkit toiseen koodaukseen taulukoiden avulla.
+Merkkien määrä pysyy samana.
+Koskee valittua lohkoa tai koko tekstiä.
+Unicoden ja ei-Unicoden välillä vaihtaminen muuttaa kirjasimen.
+
+#analyza_nedef_zn_dok
+Määrittelemättömien merkkien analyysi asiakirjassa
+
+#analyza_nedef_zn_blok
+Määrittelemättömien merkkien analyysi lohkossa
+
+#poc_vysk_nedef_znaku_n
+merkin osumien määrä
+
+#poc_vysk_nedef_znaku_vse
+määrittelemättömiä merkkejä yhteensä
+
+#poc_vysk_nedef_znaku_unik
+yksilölliset määrittelemättömät merkit:*niiden alue:
+
+#zamena_znaku
+Korvataanko merkki toisella?
+#nedefinovany_znak
+Määrittelemätön merkki*Määrittelemättömien merkkien analyysi
+
+#nedefinovany_znak_zam
+Korvataanko kaikki määrittelemättömät merkit?
+
+#zamena_znaku_radiob1
+Kertaluonteinen korvaaminen
+Koko asiakirjassa
+Valitussa lohkossa
+
+#zamena_znaku_radiob2
+kaikkialla
+alusta merkkiin asti
+merkistä eteenpäin
+
+#znak_k_zamene
+Korvaava merkki...
+
+#dotaz_pri_zmene
+Kysytäänkö ennen muuttamista?
+#kodovaniascii_dlg
+Todennäköinen ASCII-koodaus:*ei voida määrittää*Hyväksytkö?
+
+#polozka_dos
+(taulukon kanssa)*(ilman taulukkoa)*lisää...
+
+#tbl_filtr_ascii
+Muunnos ryhmässä:*lähdekoodaus*kohdekoodaus
+
+#niz_nonunicode1
+Millä koodauksella teksti näytetään?
+
+#niz_nonunicode2
+Lähde- ja kohdekoodaus ovat samat.
+Muutoksia ei tehdä.
+
+#ascii_2_utf_1
+Muunnokset ASCII- ja UTF-8/UTF-16-sekvenssien välillä
+
+#ascii_2_utf_2
+Lohkotoiminnot (eivät muuta yleistä koodausta)
+
+#ascii_2_utf_3
+Koko asiakirjan toiminnot (vaihtaa Unicodeen)
+
+#uni_2_utf_1
+Muunnokset Unicode- ja UTF-8/UTF-16-sekvenssien välillä
+
+#uni_2_utf_2
+Lohkotoiminnot (eivät muuta yleistä koodausta)
+
+#uni_2_utf_3
+Koko asiakirjan toiminnot (vaihtaa ei-Unicodeen [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS-koodauksessa)
+
+#prohozeni_endianity
+Vaihda Endianness Unicode
+
+#tab_konv_zn
+Ei tee muunnoksia.
+Ainoastaan merkitsee asiakirjan ei-Unicodeksi.
+Merkit 0-255 eivät muutu, korkeammat korvataan.
+#zda_prenastavit_font1
+Pitäisikö minun nollata kirjasin ja merkitä koodaus ei-Unicodeksi?
+
+#zda_prenastavit_font2
+Pitäisikö minun nollata kirjasin ja merkitä koodaus Unicodeksi?
+#pren_font_ano
+(koko teksti muunnetaan, KYLLÄ suositellaan)
+
+#pren_font_ne
+(vain osa tekstistä muunnetaan, EI suositellaan)
+
+#preznacit_kodovani
+Pitäisikö asiakirjan koodaustunniste muuttaa?
+#zm_kod_dok
+Asiakirjan koodauksen muutos
+
+#zak_unicode
+Asiakirja on koodattu Unicode-standardin mukaisesti.
+
+#sada_a_filtr_souborem
+Merkistö ja suodatin määräytyvät tiedoston mukaan:
+
+#interp_nonuni
+Ei-Unicoden tulkinta
+
+#konv_zn_utf
+Sekvenssin merkki/UTF muunnos
+
+#tab_konv_zz
+Taulukkomuunnos merkki/merkki
+
+#zmena_fontu
+Vaihda kirjasin
+
+#nas_zal_rad
+Rivityksen asetukset
+
+#nas_zal_mozn
+ikkunan mukaan
+78 merkkiä
+80 merkkiä
+mukautettu...
+
+#filesel_nejde_konverze
+Nimeä ei voida muuntaa oikein
+nykyiseen DOS-koodisivuun.
+Haluatko jatkaa silti?
+
+#podrobnosti
+Tiedot
+
+#moznosti...
+Asetukset...
+
+#form_konc_rad
+Rivinvaihdon muoto
+
+#form_konc_help
+On suositeltavaa säilyttää CRLF-standardi,
+jota käytetään DOS- ja Windows-ympäristöissä.
+LF on Unix/Linux-standardi ja
+CR:ää käytettiin Macintosh-tietokoneissa.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = byte order mark
+Koskee vain Unicode-tiedostoja.
+Se on kolmen tavun sekvenssi
+tiedoston alussa.
+Suositellaan UTF-16-tiedostoille.
+Ei yleensä käytetä UTF-8:lle.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Haluatko todella kiinnittää rivityksen koko tekstiin?
+#rozs_fix_lom_blok
+Lohko ei ylitä yhtään rivinvaihtoa
+Haluatko laajentaa sitä ja jatkaa?
+
+#jen_nezalam_rezim
+Tämä toiminto on käytettävissä vain tilassa ilman rivitystä.
+#opravdu_spoj_radky
+Yhdistetäänkö kappaleiden rivit koko tekstissä?
+
+#nahr_faze
+1. vaihe:*2. vaihe:*3. vaihe:
+
+#jen_v_bloku
+Va<BARVA=!;KLAVESY=i>i<SB>n lohkossa
+
+#prevod_z_html_entit
+HTML-entiteettien purkaminen merkeiksi
+
+#prevod_z_html_entit_info
+Tunnistaa HTML-entiteetit (esim. &#8222;) ja korvaa ne Unicode-merkeillä
+
+#qr_vygenerovany
+QR-koodi luotu
+
+#qr_ulozit
+Tallenna
+
+#qr_velikost
+Pistekoko QR-koodissa (1-20)
+
+#qr_uspech
+Onnistui! Tallennettu nimellä:
+
+#qr_chyba
+Virhe muunnettaessa QR-koodiksi.
+
+#qr_chyba_save
+Virhe tallennettaessa QR-koodia.
+#qr_tvorba
+QR-koodien luominen
+
+#qr_text
+QR-koodiksi muunnettava teksti
+
+#related_characters
+Samankaltaiset merkit
+
+#zalozky
+Kirjanmerkit*Kirjanmerkki nro*Näytä kirjanmerkit
+
+#menu_slovo
+valikko/sana
+
+#dialogy_menu_slovo
+Etsi-valinta*Korvaa-valinta*ISOT KIRJAIMET*pienet kirjaimet*Ensimmäiset Isot*Leikepöydälle
+
+#menu_radek
+valikko/rivi
+
+#dialogy_menu_radek1
+Rivi lohkoksi:
+r<BARVA=!;KLAVESY=i>i<SB>vityksellä
+il<BARVA=!;KLAVESY=m>m<SB>an rivitystä
+
+#dialogy_menu_radek2
+Välilyönnit:
+poista välilyönnit a<BARVA=!;KLAVESY=l>l<SB>usta
+poista välilyönnit lop<BARVA=!;KLAVESY=u>u<SB>sta
+
+#dialogy_menu_radek3
+Sisennys:
+ylemmän <BARVA=!;KLAVESY=r>r<SB>ivin mukaan
+<BARVA=!;KLAVESY=s>s<SB>arkaimen mukaan
+
+#pmysmenu
+<BARVA=!;KLAVESY=m>m<SB>erkki
+s<BARVA=!;KLAVESY=a>a<SB>na
+<BARVA=!;KLAVESY=r>r<SB>ivi
+
+#doprad
+Täydennä rivi
+
+#doprad_txt
+Kirjoita yksi tai useampi merkki,
+jolla täytetään tila rivin lopusta
+napsauttamaasi kohtaan asti.
+Oletus on [välilyönti]
+
+#zarovnani
+Tasaus:*vasen*oikea
+
+#carkod_tvorba
+Viivakoodit
+
+#carkod_instr
+Kirjoita numero tai lyhyt teksti
+Huom: Jotkin muodot tukevat vain numeroita.
+Lisäksi jotkin koodaukset (esim. EAN-13) vaativat
+kelvollisia koodeja oikealla tarkistussummalla.
+Virheellisiä numeroita voidaan koodata, mutta lukijat
+eivät ehkä pysty käsittelemään niitä.
+
+#carkod_ulozit
+Tallenna
+
+#carkod_uspech
+Onnistui! Tallennettu nimellä:
+
+#carkod_chyba
+Virhe muunnettaessa viivakoodiksi.
+
+#carkod_chyba_save
+Virhe tallennettaessa viivakoodia.
+#carkod_combine
+Lisää koodattu merkkijono
+
+#carkod_mozn
+Tämä merkkijono voidaan koodata seuraaviin viivakoodeihin:

@@ -1,0 +1,705 @@
+## Blocek2, icelandic, is, cp861,
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+•slenska     (is)
+#identifikuj_se2
+blocek2.is
+#sys_font
+861-16.fv
+#sys_font_maly
+861-14.fv
+#chyba_videomodu
+Umbeåinn skj†hamur er ekki ° boåi:
+#sys_font_kodovani
+861
+#m1
+<BARVA=!;KLAVESY=s>S<SB>kr†
+#m2
+<BARVA=!;KLAVESY=v>V<SB>alkostir
+#m3
+<BARVA=!;KLAVESY=h>H<SB>j†lp
+#m31
+<BARVA=!;KLAVESY=u>U<SB>m forritiå
+#m32
+<BARVA=!;KLAVESY=l>L<SB>esa INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=k>K<SB>erfisupplòsingar
+#m34
+V<BARVA=!;KLAVESY=e>e<SB>fhj†lp
+#m4
+<BARVA=!;KLAVESY=t>T<SB>exti
+#m11
+<BARVA=!;KLAVESY=n>N<SB>òtt    <<F1>>
+#m12
+<BARVA=!;KLAVESY=o>O<SB>pna <<F3>>
+#m13
+<BARVA=!;KLAVESY=i>I<SB>sta  <<F2>>
+#m14
+F<BARVA=!;KLAVESY=a>a<SB>ra ° DOS
+#m15
+<BARVA=!;KLAVESY=h>H<SB>ëtta   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=l>L<SB>oka  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=l>L<SB>itaval
+#m211
+<BARVA=!;KLAVESY=f>F<SB>orgrunnslitur
+#m212
+<BARVA=!;KLAVESY=b>B<SB>akgrunnslitur
+#m213
+<BARVA=!;KLAVESY=g>G<SB>runnlitur
+#m215
+Litur † <BARVA=!;KLAVESY=a>a<SB>uåkenndri l°nu
+#m22
+<BARVA=!;KLAVESY=t>T<SB>ungum†l
+#m23
+<BARVA=!;KLAVESY=a>A<SB>uåkenna n£verandi l°nu
+#m24
+L<BARVA=!;KLAVESY=e>e<SB>turval
+#m25
+<BARVA=!;KLAVESY=m>M<SB>yndas°a
+#m26
+L<BARVA=!;KLAVESY=y>y<SB>klaborå
+#m27
+<BARVA=!;KLAVESY=h>H<SB>liåarspjald
+#m28
+<BARVA=!;KLAVESY=v>V<SB>ista stillingar
+#m29
+A<BARVA=!;KLAVESY=u>u<SB>åkenna bil
+#m41
+Breyta ° <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+Bre<BARVA=!;KLAVESY=y>y<SB>ta fr† UTF-8
+#m43
+<BARVA=!;KLAVESY=l>L<SB>°nubrot
+#m431
+<BARVA=!;KLAVESY=f>F<SB>esta l°nubrot
+#m432
+<BARVA=!;KLAVESY=s>S<SB>ameina l°nur
+#m44
+<BARVA=!;KLAVESY=f>F<SB>inna      <<Ctrl-F>>
+#m45
+F<BARVA=!;KLAVESY=i>i<SB>nna nësta <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=s>S<SB>kipta £t      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=b>B<SB>¢kamerki
+#m47
+<BARVA=!;KLAVESY=t>T<SB>†knatafla
+#m48
+<BARVA=!;KLAVESY=k>K<SB>¢åunarbreyting <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=a>A<SB>ågeråir † blokk
+#m490
+B£a til <BARVA=!;KLAVESY=q>Q<SB>R k¢åa
+#m491
+Stafir ° HTML <BARVA=!;KLAVESY=e>e<SB>iningar
+#m492
+• <BARVA=!;KLAVESY=h>H<SB>§STAFI
+#m493
+• l†<BARVA=!;KLAVESY=g>g<SB>stafi
+#m494
+HT<BARVA=!;KLAVESY=m>M<SB>L einingar ° stafi
+#m495
+Strikame<BARVA=!;KLAVESY=r>r<SB>ki
+#vyber_soubor
+Veldu skr†:
+#jak_to_ulozit
+Hvernig † aå vista ïetta?
+#soubor_existuje_prepsat
+çessi skr† er ïegar til
+skrifa yfir?
+#o_programu
+hj†lp
+#napoveda
+hj†lp
+#varovani
+<BARVA=51200>viåvîrun!<SB>
+#opravdu_konec
+Virkilega hëtta?
+¶vistaåar breytingar tapast.
+#tento_soubor_uz_jednou_mame
+çessi skr† er ïegar opin.
+Blocek leyfir ïÇr aå opna hana aftur,
+en h£n mun virka ¢h†å fyrsta tilvikinu!
+ï.e. EKKI EINS OG IDE PASCAL
+#unicode
+unicode
+#zalamovani
+l°nubrot
+#proporcionalni_mod
+hlutfallslegur
+#vyber_barvu_popredi
+Veldu forgrunnslit
+#vyber_barvu_pozadi
+Veldu bakgrunnslit
+#vyber_barvu_zakladu
+Veldu grunnlit
+vel litaå
+#vyber_barvu_prosv
+#zda_pro_rad
+Auåkenna virka l°nu?
+#nastaveni_ulozeno
+Stillingar vistaåar
+
+#zatim_neni
+çessi eiginleiki er ekki tilb£inn enn.
+
+#hypertextova_napoveda
+Vefhj†lp
+
+#napoveda_koren
+Blocek - textaritill og myndaskoåari
+
+Hj†lparefni:
+1) <OK="napoveda_klavesy">Stj¢rntëki<OK/>
+2) <OK="napoveda_mys">M£sarstòring<OK/>
+3) <OK="napoveda_prvky">Viåm¢tseiningar<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Stj¢rntëki<SB;SF>
+<barva=65535>F10<sb>   - opna aåalvalmynd
+<barva=65535>F1<sb>    - b£a til nòja skr†
+<barva=65535>F2<sb>    - vista skr†
+<barva=65535>F3<sb>    - opna skr†
+<barva=65535>Alt+F3<sb> - loka skr†
+<barva=65535>Alt+F1<sb> - opna INFO.TXT
+<barva=65535>Ctrl+F<sb> - leita
+<barva=65535>Ctrl+S<sb> - halda †fram aå leita
+<barva=65535>Ctrl+H<sb> - leita og skipta £t
+<barva=65535>Ctrl+A<sb> - velja allt skjaliå sem blokk
+<barva=65535>Ctrl+Q<sb> - bòåur upp † skyldan staf fyrir s°åast skrifaåan
+<barva=65535>Ctrl+K<sb> - aågeråir til aå breyta k¢åun stafa
+<barva=65535>Ctrl+L<sb> - flòtiv°sun ° valmynd l°nuritils
+<BARVA=65535>LShift+Alt<sb> - breyta lyklaboråsstillingu
+<barva=65535>Ctrl+Alt+upp<sb>  - velur alla n£verandi l°nu sem blokk
+<barva=65535>Ctrl+Alt+niåur<sb>    - velur oråiå undir bendlinum sem blokk
+<barva=65535>Ctrl+Alt+vinstri<sb>  - velur alla stafi vinstra megin viå bendilinn
+<barva=65535>Ctrl+Alt+hëgri<sb> - velur alla stafi hëgra megin viå bendilinn
+<barva=65535>Backspace<sb> - eyåa staf vinstra megin viå bendilinn
+<barva=65535>Delete<sb> - eyåa staf hëgra megin viå bendilinn
+<barva=65535>Shift+Delete<sb> - eyåa valinni blokk
+<barva=65535>*îrvar<sb> - fëra bendil
+<barva=65535>*Ctrl+PageUp<sb> eåa <barva=65535>*Ctrl+Home<sb> - fara ° fyrstu l°nu skjals
+<barva=65535>*Ctrl+PageDown<sb> eåa <barva=65535>*Ctrl+End<sb> - fara ° s°åustu l°nu skjals
+<barva=65535>*Ctrl+hëgri<sb> - fara um eitt orå til hëgri
+<barva=65535>*Ctrl+vinstri<sb> - fara um eitt orå til vinstri
+   Hëgt er aå sameina lykla merktar "*" meå <barva=65535><Shift><sb> lyklinum.
+   • ïv° tilviki breytist stërå blokkarinnar ïegar bendillinn hreyfist.
+<barva=65535>Ctrl+[1-7]<sb> - afrita valda blokk † klippiborå 1-7
+<barva=65535>Alt+[1-7]<sb> - l°ma texta af klippiboråi 1-7
+<barva=65535>Ctrl+pl£s<sb> og <barva=65535>Ctrl+m°nus<sb> - skruna hratt milli opinna skr†a
+<barva=65535>ESC<sb>   - hëtta
+<barva=65535>Alt+F2<sb> - vista n£verandi skj†
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>M£sarstòring<SB;SF>
+<barva=65535>1) • skjala glugga<SB>
+Vinstri smellur (VS) - fërir bendil † tilgreindan staå ° textanum.
+VS+shift - byrjun og endir textablokkar
+Halda VS og draga m£s - gagnvirk val † textablokk
+Hëgri smellur (HS) - sònir upplòsingar um valinn staf og bòåur upp †
+samskiptaglugga fyrir stafabreytingar eåa b¢kamerki.
+
+<barva=65535>2) § flipastiku opinna skr†a<SB>
+Smellur VS - fërir skr†na ° aåalgluggann
+Smellur HS - valmynd meå valkostum fyrir skr†na
+
+<barva=65535>3) § klippiboråsv°si<SB>
+Smellur VS - valmynd aågeråa meå innihaldi klippiborås
+
+<barva=65535>4) Aårar athugasemdir<SB>
+->> Allir aårir ïëttir viåm¢tsins nota aåeins vinstri m£sarhnapp.
+->> Nëstum alla glugga er hëgt aå fëra meå ïv° aå draga titilstikuna.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Viåm¢tseiningar<SB;SF>
+Mest af pl†ssinu fer ° <barva=65535>aåalgluggann<SB>. Hann sònir skjaliå eåa myndina.
+§ vinstri br£n getur veriå hliåarspjald sem sònir hvernig l°nur enda.
+<barva=65535>1) Fastal°na<SB>
+Aåalvalmynd: <barva=65535>Skr†<SB>, <barva=65535>Texti<SB>, <barva=65535>Valkostir<SB>, <barva=65535>Hj†lp<SB>
+Hëgra megin eru <OK="napoveda_indikatory">klippiboråsv°sar<OK/>, n£meraåir 1-7.
+Efst til hëgri er listi fyrir lyklaborå. (Opnast l°ka meå <OK="napoveda_klavesy">ALT+SHIFT<OK/>)
+
+<barva=65535>2) Samhengisl°na<SB>
+Breytist eftir innihaldi aåalgluggans.
+
+<barva=65535>3) Flipastika<SB>
+çegar ï£ opnar skr† birtist flipi hennar hÇr.
+
+#napoveda_indikatory
+Ef ï£ afritar texta (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>), veråur v°sirinn hv°tur.
+Ef klippiboråiå er t¢mt birtist strikaåur hringur.
+V°sir 7 gëti veriå <BARVA=65535>7W<SB>, sem ïòåir aå hann er tengdur MS Windows klippiboråinu.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+£tg†fa 1.77b
+dagsetning byggingar: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek er textaritill og myndaskoåari
+sem styåur UTF-8 skr†r.
+Hentar vel fyrir st¢rar skr†r og langar l°nur.
+çakkir til Mateusz Viste fyrir Unicode letur.
+Virkar l°ka fyrir myndir en breytir ïeim ekki.
+
+Forritiå er dreift undir GNU/GPL leyfi.
+
+#parametr_otaznik
+M†lskipun:
+BLOCEK [skr†1 [, skr†2 [,...]]]
+#ovladani_obrazku
+fullur skj†r*o<<>>O*+90*-90*l†rÇtt*l¢årÇtt*Exif gîgn
+
+#soubor_nebyl_ulozen
+Skr†in var ekki vistuå!
+Ekki er n¢g pl†ss † diski eåa
+diskurinn er skrifvarinn.
+
+#chyba_font_int
+Villa viå aå hlaåa inn leturskr†
+#chyba_font_neint
+Leturskr† vantar eåa villa viå aå hlaåa inn skr†:
+
+#informace_exif
+Upplòsingar £r Exif blokk
+#exif_date_strs
+Dagsetning og t°mi:         *Dagsetning og t°mi frumrits:*Dagsetning og t°mi tîku:
+#exif_camera_info
+Framleiåandi:*Gerå:*Lòsing:*Hugb£naåur:*Lj¢sgjafi:*Flass:*Lòsingarhamur:*ISO:*Lòsingart°mi:*Stefna:*Aådr†ttur:
+#exif_lightsrc_info
+¶ïekkt*Dagsbirtu*Fl£rperur*Volfram*Flass*Staålaå lj¢s A*Staålaå lj¢s B*Staålaå lj¢s C*D55*D65*D75*Annar gjafi*¶ïekkt
+#exif_flash_info
+§n flass*Flass*Flass †n forflass*Flass meå forflass*Sj†lfvirkt flass*§n flass*¶ïekkt
+#exif_expos_mode
+¶ïekkt*Handvirkt*Venjulegt*Lj¢sopsforgangur*Hraåaforgangur*Skapandi*Hreyfing*Andlitsmynd*Landslag*¶ïekkt
+#exif_orientation_desc
+Venjulegt*L†rÇtt speglun*Sn£iå 180¯*L¢årÇtt speglun*Sn£iå 90¯ vinstri og speglaå*Sn£iå 90¯ hëgri*Sn£iå 90¯ hëgri og speglaå*Sn£iå 90¯ vinstri*¶ïekkt
+#exif_zoom_unused
+¶notaå
+#exif_GPS_info
+GPS staåsetning*breidd:*lengd:*hëå:*azimut*N*S*V*A*m*o*'*''
+#zkopirovat_exif
+§ klippiborå
+#nejde_o_obrazek
+Skr†in er skemmd eåa myndagîgn
+eru ekki † studdu sniåi.
+Skr†in veråur opnuå sem texti.
+#nelze_fixovat_zalamani
+çessi eiginleiki er aåeins ° boåi
+° l°nubrotsham.
+#vyhledavani
+Leit
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>leitarhamur<POZADI=->
+#vyhled_mozn
+fr† bendli <BARVA=!;KLAVESY=a>a<SB>fram
+fr† bendli t<BARVA=!;KLAVESY=i>i<SB>lbaka
+fr† <BARVA=!;KLAVESY=u>u<SB>pphafi skr†r
+#roz_vel_pismen
+H†s<BARVA=!;KLAVESY=t>t<SB>afir/l†gstafir skipta m†li
+
+#text_nenalezen
+Leitartexti fannst ekki.
+#nahradit_vyskyt
+Skipta ïessu £t?
+#potvrzovat
+<BARVA=!;KLAVESY=s>s<SB>taåfesta
+#nahradvse
+skipta î<BARVA=!;KLAVESY=l>l<SB>lu £t
+#hledany_text
+leita aå:
+#novy_text
+nòr texti
+#nahrada_textu
+skipta £t texta
+#vyber_filtr
+Veldu s°u
+#opravdu_zavrit
+Skr†nni hefur veriå breytt.
+Viltu vista?
+#zavrit_ostatni
+Loka îllum îårum
+#umisteni_souboru
+Staåsetning skr†r
+#bezejmenny
+<BARVA=46815><<nòtt>><SB>
+#bezejmenny_soubor
+Nò skr†
+
+#zrusit_nac
+Hëtta viå aå hlaåa?
+#chybi_bcfg
+Stillingarskr† <BARVA=65535>BLOCEK.CFG<SB>
+er ekki til enn.
+H£n veråur b£in til £r
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Stillingarskr† <BARVA=65535>BLOCEK.CFG<SB>
+er † rîngu sniåi.
+Henni veråur skipt £t fyrir
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Eftirfarandi atriåi voru afrituå ° <BARVA=65535>BLOCEK.CFG<SB>
+£r <BARVA=65535>DEFAULT.CFG<SB>:
+#pocet_zmen
+Fundiå*Fjîldi breytinga:*Fjîldi tilvika*<BARVA=!;KLAVESY=f>F<SB>all: talning tilvika
+#neniswap
+Kerfiå ïitt styåur ekki sòndarminni!
+Gëti veriå hëttulegt vegna minnisskorts.
+N£ er uppsett:
+#dpmineznamy
+<BARVA=333>¢ïekktur DPMI rekill :-(<SB>
+#kaslinaswap
+(ç£ getur hëtt viå ïessa athugun ° BLOCEK.CFG)
+#plnyseznam
+Fullur listi...
+#vybprefkl
+Hvaåa lyklaborå ëttu aå vera ° aåalvalmynd?
+#vybprefflt
+Hvaåa s°ur ëttu aå vera ° aåalvalmynd?
+
+#asciiauto
+sj†lfvirk greining
+
+#vkod
+<PODTRH=+>sj†lfgefiå<PODTRH=->
+#ckod
+<PODTRH=+>markmiå<PODTRH=->
+#oznaceno
+valiå:
+#ozn_nic
+ekkert
+#kompinfo
+ôrgjîrvi:*Minni:*MB RAM*Myndband:* VESA £tg†fa:*Skj†hamur:*Myndminni:*Endurnòjunart°åni:*BIOS sj†lfgefiå:*DOS £tg†fa:*DOS stafasett:*Landsk¢åi eftir DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>°de¢hamir*Yfirlit v°de¢hama
+#kompinfo_lfn
+Lîng skr†arnîfn (LFN):
+#schranka_c
+Klippiborå nr.
+#schranka_do
+Afrita † klippiborå
+#schranka_ze
+L°ma af klippiboråi
+#schranka_copy
+Afrita † annaå klippiborå
+#schranka_smaz
+Eyåa
+#vyber_jazyk
+Veldu tungum†l
+#nutny_restart
+çarf aå endurrësa forrit til aå breyta tungum†li.
+#prevod_html_entity
+Breyta ° HTML einingar
+#prevod_html_ent_info
+Stafir meå ASCII/Unicode gildi yfir 127 breytast ° HTML.
+#text_je_v_unicode
+Texti er ° Unicode sniåi.
+#text_je_v_ascii
+Texti er ° ASCII k¢åun.
+#neni_oz_blok
+Engin blokk valin - breyti îllum textanum.
+#prevod_mala_velka
+Texti ° H§STAFI
+#prevod_mala_velka_inf
+Breytir l†gstîfum ° valinni blokk ° h†stafi.
+#prevod_velka_mala
+Texti ° l†gstafi
+#prevod_velka_mala_inf
+Breytir h†stîfum ° valinni blokk ° l†gstafi.
+#kodovani_dokumentu
+k¢åun:
+#help_non_unicode
+Breytir aåeins merki stafasetts. Letur breytist ekki.
+#help_inter_znaku
+Breyting milli stafa og (UTF-8 / UTF-16).
+#help_tabkonv_znaku
+Stîfum er breytt ° aåra k¢åun meå tîflum.
+
+#analyza_nedef_zn_dok
+Greining ¢skilgreindra stafa ° îllum texta
+
+#analyza_nedef_zn_blok
+Greining ¢skilgreindra stafa ° valinni blokk
+
+#poc_vysk_nedef_znaku_n
+fjîldi tilvika stafs
+
+#poc_vysk_nedef_znaku_vse
+heildarfjîldi ¢skilgreindra stafa
+
+#poc_vysk_nedef_znaku_unik
+fjîldi einstakra ¢skilgreindra stafa:*sviå ïeirra:
+
+#zamena_znaku
+Skipta £t staf fyrir annan?
+
+#nedefinovany_znak
+¶skilgreindur stafur*Greining ¢skilg. stafa
+
+#nedefinovany_znak_zam
+Viltu skipta £t îllum ¢skilgreindum stîfum?
+
+#zamena_znaku_radiob1
+Einskiptis skipting
+• îllu skjalinu
+• valinni blokk
+
+#zamena_znaku_radiob2
+alls staåar
+fr† upphafi aå vîldum staf
+fr† vîldum staf †fram
+
+#znak_k_zamene
+Nòr stafur...
+
+#dotaz_pri_zmene
+Spyrja viå breytingu?
+
+#kodovaniascii_dlg
+L°kleg ASCII k¢åun:*ekki hëgt aå †kvaråa*Samm†la?
+
+#polozka_dos
+(tafla)*(ekki tafla)*meira...
+
+#tbl_filtr_ascii
+H¢pbreyting:*sj†lfgefin k¢åun*markk¢åun
+
+#niz_nonunicode1
+• hvaåa k¢åun er textinn sòndur?
+
+#niz_nonunicode2
+Sj†lfgefin og markk¢åun eru eins. Engar breytingar.
+
+#ascii_2_utf_1
+Breyting milli ASCII og UTF-8 eåa UTF-16
+
+#ascii_2_utf_2
+Blokkaågeråir (breytir ekki k¢åun skjals)
+
+#ascii_2_utf_3
+Aågeråir † îllu skjali (breytir k¢åun ° unicode)
+
+#uni_2_utf_1
+Breyting milli Unicode og UTF-8 eåa UTF-16
+
+#uni_2_utf_2
+Blokkaågeråir (breytir ekki k¢åun skjals)
+
+#uni_2_utf_3
+Aågeråir † îllu skjali (breytir k¢åun ° ekki-unicode)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (° DOS k¢åun)
+
+#prohozeni_endianity
+V°xla bëtarîå (Endianity) fyrir Unicode
+
+#tab_konv_zn
+Merki skjal sem ekki-Unicode. Stafir yfir 255 skipt £t.
+
+#zda_prenastavit_font1
+Breyta letri og merkja sem ekki-Unicode?
+
+#zda_prenastavit_font2
+Breyta letri og merkja sem Unicode?
+
+#pren_font_ano
+(ef veriå er aå breyta îllum texta, mëlt meå J§)
+
+#pren_font_ne
+(ef aåeins hluti er breyttur, mëlt meå NEI)
+
+#preznacit_kodovani
+Breyta merki skjals um k¢åun?
+
+#zm_kod_dok
+Breyta k¢åun skjals
+
+#zak_unicode
+Skjaliå er k¢åaå ° Unicode.
+
+#sada_a_filtr_souborem
+Stafasett og s°a skjals eru skilgreind af skr†:
+
+#interp_nonuni
+Ekki-Unicode t£lkun
+
+#konv_zn_utf
+Breyting stafur/UTF runa
+
+#tab_konv_zz
+Tîflubreyting stafur/stafur
+
+#zmena_fontu
+Leturbreyting
+
+#nas_zal_rad
+Stillingar l°nubrota
+
+#nas_zal_mozn
+eftir glugga
+78 stafir
+80 stafir
+sÇrsniåiå...
+
+#filesel_nejde_konverze
+Nafniå er ekki hëgt aå breyta rÇtt
+yfir † DOS k¢åun. Halda samt †fram?
+
+#podrobnosti
+Upplòsingar
+
+#moznosti...
+Valkostir...
+
+#form_konc_rad
+Sniå l°nuloka
+
+#form_konc_help
+Mëlt er meå aå halda CRLF staålinum
+sem DOS og Windows nota.
+LF er fyrir Unix/Linux,
+CR fyrir Macintosh.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Bëtarîå (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Aåeins fyrir Unicode skr†r.
+Mëlt meå fyrir UTF-16, venjulega ekki notaå ° UTF-8.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Festa l°nubrot ° îllum texta?
+
+#rozs_fix_lom_blok
+Engin l°nulok ° blokk. Stëkka og halda †fram?
+
+#jen_nezalam_rezim
+Aåeins ° boåi ef l°nubrot er ¢virkt.
+
+#opravdu_spoj_radky
+Sameina l°nur ° m†lsgreinar ° îllum texta?
+
+#nahr_faze
+1. †fangi:*2. †fangi:*3. †fangi:
+
+#jen_v_bloku
+Aåeins ° <BARVA=!;KLAVESY=b>b<SB>lokk
+
+#prevod_z_html_entit
+Afk¢åa HTML einingar ° stafi
+
+#prevod_z_html_entit_info
+çekkir HTML einingar og setur Unicode stafi.
+
+#qr_vygenerovany
+QR k¢åi b£inn til
+
+#qr_ulozit
+Vista
+
+#qr_velikost
+Stërå punkts ° QR k¢åa (1-20)
+
+#qr_uspech
+T¢kst! Vistaå sem:
+
+#qr_chyba
+Villa viå aå b£a til QR k¢åa.
+
+#qr_chyba_save
+Villa viå aå vista QR k¢åa.
+
+#qr_tvorba
+Gerå QR k¢åa
+
+#qr_text
+Texti fyrir QR k¢åa
+
+#related_characters
+Skyldir stafir
+
+#zalozky
+B¢kamerki*B¢kamerki nr.*Sòna b¢kamerki
+
+#menu_slovo
+valmynd/orå
+
+#dialogy_menu_slovo
+Gluggi Finna*Gluggi Skipta £t*H§STAFIR*l†gstafir*Fyrsti st¢r*§ klippiborå
+
+#menu_radek
+valmynd/l°na
+
+#dialogy_menu_radek1
+L°na ° blokk:
+<BARVA=!;KLAVESY=m>m<SB>eå broti
+<BARVA=!;KLAVESY=†>†<SB>n brots
+
+#dialogy_menu_radek2
+Bil:
+fjarlëgja bil ° <BARVA=!;KLAVESY=u>u<SB>pphafi
+fjarlëgja bil ° <BARVA=!;KLAVESY=e>e<SB>nda
+
+#dialogy_menu_radek3
+Inndr†ttur:
+eftir efri <BARVA=!;KLAVESY=l>l<SB>°nu
+eftir <BARVA=!;KLAVESY=d>d<SB>†lki
+
+#pmysmenu
+<BARVA=!;KLAVESY=s>s<SB>tafur
+<BARVA=!;KLAVESY=o>o<SB>rå
+<BARVA=!;KLAVESY=l>l<SB>°na
+
+#doprad
+ßtfylling l°nu
+
+#doprad_txt
+Sl†åu inn stafi til aå fylla
+bil fr† enda l°nu til
+m£sarsmells
+
+#zarovnani
+Jîfnun:*vinstri*hëgri
+
+#carkod_tvorba
+Strikamerki
+
+#carkod_instr
+Sl†åu inn n£mer eåa texta.
+
+#carkod_ulozit
+Vista
+
+#carkod_uspech
+T¢kst! Vistaå sem:
+
+#carkod_chyba
+Villa viå gerå strikamerkis.
+
+#carkod_chyba_save
+Villa viå aå vista strikamerki.
+
+#carkod_combine
+Bëta viå k¢åaåri runu
+
+#carkod_mozn
+Hëgt er aå k¢åa ïessa runu sem:

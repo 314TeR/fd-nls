@@ -1,0 +1,730 @@
+## Blocek2, esperanto, eo, cp853
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Esperanto    (eo)
+#identifikuj_se2
+blocek2.eo
+#sys_font
+## latin316.fv
+853-16.fv
+#sys_font_maly
+## latin314.fv
+853-14.fv
+#chyba_videomodu
+Postulata videoreõimo ne disponeblas:
+#sys_font_kodovani
+853
+#m1
+<BARVA=!;KLAVESY=d>D<SB>osiero
+#m2
+<BARVA=!;KLAVESY=o>O<SB>pcioj
+#m3
+<BARVA=!;KLAVESY=h>H<SB>elpo
+#m31
+<BARVA=!;KLAVESY=p>P<SB>ri la programo
+#m32
+L<BARVA=!;KLAVESY=e>e<SB>gi INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>istem-informoj
+#m34
+H<BARVA=!;KLAVESY=i>i<SB>perteksta helpo
+#m4
+<BARVA=!;KLAVESY=t>T<SB>eksto
+#m11
+<BARVA=!;KLAVESY=n>N<SB>ova    <<F1>>
+#m12
+<BARVA=!;KLAVESY=m>M<SB>alfermi <<F3>>
+#m13
+<BARVA=!;KLAVESY=k>K<SB>onservi  <<F2>>
+#m14
+I<BARVA=!;KLAVESY=r>r<SB>i al DOS
+#m15
+<BARVA=!;KLAVESY=e>E<SB>liri   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=f>F<SB>ermi  <<Alt-F3>>
+#m21
+Elekto de k<BARVA=!;KLAVESY=o>o<SB>loroj
+#m211
+Koloro de <BARVA=!;KLAVESY=m>m<SB>alfono
+#m212
+Koloro de <BARVA=!;KLAVESY=f>f<SB>ono
+#m213
+Koloro de b<BARVA=!;KLAVESY=a>a<SB>zo
+#m215
+Koloro por <BARVA=!;KLAVESY=e>e<SB>mfazi linion
+#m22
+<BARVA=!;KLAVESY=l>L<SB>ingvo
+#m23
+Emfazi a<BARVA=!;KLAVESY=k>k<SB>tualan linion
+#m24
+Elekto de <BARVA=!;KLAVESY=t>t<SB>iparo
+#m25
+Elekto de <BARVA=!;KLAVESY=b>b<SB>ildfiltrilo
+#m26
+Preferataj kl<BARVA=!;KLAVESY=a>a<SB>varoj
+#m27
+Flanka panelo de <BARVA=!;KLAVESY=r>r<SB>edaktilo
+#m28
+Kons<BARVA=!;KLAVESY=e>e<SB>rvi agordojn
+#m29
+Emfazi <BARVA=!;KLAVESY=s>s<SB>pacojn
+#m41
+Konverti al <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+Konverti <BARVA=!;KLAVESY=e>e<SB>l UTF-8
+#m43
+A<BARVA=!;KLAVESY=l>l<SB>õustigi liniojn
+#m431
+<BARVA=!;KLAVESY=f>F<SB>iksi lini-alõustigon
+#m432
+Kun<BARVA=!;KLAVESY=i>i<SB>gi liniojn
+#m44
+<BARVA=!;KLAVESY=s>S<SB>erÜi      <<Ctrl-F>>
+#m45
+SerÜi <BARVA=!;KLAVESY=p>p<SB>lu <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=a>A<SB>nstataÌigi <<Ctrl-H>>
+#m460
+Le<BARVA=!;KLAVESY=g>g<SB>omarkoj
+#m47
+Ka<BARVA=!;KLAVESY=r>r<SB>to de simboloj
+#m48
+Konvertoj de <BARVA=!;KLAVESY=k>k<SB>odado <<CTRL-K>>
+#m49
+Operacioj per <BARVA=!;KLAVESY=b>b<SB>lokoj
+#m490
+Generi <BARVA=!;KLAVESY=q>Q<SB>R-kodon
+#m491
+Signoj al HTML-<BARVA=!;KLAVESY=e>e<SB>ntoj
+#m492
+Al <BARVA=!;KLAVESY=m>m<SB>ajuskloj
+#m493
+Al m<BARVA=!;KLAVESY=i>i<SB>nuskloj
+#m494
+Konverti <BARVA=!;KLAVESY=h>H<SB>TML-entojn al signojn
+#m495
+S<BARVA=!;KLAVESY=t>t<SB>rekkodoj
+#vyber_soubor
+Elektu dosieron:
+#jak_to_ulozit
+Kiel mi konservu tion?
+#soubor_existuje_prepsat
+Tia dosiero jam ekzistas
+Üu anstataÌigi?
+#o_programu
+Pri la programo
+#napoveda
+Helpo
+#varovani
+<BARVA=51200>averto!<SB>
+#opravdu_konec
+èu vere eliri?
+Nekonservitaj «anõoj perdiõos.
+#tento_soubor_uz_jednou_mame
+èi tiu dosiero jam estas malfermita.
+Blocek permesos al vi malfermi õin denove,
+sed õi funkcios sendepende de la unua instanco!
+t.e. NE KIEL IDE PASCAL
+#unicode
+unicode
+#zalamovani
+lini-alõustigo
+#proporcionalni_mod
+proporcia
+#vyber_barvu_popredi
+Elektu koloron de malfono
+#vyber_barvu_pozadi
+Elektu koloron de fono
+#vyber_barvu_zakladu
+Elektu koloron de bazo
+#vyber_barvu_prosv
+Elektu koloron
+#zda_pro_rad
+èu emfazi akt. linion?
+#nastaveni_ulozeno
+Agordoj konservitaj
+
+#zatim_neni
+èi tiu funkcio ankoraÌ ne disponeblas.
+
+#hypertextova_napoveda
+Hiperteksta helpo
+
+#napoveda_koren
+Blocek - tekstredaktilo kaj bildvidilo
+
+Temoj de helpo:
+1) <OK="napoveda_klavesy">Regado<OK/>
+2) <OK="napoveda_mys">Regado per muso<OK/>
+3) <OK="napoveda_prvky">Regadelementoj<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Regado<SB;SF>
+<barva=65535>F10<sb>   - eniri en la Üefan menuon
+<barva=65535>F1<sb>    - krei novan dosieron
+<barva=65535>F2<sb>    - konservi dosieron
+<barva=65535>F3<sb>    - «argi dosieron
+<barva=65535>Alt+F3<sb> - fermi dosieron
+<barva=65535>Alt+F1<sb> - «argi dosieron INFO.TXT
+<barva=65535>Ctrl+F<sb> - serÜi
+<barva=65535>Ctrl+S<sb> - daÌrigi serÜadon
+<barva=65535>Ctrl+H<sb> - serÜi kaj anstataÌigi
+<barva=65535>Ctrl+A<sb> - elekti la tutan dokumenton kiel blokon
+<barva=65535>Ctrl+Q<sb> - proponos rilatan signon por la laste skribita
+<barva=65535>Ctrl+K<sb> - funkcioj por konverti signojn inter diversaj kodadoj
+<barva=65535>Ctrl+L<sb> - rapida voko de la menuo por redakti linion
+<BARVA=65535>LShift+Alt<sb> - «anõi agordon de klavaro
+<barva=65535>Ctrl+Alt+supren<sb>  - elekti la tutan aktualan linion kiel blokon
+<barva=65535>Ctrl+Alt+suben<sb>    - elekti la vorton sub la kursoro kiel blokon
+<barva=65535>Ctrl+Alt+maldekstren<sb>  - elekti Üiujn signojn maldekstre de la kursoro
+<barva=65535>Ctrl+Alt+dekstren<sb> - elekti Üiujn signojn dekstre de la kursoro
+<barva=65535>Backspace<sb> - forigi signon maldekstre de la kursoro
+<barva=65535>Delete<sb> - forigi signon dekstre de la kursoro
+<barva=65535>Shift+Delete<sb> - forigi la elektitan blokon
+<barva=65535>*sagoj<sb> - movi la kursoron
+<barva=65535>*Ctrl+PageUp<sb> aÌ <barva=65535>*Ctrl+Home<sb> - salti al la unua linio
+<barva=65535>*Ctrl+PageDown<sb> aÌ <barva=65535>*Ctrl+End<sb> - salti al la lasta linio
+<barva=65535>*Ctrl+dekstren<sb> - movi unu vorton dekstren
+<barva=65535>*Ctrl+maldekstren<sb> - movi unu vorton maldekstren
+   Klavoj markitaj per "*" povas esti kombinitaj kun klavo <barva=65535><Shift><sb>.
+   Tiukaze la grandeco de la bloko «anõiõos dum la kursoro moviõos.
+<barva=65535>Ctrl+[1-7]<sb> - kopii la elektitan blokon en tondujon n-ro 1-7
+<barva=65535>Alt+[1-7]<sb> - alglui tekston el tondujo n-ro 1-7 Üe la kursoro
+<barva=65535>Ctrl+plus<sb> kaj <barva=65535>Ctrl+minus<sb> - rapida foliumado inter malfermitaj dosieroj
+<barva=65535>ESC<sb>   - eliri
+<barva=65535>Alt+F2<sb> - konservi la aktualan ekranon
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Regado per muso<SB;SF>
+<barva=65535>1) En la dokumenta fenestro<SB>
+Maldekstra klako (MK) - movas la kursoron al la indikita loko en la teksto.
+MK+shift - difinas la komencon kaj finon de tekstobloko
+Teni MK kaj movi muson - interaga elekto de tekstobloko
+Dekstra klako (DK) - montras informojn pri la elektita signo kaj proponas dialogon
+por signokonvertado. ùi ankaÌ ofertas funkciojn por legomarkoj.
+
+<barva=65535>2) En la langetobreto de malfermitaj dosieroj<SB>
+Klako per MK - «anõas la Üefan fenestron al la koncerna dosiero
+Klako per DK - menuo kun pluraj opcioj por la dosiero
+
+<barva=65535>3) En la indikilo de tondujoj<SB>
+Klako per MK - menuo kun operacioj por la enhavo de la elektita tondujo
+
+<barva=65535>4) Aliaj rimarkoj<SB>
+->> èiuj aliaj elementoj de la grafika interfaco nun uzas nur la maldekstran musbutonon.
+->> PreskaÌ Üiujn dialogojn oni povas movi sur la ekrano per trenado de la titolobreto.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Regadelementoj<SB;SF>
+La plej grandan parton de la spaco okupas la <barva=65535>Üefa fenestro<SB>. ùi montras dokumenton por redaktado
+aÌ bildon. Sur la maldekstra rando povas esti flanka panelo, kiu montras,
+kiel finiõas la unuopaj linioj de la dokumento.
+<barva=65535>1) Konstanta linio<SB>
+èefa menuo: <barva=65535>Dosiero<SB>, <barva=65535>Teksto<SB>, <barva=65535>Opcioj<SB>, <barva=65535>Helpo<SB>
+Dekstre estas <OK="napoveda_indikatory">indikiloj de tondujoj<OK/> numeritaj 1-7.
+En la supra dekstra angulo estas listo por elekti klavar-aranõon. ùin oni povas malfermi ankaÌ
+per <OK="napoveda_klavesy">ALT+SHIFT<OK/>.
+
+<barva=65535>2) Kunteksta linio<SB>
+ùi «anõiõas laÌ la enhavo de la Üefa fenestro.
+
+<barva=65535>3) Langetoj de malfermitaj dosieroj<SB>
+Kiam vi malfermas dosieron, õia langeto aperas en Üi tiu breto.
+
+#napoveda_indikatory
+Se vi kopias tekston al tondujo (per <OK="napoveda_klavesy">CTRL+[1-7]<OK/>),
+la indikilo fariõas blanka. Se õi estas malplena, õi montras nigran trastrekitan cirklon.
+La indikilo n-ro 7 povas aspekti kiel <BARVA=65535>7W<SB>.
+Tio signifas, ke õi estas ligita al la Vindoza tondujo. Detaloj en TECHNOTE.TXT.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versio 1.77b
+dato de kompilado: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek estas tekstredaktilo kaj bildvidilo
+kapabla labori kun dosieroj koditaj per UTF-8.
+Blocek povas manipuli grandajn dosierojn kaj tre longajn liniojn.
+Dankon al Mateusz Viste pro la Unikodaj tiparoj.
+ùi ankaÌ funkcias kiel vidilo de ordinaraj bildformatoj,
+sed ne povas redakti ilin.
+
+èi tiu programo estas distribuata laÌ la permesilo GNU/GPL.
+
+#parametr_otaznik
+Sintakso:
+BLOCEK [dosiero1 [, dosiero2 [,...]]]
+#ovladani_obrazku
+plenekrana*o<<>>O*+90*-90*horiz*vert*Exif-datumoj
+
+#soubor_nebyl_ulozen
+La dosiero ne estis konservita!
+Estas malmulte da spaco aÌ la disko
+estas nurlegebla.
+
+#chyba_font_int
+Okazis eraro dum «argado de la tipardosiero
+#chyba_font_neint
+Mankas la tipardosiero aÌ okazis eraro dum õia «argado:
+
+#informace_exif
+Informoj el Exif-bloko
+#exif_date_strs
+Dato kaj tempo:         *Dato kaj tempo de la originalo:*Dato kaj tempo de la kapto:
+#exif_camera_info
+Produktanto:*Modelo:*Priskribo:*Programaro:*Lumo:*Fulmilo:*Eksponreõimo:*ISO:*Ekspon-tempo:*Orientiõo:*Zomo:
+#exif_lightsrc_info
+Nekonata*Taga lumo*Fluoreska*Volframa*Fulmilo*Norma lumo A*Norma lumo B*Norma lumo C*D55*D65*D75*Alia fonto*Nekonata
+#exif_flash_info
+Sen fulmilo*Fulmilo*Fulmilo sen antaÌfulmoj*Fulmilo kun antaÌfulmoj*AÌtomata fulmilo*Sen fulmilo*Nekonata
+#exif_expos_mode
+Nekonata*Mana reõimo*Norma programo*Apertura prioritato*Ekspon-prioritato*Krea programo*Aga reõimo*Portreta reõimo*Pejzaõa reõimo*Nekonata
+#exif_orientation_desc
+Normala*Horiz. spegulita*Turnita je 180¯*Vert. spegulita*Turnita je 90¯ maldekstren kaj spegulita*Turnita je 90¯ dekstren*Turnita je 90¯ dekstren kaj spegulita*Turnita je 90¯ maldekstren*Nekonata
+#exif_zoom_unused
+Neuzita
+#exif_GPS_info
+Informoj pri GPS-loko*latitudo:*longitudo:*alteco:*azimuto*N*S*U*E*m*grd*min*sek
+#zkopirovat_exif
+Al tondujo
+#nejde_o_obrazek
+La dosiero estas koruptita aÌ la bild-datumoj
+ne estas en subtenata formato.
+ùi estos malfermita kiel teksto.
+#nelze_fixovat_zalamani
+èi tiu funkcio disponeblas nur
+en la lini-alõustiga reõimo.
+#vyhledavani
+SerÜado
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>reõimo de serÜado<POZADI=->
+#vyhled_mozn
+de kursoro a<BARVA=!;KLAVESY=n>n<SB>taÌen
+de kursoro <BARVA=!;KLAVESY=m>m<SB>alantaÌen
+de komenco de <BARVA=!;KLAVESY=d>d<SB>osiero
+#roz_vel_pismen
+D<BARVA=!;KLAVESY=i>i<SB>stingi usklecon
+
+#text_nenalezen
+La serÜata teksto ne troviõis.
+#nahradit_vyskyt
+èu anstataÌigi Üi tiun okazon?
+#potvrzovat
+<BARVA=!;KLAVESY=k>k<SB>onfirmi
+#nahradvse
+anstataÌigi <BARVA=!;KLAVESY=c>Ü<SB>ion
+#hledany_text
+serÜata teksto:
+#novy_text
+nova teksto
+#nahrada_textu
+anstataÌigo de teksto
+#vyber_filtr
+Elektu filtrilon
+#opravdu_zavrit
+La dosiero estis «anõita.
+èu konservi õin?
+#zavrit_ostatni
+Fermi Üiujn aliajn
+#umisteni_souboru
+Loko de la dosiero
+#bezejmenny
+<BARVA=46815><<nova>><SB>
+#bezejmenny_soubor
+Nova dosiero
+
+#zrusit_nac
+èu nuligi la «argadon?
+#chybi_bcfg
+Konfigura dosiero <BARVA=65535>BLOCEK.CFG<SB>
+ankoraÌ ne ekzistas.
+ùi estos kreita per kopio de
+<BARVA=65535>DEFAULT.CFG<SB>.
+#chybny_bcfg
+Konfigura dosiero <BARVA=65535>BLOCEK.CFG<SB>
+ne havas la õustan formaton.
+ùi estos anstataÌigita per
+<BARVA=65535>DEFAULT.CFG<SB>.
+#pridani_bcfg
+Al <BARVA=65535>BLOCEK.CFG<SB> estis kopiitaj
+jenaj eroj el <BARVA=65535>DEFAULT.CFG<SB>:
+#pocet_zmen
+Trovaüoj*Nombro de «anõoj:*Nombro de okazoj*<BARVA=!;KLAVESY=f>F<SB>unkcio: nombro de okazoj de Üeno
+#neniswap
+Via sistemo ne subtenas virtualan memoron!
+Tio povas esti danõera pro manko de memoro.
+Nuntempe estas instalita:
+#dpmineznamy
+<BARVA=333>nekonata DPMI-administrilo :-(<SB>
+#kaslinaswap
+(Vi povas mal«alti Üi tiun averton en BLOCEK.CFG
+per <BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Plena listo...
+#vybprefkl
+Kiuj klavaroj estu en la baza menuo?
+#vybprefflt
+Kiuj filtriloj estu en la baza menuo?
+
+#asciiauto
+aÌtodetektado
+
+#vkod
+<PODTRH=+>defaÌlta<PODTRH=->
+#ckod
+<PODTRH=+>cela<PODTRH=->
+#oznaceno
+elektita:
+#ozn_nic
+nenio
+#kompinfo
+Procesoro:*Memoro:*MB RAM*Video:* VESA-versio:*Videoreõimo:*Videomemoro*Rifre«iõa ofteco:*BIOS defaÌlta*DOS-versio:*DOS signaro:*Lando-kodo laÌ DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideoreõimoj*Superrigardo de videoreõimoj
+#kompinfo_lfn
+Longaj dosiernomoj (LFN):
+#schranka_c
+Tondujo n-ro
+#schranka_do
+Kopii al tondujo
+#schranka_ze
+Alglui el tondujo
+#schranka_copy
+Kopii al alia tondujo
+#schranka_smaz
+Forigi
+#vyber_jazyk
+Elektu lingvon
+#nutny_restart
+Por «anõi lingvon necesas restartigi la programon.
+#prevod_html_entity
+Konverti al HTML-entoj
+#prevod_html_ent_info
+Signoj kun ASCII aÌ Unikoda valoro super 127
+estos konvertitaj al HTML-entoj.
+La amplekso dependas de la elektita bloko.
+#text_je_v_unicode
+Teksto estas en unikodo.
+#text_je_v_ascii
+Teksto estas en ASCII kaj estos konvertita
+laÌ la konverta tabelo.
+#neni_oz_blok
+Neniu bloko estas elektita - mi konvertos
+la tutan tekston.
+#prevod_mala_velka
+Teksto al majuskloj
+#prevod_mala_velka_inf
+∆anõas minusklojn en la elektita bloko al majuskloj.
+#prevod_velka_mala
+Teksto al minuskloj
+#prevod_velka_mala_inf
+∆anõas majusklojn en la elektita bloko al minuskloj.
+#kodovani_dokumentu
+kodado:
+#help_non_unicode
+Nur «anõas la markon de signaro. Ne «anõas tiparon.
+#help_inter_znaku
+Konvertoj inter signoj kaj plursignaj sekvencoj (UTF-8/UTF-16).
+Se okazas «anõo Unikodo/Ne-Unikodo, la tiparo «anõiõos.
+#help_tabkonv_znaku
+Konvertas signojn laÌ tabeloj. Nombro de signoj restas sama.
+
+#analyza_nedef_zn_dok
+Analizo de nedifinitaj signoj en la tuta teksto
+
+#analyza_nedef_zn_blok
+Analizo de nedifinitaj signoj en la elektita bloko
+
+#poc_vysk_nedef_znaku_n
+nombro de okazoj de signo
+
+#poc_vysk_nedef_znaku_vse
+nombro de Üiuj nedifinitaj signoj
+
+#poc_vysk_nedef_znaku_unik
+nombro de unikaj nedifinitaj signoj:*ilia amplekso:
+
+#zamena_znaku
+èu anstataÌigi signon per alia?
+
+#nedefinovany_znak
+Nedifinita signo*Analizo de nedif. signoj
+
+#nedefinovany_znak_zam
+èu anstataÌigi Üiujn nedifinitajn signojn?
+
+#zamena_znaku_radiob1
+Unufoja «anõo de signo
+En la tuta dokumento
+En la elektita bloko
+
+#zamena_znaku_radiob2
+Üie
+de la komenco õis la elektita signo
+de la elektita signo antaÌen
+
+#znak_k_zamene
+AnstataÌiga signo...
+
+#dotaz_pri_zmene
+èu demandi dum la «anõado?
+
+#kodovaniascii_dlg
+Ver«ajna ASCII-kodado:*ne povas determini*èu vi konsentas?
+
+#polozka_dos
+(tabela)*(sentabela)*pliaj...
+
+#tbl_filtr_ascii
+Konverto en grupo:*defaÌlta kodado*cela kodado
+
+#niz_nonunicode1
+En kiu kodado estas la montrata teksto?
+
+#niz_nonunicode2
+DefaÌlta kaj cela kodadoj estas identaj.
+Neniuj «anõoj okazas.
+
+#ascii_2_utf_1
+Konvertoj inter ASCII kaj plursignaj sekvencoj UTF-8/16
+
+#ascii_2_utf_2
+Blok-operacioj (ne «anõas kodadon de dokumento)
+
+#ascii_2_utf_3
+Tut-dokumentaj operacioj («anõas kodadon al unikodo)
+
+#uni_2_utf_1
+Konvertoj inter Unikodo kaj sekvencoj UTF-8/16
+
+#uni_2_utf_2
+Blok-operacioj (ne «anõas kodadon de dokumento)
+
+#uni_2_utf_3
+Tut-dokumentaj operacioj («anõas kodadon al ne-unikodo)
+
+#uni_2_utf_4
+Unikodo --> UTF-8 (en DOS-kodado)
+
+#prohozeni_endianity
+Inter«anõo de Bajt-Ordo (Endianity) de Unikodo
+
+#tab_konv_zn
+Nur markas dokumenton kiel ne-Unikodo.
+Signoj super 255 estos anstataÌigitaj per anstataÌa simbolo.
+
+#zda_prenastavit_font1
+èu «anõi tiparon kaj marki kodadon kiel ne-Unikodo?
+
+#zda_prenastavit_font2
+èu «anõi tiparon kaj marki kodadon kiel Unikodo?
+
+#pren_font_ano
+(kondiÜe ke la tuta teksto estu konvertita, mi rekomendas JES)
+
+#pren_font_ne
+(kondiÜe ke nur parto de la teksto estu konvertita, mi rekomendas NE)
+
+#preznacit_kodovani
+èu rimarki la kodadon de la dokumento?
+
+#zm_kod_dok
+∆anõo de kodado de la dokumento
+
+#zak_unicode
+Dokumento estas kodita en Unikodo.
+
+#sada_a_filtr_souborem
+Signaro kaj filtrilo de la dokumento estas difinitaj de dosiero:
+
+#interp_nonuni
+Interpreto de ne-Unikodo
+
+#konv_zn_utf
+Konverto signo/UTF-sekvenco
+
+#tab_konv_zz
+Tabela konverto signo/signo
+
+#zmena_fontu
+∆anõo de tiparo
+
+#nas_zal_rad
+Agordo de lini-alõustigo
+
+#nas_zal_mozn
+laÌ fenestro
+78 signoj
+80 signoj
+propra...
+
+#filesel_nejde_konverze
+La enigitan nomon ne eblas õuste konverti
+al la aktuala kodpaõo de DOS.
+èu tamen daÌrigi?
+
+#podrobnosti
+Detaloj
+
+#moznosti...
+Opcioj...
+
+#form_konc_rad
+Formato de lini-finoj
+
+#form_konc_help
+Mi rekomendas konservi la normon CRLF, kiu
+estas uzata en DOS kaj Windows.
+LF estas por Unikso/Linukso,
+CR estas por Macintosh.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unikso)
+CR (Mac)
+
+#b_ord_mark
+Bajt-Orda Marko (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Rilatas nur al Unikodaj dosieroj.
+ùi estas sekvenco komence de la dosiero.
+Rekomendita por UTF-16, malpli kutima por UTF-8.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+èu vere fiksi la lini-alõustigon en la tuta teksto?
+
+#rozs_fix_lom_blok
+La bloko ne enhavas lini-finon.
+èu vastigi õin kaj daÌrigi?
+
+#jen_nezalam_rezim
+èi tiu funkcio disponeblas nur en reõimo sen lini-alõustigo.
+
+#opravdu_spoj_radky
+èu vere kunigi la liniojn en paragrafojn en la tuta teksto?
+
+#nahr_faze
+1-a fazo:*2-a fazo:*3-a fazo:
+
+#jen_v_bloku
+Nur en <BARVA=!;KLAVESY=b>b<SB>loko
+
+#prevod_z_html_entit
+Malkodi HTML-entojn al signoj
+
+#prevod_z_html_entit_info
+Rekonas HTML-entojn (ekz. &#8222;) kaj anstataÌigas ilin per Unikodaj signoj.
+
+#qr_vygenerovany
+Generita QR-kodo
+
+#qr_ulozit
+Konservi
+
+#qr_velikost
+Grandeco de punkto en QR-kodo (1-20)
+
+#qr_uspech
+Sukceso! Konservita sub la nomo:
+
+#qr_chyba
+Eraro dum konvertado al QR-kodo.
+
+#qr_chyba_save
+Eraro dum konservado de QR-kodo.
+
+#qr_tvorba
+Kreado de QR-kodoj
+
+#qr_text
+Teksto por konverti al QR-kodo
+
+#related_characters
+Rilataj signoj
+
+#zalozky
+Legomarkoj*Legomarko n-ro*Montri legomarkojn
+
+#menu_slovo
+menuo/vorto
+
+#dialogy_menu_slovo
+Dialogo SerÜi*Dialogo AnstataÌigi*MAJUSKLOJ*minuskloj*Unuaj Majuskloj*Al tondujo
+
+#menu_radek
+menuo/linio
+
+#dialogy_menu_radek1
+Linio al bloko:
+<BARVA=!;KLAVESY=k>k<SB>un lini-alõustigo
+<BARVA=!;KLAVESY=s>s<SB>en lini-alõustigo
+
+#dialogy_menu_radek2
+Spacoj:
+forigi spacojn k<BARVA=!;KLAVESY=o>o<SB>mence
+forigi spacojn <BARVA=!;KLAVESY=f>f<SB>ine
+
+#dialogy_menu_radek3
+De«ovo:
+laÌ la s<BARVA=!;KLAVESY=u>u<SB>pra linio
+laÌ <BARVA=!;KLAVESY=t>t<SB>abulatoro
+
+#dialogy_menu_radek4
+plus 1 * minus 1 * plus 4 * minus 4
+
+#pmysmenu
+<BARVA=!;KLAVESY=s>s<SB>igno
+<BARVA=!;KLAVESY=v>v<SB>orto
+<BARVA=!;KLAVESY=l>l<SB>inio
+
+#doprad
+Kompletigo de linio
+
+#doprad_txt
+Skribu unu aÌ plurajn signojn por plenigi la
+spacon inter la fino de la linio kaj la
+musklako.
+DefaÌlte estas [spaco].
+
+#zarovnani
+Aranõo:*maldekstren*dekstren
+
+#carkod_tvorba
+Strekkodoj
+
+#carkod_instr
+Enigu numeron aÌ mallongan tekston
+Noto: Kelkaj strekkod-formatoj subtenas nur nombrojn. Aldone,
+kelkaj kodadoj (ekz. EAN-13) postulas validajn kodojn kun kontrolsumo.
+Nevalida nombro povas esti kodita, sed la legilo eble ne povos
+legi aÌ pritrakti õin.
+
+#carkod_ulozit
+Konservi
+
+#carkod_uspech
+Sukceso! Konservita sub la nomo:
+
+#carkod_chyba
+Eraro dum konvertado al strekkodo.
+
+#carkod_chyba_save
+Eraro dum konservado de strekkodo.
+
+#carkod_combine
+Aldoni koditan Üenon
+
+#carkod_mozn
+èi tiun Üenon eblas kodi en la sekvajn strekkodojn:

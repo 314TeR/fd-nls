@@ -1,0 +1,727 @@
+## Blocek2, lithuanian, lt, cp775,
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Lietuvių     (lt)
+#identifikuj_se2
+blocek2.lt
+#sys_font
+775-16.fv
+#sys_font_maly
+775-14.fv
+#chyba_videomodu
+Nepasiekiamas nurodytas vaizdo režimas:
+#sys_font_kodovani
+775
+#m1
+<BARVA=!;KLAVESY=f>F<SB>ailas
+#m2
+<BARVA=!;KLAVESY=p>P<SB>arinktys
+#m3
+P<BARVA=!;KLAVESY=a>a<SB>galba
+#m31
+<BARVA=!;KLAVESY=a>A<SB>pie programą
+#m32
+S<BARVA=!;KLAVESY=k>k<SB>aityti INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>istemos informacija
+#m34
+H<BARVA=!;KLAVESY=i>i<SB>pertekstinė pagalba
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ekstas
+#m11
+<BARVA=!;KLAVESY=n>N<SB>aujas    <<F1>>
+#m12
+<BARVA=!;KLAVESY=a>A<SB>tidaryti <<F3>>
+#m13
+<BARVA=!;KLAVESY=i>I<SB>šsaugoti  <<F2>>
+#m14
+<BARVA=!;KLAVESY=g>G<SB>rįžti į DOS
+#m15
+<BARVA=!;KLAVESY=b>B<SB>aigti   <<ESC>>
+#m16
+U<BARVA=!;KLAVESY=z>ž<SB>daryti  <<Alt-F3>>
+#m21
+Spalvų s<BARVA=!;KLAVESY=i>i<SB>rinkimas
+#m211
+P<BARVA=!;KLAVESY=r>r<SB>iekio spalva
+#m212
+<BARVA=!;KLAVESY=f>F<SB>ono spalva
+#m213
+<BARVA=!;KLAVESY=p>P<SB>agrindo spalva
+#m215
+Eilutės i<BARVA=!;KLAVESY=s>š<SB>ryškinimo spalva
+#m22
+<BARVA=!;KLAVESY=k>K<SB>alba
+#m23
+<BARVA=!;KLAVESY=d>D<SB>abartinės eilutės išryškinimas
+#m24
+Šrif<BARVA=!;KLAVESY=t>t<SB>o pasirinkimas
+#m25
+Vaizdo <BARVA=!;KLAVESY=f>f<SB>iltro pasirinkimas
+#m26
+Pageidaujama k<BARVA=!;KLAVESY=l>l<SB>aviatūra
+#m27
+Šoninis <BARVA=!;KLAVESY=s>s<SB>kydelis
+#m28
+Išsau<BARVA=!;KLAVESY=g>g<SB>oti nustatymus
+#m29
+Tarpų is<BARVA=!;KLAVESY=r>r<SB>yškinimas
+#m41
+Konvertuoti į <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+Konvertuoti <BARVA=!;KLAVESY=i>i<SB>š UTF-8
+#m43
+Eilučių l<BARVA=!;KLAVESY=a>a<SB>užymas
+#m431
+Už<BARVA=!;KLAVESY=f>f<SB>iksuoti eilučių laužymą
+#m432
+Eilučių s<BARVA=!;KLAVESY=u>u<SB>jungimas
+#m44
+I<BARVA=!;KLAVESY=e>e<SB>škoti      <<Ctrl-F>>
+#m45
+Ieškoti t<BARVA=!;KLAVESY=o>o<SB>liau <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=p>P<SB>akeisti      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=z>Ž<SB>ymės
+#m47
+<BARVA=!;KLAVESY=s>S<SB>imbolių žemėlapis
+#m48
+Kodavimo <BARVA=!;KLAVESY=k>k<SB>onvertavimas <<CTRL-K>>
+#m49
+Operacijos su <BARVA=!;KLAVESY=b>b<SB>lokais
+#m490
+Generuoti <BARVA=!;KLAVESY=q>Q<SB>R kodą
+#m491
+Simboliai į HTML <BARVA=!;KLAVESY=e>e<SB>ntitetus
+#m492
+Į <BARVA=!;KLAVESY=d>d<SB>idžiąsias raides
+#m493
+Į <BARVA=!;KLAVESY=m>m<SB>ažąsias raides
+#m494
+H<BARVA=!;KLAVESY=t>T<SB>ML entitetai į simbolius
+#m495
+B<BARVA=!;KLAVESY=r>r<SB>ūkšniniai kodai
+#vyber_soubor
+Pasirinkite failą:
+#jak_to_ulozit
+Kaip išsaugoti?
+#soubor_existuje_prepsat
+Toks failas jau yra
+perrašyti?
+#o_programu
+pagalba
+#napoveda
+pagalba
+#varovani
+<BARVA=51200>įspėjimas!<SB>
+#opravdu_konec
+Ar tikrai norite baigti?
+Neišsaugoti pakeitimai bus prarasti.
+#tento_soubor_uz_jednou_mame
+Šis failas jau atidarytas.
+Blocek leis jums jį atidaryti dar kartą,
+bet jis veiks nepriklausomai nuo pirmojo atvejo!
+t.y. NE KAIP IDE PASCAL
+#unicode
+unicode
+#zalamovani
+eilučių laužymas
+#proporcionalni_mod
+proporcingas
+#vyber_barvu_popredi
+Pasirinkite priekio spalvą
+#vyber_barvu_pozadi
+Pasirinkite fono spalvą
+#vyber_barvu_zakladu
+Pasirinkite pagrindo spalvą
+#vyber_barvu_prosv
+Pasirinkite spalvą
+#zda_pro_rad
+Ar išryškinti dabartinę eilutę?
+#nastaveni_ulozeno
+Nustatymai išsaugoti
+
+#zatim_neni
+Ši funkcija kol kas nepasiekiama.
+
+#hypertextova_napoveda
+Hipertekstinė pagalba
+
+#napoveda_koren
+Blocek - tekstų redaktorius ir vaizdų peržiūros programa
+
+Pagalbos temos:
+1) <OK="napoveda_klavesy">Valdymas<OK/>
+2) <OK="napoveda_mys">Valdymas pele<OK/>
+3) <OK="napoveda_prvky">Valdymo elementai<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Valdymas<SB;SF>
+<barva=65535>F10<sb>   - įeiti į pagrindinį meniu
+<barva=65535>F1<sb>    - sukurti naują failą
+<barva=65535>F2<sb>    - išsaugoti failą
+<barva=65535>F3<sb>    - atidaryti failą
+<barva=65535>Alt+F3<sb> - uždaryti failą
+<barva=65535>Alt+F1<sb> - atidaryti failą INFO.TXT
+<barva=65535>Ctrl+F<sb> - ieškoti
+<barva=65535>Ctrl+S<sb> - tęsti paiešką
+<barva=65535>Ctrl+H<sb> - ieškoti ir pakeisti
+<barva=65535>Ctrl+A<sb> - pažymėti visą dokumentą kaip bloką
+<barva=65535>Ctrl+Q<sb> - pasiūlys susijusį simbolį paskutiniam įvestam [a,?,...]
+<barva=65535>Ctrl+K<sb> - simbolių konvertavimo tarp įvairių koduočių funkcijos
+<barva=65535>Ctrl+L<sb> - greitas eilutės redagavimo meniu iškvietimas
+<BARVA=65535>LShift+Alt<sb> - pakeisti klaviatūros nustatymus
+<barva=65535>Ctrl+Alt+aukštyn<sb>  - pažymėti visą dabartinę eilutę kaip bloką
+<barva=65535>Ctrl+Alt+žemyn<sb>    - pažymėti žodį po žymekliu kaip bloką
+<barva=65535>Ctrl+Alt+kairėn<sb>  - pažymėti visus simbolius į kairę nuo žymeklio
+<barva=65535>Ctrl+Alt+dešinėn<sb> - pažymėti visus simbolius į dešinę nuo žymeklio
+<barva=65535>Backspace<sb> - ištrinti simbolį į kairę nuo žymeklio
+<barva=65535>Delete<sb> - ištrinti simbolį į dešinę nuo žymeklio
+<barva=65535>Shift+Delete<sb> - ištrinti pasirinktą bloką
+<barva=65535>*rodyklės<sb> - žymeklio judėjimas
+<barva=65535>*Ctrl+PageUp<sb> arba <barva=65535>*Ctrl+Home<sb> - pereiti į pirmą dokumento eilutę
+<barva=65535>*Ctrl+PageDown<sb> arba <barva=65535>*Ctrl+End<sb> - pereiti į paskutinę dokumento eilutę
+<barva=65535>*Ctrl+dešinėn<sb> - judėti vienu žodžiu į dešinę
+<barva=65535>*Ctrl+kairėn<sb> - judėti vienu žodžiu į kairę
+   Klavišai pažymėti "*" gali būti kombinuojami su klavišu <barva=65535><Shift><sb>.
+   Tokiu atveju bloko dydis keisis kartu su žymeklio judėjimu.
+<barva=65535>Ctrl+[1-7]<sb> - kopijuoti pažymėtą bloką į iškarpinę nr. 1-7
+<barva=65535>Alt+[1-7]<sb> - įklijuoti tekstą iš iškarpinės nr. 1-7
+<barva=65535>Ctrl+pliusas<sb> ir <barva=65535>Ctrl+minusas<sb> - greitas naršymas tarp atidarytų failų
+<barva=65535>ESC<sb>   - pabaiga
+<barva=65535>Alt+F2<sb> - išsaugoti dabartinį ekraną
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Valdymas pele<SB;SF>
+<barva=65535>1) Dokumento lange<SB>
+Kairysis paspaudimas (KP) - perkelia žymeklį į nurodytą teksto vietą.
+KP+shift - nurodo teksto bloko pradžią ir pabaigą
+KP laikymas ir pelės vilkimas - interaktyvus teksto bloko žymėjimas
+Dešinysis paspaudimas (DP) - rodo informaciją apie pasirinktą simbolį ir siūlo dialogą
+simbolių konvertavimui. Taip pat siūlo funkcijas darbui su žymėmis.
+
+<barva=65535>2) Atidarytų failų kortelių juostoje<SB>
+Paspaudimas KP - perjungia failą į pagrindinį langą
+Paspaudimas DP - kelių failo parinkčių meniu
+(uždarymas, visų kitų uždarymas, viso kelio iki failo rodymas)
+
+<barva=65535>3) Teksto iškarpinių indikatoriuje<SB>
+Paspaudimas KP - operacijų meniu su pasirinktos iškarpinės turiniu
+
+<barva=65535>4) Kitos pastabos<SB>
+->> Visi kiti grafinės sąsajos elementai dabar naudoja tik kairįjį pelės mygtuką.
+->> Beveik visus dialogo langus galima perkelti ekrane velkant už viršutinės pavadinimo juostos.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Valdymo elementai<SB;SF>
+Didžiausią dalį užima <barva=65535>pagrindinis langas<SB>. Jame rodomas redaguojamas dokumentas
+arba vaizdas. Kairiajame dokumento lango krašte gali būti šoninis skydelis, rodantis,
+kaip baigiasi atskiros dokumento eilutės.
+<barva=65535>1) Nuolatinė eilutė<SB>
+Pagrindinis meniu: <barva=65535>Failas<SB>, <barva=65535>Tekstas<SB>, <barva=65535>Parinktys<SB>, <barva=65535>Pagalba<SB>
+Dešinėje yra <OK="napoveda_indikatory">iškarpinių indikatoriai<OK/>, sunumeruoti 1-7.
+Viršutiniame dešiniajame kampe yra sąrašas klaviatūros išdėstymui pasirinkti. Jį galima atidaryti ir su <OK="napoveda_klavesy">ALT+SHIFT<OK/>.
+
+<barva=65535>2) Kontekstinė eilutė<SB>
+Ji keičiasi priklausomai nuo pagrindinio lango turinio.
+
+<barva=65535>3) Atidarytų failų kortelės<SB>
+Atidarius failą, jo kortelė atsiranda šioje juostoje.
+
+#napoveda_indikatory
+Jei nukopijuosite tekstą į iškarpinę (su <OK="napoveda_klavesy">CTRL+[1-7]<OK/>),
+indikatorius taps baltas. Jei iškarpinė tuščia, rodomas perbrauktas apskritimas.
+7-osios iškarpinės indikatorius gali atrodyti kaip <BARVA=65535>7W<SB>.
+Tai reiškia, kad ji susieta su MS Windows sistemos iškarpine. Detalės faile TECHNOTE.TXT.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versija 1.77b
+Kompiliavimo data: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek - tai tekstų redaktorius ir vaizdų peržiūros programa,
+galinti dirbti su failais UTF-8 koduotėje.
+Ji puikiai tinka dideliems failams ir ilgoms eilutėms.
+Ačiū Mateusz Viste už Unikodo šriftus.
+Blocek taip pat veikia kaip paprastų vaizdų formatų peržiūros programa,
+tačiau vaizdų redaguoti negalima.
+
+Ši programa platinama pagal GNU/GPL licenciją.
+
+#parametr_otaznik
+Sintaksė:
+BLOCEK [failas1 [, failas2 [,...]]]
+#ovladani_obrazku
+pilnas ekranas*o<<>>O*+90*-90*horiz*vert*Exif duomenys
+
+#soubor_nebyl_ulozen
+Failas nebuvo išsaugotas!
+Diske nepakanka vietos arba diskas
+yra tik skaitymui
+
+#chyba_font_int
+Klaida įkeliant šrifto failą
+#chyba_font_neint
+Trūksta šrifto failo arba klaida įkeliant failą:
+
+#informace_exif
+Informacija iš Exif bloko
+#exif_date_strs
+Data ir laikas:         *Originalo data ir laikas:*Fiksavimo data ir laikas:
+#exif_camera_info
+Gamintojas:*Modelis:*Aprašymas:*Programinė įranga:*Šviesos šaltinis:*Blykstė:*Ekspozicijos režimas:*ISO:*Ekspozicijos laikas:*Orientacija:*Artinimas:
+#exif_lightsrc_info
+Nežinomas*Dienos šviesa*Fluorescencinė*Volframinė*Blykstė*Standartinė šviesa A*Standartinė šviesa B*Standartinė šviesa C*D55*D65*D75*Kitas šaltinis*Nežinomas
+#exif_flash_info
+Be blykstės*Blykstė*Blykstė be išankstinių blyksnių*Blykstė su išankstiniais blyksniais*Automatinė blykstė*Be blykstės*Nežinoma
+#exif_expos_mode
+Nežinomas*Rankinis režimas*Normali programa*Diafragmos prioritetas*Užrakto prioritetas*Kūrybinė programa*Veiksmo režimas*Portreto režimas*Peizažo režimas*Nežinomas
+#exif_orientation_desc
+Normali*Horiz. atspindys*Pasukta 180°*Vert. atspindys*Pasukta 90° kairėn ir atspindėta*Pasukta 90° dešinėn*Pasukta 90° dešinėn ir atspindėta*Pasukta 90° kairėn*Nežinoma
+#exif_zoom_unused
+Nenaudojamas
+#exif_GPS_info
+GPS vietos informacija*platuma:*ilguma:*aukštis:*azimutas*Š*P*V*R*m*o*'*''
+#zkopirovat_exif
+Į iškarpinę
+#nejde_o_obrazek
+Failas pažeistas arba vaizdo
+duomenys nepalaikomo formato.
+Failas bus atidarytas kaip tekstas.
+#nelze_fixovat_zalamani
+Ši funkcija pasiekiama tik
+eilučių laužymo režimu.
+#vyhledavani
+Paieška
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>paieškos režimas<POZADI=->
+#vyhled_mozn
+nuo žymeklio p<BARVA=!;KLAVESY=i>i<SB>rmyn
+nuo žymeklio at<BARVA=!;KLAVESY=g>g<SB>al
+nuo <BARVA=!;KLAVESY=f>f<SB>ailo pradžios
+#roz_vel_pismen
+<BARVA=!;KLAVESY=s>S<SB>kirti didžiąsias ir mažąsias raides
+
+#text_nenalezen
+Ieškomas tekstas nerastas.
+#nahradit_vyskyt
+Ar pakeisti šį atvejį?
+#potvrzovat
+<BARVA=!;KLAVESY=p>p<SB>atvirtinti
+#nahradvse
+pakeisti <BARVA=!;KLAVESY=v>v<SB>iską
+#hledany_text
+ieškomas tekstas:
+#novy_text
+naujas tekstas
+#nahrada_textu
+teksto pakeitimas
+#vyber_filtr
+Pasirinkite filtrą
+#opravdu_zavrit
+Failas buvo pakeistas.
+Ar išsaugoti?
+#zavrit_ostatni
+Uždaryti visus kitus
+#umisteni_souboru
+Failo vieta
+#bezejmenny
+<BARVA=46815><<naujas>><SB>
+#bezejmenny_soubor
+Naujas failas
+
+#zrusit_nac
+Ar atšaukti įkėlimą?
+#chybi_bcfg
+Konfigūracijos failas <BARVA=65535>BLOCEK.CFG<SB>
+dar neegzistuoja.
+Jis bus sukurtas nukopijuojant
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Konfigūracijos failas <BARVA=65535>BLOCEK.CFG<SB>
+nėra tinkamo formato.
+Jis bus perrašytas iš
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Į konfigūracijos failą <BARVA=65535>BLOCEK.CFG<SB>
+iš failo <BARVA=65535>DEFAULT.CFG<SB> buvo nukopijuoti šie elementai:
+#pocet_zmen
+Rasta*Pakeitimų skaičius:*Atvejų skaičius*F<BARVA=!;KLAVESY=u>u<SB>nkcija: eilutės atvejų skaičius
+#neniswap
+Jūsų sistema nepalaiko virtualios atminties!
+Tai gali būti pavojinga dėl atminties trūkumo.
+Šiuo metu įdiegta:
+#dpmineznamy
+<BARVA=333>nežinomas DPMI tvarkyklė :-(<SB>
+#kaslinaswap
+(Šį tikrinimą galite atšaukti BLOCEK.CFG nustatę
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Visas sąrašas...
+#vybprefkl
+Kokios klaviatūros turėtų būti pagrindiniame meniu?
+#vybprefflt
+Kokie filtrai turėtų būti pagrindiniame meniu?
+
+#asciiauto
+automatinis aptikimas
+
+#vkod
+<PODTRH=+>numatytasis<PODTRH=->
+#ckod
+<PODTRH=+>tikslinis<PODTRH=->
+#oznaceno
+pažymėta:
+#ozn_nic
+nieko
+#kompinfo
+Procesorius:*Atmintis:*MB RAM*Video:* VESA versija:*Vaizdo režimas:*Vaizdo atmintis:*Atnaujinimo dažnis:*BIOS numatytasis*DOS versija:*DOS simbolių rinkinys:*Šalies kodas pagal DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>aizdo režimai*Vaizdo režimų apžvalga
+#kompinfo_lfn
+Ilgieji failų pavadinimai (LFN):
+#schranka_c
+Iškarpinė nr.
+#schranka_do
+Kopijuoti į iškarpinę
+#schranka_ze
+Įklijuoti iš iškarpinės
+#schranka_copy
+Kopijuoti į kitą iškarpinę
+#schranka_smaz
+Ištrinti
+#vyber_jazyk
+Pasirinkite kalbą
+#nutny_restart
+Norint pakeisti kalbą, reikia iš naujo paleisti programą.
+#prevod_html_entity
+Konvertavimas į HTML entitetus
+#prevod_html_ent_info
+Simboliai su ASCII ar Unicode reikšme virš 127
+bus konvertuoti į HTML entitetus.
+Konvertavimo sritį nustato teksto blokas.
+#text_je_v_unicode
+Tekstas yra Unicode formato.
+#text_je_v_ascii
+Tekstas yra ASCII koduotės ir bus
+konvertuotas pagal konvertavimo lentelę.
+#neni_oz_blok
+Nepažymėtas joks blokas - todėl konvertuosiu
+visą tekstą
+#prevod_mala_velka
+Tekstas didžiosiomis raidėmis
+#prevod_mala_velka_inf
+Mažąsias raides pasirinktame bloke pakeičia didžiosiomis.
+Kiti simboliai nekeičiami.
+#prevod_velka_mala
+Tekstas mažosiomis raidėmis
+#prevod_velka_mala_inf
+Didžiąsias raides pasirinktame bloke pakeičia mažosiomis.
+Kiti simboliai nekeičiami.
+#kodovani_dokumentu
+koduotė:
+#help_non_unicode
+Tik pakeičia simbolių rinkinio žymėjimą. Šriftas nekeičiamas.
+#help_inter_znaku
+Konvertavimas tarp simbolių ir kelių simbolių sekų UTF-8 / UTF-16.
+Jei įvyksta Unicode / ne Unicode keitimas, šriftas pasikeis.
+#help_tabkonv_znaku
+Naudojant konvertavimo lenteles, simboliai konvertuojami į kitą koduotę.
+Simbolių skaičius išlieka toks pat.
+
+#analyza_nedef_zn_dok
+Neapibrėžtų simbolių analizė visame tekste
+
+#analyza_nedef_zn_blok
+Neapibrėžtų simbolių analizė pasirinktame bloke
+
+#poc_vysk_nedef_znaku_n
+simbolio atvejų skaičius
+
+#poc_vysk_nedef_znaku_vse
+visų neapibrėžtų simbolių skaičius
+
+#poc_vysk_nedef_znaku_unik
+unikalių neapibrėžtų simbolių skaičius:*jų sritis:
+
+#zamena_znaku
+Pakeisti simbolį kitu?
+
+#nedefinovany_znak
+Neapibrėžtas simbolis*Neapibr. simbolių analizė
+
+#nedefinovany_znak_zam
+Ar pakeisti visus neapibrėžtus simbolius?
+
+#zamena_znaku_radiob1
+Vienkartinis simbolio pakeitimas
+Visame dokumente
+Pažymėtame bloke
+
+#zamena_znaku_radiob2
+visur
+nuo pradžios iki pažymėto simbolio
+nuo pažymėto simbolio toliau
+
+#znak_k_zamene
+Pakaitinis simbolis...
+
+#dotaz_pri_zmene
+Klausti keičiant?
+
+#kodovaniascii_dlg
+Tikėtina ASCII koduotė:*neįmanoma nustatyti*Ar sutinkate?
+
+#polozka_dos
+(lentelinis)*(nelentelinis)*daugiau...
+
+#tbl_filtr_ascii
+Konvertavimas grupėje:*numatytoji koduotė*tikslinė koduotė
+
+#niz_nonunicode1
+Kokia koduote rodomas tekstas?
+
+#niz_nonunicode2
+Numatytoji ir tikslinė koduotės yra vienodos.
+Jokių pakeitimų nedaroma.
+
+#ascii_2_utf_1
+Konvertavimas tarp ASCII ir UTF-8 ar UTF-16
+
+#ascii_2_utf_2
+Blokų operacijos (nekeičia dokumento koduotės)
+
+#ascii_2_utf_3
+Viso dokumento operacijos (pakeičia koduotę į unicode)
+
+#uni_2_utf_1
+Konvertavimas tarp Unicode ir UTF-8 ar UTF-16
+
+#uni_2_utf_2
+Blokų operacijos (nekeičia dokumento koduotės)
+
+#uni_2_utf_3
+Viso dokumento operacijos (pakeičia koduotę į ne unicode)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS koduotėje)
+
+#prohozeni_endianity
+Unicode baitų tvarkos (Endianity) sukeitimas
+
+#tab_konv_zn
+Dokumentą žymi tik kaip ne Unicode.
+Simbolius virš 255 pakeis pakaitiniu simboliu.
+
+#zda_prenastavit_font1
+Ar pakeisti šriftą ir nurodyti koduotę kaip ne Unicode?
+
+#zda_prenastavit_font2
+Ar pakeisti šriftą ir nurodyti koduotę kaip Unicode?
+
+#pren_font_ano
+(jei konvertuojamas visas tekstas, rekomenduojama TAIP)
+
+#pren_font_ne
+(jei konvertuojama tik dalis teksto, rekomenduojama NE)
+
+#preznacit_kodovani
+Ar pakeisti dokumento koduotės žymėjimą?
+
+#zm_kod_dok
+Dokumento koduotės keitimas
+
+#zak_unicode
+Dokumentas užkoduotas Unicode standartu.
+
+#sada_a_filtr_souborem
+Dokumento simbolių rinkinys ir filtras apibrėžiami failu:
+
+#interp_nonuni
+Ne Unicode interpretacija
+
+#konv_zn_utf
+Konvertavimas simbolis/UTF seka
+
+#tab_konv_zz
+Lentelinis konvertavimas simbolis/simbolis
+
+#zmena_fontu
+Šrifto keitimas
+
+#nas_zal_rad
+Eilučių laužymo nustatymai
+
+#nas_zal_mozn
+pagal langą
+78 simboliai
+80 simbolių
+pasirinktinis...
+
+#filesel_nejde_konverze
+Nurodyto pavadinimo negalima teisingai konvertuoti
+į dabartinį DOS kodų puslapį.
+Ar vis tiek tęsti?
+
+#podrobnosti
+Išsami informacija
+
+#moznosti...
+Parinktys...
+
+#form_konc_rad
+Eilučių pabaigos formatas
+
+#form_konc_help
+Rekomenduojama palikti CRLF standartą,
+kuris naudojamas DOS ir Windows.
+LF yra Unix/Linux standartas, o
+CR naudojamas Macintosh.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Baitų tvarkos žyma (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Taikoma tik Unicode failams.
+Tai yra trijų baitų seka failo pradžioje.
+Rekomenduojama UTF-16, UTF-8 paprastai nenaudojama.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Ar tikrai užfiksuoti eilučių laužymą visame tekste?
+
+#rozs_fix_lom_blok
+Blokas neturi eilutės pabaigos.
+Ar išplėsti ir tęsti?
+
+#jen_nezalam_rezim
+Ši funkcija pasiekiama tik nelaužymo režimu.
+
+#opravdu_spoj_radky
+Ar tikrai visame tekste sujungti pastraipų eilutes?
+
+#nahr_faze
+1-a fazė:*2-a fazė:*3-a fazė:
+
+#jen_v_bloku
+Tik <BARVA=!;KLAVESY=b>b<SB>loke
+
+#prevod_z_html_entit
+Dekoduoti HTML entitetus į simbolius
+
+#prevod_z_html_entit_info
+Atpažįsta HTML entitetus (pvz., &#8222;) ir pakeičia juos Unicode simboliais.
+
+#qr_vygenerovany
+Generuotas QR kodas
+
+#qr_ulozit
+Išsaugoti
+
+#qr_velikost
+Taško dydis QR kode (1-20)
+
+#qr_uspech
+Sėkmė! Išsaugota pavadinimu:
+
+#qr_chyba
+Klaida konvertuojant į QR kodą.
+
+#qr_chyba_save
+Klaida išsaugant QR kodą.
+
+#qr_tvorba
+QR kodų kūrimas
+
+#qr_text
+Tekstas konvertavimui į QR kodą
+
+#related_characters
+Susiję simboliai
+
+#zalozky
+Žymės*Žymė nr.*Rodyti žymes
+
+#menu_slovo
+meniu/žodis
+
+#dialogy_menu_slovo
+Dialogas Ieškoti*Dialogas Pakeisti*DIDŽIOSIOMIS*mažosiomis*Pirmos didžiosios*Į iškarpinę
+
+#menu_radek
+meniu/eilutė
+
+#dialogy_menu_radek1
+Eilutė į bloką:
+<BARVA=!;KLAVESY=s>s<SB>u laužymu
+<BARVA=!;KLAVESY=b>b<SB>e laužymo
+
+#dialogy_menu_radek2
+Tarpai:
+pašalinti tarpus p<BARVA=!;KLAVESY=r>r<SB>adžioje
+pašalinti tarpus <BARVA=!;KLAVESY=p>p<SB>abaigoje
+
+#dialogy_menu_radek3
+Įtrauka:
+pagal a<BARVA=!;KLAVESY=u>u<SB>kštesnę eilutę
+pagal tabu<BARVA=!;KLAVESY=l>l<SB>iatorių
+
+#pmysmenu
+<BARVA=!;KLAVESY=s>s<SB>imbolis
+ž<BARVA=!;KLAVESY=o>o<SB>dis
+<BARVA=!;KLAVESY=e>e<SB>ilutė
+
+#doprad
+Eilutės užbaigimas
+
+#doprad_txt
+Įveskite vieną ar daugiau simbolių, kuriais
+užpildysiu erdvę nuo eilutės pabaigos iki
+pelės paspaudimo vietos.
+Numatytasis yra [tarpas]
+
+#zarovnani
+Lygiavimas:*kairėn*dešinėn
+
+#carkod_tvorba
+Brūkšniniai kodai
+
+#carkod_instr
+Įveskite numerį arba trumpą tekstą
+Pastaba: Kai kurie brūkšninių kodų formatai palaiko tik skaičius. Be to,
+kai kurios koduotės (pvz., EAN-13) reikalauja galiojančių kodų su kontroline suma.
+Nors negaliojantis numeris gali būti užkoduotas, skaitytuvas gali jo neatpažinti.
+
+#carkod_ulozit
+Išsaugoti
+
+#carkod_uspech
+Sėkmė! Išsaugota pavadinimu:
+
+#carkod_chyba
+Klaida konvertuojant į brūkšninį kodą.
+
+#carkod_chyba_save
+Klaida išsaugant brūkšninį kodą.
+
+#carkod_combine
+Pridėti užkoduotą eilutę
+
+#carkod_mozn
+Šią eilutę galima užkoduoti į šiuos brūkšninius kodus:

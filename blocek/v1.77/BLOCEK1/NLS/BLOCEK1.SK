@@ -1,0 +1,139 @@
+## Blocek1, Slovak, sk, CP852
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' µn<BARVA=!;KLAVESY=a#1;VYZNAM=!1>o<SB> '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>ie '
+#_CANCEL
+<BARVA=!;KLAVESY=z#2;VYZNAM=!3>Z<SB>ruçiœ
+#_CANCEL2
+' <BARVA=!;KLAVESY=z#2;VYZNAM=!3>Z<SB>ruçiœ '
+#_POMOC
+<BARVA=!;KLAVESY=p;VYZNAM=!4>P<SB>omoc
+#_PALETA
+Pa<BARVA=!;KLAVESY=l;VYZNAM=!6>l<SB>eta
+#_MIXBAREV
+<BARVA=!;KLAVESY=m;VYZNAM=!7>M<SB>ieçanie farieb
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>isk
+#_ZADAT
+Z<BARVA=!;KLAVESY=a;VYZNAM=!14>a<SB>daœ
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+<BARVA=!;KLAVESY=n;VYZNAM=!19>N<SB>ovì adr.
+#_ZPET
+S<BARVA=!;KLAVESY=p;VYZNAM=!20>p<SB>„œ
+#_VPRED
+<BARVA=!;KLAVESY=v;VYZNAM=!21>V<SB>pred
+#_FS_NAHORU
+H<BARVA=!;KLAVESY=o;VYZNAM=!23>o<SB>re
+#_FS_TRIDENI
+Trie<BARVA=!;KLAVESY=d;VYZNAM=!24>d<SB>enie
+#_INFO
+'Info:            '
+#_DOTAZ
+'Ot zka:          '
+#_ANONE_DOTAZ
+'Ot zka:          '
+#_CHYBA
+Chyba!
+#_VLOZ_TEXT
+Vlo§ text:
+#_VYBER_BARVU
+Vyber farbu:
+#_FS_ADR_JAKSEMAJMENOVAT
+Zadaj n zov adres ra
+#_FS_PRO_CTENI
+'len na Ÿ¡tanie, '
+#_FS_SKRYTY
+'skrytì, '
+#_FS_SYSTEMOVY
+'syst‚movì, '
+#_FS_ARCHIVOVAT
+'archivovaœ, '
+#_FS_ZADNE
+§iadne.
+#_FS_ZPRAVA
+Spr va:
+#_FS_SOUBOR
+'S£bor: '
+#_FS_VELIKOST
+'Ve–kosœ: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' bajtov'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Posledn  zmena: '
+#_FS_ATRIBUTY
+'Atrib£ty: '
+#_FS_VYBER_SOUBOR
+Vyber s£bor:
+#_FS_SOUBORNEVYTVOREN
+S£bor nemohol byœ vytvorenì.
+#_FS_ADRESARNEVYTVOREN
+Adres r nemohol byœ vytvorenì.
+#_FS_DISK2
+Jednotky:
+#_FS_DISK3
+'Jednotka '
+#_FS_JMENOVKADISKU
+'Menovka disku:  '
+#_FS_SYSTEMSOUBORU
+'Syst‚m s£borov: '
+#_FS_KAPACITA
+'Kapacita:       '
+#_FS_VOLNEHO
+'Vo–n‚ miesto:   '
+#_FS_SERCISLO
+S‚riov‚ Ÿ¡slo:
+#_FS_VYBER_NECO
+Mus¡ byœ vybranì nejakì s£bor.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Jednotka nie je pripraven .
+#_FS_TRIDENI_NADPIS
+Triedenie:
+#_FS_TRIDENI_MIX1
+n zov*d tum*pr¡pona
+#_FS_TRIDENI_MIX2
+vzostupne*zostupne
+#_PREPSATSOUBOR
+Prep¡saœ s£bor?
+#_VSEPOL
+vçetky polo§ky
+#_VYBPOL
+vybran‚ polo§ky
+#_ZAMPOL
+zamietnut‚ polo§ky
+#_VYBINFO
+V pravom paneli s£ vçetky polo§ky a v –avom tie vybran‚.
+Vìber a mazanie sa deje Enterom.
+Medzi panelmi sa prep¡na tabul torom.
+#_VYBINFO2
+V –avom paneli sa zobrazuj£ vybran‚ polo§ky a v pravom tie zamietnut‚.
+Vìber a mazanie sa deje Enterom.
+Medzi panelmi sa prep¡na tabul torom.
+#_MOUSE_NOT_INSTALLED
+Nie je inçtalovanì ovl daŸ myçi. Nahrajte CTmouse alebo podobnì.
+#_LFB_NOT_AVAILABLE
+Vaça grafick  karta nepodporuje LFB re§im pre po§adovanì videom¢d.

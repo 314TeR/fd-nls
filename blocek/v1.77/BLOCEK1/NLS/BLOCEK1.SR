@@ -1,0 +1,139 @@
+## Blocek1, serbian, sr, cp855
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=Ö#1;VYZNAM=!1>×<SB>Ç '
+#_OK2
+' <BARVA=!;KLAVESY=Ö#1#2;VYZNAM=!1>×<SB>Ç '
+#_ANO
+' <BARVA=!;KLAVESY=¦#1;VYZNAM=!1>§<SB>  '
+#_NE
+' <BARVA=!;KLAVESY=Ô#2;VYZNAM=!2>Õ<SB>¨ '
+#_CANCEL
+×å<BARVA=!;KLAVESY=Æ#2;VYZNAM=!3>Æ<SB> é·
+#_CANCEL2
+' ×å<BARVA=!;KLAVESY=Æ#2;VYZNAM=!3>Æ<SB> é· '
+#_POMOC
+<BARVA=!;KLAVESY=Ø;VYZNAM=!4>Ý<SB>ÖÒÖ”
+#_PALETA
+Ý<BARVA=!;KLAVESY= ;VYZNAM=!6> <SB>Ð¨å 
+#_MIXBAREV
+<BARVA=!;KLAVESY=Ò;VYZNAM=!7>Ó<SB>¨õ ’¨ ¢ÖŽ 
+#_FS_INFO
+<BARVA=!;KLAVESY=·;VYZNAM=!8>¸<SB>ÔªÖ
+#_FS_DISK
+§·<BARVA=!;KLAVESY=ã;VYZNAM=!9>ã<SB>Æ
+#_ZADAT
+<BARVA=!;KLAVESY=ç;VYZNAM=!14>è<SB>Ô¨ã·
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+ÕÖ<BARVA=!;KLAVESY=ë;VYZNAM=!19>ë<SB>· ¦·á.
+#_ZPET
+Õ <BARVA=!;KLAVESY=ó;VYZNAM=!20>ó<SB> ¦
+#_VPRED
+Õ Ø<BARVA=!;KLAVESY=á;VYZNAM=!21>á<SB>¨¦
+#_FS_NAHORU
+<BARVA=!;KLAVESY=¬;VYZNAM=!23>­<SB>Öá¨
+#_FS_TRIDENI
+äÖá<BARVA=!;KLAVESY=å;VYZNAM=!24>å<SB>·á ’¨
+#_INFO
+'¸ÔªÖ:            '
+#_DOTAZ
+'Ý·å ’¨:          '
+#_ANONE_DOTAZ
+'Ý·å ’¨:          '
+#_CHYBA
+­á¨õÆ !
+#_VLOZ_TEXT
+èÒ¨åÔ· å¨Æãå:
+#_VYBER_BARVU
+¸ó ¢¨á· ¢ÖŽç:
+#_FS_ADR_JAKSEMAJMENOVAT
+èÔ¨ã· ·Ò¨ ¦·á¨ÆåÖá·ŽçÒ 
+#_FS_PRO_CTENI
+'ã ÒÖ ó  û·å ’¨, '
+#_FS_SKRYTY
+'ãÆá·ë¨ÔÖ, '
+#_FS_SYSTEMOVY
+'ã·ãå¨ÒãÆ·, '
+#_FS_ARCHIVOVAT
+' áµ·ë , '
+#_FS_ZADNE
+Ô¨Ò .
+#_FS_ZPRAVA
+ÝÖáçÆ :
+#_FS_SOUBOR
+'§ åÖå¨Æ : '
+#_FS_VELIKOST
+'ì¨Ð·û·Ô : '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' ¢ ŽåÖë '
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'¸óÒ¨’¨ÔÖ: '
+#_FS_ATRIBUTY
+'¡åá·¢çå·: '
+#_FS_VYBER_SOUBOR
+¸ó ¢¨á· ¦ åÖå¨Æç:
+#_FS_SOUBORNEVYTVOREN
+Õ·Ž¨ ÒÖ¬ç”¨ Æá¨·á å· ¦ åÖå¨Æç.
+#_FS_ADRESARNEVYTVOREN
+Õ·Ž¨ ÒÖ¬ç”¨ Æá¨·á å· ¦·á¨ÆåÖá·ŽçÒ.
+#_FS_DISK2
+§·ãÆÖë·:
+#_FS_DISK3
+'§·ãÆ '
+#_FS_JMENOVKADISKU
+'×óÔ Æ  ¦·ãÆ :   '
+#_FS_SYSTEMSOUBORU
+'ä·ãå¨Ò ¦ åÖå¨Æ :'
+#_FS_KAPACITA
+'Ç Ø ¤·å¨å:      '
+#_FS_VOLNEHO
+'äÐÖ¢. ØáÖãåÖá:  '
+#_FS_SERCISLO
+ä¨á·ŽãÆ· ¢áÖŽ:
+#_FS_VYBER_NECO
+§ åÖå¨Æ  ÒÖá  ¢·å· ·ó ¢á Ô .
+#_FS_JEDNOTKA_NEPRIPRAVENA
+§·ãÆ Ô·Ž¨ ãØá¨Ò Ô.
+#_FS_TRIDENI_NADPIS
+äÖáå·á ’¨:
+#_FS_TRIDENI_MIX1
+·Ò¨*¦ åçÒ*å·Ø
+#_FS_TRIDENI_MIX2
+çóÐ óÔÖ*ã·Ð óÔÖ
+#_PREPSATSOUBOR
+Ýá¨Ø·ã å· ¦ åÖå¨Æç?
+#_VSEPOL
+ãë· ¨Ð¨Ò¨Ôå·
+#_VYBPOL
+·ó ¢á Ô· ¨Ð¨Ò.
+#_ZAMPOL
+Ö¦¢·Ž¨Ô· ¨Ð¨Ò.
+#_VYBINFO
+è ¦¨ãÔÖÒ ÖÆÔç ãç ãë· ¨Ð¨Ò¨Ôå·,   ç Ð¨ëÖÒ ·ó ¢á Ô·.
+¸ó¢Öá · ¢á·ã ’¨ ã¨ ëáõ· ØÖÒÖ”ç Enter.
+Ýá¨¢ ¤·ë ’¨ ·óÒ¨€ç ÖÆ Ô  ØÖÒÖ”ç Tab.
+#_VYBINFO2
+è Ð¨ëÖÒ ÖÆÔç ãç ·ó ¢á Ô· ¨Ð¨Ò¨Ôå·,   ç ¦¨ãÔÖÒ Ö¦¢·Ž¨Ô·.
+¸ó¢Öá · ¢á·ã ’¨ ã¨ ëáõ· ØÖÒÖ”ç Enter.
+Ýá¨¢ ¤·ë ’¨ ·óÒ¨€ç ÖÆ Ô  ØÖÒÖ”ç Tab.
+#_MOUSE_NOT_INSTALLED
+èØá ë ûÆ· ØáÖ¬á Ò ó  Ò·õ Ô·Ž¨ ·Ôãå Ð·á Ô. èû·å Žå¨ CTmouse.
+#_LFB_NOT_AVAILABLE
+ì õ  ¬á ª·ûÆ  Æ áå·¤  Ô¨ ØÖ¦áé ë  LFB á¨é·Ò ó  Öë Ž ë·¦¨Ö á¨é·Ò.

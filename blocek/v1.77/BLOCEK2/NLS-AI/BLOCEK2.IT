@@ -1,0 +1,753 @@
+## Blocek2, italian, it, cp850
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Italiano     (it)
+#identifikuj_se2
+blocek2.it
+#sys_font
+## latin116.fv
+858-16.fv
+#sys_font_maly
+## latin114.fv
+858-14.fv
+#chyba_videomodu
+Modalit… video non disponibile:
+#sys_font_kodovani
+858
+#m1
+<BARVA=!;KLAVESY=f>F<SB>ile
+#m2
+<BARVA=!;KLAVESY=o>O<SB>pzioni
+#m3
+<BARVA=!;KLAVESY=a>A<SB>iuto
+#m31
+<BARVA=!;KLAVESY=i>I<SB>nfo su
+#m32
+<BARVA=!;KLAVESY=l>L<SB>eggi INFO.TXT  <<Alt-F1>>
+#m33
+Info <BARVA=!;KLAVESY=s>s<SB>istema
+#m34
+<BARVA=!;KLAVESY=g>G<SB>uida ipertestuale
+#m4
+<BARVA=!;KLAVESY=t>T<SB>esto
+#m11
+<BARVA=!;KLAVESY=n>N<SB>uovo    <<F1>>
+#m12
+<BARVA=!;KLAVESY=a>A<SB>pri <<F3>>
+#m13
+<BARVA=!;KLAVESY=s>S<SB>alva  <<F2>>
+#m14
+<BARVA=!;KLAVESY=d>D<SB>OS shell
+#m15
+<BARVA=!;KLAVESY=e>E<SB>sci   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=c>C<SB>hiudi  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=c>C<SB>olori
+#m211
+Colore <BARVA=!;KLAVESY=p>p<SB>rimo piano
+#m212
+Colore di <BARVA=!;KLAVESY=s>s<SB>fondo
+#m213
+Colore <BARVA=!;KLAVESY=b>b<SB>ase
+#m215
+Colore per <BARVA=!;KLAVESY=e>e<SB>videnziare riga
+#m22
+<BARVA=!;KLAVESY=l>L<SB>ingua
+#m23
+<BARVA=!;KLAVESY=e>E<SB>videnzia riga att.
+#m24
+<BARVA=!;KLAVESY=f>F<SB>ont
+#m25
+<BARVA=!;KLAVESY=i>I<SB>mmagine filtro
+#m26
+<BARVA=!;KLAVESY=t>T<SB>astiere
+#m27
+<BARVA=!;KLAVESY=p>P<SB>annello laterale
+#m28
+<BARVA=!;KLAVESY=s>S<SB>alva conf.
+#m29
+<BARVA=!;KLAVESY=m>M<SB>ostra spazi
+#m41
+Conv. <BARVA=!;KLAVESY=i>i<SB>n UTF-8
+#m42
+Conv. <BARVA=!;KLAVESY=d>d<SB>a UTF-8
+#m43
+<BARVA=!;KLAVESY=a>A<SB> capo aut.
+#m431
+<BARVA=!;KLAVESY=f>F<SB>issa a capo
+#m432
+<BARVA=!;KLAVESY=u>U<SB>nisci righe
+#m44
+<BARVA=!;KLAVESY=t>T<SB>rova      <<Ctrl-F>>
+#m45
+Trova <BARVA=!;KLAVESY=s>s<SB>uccessivo <<Ctrl-S>>
+#m46
+S<BARVA=!;KLAVESY=o>o<SB>stituisci      <<Ctrl-H>>
+#m460
+Se<BARVA=!;KLAVESY=g>g<SB>nalibri
+#m47
+<BARVA=!;KLAVESY=m>M<SB>appa caratteri
+#m48
+Co<BARVA=!;KLAVESY=n>n<SB>versioni <<CTRL-K>>
+#m49
+Operazioni b<BARVA=!;KLAVESY=l>l<SB>occo
+#m490
+Genera codice <BARVA=!;KLAVESY=q>Q<SB>R
+#m491
+Caratteri in <BARVA=!;KLAVESY=h>H<SB>TML
+#m492
+In <BARVA=!;KLAVESY=m>m<SB>aiuscolo
+#m493
+In m<BARVA=!;KLAVESY=i>i<SB>nuscolo
+#m494
+<BARVA=!;KLAVESY=e>E<SB>ntit… HTML in caratt.
+#m495
+<BARVA=!;KLAVESY=c>C<SB>odici a barre
+#vyber_soubor
+Seleziona file:
+#jak_to_ulozit
+Come salvarlo?
+#soubor_existuje_prepsat
+Il file esiste gi…
+sovrascrivere?
+#o_programu
+info su
+#napoveda
+aiuto
+#varovani
+<BARVA=51200>attenzione!<SB>
+#opravdu_konec
+Uscire davvero?
+I cambiamenti non salvati andranno persi.
+#tento_soubor_uz_jednou_mame
+Questo file Š gi… aperto.
+Blocek ti permette di aprirlo di nuovo,
+ma agir… indipendentemente dalla prima istanza!
+cioŠ,
+NON COME L'IDE DI PASCAL
+#unicode
+unicode
+#zalamovani
+a capo automatico
+#proporcionalni_mod
+proporzionale
+#vyber_barvu_popredi
+Seleziona colore primo piano
+#vyber_barvu_pozadi
+Seleziona colore di sfondo
+#vyber_barvu_zakladu
+Seleziona colore base
+#vyber_barvu_prosv
+Scegli il colore
+#zda_pro_rad
+Evidenziare la riga attuale?
+#nastaveni_ulozeno
+Impostazioni salvate
+
+#zatim_neni
+Questa funzione non Š ancora disponibile.
+
+#hypertextova_napoveda
+Guida ipertestuale
+
+#napoveda_koren
+Blocek - editor di testo e visualizzatore di immagini
+
+Argomenti della guida:
+1) <OK="napoveda_klavesy">Comandi<OK/>
+2) <OK="napoveda_mys">Comandi del mouse<OK/>
+3) <OK="napoveda_prvky">Elementi dell'interfaccia<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Comandi<SB;SF>
+<barva=65535>F10<sb>   - entra nel menu principale
+<barva=65535>F1<sb>    - crea nuovo file
+<barva=65535>F2<sb>    - salva file
+<barva=65535>F3<sb>    - apri file
+<barva=65535>Alt+F3<sb> - chiudi file
+<barva=65535>Alt+F1<sb> - apri file INFO.TXT
+<barva=65535>Ctrl+F<sb> - trova
+<barva=65535>Ctrl+S<sb> - continua ricerca
+<barva=65535>Ctrl+H<sb> - trova e sostituisci
+<barva=65535>Ctrl+A<sb> - seleziona l'intero documento
+<barva=65535>Ctrl+Q<sb> - offre un carattere simile per l'ultimo digitato [a, ,...]
+<barva=65535>Ctrl+K<sb> - funzioni per convertire caratteri tra codifiche
+<barva=65535>Ctrl+L<sb> - menu rapido per la modifica della riga
+<BARVA=65535>LShift+Alt<sb> - cambia impostazioni tastiera
+<barva=65535>Ctrl+Alt+su<sb>  - seleziona la riga corrente
+<barva=65535>Ctrl+Alt+gi—<sb>   - seleziona la parola sotto il cursore
+<barva=65535>Ctrl+Alt+sinistra<sb>  - seleziona tutti i caratteri a sinistra del cursore
+<barva=65535>Ctrl+Alt+destra<sb> - seleziona tutti i caratteri a destra del cursore
+<barva=65535>Backspace<sb> - elimina il carattere a sinistra del cursore
+<barva=65535>Delete<sb> - elimina il carattere a destra del cursore
+<barva=65535>Shift+Delete<sb> - elimina il blocco selezionato
+<barva=65535>*frecce<sb> - sposta il cursore
+<barva=65535>*Ctrl+PageUp<sb> o <barva=65535>*Ctrl+Home<sb> - vai alla prima riga del documento
+<barva=65535>*Ctrl+PageDown<sb> o <barva=65535>*Ctrl+End<sb> - vai all'ultima riga del documento
+<barva=65535>*Ctrl+destra<sb> - sposta di una parola a destra
+<barva=65535>*Ctrl+sinistra<sb> - sposta di una parola a sinistra
+   I tasti o le combinazioni contrassegnate con "*" possono essere
+   combinate con il tasto <barva=65535><Shift><sb>.
+In questo caso, la dimensione del blocco di testo verr… regolata
+   insieme al movimento del cursore.
+<barva=65535>Ctrl+[1-7]<sb> - copia il blocco selezionato negli appunti 1-7
+<barva=65535>Alt+[1-7]<sb> - incolla il testo dagli appunti 1-7 nella posizione attuale
+<barva=65535>Ctrl+pi—<sb> e <barva=65535>Ctrl+meno<sb> (sul tastierino numerico) - scorrimento rapido tra i file aperti
+<barva=65535>ESC<sb>   - esci
+<barva=65535>Alt+F2<sb> - salva la schermata attuale
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Comandi del mouse<SB;SF>
+<barva=65535>1) Nella finestra del documento<SB>
+Clic sinistro (TS) - sposta il cursore in quella posizione nel testo.
+TS+shift - specifica l'inizio e la fine del blocco di testo
+Tieni premuto TS e trascina - selezione interattiva del blocco
+Clic destro (TD) - mostra le info sul carattere e apre la finestra
+di dialogo per le conversioni.
+Offre anche le funzioni per i segnalibri.
+
+<barva=65535>2) Nella barra delle schede dei file aperti<SB>
+Clic TS - porta il file nella finestra principale
+Clic TD - menu delle azioni per quel file
+(chiudi, chiudi tutti tranne questo, mostra percorso completo)
+
+<barva=65535>3) Negli indicatori degli appunti<SB>
+Clic TS - menu delle operazioni con il contenuto degli appunti
+
+<barva=65535>4) Altre note<SB>
+->> Tutti gli altri elementi dell'interfaccia usano solo il tasto sinistro
+->> Quasi tutte le finestre di dialogo possono essere spostate trascinando la barra del titolo.
+->> Trascinando il testo nelle finestre di informazione Š possibile selezionarlo e poi
+    copiarlo negli appunti premendo <OK="napoveda_klavesy">CTRL+[1-7]<OK/>.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Elementi dell'interfaccia<SB;SF>
+La maggior parte dell'interfaccia Š occupata dalla <barva=65535>finestra principale<SB>. Mostra un documento
+di testo modificabile o il visualizzatore di immagini.
+Sul bordo sinistro del documento pu• apparire un pannello laterale
+che indica il tipo di terminazione delle righe.
+Sopra la finestra ci sono tre pannelli.
+
+<barva=65535>1) Riga fissa<SB>
+Menu principale: <barva=65535>File<SB>, <barva=65535>Testo<SB>, <barva=65535>Opzioni<SB>, <barva=65535>Aiuto<SB>
+A destra ci sono gli <OK="napoveda_indikatory">indicatori degli appunti<OK/> numerati 1-7.
+Pi— a destra (angolo in alto a destra) c'Š un menu a tendina per la tastiera.
+Questo menu si pu• aprire anche con <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Riga contestuale<SB>
+Cambia a seconda del contenuto della finestra principale.
+Se contiene un'immagine, mostra le sue dimensioni in pixel a sinistra.
+A destra ci sono i pulsanti per schermo intero, adattamento ottimale e rotazione/specchio.
+Se contiene un documento, appare un pulsante per le conversioni dei caratteri
+(anche tramite <OK="napoveda_klavesy">CTRL+K<OK/>). A destra c'Š un pulsante
+per cambiare le modalit… di a capo automatico.
+Pi— a destra c'Š una casella per attivare o disattivare l'a capo.
+All'estrema destra vengono mostrate la colonna e la riga attuali.
+
+<barva=65535>3) Schede dei file aperti<SB>
+Finch‚ non viene caricato alcun file, la barra inferiore Š vuota.
+Una volta aperto un file, la sua scheda appare in questa barra.
+In Blocek puoi aprire molti file contemporaneamente.
+Le schede vengono mostrate affiancate ed Š possibile scambiarle con il <OK="napoveda_mys">mouse<OK/>.
+Il pulsante sinistro porta la finestra principale sul file specificato.
+Il pulsante destro apre un sottomenu per chiudere il file, chiudere gli altri o mostrare il percorso.
+
+#napoveda_indikatory
+Se copi del testo negli appunti (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>) o usando la finestra di dialogo,
+la sua presenza viene indicata quando l'indicatore si illumina come una lampadina.
+Se gli appunti sono vuoti, viene mostrato come un cerchio sbarrato.
+L'indicatore n. 7 pu• apparire come <BARVA=65535>7W<SB>.
+Significa che i servizi degli appunti di MS Windows sono disponibili.
+In questo caso, gli appunti n. 7 sono collegati a quelli di Windows per scambiare testo con altri programmi.
+Dettagli nel file TECHNOTE.TXT
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versione 1.77b
+data compilazione: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek Š un editor di testo e visualizzatore di immagini
+in grado di lavorare con file UTF-8,
+rendendolo molto adatto per la creazione di pagine web.
+Blocek pu• gestire file molto grandi e righe
+molto lunghe. Grazie a Mateusz Viste per i font Unicode.
+Blocek agisce anche da visualizzatore per i formati di immagine comuni,
+ma non Š in grado di modificarli.
+Questo programma pu• essere distribuito sotto la licenza GNU/GPL
+
+#parametr_otaznik
+Sintassi:
+BLOCEK [file1 [, file2 [,...]]]
+#ovladani_obrazku
+schermo intero*o<<>>O*+90*-90*orizz.*vert.*dati Exif
+
+#soubor_nebyl_ulozen
+Il file non Š stato salvato!
+spazio insufficiente sul disco o
+il disco Š di sola lettura
+
+#chyba_font_int
+Errore durante il caricamento del file di font
+#chyba_font_neint
+File di font mancante o errore durante il caricamento del file:
+
+#informace_exif
+Informazioni dal blocco Exif
+#exif_date_strs
+Data e ora:*Data e ora originale:*Data e ora acquisizione:
+#exif_camera_info
+Produttore fotocamera:*Modello fotocamera:*Descrizione:*Software:*Sorgente luminosa:*Flash:*Modo esposizione:*ISO:*Tempo di esp.:*Orientamento:*Zoom:
+#exif_lightsrc_info
+Sconosciuto*Luce del giorno*Fluorescente*Tungsteno*Flash*Luce standard A*Luce standard B*Luce standard C*D55*D65*D75*Altra sorgente*Sconosciuto
+#exif_flash_info
+Senza flash*Flash*Flash senza pre-lampo*Flash con pre-lampo*Flash automatico*Senza flash*Sconosciuto
+#exif_expos_mode
+Sconosciuto*Modalit… manuale*Programma normale*Priorit… di diaframma*Priorit… di tempi*Programma creativo*Modalit… azione*Modalit… ritratto*Modalit… paesaggio*Sconosciuto
+#exif_orientation_desc
+Normale*Capovolto orizz.*Ruotato di 180ø*Capovolto vert.*Ruotato 90ø a sx e capovolto*Ruotato 90ø a dx*Ruotato 90ø a dx e capovolto*Ruotato 90ø a sx*Sconosciuto
+#exif_zoom_unused
+Non usato
+#exif_GPS_info
+Informazioni di posizione GPS*latitudine:*longitudine:*altitudine:*azimut*N*S*O*E*m*o*'*''
+#zkopirovat_exif
+Negli appunti
+#nejde_o_obrazek
+Il file Š danneggiato o i dati
+dell'immagine non sono in un formato supportato
+Il file verr… aperto come testo.
+#nelze_fixovat_zalamani
+Questa funzione Š disponibile
+solo nella modalit… a capo automatico.
+#vyhledavani
+Ricerca
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>modalit… di ricerca<POZADI=->
+#vyhled_mozn
+in a<BARVA=!;KLAVESY=v>v<SB>anti
+all'<BARVA=!;KLAVESY=i>i<SB>ndietro
+dall'ini<BARVA=!;KLAVESY=z>z<SB>io
+#roz_vel_pismen
+Maiuscole/Min<BARVA=!;KLAVESY=u>u<SB>scole
+
+#text_nenalezen
+Il testo specificato non Š stato trovato.
+#nahradit_vyskyt
+Sostituire questa occorrenza?
+#potvrzovat
+<BARVA=!;KLAVESY=c>c<SB>onfermare
+#nahradvse
+sostituisci <BARVA=!;KLAVESY=t>t<SB>utto
+#hledany_text
+testo da cercare:
+#novy_text
+nuovo testo
+#nahrada_textu
+sostituzione del testo
+#vyber_filtr
+Seleziona filtro
+#opravdu_zavrit
+Il file Š stato modificato.
+Salvarlo?
+#zavrit_ostatni
+Chiudi tutti gli altri
+#umisteni_souboru
+Posizione del file
+#bezejmenny
+<BARVA=46815><<nuovo>><SB>
+#bezejmenny_soubor
+Nuovo file
+
+#zrusit_nac
+Interrompere il caricamento?
+#chybi_bcfg
+Il file di configurazione <BARVA=65535>BLOCEK.CFG<SB>
+non esiste ancora.
+Lo creer• copiando il file
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Il file di configurazione <BARVA=65535>BLOCEK.CFG<SB>
+non Š nel formato corretto.
+Pertanto lo sovrascriver• con
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Nel file di configurazione <BARVA=65535>BLOCEK.CFG<SB>
+sono stati copiati i seguenti elementi da <BARVA=65535>DEFAULT.CFG<SB>:
+#pocet_zmen
+Trovato*Numero di modifiche:*Occorrenze*<BARVA=!;KLAVESY=f>F<SB>unzione conteggio occorrenze
+#neniswap
+Il tuo sistema non supporta la memoria virtuale!
+Questo pu• essere pericoloso e c'Š il rischio di esaurire la memoria.
+Prova a usare un altro gestore DPMI.
+attualmente installato:
+#dpmineznamy
+<BARVA=333>gestore DPMI sconosciuto :-(<SB>
+#kaslinaswap
+(Puoi disabilitare questo controllo impostando
+<BARVA=65530>zkontroluj_swap = 0<SB> in BLOCEK.CFG)
+#plnyseznam
+Lista completa...
+#vybprefkl
+Quali tastiere dovrebbero essere nel menu di base?
+#vybprefflt
+Quali filtri dovrebbero essere nel menu di base?
+
+#asciiauto
+rilevamento automatico
+
+#vkod
+<PODTRH=+>origine<PODTRH=->
+#ckod
+<PODTRH=+>destinazione<PODTRH=->
+#oznaceno
+selezionato:
+#ozn_nic
+niente
+#kompinfo
+Processore:*Memoria:*MB RAM*Video:* Versione VESA:*Modo video:*Memoria video*Frequenza di agg.:*BIOS default*Versione DOS:*Set caratteri:*Codice paese DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=m>M<SB>odalit… video*Panoramica modalit…
+#kompinfo_lfn
+Nomi lunghi file (LFN):
+#schranka_c
+Appunti n.
+#schranka_do
+Copia negli appunti
+#schranka_ze
+Incolla dagli appunti
+#schranka_copy
+Copia in un altro blocco appunti
+#schranka_smaz
+Cancella
+#vyber_jazyk
+Seleziona lingua
+#nutny_restart
+Ô necessario riavviare il programma per cambiare la lingua.
+#prevod_html_entity
+Converti in entit… HTML
+#prevod_html_ent_info
+I caratteri con valore ASCII o Unicode superiore a 127
+verranno convertiti in entit… HTML.
+L'intervallo Š determinato dal blocco di testo.
+#text_je_v_unicode
+Il testo Š in Unicode.
+#text_je_v_ascii
+Il testo Š in codifica ASCII e verr…
+convertito in base alla tabella di conversione.
+#neni_oz_blok
+Nessun blocco selezionato - convertir•
+l'intero testo
+#prevod_mala_velka
+Testo in maiuscolo
+#prevod_mala_velka_inf
+Cambia le lettere minuscole nel blocco in maiuscole.
+Gli altri caratteri non vengono modificati.
+#prevod_velka_mala
+Testo in minuscolo
+#prevod_velka_mala_inf
+Cambia le lettere maiuscole nel blocco in minuscole.
+Gli altri caratteri non vengono modificati.
+#kodovani_dokumentu
+codifica:
+#help_non_unicode
+Cambia solo l'etichetta del set di caratteri. Il font non cambia.
+#help_inter_znaku
+Conversioni tra caratteri e sequenze nelle codifiche UTF-8 o UTF-16.
+Alcune sottofunzioni si applicano a un blocco, altre all'intero documento.
+Il passaggio da Unicode a non-Unicode cambier… il font.
+#help_tabkonv_znaku
+Converte i caratteri del documento in un'altra codifica tramite tabelle.
+Il numero di caratteri rimane lo stesso.
+Si applica al testo selezionato o all'intero documento.
+Il passaggio da Unicode a non-Unicode cambier… il font.
+
+#analyza_nedef_zn_dok
+Analisi dei caratteri indefiniti nel documento
+
+#analyza_nedef_zn_blok
+Analisi dei caratteri indefiniti nel blocco
+
+#poc_vysk_nedef_znaku_n
+occorrenze del carattere
+
+#poc_vysk_nedef_znaku_vse
+totale dei caratteri indefiniti
+
+#poc_vysk_nedef_znaku_unik
+caratteri indefiniti unici:*loro intervallo:
+
+#zamena_znaku
+Sostituire il carattere con un altro?
+#nedefinovany_znak
+Carattere indefinito*Analisi car. indef. (blocco/doc)
+
+#nedefinovany_znak_zam
+Sostituire tutti i caratteri indefiniti?
+
+#zamena_znaku_radiob1
+Sostituzione una tantum
+In tutto il documento
+Nel blocco selezionato
+
+#zamena_znaku_radiob2
+ovunque
+dall'inizio fino al carattere
+dal carattere in poi
+
+#znak_k_zamene
+Carattere sostitutivo...
+
+#dotaz_pri_zmene
+Chiedere prima di cambiare?
+#kodovaniascii_dlg
+Probabile codifica ASCII:*impossibile determinare*Sei d'accordo?
+
+#polozka_dos
+(con tabella)*(senza tabella)*altro...
+
+#tbl_filtr_ascii
+Conversione nel gruppo:*codifica origine*codifica destinazione
+
+#niz_nonunicode1
+In quale codifica si trova il testo visualizzato?
+
+#niz_nonunicode2
+Le codifiche di origine e destinazione sono identiche.
+Nessuna modifica verr… apportata.
+
+#ascii_2_utf_1
+Conversioni tra ASCII e sequenze UTF-8 o UTF-16
+
+#ascii_2_utf_2
+Operazioni a blocchi (non cambia la codifica generale)
+
+#ascii_2_utf_3
+Operazioni sull'intero documento (passa a Unicode)
+
+#uni_2_utf_1
+Conversioni tra Unicode e sequenze UTF-8 o UTF-16
+
+#uni_2_utf_2
+Operazioni a blocchi (non cambia la codifica generale)
+
+#uni_2_utf_3
+Operazioni sull'intero documento (passa a non-Unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (in codifica DOS)
+
+#prohozeni_endianity
+Inversione di Endianness Unicode
+
+#tab_konv_zn
+Non esegue alcuna conversione.
+Etichetta solo il documento come non-Unicode.
+I caratteri 0-255 non cambiano, quelli superiori vengono sostituiti.
+#zda_prenastavit_font1
+Devo ripristinare il font ed etichettare la codifica come non-Unicode?
+
+#zda_prenastavit_font2
+Devo ripristinare il font ed etichettare la codifica come Unicode?
+#pren_font_ano
+(verr… convertito l'intero testo, consigliato SÞ)
+
+#pren_font_ne
+(verr… convertita solo parte del testo, consigliato NO)
+
+#preznacit_kodovani
+Devo cambiare l'etichetta di codifica del documento?
+#zm_kod_dok
+Cambio di codifica del documento
+
+#zak_unicode
+Il documento Š codificato nello standard Unicode.
+
+#sada_a_filtr_souborem
+Il set di caratteri e il filtro sono determinati dal file:
+
+#interp_nonuni
+Interpretazione non-Unicode
+
+#konv_zn_utf
+Conversione sequenza carattere/UTF
+
+#tab_konv_zz
+Conversione tabella carattere/carattere
+
+#zmena_fontu
+Cambio font
+
+#nas_zal_rad
+Impostazioni a capo automatico
+
+#nas_zal_mozn
+in base alla finestra
+78 caratteri
+80 caratteri
+personalizzato...
+
+#filesel_nejde_konverze
+Il nome non pu• essere convertito correttamente
+nella tabella codici DOS attuale.
+Continuare lo stesso?
+
+#podrobnosti
+Dettagli
+
+#moznosti...
+Opzioni...
+
+#form_konc_rad
+Formato di fine riga
+
+#form_konc_help
+Si consiglia di mantenere lo standard CRLF,
+utilizzato negli ambienti DOS e Windows.
+LF Š lo standard Unix/Linux e
+CR veniva utilizzato sui computer Macintosh.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = byte order mark
+Si applica solo ai file Unicode.
+Ô una sequenza di tre byte
+all'inizio del file.
+Consigliato per i file UTF-16.
+Normalmente non utilizzato per UTF-8.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Vuoi davvero fissare l'a capo in tutto il testo?
+#rozs_fix_lom_blok
+Il blocco non attraversa nessuna interruzione di riga
+Vuoi estenderlo e continuare?
+
+#jen_nezalam_rezim
+Questa funzione Š disponibile solo senza a capo automatico.
+#opravdu_spoj_radky
+Unire davvero le righe nei paragrafi in tutto il testo?
+
+#nahr_faze
+1.fase:*2.fase:*3.fase:
+
+#jen_v_bloku
+<BARVA=!;KLAVESY=s>S<SB>olo nel blocco
+
+#prevod_z_html_entit
+Decodifica entit… HTML in caratteri
+
+#prevod_z_html_entit_info
+Riconosce le entit… HTML (es. &#8222;) e le sostituisce con caratteri Unicode
+
+#qr_vygenerovany
+Codice QR generato
+
+#qr_ulozit
+Salva
+
+#qr_velikost
+Dimensione punto nel codice QR (1-20)
+
+#qr_uspech
+Successo! Salvato come:
+
+#qr_chyba
+Errore durante la conversione in codice QR.
+
+#qr_chyba_save
+Errore durante il salvataggio del codice QR.
+#qr_tvorba
+Creazione codici QR
+
+#qr_text
+Testo da convertire in codice QR
+
+#related_characters
+Caratteri correlati
+
+#zalozky
+Segnalibri*Segnalibro n.*Mostra segnalibri
+
+#menu_slovo
+menu/parola
+
+#dialogy_menu_slovo
+Dialogo Trova*Dialogo Sostituisci*MAIUSCOLE*minuscole*Prima Maiusc.*Negli appunti
+
+#menu_radek
+menu/riga
+
+#dialogy_menu_radek1
+Riga in blocco:
+con a ca<BARVA=!;KLAVESY=p>p<SB>o
+s<BARVA=!;KLAVESY=e>e<SB>nza a capo
+
+#dialogy_menu_radek2
+Spazi:
+rimuovi spazi all'<BARVA=!;KLAVESY=i>i<SB>nizio
+rimuovi spazi alla <BARVA=!;KLAVESY=f>f<SB>ine
+
+#dialogy_menu_radek3
+Rientro:
+come la riga s<BARVA=!;KLAVESY=u>u<SB>periore
+in base alla <BARVA=!;KLAVESY=t>t<SB>abulazione
+
+#pmysmenu
+<BARVA=!;KLAVESY=c>c<SB>arattere
+<BARVA=!;KLAVESY=p>p<SB>arola
+<BARVA=!;KLAVESY=r>r<SB>iga
+
+#doprad
+Completamento riga
+
+#doprad_txt
+Digita uno o pi— caratteri con cui
+riempire lo spazio dalla fine della riga
+al punto in cui hai cliccato.
+Predefinito Š [spazio]
+
+#zarovnani
+Allineamento:*sinistra*destra
+
+#carkod_tvorba
+Codici a barre
+
+#carkod_instr
+Inserisci un numero o un breve testo
+Nota: alcuni formati supportano solo numeri.
+Inoltre, alcune codifiche (es. EAN-13) richiedono codici
+validi con checksum corretto.
+I numeri non validi possono essere codificati, ma i lettori
+potrebbero non essere in grado di elaborarli.
+
+#carkod_ulozit
+Salva
+
+#carkod_uspech
+Successo! Salvato come:
+
+#carkod_chyba
+Errore durante la conversione in codice a barre.
+
+#carkod_chyba_save
+Errore durante il salvataggio del codice a barre.
+#carkod_combine
+Aggiungi stringa codificata
+
+#carkod_mozn
+Questa stringa pu• essere codificata nei seguenti codici a barre:

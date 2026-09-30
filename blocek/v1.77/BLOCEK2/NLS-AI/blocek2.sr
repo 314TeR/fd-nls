@@ -1,0 +1,727 @@
+## Blocek2, serbian, sr, cp855,
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+äáØãÆ·       (sr)
+#identifikuj_se2
+blocek2.sr
+#sys_font
+855-16.fv
+#sys_font_maly
+855-14.fv
+#chyba_videomodu
+æá é¨Ô· ë·¦¨Ö á¨é·Ò Ô·Ž¨ ¦ÖãåçØ Ô:
+#sys_font_kodovani
+855
+#m1
+<BARVA=!;KLAVESY=¦>§<SB> åÖå¨Æ 
+#m2
+<BARVA=!;KLAVESY=Ö>×<SB>Ø¤·Ž¨
+#m3
+<BARVA=!;KLAVESY=Ø>Ý<SB>ÖÒÖ”
+#m31
+<BARVA=!;KLAVESY=Ö>×<SB> ØáÖ¬á Òç
+#m32
+Ý<BARVA=!;KLAVESY=á>á<SB>Öû·å Ž INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=ã>ä<SB>·ãå¨ÒãÆ¨ ·ÔªÖáÒ ¤·Ž¨
+#m34
+<BARVA=!;KLAVESY=µ>¶<SB>·Ø¨áå¨Æãåç ÐÔ  ØÖÒÖ”
+#m4
+<BARVA=!;KLAVESY=å>æ<SB>¨Æãå
+#m11
+<BARVA=!;KLAVESY=Ô>Õ<SB>Öë·    <<F1>>
+#m12
+<BARVA=!;KLAVESY=Ö>×<SB>åëÖá· <<F3>>
+#m13
+<BARVA=!;KLAVESY=ã>ä<SB> ûçë Ž  <<F2>>
+#m14
+<BARVA=!;KLAVESY=·>¸<SB>óÐ ó ç DOS
+#m15
+<BARVA=!;KLAVESY=Æ>Ç<SB>á Ž   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=ó>ô<SB> åëÖá·  <<Alt-F3>>
+#m21
+¸ó¢Öá <BARVA=!;KLAVESY=¢>¢<SB>ÖŽ 
+#m211
+£ÖŽ  <BARVA=!;KLAVESY=å>å<SB>¨Æãå 
+#m212
+£ÖŽ  <BARVA=!;KLAVESY=Ø>Ø<SB>Öó ¦·Ô¨
+#m213
+£ÖŽ  <BARVA=!;KLAVESY=Ö>Ö<SB>ãÔÖë¨
+#m215
+£ÖŽ  ó  <BARVA=!;KLAVESY=·>·<SB>ãå·¤ ’¨ á¨¦ 
+#m22
+<BARVA=!;KLAVESY=Ž><SB>¨ó·Æ
+#m23
+¸ãå·¤ ’¨ <BARVA=!;KLAVESY= > <SB>Æå. á¨¦ 
+#m24
+¸ó¢Öá <BARVA=!;KLAVESY=ª>ª<SB>ÖÔå 
+#m25
+¸ó¢Öá ª·<BARVA=!;KLAVESY=Ð>Ð<SB>å¨á  ãÐ·Æ¨
+#m26
+Ýá¨ª¨á·á Ô¨ <BARVA=!;KLAVESY=å>å<SB> ãå åçá¨
+#m27
+£ÖûÔ· <BARVA=!;KLAVESY=Ø>Ø<SB> Ô¨Ð
+#m28
+ä <BARVA=!;KLAVESY=û>û<SB>çë Ž ØÖ¦¨õ ë ’ 
+#m29
+¸ãå·¤ ’¨ <BARVA=!;KLAVESY=á>á<SB> óÒ Æ 
+#m41
+Ýá¨åëÖá· <BARVA=!;KLAVESY=ç>ç<SB> UTF-8
+#m42
+Ýá¨åëÖá· ·<BARVA=!;KLAVESY=ó>ó<SB> UTF-8
+#m43
+Ý<BARVA=!;KLAVESY=á>á<SB>¨Ð Ò ’¨ á¨¦Öë 
+#m431
+<BARVA=!;KLAVESY=ª>«<SB>·Æã·á Ž Øá¨Ð Ò ’¨
+#m432
+<BARVA=!;KLAVESY=ã>ä<SB>ØÖŽ· á¨¦Öë¨
+#m44
+ÝáÖ<BARVA=!;KLAVESY=Ô>Ô<SB> €·      <<Ctrl-F>>
+#m45
+ÝáÖÔ €· <BARVA=!;KLAVESY=¦>¦<SB> ¨ <<Ctrl-S>>
+#m46
+ô <BARVA=!;KLAVESY=Ò>Ò<SB>¨Ô·      <<Ctrl-H>>
+#m460
+×<BARVA=!;KLAVESY=¢>¢<SB>¨Ð¨é·ë û·
+#m47
+Ó <BARVA=!;KLAVESY=Ø>Ø<SB>  óÔ ÆÖë 
+#m48
+ÇÖÔë¨áó·Ž  <BARVA=!;KLAVESY=Æ>Æ<SB>Ö¦·á ’  <<CTRL-K>>
+#m49
+×Ø¨á ¤·Ž¨ ã  ¢<BARVA=!;KLAVESY=Ð>Ð<SB>ÖÆÖë·Ò 
+#m490
+<BARVA=!;KLAVESY=¬>­<SB>¨Ô¨á·õ· QR ÆÖ¦
+#m491
+ôÔ ÆÖë· ç HTML <BARVA=!;KLAVESY=¨>¨<SB>Ôå·å¨å¨
+#m492
+è <BARVA=!;KLAVESY=ë>ì<SB>©Ñ¸Ç¡ ãÐÖë 
+#m493
+è Ò<BARVA=!;KLAVESY= > <SB>Ð  ãÐÖë 
+#m494
+HTML ¨Ôå<BARVA=!;KLAVESY=·>·<SB>å¨å· ç óÔ ÆÖë¨
+#m495
+£ á-Æ<BARVA=!;KLAVESY=Ö>Ö<SB>¦Öë·
+#vyber_soubor
+¸ó ¢¨á· ¦ åÖå¨Æç:
+#jak_to_ulozit
+Ç ÆÖ ÖëÖ ¦  ã ûçë Ò?
+#soubor_existuje_prepsat
+æ Æë  ¦ åÖå¨Æ  ë¨” ØÖãåÖŽ·
+Øá¨Ø·ã å·?
+#o_programu
+ØÖÒÖ”
+#napoveda
+ØÖÒÖ”
+#varovani
+<BARVA=51200>çØÖóÖá¨’¨!<SB>
+#opravdu_konec
+§  Ð· ó ·ãå  é¨Ð·å¨ ¦  ·ó €¨å¨?
+Õ¨ã ûçë Ô¨ ØáÖÒ¨Ô¨ ”¨ ¢·å· ·ó¬ç¢¨Ô¨.
+#tento_soubor_uz_jednou_mame
+×ë  ¦ åÖå¨Æ  Ž¨ ë¨” ÖåëÖá¨Ô .
+Blocek ”¨ ë Ò ¦ÖóëÖÐ·å· ¦  Ž¨ ØÖÔÖëÖ ÖåëÖá·å¨,
+ Ð· ”¨ á ¦·å· Ô¨ó ë·ãÔÖ Ö¦ Øáë¨ ·Ôãå Ô¤¨!
+åŽ. Õ© Ç¡× IDE PASCAL
+#unicode
+unicode
+#zalamovani
+Øá¨Ð Ò ’¨ á¨¦Öë 
+#proporcionalni_mod
+ØáÖØÖá¤·ÖÔ Ð Ô
+#vyber_barvu_popredi
+¸ó ¢¨á· ¢ÖŽç å¨Æãå 
+#vyber_barvu_pozadi
+¸ó ¢¨á· ¢ÖŽç ØÖó ¦·Ô¨
+#vyber_barvu_zakladu
+¸ó ¢¨á· ¢ÖŽç ÖãÔÖë¨
+#vyber_barvu_prosv
+¸ó ¢¨á· ¢ÖŽç
+#zda_pro_rad
+¸ãå ÆÔçå·  Æå. á¨¦?
+#nastaveni_ulozeno
+ÝÖ¦¨õ ë ’  ãç ã ûçë Ô 
+
+#zatim_neni
+×ë  ªçÔÆ¤·Ž  ŽÖõ çë¨Æ Ô·Ž¨ ¦ÖãåçØÔ .
+
+#hypertextova_napoveda
+¶·Ø¨áå¨Æãåç ÐÔ  ØÖÒÖ”
+
+#napoveda_koren
+Blocek - çá¨€·ë û å¨Æãå  · Øá¨¬Ð¨¦ û ãÐ·Æ 
+
+æ¨Ò¨ ó  ØÖÒÖ”:
+1) <OK="napoveda_klavesy">ÇÖÔåáÖÐ¨<OK/>
+2) <OK="napoveda_mys">ÇÖÔåáÖÐ¨ Ò·õ¨Ò<OK/>
+3) <OK="napoveda_prvky">©Ð¨Ò¨Ôå· ·Ôå¨áª¨Žã <OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>ÇÖÔåáÖÐ¨<SB;SF>
+<barva=65535>F10<sb>   - çÐ ó Æ ç ¬Ð ëÔ· Ò¨Ô·
+<barva=65535>F1<sb>    - Ô Øá ë· ÔÖëç ¦ åÖå¨Æç
+<barva=65535>F2<sb>    - ã ûçë Ž ¦ åÖå¨Æç
+<barva=65535>F3<sb>    - ÖåëÖá· ¦ åÖå¨Æç
+<barva=65535>Alt+F3<sb> - ó åëÖá· ¦ åÖå¨Æç
+<barva=65535>Alt+F1<sb> - ÖåëÖá· ¦ åÖå¨Æç INFO.TXT
+<barva=65535>Ctrl+F<sb> - ØáÖÔ €·
+<barva=65535>Ctrl+S<sb> - Ô ãå ë· Øá¨åá ¬ç
+<barva=65535>Ctrl+H<sb> - ØáÖÔ €· · ó Ò¨Ô·
+<barva=65535>Ctrl+A<sb> - ÖóÔ û· ¤¨Ö ¦ÖÆçÒ¨Ôå Æ Ö ¢ÐÖÆ
+<barva=65535>Ctrl+Q<sb> - Ôç¦· ãáÖ¦ Ô óÔ Æ ó  ØÖãÐ¨¦’· çÔ¨å·
+<barva=65535>Ctrl+K<sb> - ªçÔÆ¤·Ž¨ ó  ÆÖÔë¨áó·Žç óÔ ÆÖë  ·óÒ¨€ç á óÐ·û·å·µ ÆÖ¦·á ’ 
+<barva=65535>Ctrl+L<sb> - ¢áóÖ ØÖó·ë ’¨ Ò¨Ô·Ž  ó  çá¨€·ë ’¨ á¨¦ 
+<BARVA=65535>LShift+Alt<sb> - ØáÖÒ¨Ô· ØÖ¦¨õ ë ’  å ãå åçá¨
+<barva=65535>Ctrl+Alt+¬Öá¨<sb>  - ÖóÔ û· ¤¨Ö åá¨ÔçåÔ· á¨¦ Æ Ö ¢ÐÖÆ
+<barva=65535>Ctrl+Alt+¦ÖÐ¨<sb>    - ÖóÔ û· á¨û ·ãØÖ¦ ÆçáãÖá  Æ Ö ¢ÐÖÆ
+<barva=65535>Ctrl+Alt+Ð¨ëÖ<sb>  - ÖóÔ û· ãë¨ óÔ ÆÖë¨ Ð¨ëÖ Ö¦ ÆçáãÖá 
+<barva=65535>Ctrl+Alt+¦¨ãÔÖ<sb> - ÖóÔ û· ãë¨ óÔ ÆÖë¨ ¦¨ãÔÖ Ö¦ ÆçáãÖá 
+<barva=65535>Backspace<sb> - Ö¢á·õ· óÔ Æ Ð¨vo Ö¦ ÆçáãÖá 
+<barva=65535>Delete<sb> - Ö¢á·õ· óÔ Æ ¦¨ãÔÖ Ö¦ ÆçáãÖá 
+<barva=65535>Shift+Delete<sb> - Ö¢á·õ· ÖóÔ û¨Ô· ¢ÐÖÆ
+<barva=65535>*ãåá¨Ð·¤¨<sb> - ØÖÒ¨á ’¨ ÆçáãÖá 
+<barva=65535>*Ctrl+PageUp<sb> ·Ð· <barva=65535>*Ctrl+Home<sb> - ãÆÖÆ Ô  Øáë· á¨¦ ¦ÖÆçÒ¨Ôå 
+<barva=65535>*Ctrl+PageDown<sb> ·Ð· <barva=65535>*Ctrl+End<sb> - ãÆÖÆ Ô  ØÖãÐ¨¦’· á¨¦ ¦ÖÆçÒ¨Ôå 
+<barva=65535>*Ctrl+¦¨ãÔÖ<sb> - ØÖÒ¨á ’¨ ó  Ž¨¦Ôç á¨û ç ¦¨ãÔÖ
+<barva=65535>*Ctrl+Ð¨ëÖ<sb> - ØÖÒ¨á ’¨ ó  Ž¨¦Ôç á¨û ç Ð¨ëÖ
+   æ ãå¨á· ÖóÔ û¨Ô· ã  "*" ÒÖ¬ç ã¨ ÆÖÒ¢·ÔÖë å· ã  å ãå¨áÖÒ <barva=65535><Shift><sb>.
+   è åÖÒ ãÐçû Žç ”¨ ã¨ ë¨Ð·û·Ô  ¢ÐÖÆ  Ò¨’ å· ó Ž¨¦ÔÖ ã  ØÖÒ¨á ’¨Ò ÆçáãÖá .
+<barva=65535>Ctrl+[1-7]<sb> - ÆÖØ·á Ž ÖóÔ û¨Ô· ¢ÐÖÆ ç Öãå ëç ¢á. 1-7
+<barva=65535>Alt+[1-7]<sb> - Ô Ð¨Ø· å¨Æãå ·ó Öãå ë¨ ¢á. 1-7 Ô  ØÖó·¤·Žç ÆçáãÖá 
+<barva=65535>Ctrl+ØÐçã<sb> · <barva=65535>Ctrl+Ò·Ôçã<sb> - ¢áóÖ ãÆáÖÐÖë ’¨ ·óÒ¨€ç ÖåëÖá¨Ô·µ ¦ åÖå¨Æ 
+<barva=65535>ESC<sb>   - Æá Ž
+<barva=65535>Alt+F2<sb> - ã ûçë Ž åá¨ÔçåÔ· ¨Æá Ô
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>ÇÖÔåáÖÐ¨ Ò·õ¨Ò<SB;SF>
+<barva=65535>1) è ØáÖóÖáç ã  ¦ÖÆçÒ¨ÔåÖÒ<SB>
+Ñ¨ë· ÆÐ·Æ (ÑÇ) - ØÖÒ¨á  ÆçáãÖá Ô  Ô ë¨¦¨ÔÖ Ò¨ãåÖ ç å¨Æãåç.
+ÑÇ+shift - Ö¦á¨€çŽ¨ ØÖû¨å Æ · Æá Ž ¢ÐÖÆ  å¨Æãå 
+§áé ’¨ ÑÇ · Øá¨ëÐ û¨’¨ Ò·õ  - ·Ôå¨á Æå·ëÔÖ ÖóÔ û ë ’¨ ¢ÐÖÆ  å¨Æãå 
+§¨ãÔ· ÆÐ·Æ (§Ç) - Øá·Æ óçŽ¨ ·ÔªÖáÒ ¤·Ž¨ Ö ·ó ¢á ÔÖÒ óÔ Æç · Ôç¦· ¦·Ž ÐÖ¬
+ó  ÆÖÔë¨áó·Žç óÔ ÆÖë . æ ÆÖ€¨ Ôç¦· ªçÔÆ¤·Ž¨ ó  á ¦ ã  Ö¢¨Ð¨é·ë û·Ò .
+
+<barva=65535>2) Õ  åá ¤· ã  Æ áå·¤ Ò  ÖåëÖá¨Ô·µ ¦ åÖå¨Æ <SB>
+ÇÐ·Æ ÑÇ - Øá¨¢ ¤çŽ¨ ¦ åÖå¨Æç ç ¬Ð ëÔ· ØáÖóÖá
+ÇÐ·Æ §Ç - Ò¨Ô· ã  ë·õ¨ ÖØ¤·Ž  ó  ¦ åÖå¨Æç
+(ó åë á ’¨, ó åë á ’¨ ãë·µ Öãå Ð·µ, Øá·Æ ó Øçå ’¨ ¦Ö ¦ åÖå¨Æ¨)
+
+<barva=65535>3) Õ  ·Ô¦·Æ åÖáç Öãå ë  ó  å¨Æãå<SB>
+ÇÐ·Æ ÑÇ - Ò¨Ô· ÖØ¨á ¤·Ž  ã  ã ¦áé Ž¨Ò ·ó ¢á Ô¨ Öãå ë¨
+
+<barva=65535>4) ×ãå Ð¨ Ô ØÖÒ¨Ô¨<SB>
+->> äë· Öãå Ð· ¨Ð¨Ò¨Ôå· ¬á ª·ûÆÖ¬ ·Ôå¨áª¨Žã  ã ¦  ÆÖá·ãå¨ ã ÒÖ Ð¨ë· å ãå¨á Ò·õ .
+->> ­ÖåÖëÖ ãë· ¦·Ž ÐÖ¬ ØáÖóÖá· ã¨ ÒÖ¬ç ØÖÒ¨á å· Øá¨ëÐ û¨’¨Ò ¬Öá’¨ Ô ãÐÖëÔ¨ åá Æ¨.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>©Ð¨Ò¨Ôå· ·Ôå¨áª¨Žã <SB;SF>
+Õ Žë¨”· ¦¨Ö ØáÖãåÖá  ó çó·Ò  <barva=65535>¬Ð ëÔ· ØáÖóÖá<SB>. è ’¨Òç ã¨ Øá·Æ óçŽ¨ ¦ÖÆçÒ¨Ôå ·Ð· ãÐ·Æ .
+Õ  Ð¨ëÖŽ ·ë·¤· ØáÖóÖá  ¦ÖÆçÒ¨Ôå  ÒÖé¨ ¢·å· ¢ÖûÔ· Ø Ô¨Ð ÆÖŽ· ØÖÆ óçŽ¨
+Æ ÆÖ ã¨ ó ëáõ ë Žç ØÖŽ¨¦·Ô· á¨¦Öë· ¦ÖÆçÒ¨Ôå .
+<barva=65535>1) äå ÐÔ  Ð·Ô·Ž <SB>
+­Ð ëÔ· Ò¨Ô·: <barva=65535>§ åÖå¨Æ <SB>, <barva=65535>æ¨Æãå<SB>, <barva=65535>×Ø¤·Ž¨<SB>, <barva=65535>ÝÖÒÖ”<SB>
+§¨ãÔÖ ãç <OK="napoveda_indikatory">·Ô¦·Æ åÖá· Öãå ë <OK/> ó  å¨Æãå, ÔçÒ¨á·ã Ô· 1-7.
+è ¬Öá’¨Ò ¦¨ãÔÖÒ ç¬Ðç Ô Ð ó· ã¨ Ð·ãå  ó  ·ó¢Öá á ãØÖá¨¦  å ãå åçá¨. (Öåë á  ã¨ · ã  <OK="napoveda_klavesy">ALT+SHIFT<OK/>)
+
+<barva=65535>2) ÇÖÔå¨ÆãåÔ  Ð·Ô·Ž <SB>
+Ó¨’  ã¨ ç ó ë·ãÔÖãå· Ö¦ ã ¦áé Ž  ¬Ð ëÔÖ¬ ØáÖóÖá .
+
+<barva=65535>3) Ç áå·¤¨ ÖåëÖá¨Ô·µ ¦ åÖå¨Æ <SB>
+Ç ¦  ÖåëÖá·å¨ ¦ åÖå¨Æç, ’¨Ô  Æ áå·¤  ã¨ ØÖŽ ëçŽ¨ Ô  ÖëÖŽ åá ¤·.
+
+#napoveda_indikatory
+¡ÆÖ ÆÖØ·á å¨ å¨Æãå ç Öãå ëç (ØÖÒÖ”ç <OK="napoveda_klavesy">CTRL+[1-7]<OK/>),
+·Ô¦·Æ åÖá ØÖãå Ž¨ ¢¨Ö. ¡ÆÖ Ž¨ Öãå ë  Øá óÔ , Øá·Æ óçŽ¨ ã¨ Øá¨¤áå Ô Æáç¬.
+¸Ô¦·Æ åÖá Öãå ë¨ ¢á. 7 ÒÖé¨ ·ó¬Ð¨¦ å· Æ Ö <BARVA=65535>7W<SB>.
+æÖ óÔ û· ¦  Ž¨ ØÖë¨ó Ô ã  MS Windows ã·ãå¨ÒãÆÖÒ Öãå ëÖÒ. §¨å · ç TECHNOTE.TXT.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+ë¨áó·Ž  1.77b
+§ åçÒ ÆÖÒØ·Ð ¤·Ž¨: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek Ž¨ çá¨€·ë û å¨Æãå  · Øá¨¬Ð¨¦ û ãÐ·Æ ,
+ÆÖŽ· ÒÖé¨ ¦  á ¦· ã  ¦ åÖå¨Æ Ò  ç UTF-8 ÆÖ¦·á ’ç.
+×¦Ð·û Ô Ž¨ ó  ë¨Ð·Æ¨ ¦ åÖå¨Æ¨ · ¦ç¬ ûÆ¨ á¨¦Öë¨.
+¶ë Ð  Mateusz Viste ó  Unicode ªÖÔåÖë¨.
+Blocek å ÆÖ€¨ á ¦· Æ Ö Øá¨¬Ð¨¦ û ãå Ô¦ á¦Ô·µ ªÖáÒ å  ãÐ·Æ ,
+ Ð· Ô¨ ÒÖé¨ ¦  ·µ çá¨€çŽ¨.
+
+×ë Ž ØáÖ¬á Ò ã¨ ¦·ãåá·¢ç·á  ØÖ¦ çãÐÖë·Ò  GNU/GPL Ð·¤¨Ô¤¨.
+
+#parametr_otaznik
+ä·Ôå Æã :
+BLOCEK [¦ åÖå¨Æ 1 [, ¦ åÖå¨Æ 2 [,...]]]
+#ovladani_obrazku
+¤¨Ö ¨Æá Ô*o<<>>O*+90*-90*µÖá·ó*ë¨áå*Exif ØÖ¦ ¤·
+
+#soubor_nebyl_ulozen
+§ åÖå¨Æ  Ô·Ž¨ ã ûçë Ô !
+Õ¨Ò  ¦ÖëÖÔÖ ØáÖãåÖá  Ô  ¦·ãÆç ·Ð· Ž¨
+¦·ãÆ ã ÒÖ ó  û·å ’¨
+
+#chyba_font_int
+­á¨õÆ  Øá·Ð·ÆÖÒ çû·å ë ’  ¦ åÖå¨Æ¨ ã  ªÖÔåÖÒ
+#chyba_font_neint
+Õ¨¦Öãå Ž¨ ¦ åÖå¨Æ  ã  ªÖÔåÖÒ ·Ð· ¬á¨õÆ  Øá·Ð·ÆÖÒ çû·å ë ’  ¦ åÖå¨Æ¨:
+
+#informace_exif
+¸ÔªÖáÒ ¤·Ž¨ ·ó Exif ¢ÐÖÆ 
+#exif_date_strs
+§ åçÒ · ëá¨Ò¨:         *§ åçÒ · ëá¨Ò¨ Öá·¬·Ô Ð :*§ åçÒ · ëá¨Ò¨ ãÔ·Ò ’ :
+#exif_camera_info
+ÝáÖ·óëÖ€ û:*ÓÖ¦¨Ð:*×Ø·ã:*äÖªåë¨á:*¸óëÖá ãë¨åÐÖãå·:*£Ð·¤:*â¨é·Ò ¨ÆãØÖó·¤·Ž¨:*ISO:*ìá¨Ò¨ ¨ÆãØÖó·¤·Ž¨:*×á·Ž¨Ôå ¤·Ž :*ôçÒ:
+#exif_lightsrc_info
+Õ¨ØÖóÔ åÖ*§Ô¨ëÔÖ ãë¨åÐÖ*«ÐçÖá¨ã¤¨ÔåÔÖ*ìÖÐªá Ò*£Ð·¤*äå Ô¦ á¦ÔÖ ãë¨åÐÖ ¡*äå Ô¦ á¦ÔÖ ãë¨åÐÖ £*äå Ô¦ á¦ÔÖ ãë¨åÐÖ ¥*D55*D65*D75*§áç¬· ·óëÖá*Õ¨ØÖóÔ åÖ
+#exif_flash_info
+£¨ó ¢Ð·¤ *£Ð·¤*£Ð·¤ ¢¨ó Øá¨¦¢¨ã Æ *£Ð·¤ ã  Øá¨¦¢¨ã¤·Ò *¡çåÖÒ åãÆ· ¢Ð·¤*£¨ó ¢Ð·¤ *Õ¨ØÖóÔ åÖ
+#exif_expos_mode
+Õ¨ØÖóÔ åÖ*âçûÔ· á¨é·Ò*ÕÖáÒ ÐÔ· ØáÖ¬á Ò*Ýá·Öá·å¨å ¢Ð¨Ô¦¨*Ýá·Öá·å¨å ó åë á û *Çá¨ å·ëÔ· ØáÖ¬á Ò*¡Æ¤·ÖÔ· á¨é·Ò*ÝÖáåá¨åÔ· á¨é·Ò*Ý¨Žó éÔ· á¨é·Ò*Õ¨ØÖóÔ åÖ
+#exif_orientation_desc
+ÕÖáÒ ÐÔÖ*¶Öá·ó. Ö¬Ð¨¦ ÐÖ*âÖå·á ÔÖ 180o*ì¨áå. Ö¬Ð¨¦ ÐÖ*âÖå·á ÔÖ 90o Ð¨ëÖ · Ö¬Ð¨¦ ÐÖ*âÖå·á ÔÖ 90o ¦¨ãÔÖ*âÖå·á ÔÖ 90o ¦¨ãÔÖ · Ö¬Ð¨¦ ÐÖ*âÖå·á ÔÖ 90o Ð¨ëÖ*Õ¨ØÖóÔ åÖ
+#exif_zoom_unused
+Õ¨ ÆÖá·ãå· ã¨
+#exif_GPS_info
+GPS ÐÖÆ ¤·Ž *¬¨Ö¬.õ·á·Ô :*¬¨Ö¬.¦çé·Ô :*ë·ã·Ô :* ó·Òçå*ä**ô*¸*m*o*'*''
+#zkopirovat_exif
+è Öãå ëç
+#nejde_o_obrazek
+§ åÖå¨Æ  Ž¨ Öõå¨”¨Ô  ·Ð· ØÖ¦ ¤· Ö
+ãÐ·¤· Ô·ãç ç ØÖ¦áé ÔÖÒ ªÖáÒ åç.
+§ åÖå¨Æ  ”¨ ¢·å· ÖåëÖá¨Ô  Æ Ö å¨Æãå.
+#nelze_fixovat_zalamani
+×ë  ªçÔÆ¤·Ž  Ž¨ ¦ÖãåçØÔ  ã ÒÖ
+ç á¨é·Òç Øá¨Ð Ò ’  á¨¦Öë .
+#vyhledavani
+Ýá¨åá ¬ 
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>á¨é·Ò Øá¨åá ¬¨<POZADI=->
+#vyhled_mozn
+Ö¦ ÆçáãÖá  Ô Øá<BARVA=!;KLAVESY=¨>¨<SB>¦
+Ö¦ ÆçáãÖá  <BARVA=!;KLAVESY=ç>ç<SB>Ô ó ¦
+Ö¦ <BARVA=!;KLAVESY=Ø>Ø<SB>Öû¨åÆ  ¦ åÖå¨Æ¨
+#roz_vel_pismen
+<BARVA=!;KLAVESY=á>â<SB> óÐ·ÆçŽ ë¨Ð·Æ /Ò Ð  ãÐÖë 
+
+#text_nenalezen
+æá é¨Ô· å¨Æãå Ô·Ž¨ ØáÖÔ €¨Ô.
+#nahradit_vyskyt
+ô Ò¨Ô·å· ÖëÖ ØÖÆÐ Ø ’¨?
+#potvrzovat
+ØÖ<BARVA=!;KLAVESY=å>å<SB>ëá¦·
+#nahradvse
+ó Ò¨Ô· <BARVA=!;KLAVESY=ã>ã<SB>ë¨
+#hledany_text
+åá é¨Ô· å¨Æãå:
+#novy_text
+ÔÖë· å¨Æãå
+#nahrada_textu
+ó Ò¨Ô  å¨Æãå 
+#vyber_filtr
+¸ó ¢¨á· ª·Ðå¨á
+#opravdu_zavrit
+§ åÖå¨Æ  Ž¨ ·óÒ¨’¨Ô .
+§  Ð· é¨Ð·å¨ ¦  ã ûçë å¨?
+#zavrit_ostatni
+ô åëÖá· ãë¨ Öãå Ð¨
+#umisteni_souboru
+ÑÖÆ ¤·Ž  ¦ åÖå¨Æ¨
+#bezejmenny
+<BARVA=46815><<ÔÖë >><SB>
+#bezejmenny_soubor
+ÕÖë  ¦ åÖå¨Æ 
+
+#zrusit_nac
+Ýá¨Æ·Ôçå· çû·å ë ’¨?
+#chybi_bcfg
+ÇÖÔª·¬çá ¤·ÖÔ  ¦ åÖå¨Æ  <BARVA=65535>BLOCEK.CFG<SB>
+ŽÖõ çë¨Æ Ô¨ ØÖãåÖŽ·.
+£·”¨ Æá¨·á Ô  ÆÖØ·á ’¨Ò
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+ÇÖÔª·¬çá ¤·ÖÔ  ¦ åÖå¨Æ  <BARVA=65535>BLOCEK.CFG<SB>
+Ô·Ž¨ ç ·ãØá ëÔÖÒ ªÖáÒ åç.
+£·”¨ Øá¨Ø·ã Ô  ¦ åÖå¨ÆÖÒ
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+è ÆÖÔª·¬çá ¤·ÖÔç ¦ åÖå¨Æç <BARVA=65535>BLOCEK.CFG<SB>
+·ó ¦ åÖå¨Æ¨ <BARVA=65535>DEFAULT.CFG<SB> ãç ÆÖØ·á Ô¨ ãÐ¨¦¨”¨ ãå ëÆ¨:
+#pocet_zmen
+ÝáÖÔ €¨ÔÖ*£áÖŽ ·óÒ¨Ô :*£áÖŽ ØÖÆÐ Ø ’ *<BARVA=!;KLAVESY=f>F<SB>çÔÆ¤·Ž : ¢áÖŽ ØÖÆÐ Ø ’  ãåá·Ô¬ 
+#neniswap
+ì õ ã·ãå¨Ò Ô¨ ØÖ¦áé ë  ë·áåç¨ÐÔç Ò¨ÒÖá·Žç!
+×ëÖ ÒÖé¨ ¢·å· ÖØ ãÔÖ ó¢Ö¬ Ô¨¦Öãå åÆ  Ò¨ÒÖá·Ž¨.
+æá¨ÔçåÔÖ Ž¨ ·Ôãå Ð·á Ô:
+#dpmineznamy
+<BARVA=333>Ô¨ØÖóÔ å· DPMI ¦á Žë¨á :-(<SB>
+#kaslinaswap
+(×ëç ØáÖë¨áç ÒÖé¨å¨ ÖåÆ ó å· ç BLOCEK.CFG ØÖãå ë ’¨Ò
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+ÇÖÒØÐ¨åÔ  Ð·ãå ...
+#vybprefkl
+ÇÖŽ¨ å ãå åçá¨ åá¨¢  ¦  ¢ç¦ç ç ¬Ð ëÔÖÒ Ò¨Ô·Žç?
+#vybprefflt
+ÇÖŽ· ª·Ðå¨á· åá¨¢  ¦  ¢ç¦ç ç ¬Ð ëÔÖÒ Ò¨Ô·Žç?
+
+#asciiauto
+ çåÖÒ åãÆ  ¦¨å¨Æ¤·Ž 
+
+#vkod
+<PODTRH=+>ØÖ¦á óçÒ¨ë ÔÖ<PODTRH=->
+#ckod
+<PODTRH=+>¤·ÔÖ<PODTRH=->
+#oznaceno
+ÖóÔ û¨ÔÖ:
+#ozn_nic
+Ô·õå 
+#kompinfo
+ÝáÖ¤¨ãÖá:*Ó¨ÒÖá·Ž :*MB RAM*ì·¦¨Ö:* VESA ë¨áó·Ž :*ì·¦¨Ö á¨é·Ò:*ì·¦¨Ö Ò¨ÒÖá·Ž :*£áó·Ô  Öãë¨é ë ’ :*BIOS ØÖ¦á óçÒ¨ë ÔÖ:*DOS ë¨áó·Ž :*DOS ÆÖ¦Ô· á ãØÖá¨¦:*ÇÖ¦ ó¨Ò¨ ØÖ DOS-ç:*OS
+#videomody
+<BARVA=!;KLAVESY=ë>ì<SB>·¦¨Ö á¨é·Ò·*Ýá¨¬Ð¨¦ ë·¦¨Ö á¨é·Ò 
+#kompinfo_lfn
+§ç¬ ûÆ  ·Ò¨Ô  ¦ åÖå¨Æ  (LFN):
+#schranka_c
+×ãå ë  ¢á.
+#schranka_do
+ÇÖØ·á Ž ç Öãå ëç
+#schranka_ze
+Õ Ð¨Ø· ·ó Öãå ë¨
+#schranka_copy
+ÇÖØ·á Ž ç ¦áç¬ç Öãå ëç
+#schranka_smaz
+×¢á·õ·
+#vyber_jazyk
+¸ó ¢¨á· Ž¨ó·Æ
+#nutny_restart
+ô  ØáÖÒ¨Ôç Ž¨ó·Æ  ØÖåá¨¢ÔÖ Ž¨ ØÖÔÖëÖ ØÖÆá¨Ôçå· ØáÖ¬á Ò.
+#prevod_html_entity
+ÇÖÔë¨áó·Ž  ç HTML ¨Ôå·å¨å¨
+#prevod_html_ent_info
+ôÔ ÆÖë· ã  ASCII ·Ð· Unicode ëá¨¦ÔÖõ”ç Øá¨ÆÖ 127
+¢·”¨ ÆÖÔë¨áåÖë Ô· ç HTML ¨Ôå·å¨å¨.
+×¢Ð ãå ÆÖÔë¨áó·Ž¨ Ž¨ Ö¦á¨€¨Ô  ¢ÐÖÆÖÒ å¨Æãå .
+#text_je_v_unicode
+æ¨Æãå Ž¨ ç Unicode ªÖáÒ åç.
+#text_je_v_ascii
+æ¨Æãå Ž¨ ç ASCII ÆÖ¦·á ’ç · ¢·”¨
+ÆÖÔë¨áåÖë Ô Øá¨Ò  å ¢¨Ð· ó  ÆÖÔë¨áó·Žç.
+#neni_oz_blok
+Õ·Ž¨ ÖóÔ û¨Ô Ô·Ž¨¦ Ô ¢ÐÖÆ - ÆÖÔë¨áåÖë ”ç
+¤¨Ö å¨Æãå.
+#prevod_mala_velka
+æ¨Æãå ç ë¨Ð·Æ  ãÐÖë 
+#prevod_mala_velka_inf
+Ó¨’  Ò Ð  ãÐÖë  ç ÖóÔ û¨ÔÖÒ ¢ÐÖÆç ç ë¨Ð·Æ .
+×ãå Ð· óÔ ÆÖë· ã¨ Ô¨ Ò¨’ Žç.
+#prevod_velka_mala
+æ¨Æãå ç Ò Ð  ãÐÖë 
+#prevod_velka_mala_inf
+Ó¨’  ë¨Ð·Æ  ãÐÖë  ç ÖóÔ û¨ÔÖÒ ¢ÐÖÆç ç Ò Ð .
+×ãå Ð· óÔ ÆÖë· ã¨ Ô¨ Ò¨’ Žç.
+#kodovani_dokumentu
+ÆÖ¦·á ’¨:
+#help_non_unicode
+Ó¨’  ã ÒÖ ÖóÔ Æç ãÆçØ  óÔ ÆÖë . «ÖÔå ã¨ Ô¨ Ò¨’ .
+#help_inter_znaku
+ÇÖÔë¨áó·Ž  ·óÒ¨€ç óÔ ÆÖë  · ã¨Æë¨Ô¤· (UTF-8 / UTF-16).
+¡ÆÖ ¦Ö€¨ ¦Ö ØáÖÒ¨Ô¨ Unicode / Ô¨-Unicode, ªÖÔå ”¨ ã¨ ØáÖÒ¨Ô·å·.
+#help_tabkonv_znaku
+ÝÖÒÖ”ç å ¢¨Ð  ó  ÆÖÔë¨áó·Žç, óÔ ÆÖë· ã¨ ÆÖÔë¨áåçŽç ç ¦áç¬Ö ÆÖ¦·á ’¨.
+£áÖŽ óÔ ÆÖë  Öãå Ž¨ ·ãå·.
+
+#analyza_nedef_zn_dok
+¡Ô Ð·ó  Ô¨¦¨ª·Ô·ã Ô·µ óÔ ÆÖë  ç ¤¨ÐÖÒ å¨Æãåç
+
+#analyza_nedef_zn_blok
+¡Ô Ð·ó  Ô¨¦¨ª·Ô·ã Ô·µ óÔ ÆÖë  ç ÖóÔ û¨ÔÖÒ ¢ÐÖÆç
+
+#poc_vysk_nedef_znaku_n
+¢áÖŽ ØÖŽ ë·ë ’  óÔ Æ 
+
+#poc_vysk_nedef_znaku_vse
+çÆçØ Ô ¢áÖŽ Ô¨¦¨ª·Ô·ã Ô·µ óÔ ÆÖë 
+
+#poc_vysk_nedef_znaku_unik
+¢áÖŽ Ž¨¦·Ôãåë¨Ô·µ Ô¨¦¨ª·Ô·ã Ô·µ óÔ ÆÖë :*’·µÖë ÖØã¨¬:
+
+#zamena_znaku
+ô Ò¨Ô·å· óÔ Æ ¦áç¬·Ò?
+
+#nedefinovany_znak
+Õ¨¦¨ª·Ô·ã Ô óÔ Æ*¡Ô Ð·ó  Ô¨¦¨ª. óÔ ÆÖë 
+
+#nedefinovany_znak_zam
+§  Ð· é¨Ð·å¨ ¦  ó Ò¨Ô·å¨ ãë¨ Ô¨¦¨ª·Ô·ã Ô¨ óÔ ÆÖë¨?
+
+#zamena_znaku_radiob1
+¨¦ÔÖÆá åÔ  ó Ò¨Ô  óÔ Æ 
+è ¤¨ÐÖÒ ¦ÖÆçÒ¨Ôåç
+è ÖóÔ û¨ÔÖÒ ¢ÐÖÆç
+
+#zamena_znaku_radiob2
+ãëç¦ 
+Ö¦ ØÖû¨åÆ  ¦Ö ÖóÔ û¨ÔÖ¬ óÔ Æ 
+Ö¦ ÖóÔ û¨ÔÖ¬ óÔ Æ  Ô ¦ ¨
+
+#znak_k_zamene
+ô Ò¨ÔãÆ· óÔ Æ...
+
+#dotaz_pri_zmene
+Ý·å å· Øá·Ð·ÆÖÒ ·óÒ¨Ô¨?
+
+#kodovaniascii_dlg
+ì¨áÖë åÔÖ ASCII ÆÖ¦·á ’¨:*Ô·Ž¨ ÒÖ¬ç”¨ çåëá¦·å·*§  Ð· ã¨ ãÐ é¨å¨?
+
+#polozka_dos
+(å ¢¨Ð áÔÖ)*(Ô¨å ¢¨Ð áÔÖ)*ë·õ¨...
+
+#tbl_filtr_ascii
+ÇÖÔë¨áó·Ž  ç ¬áçØ·:*ØÖ¦á óçÒ¨ë ÔÖ ÆÖ¦·á ’¨*¤·ÔÖ ÆÖ¦·á ’¨
+
+#niz_nonunicode1
+è ÆÖÒ ÆÖ¦·á ’ç Ž¨ å¨Æãå Øá·Æ ó Ô?
+
+#niz_nonunicode2
+ÝÖ¦á óçÒ¨ë ÔÖ · ¤·ÔÖ ÆÖ¦·á ’¨ ãç ·ãå·.
+Õ¨”¨ ¢·å· ·óëáõ¨Ô¨ Ô·Æ Æë¨ ØáÖÒ¨Ô¨.
+
+#ascii_2_utf_1
+ÇÖÔë¨áó·Ž  ·óÒ¨€ç ASCII · UTF-8 ·Ð· UTF-16
+
+#ascii_2_utf_2
+×Ø¨á ¤·Ž¨ ã  ¢ÐÖÆÖë·Ò  (Ô¨ Ò¨’  ÆÖ¦·á ’¨ ¦ÖÆçÒ¨Ôå )
+
+#ascii_2_utf_3
+×Ø¨á ¤·Ž¨ Ô  ¤¨ÐÖÒ ¦ÖÆçÒ¨Ôåç (Ò¨’  ÆÖ¦·á ’¨ ç unicode)
+
+#uni_2_utf_1
+ÇÖÔë¨áó·Ž  ·óÒ¨€ç Unicode · UTF-8 ·Ð· UTF-16
+
+#uni_2_utf_2
+×Ø¨á ¤·Ž¨ ã  ¢ÐÖÆÖë·Ò  (Ô¨ Ò¨’  ÆÖ¦·á ’¨ ¦ÖÆçÒ¨Ôå )
+
+#uni_2_utf_3
+×Ø¨á ¤·Ž¨ Ô  ¤¨ÐÖÒ ¦ÖÆçÒ¨Ôåç (Ò¨’  ÆÖ¦·á ’¨ ç Ô¨-unicode)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (ç DOS ÆÖ¦·á ’ç)
+
+#prohozeni_endianity
+ô Ò¨Ô  á¨¦ÖãÐ¨¦  ¢ ŽåÖë  (Endianity) ó  Unicode
+
+#tab_konv_zn
+×óÔ û ë  ¦ÖÆçÒ¨Ôå ã ÒÖ Æ Ö Ô¨-Unicode.
+ôÔ ÆÖë· ·óÔ ¦ 255 ¢·”¨ ó Ò¨’¨Ô· ó Ò¨ÔãÆ·Ò óÔ ÆÖÒ.
+
+#zda_prenastavit_font1
+§  Ð· ¦  ØáÖÒ¨Ô·Ò ªÖÔå · ÖóÔ û·Ò ÆÖ¦·á ’¨ Æ Ö Ô¨-Unicode?
+
+#zda_prenastavit_font2
+§  Ð· ¦  ØáÖÒ¨Ô·Ò ªÖÔå · ÖóÔ û·Ò ÆÖ¦·á ’¨ Æ Ö Unicode?
+
+#pren_font_ano
+( ÆÖ ã¨ ÆÖÔë¨áåçŽ¨ ¤¨Ö å¨Æãå, Øá¨ØÖáçûçŽ¨ ã¨ §¡)
+
+#pren_font_ne
+( ÆÖ ã¨ ÆÖÔë¨áåçŽ¨ ã ÒÖ ¦¨Ö å¨Æãå , Øá¨ØÖáçûçŽ¨ ã¨ Õ©)
+
+#preznacit_kodovani
+§  Ð· ¦  ØáÖÒ¨Ô·Ò ÖóÔ Æç ÆÖ¦·á ’  ¦ÖÆçÒ¨Ôå ?
+
+#zm_kod_dok
+ÝáÖÒ¨Ô  ÆÖ¦·á ’  ¦ÖÆçÒ¨Ôå 
+
+#zak_unicode
+§ÖÆçÒ¨Ôå Ž¨ ÆÖ¦·á Ô ç Unicode ãå Ô¦ á¦ç.
+
+#sada_a_filtr_souborem
+äÆçØ óÔ ÆÖë  · ª·Ðå¨á ãç ¦¨ª·Ô·ã Ô· ¦ åÖå¨ÆÖÒ:
+
+#interp_nonuni
+Õ¨-Unicode ·Ôå¨áØá¨å ¤·Ž 
+
+#konv_zn_utf
+ÇÖÔë¨áó·Ž  óÔ Æ/UTF ã¨Æë¨Ô¤ 
+
+#tab_konv_zz
+æ ¢¨Ð áÔ  ÆÖÔë¨áó·Ž  óÔ Æ/óÔ Æ
+
+#zmena_fontu
+ÝáÖÒ¨Ô  ªÖÔå 
+
+#nas_zal_rad
+ÝÖ¦¨õ ë ’  Øá¨Ð Ò ’  á¨¦Öë 
+
+#nas_zal_mozn
+Øá¨Ò  ØáÖóÖáç
+78 óÔ ÆÖë 
+80 óÔ ÆÖë 
+Øá·Ð ¬Ö€¨ÔÖ...
+
+#filesel_nejde_konverze
+èÔ¨å· Ô ó·ë ã¨ Ô¨ ÒÖé¨ Øá ë·ÐÔÖ ÆÖÔë¨áåÖë å·
+ç åá¨ÔçåÔç DOS ÆÖ¦Ôç ãåá Ô·¤ç.
+§  Ð· ·Ø Æ é¨Ð·å¨ ¦  Ô ãå ë·å¨?
+
+#podrobnosti
+§¨å ·
+
+#moznosti...
+×Ø¤·Ž¨...
+
+#form_konc_rad
+«ÖáÒ å ó ëáõ¨åÆ  á¨¦Öë 
+
+#form_konc_help
+Ýá¨ØÖáçûçŽ¨ ã¨ ¦  Öãå ë·å¨ CRLF ãå Ô¦ á¦,
+ÆÖŽ· ã¨ ÆÖá·ãå· ç DOS-ç · Windows-ç.
+LF Ž¨ Unix/Linux ãå Ô¦ á¦,  
+CR ã¨ ÆÖá·ãå· Ô  Macintosh-ç.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+×óÔ Æ  á¨¦ÖãÐ¨¦  ¢ ŽåÖë  (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+×¦ÔÖã· ã¨ ã ÒÖ Ô  Unicode ¦ åÖå¨Æ¨.
+æÖ Ž¨ ã¨Æë¨Ô¤  Ö¦ åá· ¢ Žå  Ô  ØÖû¨åÆç ¦ åÖå¨Æ¨.
+Ýá¨ØÖáçûçŽ¨ ã¨ ó  UTF-16, ¦ÖÆ ã¨ ó  UTF-8 Ö¢·ûÔÖ Ô¨ ÆÖá·ãå·.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+§  Ð· ó ·ãå  é¨Ð·å¨ ¦  ª·Æã·á å¨ Øá¨Ð Ò ’¨ á¨¦Öë  ç ¤¨ÐÖÒ å¨Æãåç?
+
+#rozs_fix_lom_blok
+£ÐÖÆ Ô¨ ã ¦áé· Æá Ž á¨¦ .
+§  Ð· é¨Ð·å¨ ¦  ¬  ØáÖõ·á·å¨ · Ô ãå ë·å¨?
+
+#jen_nezalam_rezim
+×ë  ªçÔÆ¤·Ž  Ž¨ ¦ÖãåçØÔ  ã ÒÖ ç á¨é·Òç ¢¨ó Øá¨Ð Ò ’  á¨¦Öë .
+
+#opravdu_spoj_radky
+§  Ð· ó ·ãå  é¨Ð·å¨ ¦  ãØÖŽ·å¨ á¨¦Öë¨ ç Ø ãçã¨ ç ¤¨ÐÖÒ å¨Æãåç?
+
+#nahr_faze
+1. ª ó :*2. ª ó :*3. ª ó :
+
+#jen_v_bloku
+ä ÒÖ ç <BARVA=!;KLAVESY=¢>¢<SB>ÐÖÆç
+
+#prevod_z_html_entit
+§¨ÆÖ¦·á Ž HTML ¨Ôå·å¨å¨ ç óÔ ÆÖë¨
+
+#prevod_z_html_entit_info
+Ýá¨ØÖóÔ Ž¨ HTML ¨Ôå·å¨å¨ (ÔØá. &#8222;) · ó Ò¨’çŽ¨ ·µ Unicode óÔ ÆÖë·Ò .
+
+#qr_vygenerovany
+­¨Ô¨á·ã Ô QR ÆÖ¦
+
+#qr_ulozit
+ä ûçë Ž
+
+#qr_velikost
+ì¨Ð·û·Ô  å ûÆ¨ ç QR ÆÖ¦ç (1-20)
+
+#qr_uspech
+èãØ¨õÔÖ! ä ûçë ÔÖ ØÖ¦ ·Ò¨ÔÖÒ:
+
+#qr_chyba
+­á¨õÆ  Øá·Ð·ÆÖÒ ÆÖÔë¨áó·Ž¨ ç QR ÆÖ¦.
+
+#qr_chyba_save
+­á¨õÆ  Øá·Ð·ÆÖÒ ûçë ’  QR ÆÖ¦ .
+
+#qr_tvorba
+Ýá ë¨’¨ QR ÆÖ¦Öë 
+
+#qr_text
+æ¨Æãå ó  ÆÖÔë¨áó·Žç ç QR ÆÖ¦
+
+#related_characters
+äáÖ¦Ô· óÔ ÆÖë·
+
+#zalozky
+×¢¨Ð¨é·ë û·*×¢¨Ð¨é·ë û ¢á.*Ýá·Æ é· Ö¢¨Ð¨é·ë û¨
+
+#menu_slovo
+Ò¨Ô·/á¨û
+
+#dialogy_menu_slovo
+§·Ž ÐÖ¬ ÝáÖÔ €·*§·Ž ÐÖ¬ ô Ò¨Ô·*ì©Ñ¸Ç¡*Ò Ð *Ýáë  ë¨Ð·Æ *è Öãå ëç
+
+#menu_radek
+Ò¨Ô·/á¨¦
+
+#dialogy_menu_radek1
+â¨¦ ç ¢ÐÖÆ:
+<BARVA=!;KLAVESY=ã>ã<SB>  Øá¨Ð Ò ’¨Ò
+<BARVA=!;KLAVESY=¢>¢<SB>¨ó Øá¨Ð Ò ’ 
+
+#dialogy_menu_radek2
+â óÒ ¤·:
+çÆÐÖÔ· á óÒ Æ¨ Ô  <BARVA=!;KLAVESY=Ø>Ø<SB>Öû¨åÆç
+çÆÐÖÔ· á óÒ Æ¨ Ô  Æá <BARVA=!;KLAVESY=Ž>Ž<SB>ç
+
+#dialogy_menu_radek3
+èëÐ û¨’¨:
+Øá¨Ò  <BARVA=!;KLAVESY=¬>¬<SB>Öá’¨Ò á¨¦ç
+Øá¨Ò  <BARVA=!;KLAVESY=å>å<SB> ¢çÐ åÖáç
+
+#pmysmenu
+<BARVA=!;KLAVESY=ó>ó<SB>Ô Æ
+á<BARVA=!;KLAVESY=¨>¨<SB>û
+<BARVA=!;KLAVESY=Ð>Ð<SB>·Ô·Ž 
+
+#doprad
+§Öëáõ ë ’¨ á¨¦ 
+
+#doprad_txt
+èÔ¨ã·å¨ Ž¨¦ Ô ·Ð· ë·õ¨ óÔ ÆÖë  ÆÖŽ·Ò  ”ç
+ØÖØçÔ·å· ØáÖãåÖá Ö¦ Æá Ž  á¨¦  ¦Ö
+Ò¨ãå  ÆÐ·Æ  Ò·õ¨Ò.
+ÝÖ¦á óçÒ¨ë ÔÖ Ž¨ [á óÒ Æ]
+
+#zarovnani
+ÝÖá ëÔ ’¨:*Ð¨ëÖ*¦¨ãÔÖ
+
+#carkod_tvorba
+£ á-ÆÖ¦Öë·
+
+#carkod_instr
+èÔ¨ã·å¨ ¢áÖŽ ·Ð· Æá å Æ å¨Æãå
+Õ ØÖÒ¨Ô : Õ¨Æ· ªÖáÒ å· ¢ á-ÆÖ¦Öë  ØÖ¦áé ë Žç ã ÒÖ ¢áÖŽ¨ë¨. æ ÆÖ€¨,
+Ô¨Æ  ÆÖ¦·á ’  (ÔØá. EAN-13) ó µå¨ë Žç ë é¨”¨ ÆÖ¦Öë¨ ã  ÆÖÔåáÖÐÔÖÒ ãçÒÖÒ.
+¸ ÆÖ ã¨ Ô¨ë é¨”· ¢áÖŽ ÒÖé¨ ÆÖ¦·á å·, û·å û ¬  ÒÖé¦  Ô¨”¨ Øá¨ØÖóÔ å·.
+
+#carkod_ulozit
+ä ûçë Ž
+
+#carkod_uspech
+èãØ¨õÔÖ! ä ûçë ÔÖ ØÖ¦ ·Ò¨ÔÖÒ:
+
+#carkod_chyba
+­á¨õÆ  Øá·Ð·ÆÖÒ ÆÖÔë¨áó·Ž¨ ç ¢ á-ÆÖ¦.
+
+#carkod_chyba_save
+­á¨õÆ  Øá·Ð·ÆÖÒ ûçë ’  ¢ á-ÆÖ¦ .
+
+#carkod_combine
+§Ö¦ Ž ÆÖ¦·á Ô· ãåá·Ô¬
+
+#carkod_mozn
+×ë Ž ãåá·Ô¬ ã¨ ÒÖé¨ ÆÖ¦·á å· ç ãÐ¨¦¨”¨ ¢ á-ÆÖ¦Öë¨:

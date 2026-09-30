@@ -1,0 +1,705 @@
+## Blocek2, icelandic, is, cp861,
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Íslenska     (is)
+#identifikuj_se2
+blocek2.is
+#sys_font
+861-16.fv
+#sys_font_maly
+861-14.fv
+#chyba_videomodu
+Umbeðinn skjáhamur er ekki í boði:
+#sys_font_kodovani
+861
+#m1
+<BARVA=!;KLAVESY=s>S<SB>krá
+#m2
+<BARVA=!;KLAVESY=v>V<SB>alkostir
+#m3
+<BARVA=!;KLAVESY=h>H<SB>jálp
+#m31
+<BARVA=!;KLAVESY=u>U<SB>m forritið
+#m32
+<BARVA=!;KLAVESY=l>L<SB>esa INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=k>K<SB>erfisupplýsingar
+#m34
+V<BARVA=!;KLAVESY=e>e<SB>fhjálp
+#m4
+<BARVA=!;KLAVESY=t>T<SB>exti
+#m11
+<BARVA=!;KLAVESY=n>N<SB>ýtt    <<F1>>
+#m12
+<BARVA=!;KLAVESY=o>O<SB>pna <<F3>>
+#m13
+<BARVA=!;KLAVESY=i>I<SB>sta  <<F2>>
+#m14
+F<BARVA=!;KLAVESY=a>a<SB>ra í DOS
+#m15
+<BARVA=!;KLAVESY=h>H<SB>ætta   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=l>L<SB>oka  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=l>L<SB>itaval
+#m211
+<BARVA=!;KLAVESY=f>F<SB>orgrunnslitur
+#m212
+<BARVA=!;KLAVESY=b>B<SB>akgrunnslitur
+#m213
+<BARVA=!;KLAVESY=g>G<SB>runnlitur
+#m215
+Litur á <BARVA=!;KLAVESY=a>a<SB>uðkenndri línu
+#m22
+<BARVA=!;KLAVESY=t>T<SB>ungumál
+#m23
+<BARVA=!;KLAVESY=a>A<SB>uðkenna núverandi línu
+#m24
+L<BARVA=!;KLAVESY=e>e<SB>turval
+#m25
+<BARVA=!;KLAVESY=m>M<SB>yndasía
+#m26
+L<BARVA=!;KLAVESY=y>y<SB>klaborð
+#m27
+<BARVA=!;KLAVESY=h>H<SB>liðarspjald
+#m28
+<BARVA=!;KLAVESY=v>V<SB>ista stillingar
+#m29
+A<BARVA=!;KLAVESY=u>u<SB>ðkenna bil
+#m41
+Breyta í <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+Bre<BARVA=!;KLAVESY=y>y<SB>ta frá UTF-8
+#m43
+<BARVA=!;KLAVESY=l>L<SB>ínubrot
+#m431
+<BARVA=!;KLAVESY=f>F<SB>esta línubrot
+#m432
+<BARVA=!;KLAVESY=s>S<SB>ameina línur
+#m44
+<BARVA=!;KLAVESY=f>F<SB>inna      <<Ctrl-F>>
+#m45
+F<BARVA=!;KLAVESY=i>i<SB>nna næsta <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=s>S<SB>kipta út      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=b>B<SB>ókamerki
+#m47
+<BARVA=!;KLAVESY=t>T<SB>áknatafla
+#m48
+<BARVA=!;KLAVESY=k>K<SB>óðunarbreyting <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=a>A<SB>ðgerðir á blokk
+#m490
+Búa til <BARVA=!;KLAVESY=q>Q<SB>R kóða
+#m491
+Stafir í HTML <BARVA=!;KLAVESY=e>e<SB>iningar
+#m492
+Í <BARVA=!;KLAVESY=h>H<SB>ÁSTAFI
+#m493
+Í lá<BARVA=!;KLAVESY=g>g<SB>stafi
+#m494
+HT<BARVA=!;KLAVESY=m>M<SB>L einingar í stafi
+#m495
+Strikame<BARVA=!;KLAVESY=r>r<SB>ki
+#vyber_soubor
+Veldu skrá:
+#jak_to_ulozit
+Hvernig á að vista þetta?
+#soubor_existuje_prepsat
+Þessi skrá er þegar til
+skrifa yfir?
+#o_programu
+hjálp
+#napoveda
+hjálp
+#varovani
+<BARVA=51200>viðvörun!<SB>
+#opravdu_konec
+Virkilega hætta?
+Óvistaðar breytingar tapast.
+#tento_soubor_uz_jednou_mame
+Þessi skrá er þegar opin.
+Blocek leyfir þér að opna hana aftur,
+en hún mun virka óháð fyrsta tilvikinu!
+þ.e. EKKI EINS OG IDE PASCAL
+#unicode
+unicode
+#zalamovani
+línubrot
+#proporcionalni_mod
+hlutfallslegur
+#vyber_barvu_popredi
+Veldu forgrunnslit
+#vyber_barvu_pozadi
+Veldu bakgrunnslit
+#vyber_barvu_zakladu
+Veldu grunnlit
+vel litað
+#vyber_barvu_prosv
+#zda_pro_rad
+Auðkenna virka línu?
+#nastaveni_ulozeno
+Stillingar vistaðar
+
+#zatim_neni
+Þessi eiginleiki er ekki tilbúinn enn.
+
+#hypertextova_napoveda
+Vefhjálp
+
+#napoveda_koren
+Blocek - textaritill og myndaskoðari
+
+Hjálparefni:
+1) <OK="napoveda_klavesy">Stjórntæki<OK/>
+2) <OK="napoveda_mys">Músarstýring<OK/>
+3) <OK="napoveda_prvky">Viðmótseiningar<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Stjórntæki<SB;SF>
+<barva=65535>F10<sb>   - opna aðalvalmynd
+<barva=65535>F1<sb>    - búa til nýja skrá
+<barva=65535>F2<sb>    - vista skrá
+<barva=65535>F3<sb>    - opna skrá
+<barva=65535>Alt+F3<sb> - loka skrá
+<barva=65535>Alt+F1<sb> - opna INFO.TXT
+<barva=65535>Ctrl+F<sb> - leita
+<barva=65535>Ctrl+S<sb> - halda áfram að leita
+<barva=65535>Ctrl+H<sb> - leita og skipta út
+<barva=65535>Ctrl+A<sb> - velja allt skjalið sem blokk
+<barva=65535>Ctrl+Q<sb> - býður upp á skyldan staf fyrir síðast skrifaðan
+<barva=65535>Ctrl+K<sb> - aðgerðir til að breyta kóðun stafa
+<barva=65535>Ctrl+L<sb> - flýtivísun í valmynd línuritils
+<BARVA=65535>LShift+Alt<sb> - breyta lyklaborðsstillingu
+<barva=65535>Ctrl+Alt+upp<sb>  - velur alla núverandi línu sem blokk
+<barva=65535>Ctrl+Alt+niður<sb>    - velur orðið undir bendlinum sem blokk
+<barva=65535>Ctrl+Alt+vinstri<sb>  - velur alla stafi vinstra megin við bendilinn
+<barva=65535>Ctrl+Alt+hægri<sb> - velur alla stafi hægra megin við bendilinn
+<barva=65535>Backspace<sb> - eyða staf vinstra megin við bendilinn
+<barva=65535>Delete<sb> - eyða staf hægra megin við bendilinn
+<barva=65535>Shift+Delete<sb> - eyða valinni blokk
+<barva=65535>*örvar<sb> - færa bendil
+<barva=65535>*Ctrl+PageUp<sb> eða <barva=65535>*Ctrl+Home<sb> - fara í fyrstu línu skjals
+<barva=65535>*Ctrl+PageDown<sb> eða <barva=65535>*Ctrl+End<sb> - fara í síðustu línu skjals
+<barva=65535>*Ctrl+hægri<sb> - fara um eitt orð til hægri
+<barva=65535>*Ctrl+vinstri<sb> - fara um eitt orð til vinstri
+   Hægt er að sameina lykla merktar "*" með <barva=65535><Shift><sb> lyklinum.
+   Í því tilviki breytist stærð blokkarinnar þegar bendillinn hreyfist.
+<barva=65535>Ctrl+[1-7]<sb> - afrita valda blokk á klippiborð 1-7
+<barva=65535>Alt+[1-7]<sb> - líma texta af klippiborði 1-7
+<barva=65535>Ctrl+plús<sb> og <barva=65535>Ctrl+mínus<sb> - skruna hratt milli opinna skráa
+<barva=65535>ESC<sb>   - hætta
+<barva=65535>Alt+F2<sb> - vista núverandi skjá
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Músarstýring<SB;SF>
+<barva=65535>1) Í skjala glugga<SB>
+Vinstri smellur (VS) - færir bendil á tilgreindan stað í textanum.
+VS+shift - byrjun og endir textablokkar
+Halda VS og draga mús - gagnvirk val á textablokk
+Hægri smellur (HS) - sýnir upplýsingar um valinn staf og býður upp á
+samskiptaglugga fyrir stafabreytingar eða bókamerki.
+
+<barva=65535>2) Á flipastiku opinna skráa<SB>
+Smellur VS - færir skrána í aðalgluggann
+Smellur HS - valmynd með valkostum fyrir skrána
+
+<barva=65535>3) Á klippiborðsvísi<SB>
+Smellur VS - valmynd aðgerða með innihaldi klippiborðs
+
+<barva=65535>4) Aðrar athugasemdir<SB>
+->> Allir aðrir þættir viðmótsins nota aðeins vinstri músarhnapp.
+->> Næstum alla glugga er hægt að færa með því að draga titilstikuna.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Viðmótseiningar<SB;SF>
+Mest af plássinu fer í <barva=65535>aðalgluggann<SB>. Hann sýnir skjalið eða myndina.
+Á vinstri brún getur verið hliðarspjald sem sýnir hvernig línur enda.
+<barva=65535>1) Fastalína<SB>
+Aðalvalmynd: <barva=65535>Skrá<SB>, <barva=65535>Texti<SB>, <barva=65535>Valkostir<SB>, <barva=65535>Hjálp<SB>
+Hægra megin eru <OK="napoveda_indikatory">klippiborðsvísar<OK/>, númeraðir 1-7.
+Efst til hægri er listi fyrir lyklaborð. (Opnast líka með <OK="napoveda_klavesy">ALT+SHIFT<OK/>)
+
+<barva=65535>2) Samhengislína<SB>
+Breytist eftir innihaldi aðalgluggans.
+
+<barva=65535>3) Flipastika<SB>
+Þegar þú opnar skrá birtist flipi hennar hér.
+
+#napoveda_indikatory
+Ef þú afritar texta (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>), verður vísirinn hvítur.
+Ef klippiborðið er tómt birtist strikaður hringur.
+Vísir 7 gæti verið <BARVA=65535>7W<SB>, sem þýðir að hann er tengdur MS Windows klippiborðinu.
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+útgáfa 1.77b
+dagsetning byggingar: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek er textaritill og myndaskoðari
+sem styður UTF-8 skrár.
+Hentar vel fyrir stórar skrár og langar línur.
+Þakkir til Mateusz Viste fyrir Unicode letur.
+Virkar líka fyrir myndir en breytir þeim ekki.
+
+Forritið er dreift undir GNU/GPL leyfi.
+
+#parametr_otaznik
+Málskipun:
+BLOCEK [skrá1 [, skrá2 [,...]]]
+#ovladani_obrazku
+fullur skjár*o<<>>O*+90*-90*lárétt*lóðrétt*Exif gögn
+
+#soubor_nebyl_ulozen
+Skráin var ekki vistuð!
+Ekki er nóg pláss á diski eða
+diskurinn er skrifvarinn.
+
+#chyba_font_int
+Villa við að hlaða inn leturskrá
+#chyba_font_neint
+Leturskrá vantar eða villa við að hlaða inn skrá:
+
+#informace_exif
+Upplýsingar úr Exif blokk
+#exif_date_strs
+Dagsetning og tími:         *Dagsetning og tími frumrits:*Dagsetning og tími töku:
+#exif_camera_info
+Framleiðandi:*Gerð:*Lýsing:*Hugbúnaður:*Ljósgjafi:*Flass:*Lýsingarhamur:*ISO:*Lýsingartími:*Stefna:*Aðdráttur:
+#exif_lightsrc_info
+Óþekkt*Dagsbirtu*Flúrperur*Volfram*Flass*Staðlað ljós A*Staðlað ljós B*Staðlað ljós C*D55*D65*D75*Annar gjafi*Óþekkt
+#exif_flash_info
+Án flass*Flass*Flass án forflass*Flass með forflass*Sjálfvirkt flass*Án flass*Óþekkt
+#exif_expos_mode
+Óþekkt*Handvirkt*Venjulegt*Ljósopsforgangur*Hraðaforgangur*Skapandi*Hreyfing*Andlitsmynd*Landslag*Óþekkt
+#exif_orientation_desc
+Venjulegt*Lárétt speglun*Snúið 180°*Lóðrétt speglun*Snúið 90° vinstri og speglað*Snúið 90° hægri*Snúið 90° hægri og speglað*Snúið 90° vinstri*Óþekkt
+#exif_zoom_unused
+Ónotað
+#exif_GPS_info
+GPS staðsetning*breidd:*lengd:*hæð:*azimut*N*S*V*A*m*o*'*''
+#zkopirovat_exif
+Á klippiborð
+#nejde_o_obrazek
+Skráin er skemmd eða myndagögn
+eru ekki á studdu sniði.
+Skráin verður opnuð sem texti.
+#nelze_fixovat_zalamani
+Þessi eiginleiki er aðeins í boði
+í línubrotsham.
+#vyhledavani
+Leit
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>leitarhamur<POZADI=->
+#vyhled_mozn
+frá bendli <BARVA=!;KLAVESY=a>a<SB>fram
+frá bendli t<BARVA=!;KLAVESY=i>i<SB>lbaka
+frá <BARVA=!;KLAVESY=u>u<SB>pphafi skrár
+#roz_vel_pismen
+Hás<BARVA=!;KLAVESY=t>t<SB>afir/lágstafir skipta máli
+
+#text_nenalezen
+Leitartexti fannst ekki.
+#nahradit_vyskyt
+Skipta þessu út?
+#potvrzovat
+<BARVA=!;KLAVESY=s>s<SB>taðfesta
+#nahradvse
+skipta ö<BARVA=!;KLAVESY=l>l<SB>lu út
+#hledany_text
+leita að:
+#novy_text
+nýr texti
+#nahrada_textu
+skipta út texta
+#vyber_filtr
+Veldu síu
+#opravdu_zavrit
+Skránni hefur verið breytt.
+Viltu vista?
+#zavrit_ostatni
+Loka öllum öðrum
+#umisteni_souboru
+Staðsetning skrár
+#bezejmenny
+<BARVA=46815><<nýtt>><SB>
+#bezejmenny_soubor
+Ný skrá
+
+#zrusit_nac
+Hætta við að hlaða?
+#chybi_bcfg
+Stillingarskrá <BARVA=65535>BLOCEK.CFG<SB>
+er ekki til enn.
+Hún verður búin til úr
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Stillingarskrá <BARVA=65535>BLOCEK.CFG<SB>
+er á röngu sniði.
+Henni verður skipt út fyrir
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Eftirfarandi atriði voru afrituð í <BARVA=65535>BLOCEK.CFG<SB>
+úr <BARVA=65535>DEFAULT.CFG<SB>:
+#pocet_zmen
+Fundið*Fjöldi breytinga:*Fjöldi tilvika*<BARVA=!;KLAVESY=f>F<SB>all: talning tilvika
+#neniswap
+Kerfið þitt styður ekki sýndarminni!
+Gæti verið hættulegt vegna minnisskorts.
+Nú er uppsett:
+#dpmineznamy
+<BARVA=333>óþekktur DPMI rekill :-(<SB>
+#kaslinaswap
+(Þú getur hætt við þessa athugun í BLOCEK.CFG)
+#plnyseznam
+Fullur listi...
+#vybprefkl
+Hvaða lyklaborð ættu að vera í aðalvalmynd?
+#vybprefflt
+Hvaða síur ættu að vera í aðalvalmynd?
+
+#asciiauto
+sjálfvirk greining
+
+#vkod
+<PODTRH=+>sjálfgefið<PODTRH=->
+#ckod
+<PODTRH=+>markmið<PODTRH=->
+#oznaceno
+valið:
+#ozn_nic
+ekkert
+#kompinfo
+Örgjörvi:*Minni:*MB RAM*Myndband:* VESA útgáfa:*Skjáhamur:*Myndminni:*Endurnýjunartíðni:*BIOS sjálfgefið:*DOS útgáfa:*DOS stafasett:*Landskóði eftir DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ídeóhamir*Yfirlit vídeóhama
+#kompinfo_lfn
+Löng skráarnöfn (LFN):
+#schranka_c
+Klippiborð nr.
+#schranka_do
+Afrita á klippiborð
+#schranka_ze
+Líma af klippiborði
+#schranka_copy
+Afrita á annað klippiborð
+#schranka_smaz
+Eyða
+#vyber_jazyk
+Veldu tungumál
+#nutny_restart
+Þarf að endurræsa forrit til að breyta tungumáli.
+#prevod_html_entity
+Breyta í HTML einingar
+#prevod_html_ent_info
+Stafir með ASCII/Unicode gildi yfir 127 breytast í HTML.
+#text_je_v_unicode
+Texti er í Unicode sniði.
+#text_je_v_ascii
+Texti er í ASCII kóðun.
+#neni_oz_blok
+Engin blokk valin - breyti öllum textanum.
+#prevod_mala_velka
+Texti í HÁSTAFI
+#prevod_mala_velka_inf
+Breytir lágstöfum í valinni blokk í hástafi.
+#prevod_velka_mala
+Texti í lágstafi
+#prevod_velka_mala_inf
+Breytir hástöfum í valinni blokk í lágstafi.
+#kodovani_dokumentu
+kóðun:
+#help_non_unicode
+Breytir aðeins merki stafasetts. Letur breytist ekki.
+#help_inter_znaku
+Breyting milli stafa og (UTF-8 / UTF-16).
+#help_tabkonv_znaku
+Stöfum er breytt í aðra kóðun með töflum.
+
+#analyza_nedef_zn_dok
+Greining óskilgreindra stafa í öllum texta
+
+#analyza_nedef_zn_blok
+Greining óskilgreindra stafa í valinni blokk
+
+#poc_vysk_nedef_znaku_n
+fjöldi tilvika stafs
+
+#poc_vysk_nedef_znaku_vse
+heildarfjöldi óskilgreindra stafa
+
+#poc_vysk_nedef_znaku_unik
+fjöldi einstakra óskilgreindra stafa:*svið þeirra:
+
+#zamena_znaku
+Skipta út staf fyrir annan?
+
+#nedefinovany_znak
+Óskilgreindur stafur*Greining óskilg. stafa
+
+#nedefinovany_znak_zam
+Viltu skipta út öllum óskilgreindum stöfum?
+
+#zamena_znaku_radiob1
+Einskiptis skipting
+Í öllu skjalinu
+Í valinni blokk
+
+#zamena_znaku_radiob2
+alls staðar
+frá upphafi að völdum staf
+frá völdum staf áfram
+
+#znak_k_zamene
+Nýr stafur...
+
+#dotaz_pri_zmene
+Spyrja við breytingu?
+
+#kodovaniascii_dlg
+Líkleg ASCII kóðun:*ekki hægt að ákvarða*Sammála?
+
+#polozka_dos
+(tafla)*(ekki tafla)*meira...
+
+#tbl_filtr_ascii
+Hópbreyting:*sjálfgefin kóðun*markkóðun
+
+#niz_nonunicode1
+Í hvaða kóðun er textinn sýndur?
+
+#niz_nonunicode2
+Sjálfgefin og markkóðun eru eins. Engar breytingar.
+
+#ascii_2_utf_1
+Breyting milli ASCII og UTF-8 eða UTF-16
+
+#ascii_2_utf_2
+Blokkaðgerðir (breytir ekki kóðun skjals)
+
+#ascii_2_utf_3
+Aðgerðir á öllu skjali (breytir kóðun í unicode)
+
+#uni_2_utf_1
+Breyting milli Unicode og UTF-8 eða UTF-16
+
+#uni_2_utf_2
+Blokkaðgerðir (breytir ekki kóðun skjals)
+
+#uni_2_utf_3
+Aðgerðir á öllu skjali (breytir kóðun í ekki-unicode)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (í DOS kóðun)
+
+#prohozeni_endianity
+Víxla bætaröð (Endianity) fyrir Unicode
+
+#tab_konv_zn
+Merki skjal sem ekki-Unicode. Stafir yfir 255 skipt út.
+
+#zda_prenastavit_font1
+Breyta letri og merkja sem ekki-Unicode?
+
+#zda_prenastavit_font2
+Breyta letri og merkja sem Unicode?
+
+#pren_font_ano
+(ef verið er að breyta öllum texta, mælt með JÁ)
+
+#pren_font_ne
+(ef aðeins hluti er breyttur, mælt með NEI)
+
+#preznacit_kodovani
+Breyta merki skjals um kóðun?
+
+#zm_kod_dok
+Breyta kóðun skjals
+
+#zak_unicode
+Skjalið er kóðað í Unicode.
+
+#sada_a_filtr_souborem
+Stafasett og sía skjals eru skilgreind af skrá:
+
+#interp_nonuni
+Ekki-Unicode túlkun
+
+#konv_zn_utf
+Breyting stafur/UTF runa
+
+#tab_konv_zz
+Töflubreyting stafur/stafur
+
+#zmena_fontu
+Leturbreyting
+
+#nas_zal_rad
+Stillingar línubrota
+
+#nas_zal_mozn
+eftir glugga
+78 stafir
+80 stafir
+sérsniðið...
+
+#filesel_nejde_konverze
+Nafnið er ekki hægt að breyta rétt
+yfir á DOS kóðun. Halda samt áfram?
+
+#podrobnosti
+Upplýsingar
+
+#moznosti...
+Valkostir...
+
+#form_konc_rad
+Snið línuloka
+
+#form_konc_help
+Mælt er með að halda CRLF staðlinum
+sem DOS og Windows nota.
+LF er fyrir Unix/Linux,
+CR fyrir Macintosh.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Bætaröð (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Aðeins fyrir Unicode skrár.
+Mælt með fyrir UTF-16, venjulega ekki notað í UTF-8.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Festa línubrot í öllum texta?
+
+#rozs_fix_lom_blok
+Engin línulok í blokk. Stækka og halda áfram?
+
+#jen_nezalam_rezim
+Aðeins í boði ef línubrot er óvirkt.
+
+#opravdu_spoj_radky
+Sameina línur í málsgreinar í öllum texta?
+
+#nahr_faze
+1. áfangi:*2. áfangi:*3. áfangi:
+
+#jen_v_bloku
+Aðeins í <BARVA=!;KLAVESY=b>b<SB>lokk
+
+#prevod_z_html_entit
+Afkóða HTML einingar í stafi
+
+#prevod_z_html_entit_info
+Þekkir HTML einingar og setur Unicode stafi.
+
+#qr_vygenerovany
+QR kóði búinn til
+
+#qr_ulozit
+Vista
+
+#qr_velikost
+Stærð punkts í QR kóða (1-20)
+
+#qr_uspech
+Tókst! Vistað sem:
+
+#qr_chyba
+Villa við að búa til QR kóða.
+
+#qr_chyba_save
+Villa við að vista QR kóða.
+
+#qr_tvorba
+Gerð QR kóða
+
+#qr_text
+Texti fyrir QR kóða
+
+#related_characters
+Skyldir stafir
+
+#zalozky
+Bókamerki*Bókamerki nr.*Sýna bókamerki
+
+#menu_slovo
+valmynd/orð
+
+#dialogy_menu_slovo
+Gluggi Finna*Gluggi Skipta út*HÁSTAFIR*lágstafir*Fyrsti stór*Á klippiborð
+
+#menu_radek
+valmynd/lína
+
+#dialogy_menu_radek1
+Lína í blokk:
+<BARVA=!;KLAVESY=m>m<SB>eð broti
+<BARVA=!;KLAVESY=á>á<SB>n brots
+
+#dialogy_menu_radek2
+Bil:
+fjarlægja bil í <BARVA=!;KLAVESY=u>u<SB>pphafi
+fjarlægja bil í <BARVA=!;KLAVESY=e>e<SB>nda
+
+#dialogy_menu_radek3
+Inndráttur:
+eftir efri <BARVA=!;KLAVESY=l>l<SB>ínu
+eftir <BARVA=!;KLAVESY=d>d<SB>álki
+
+#pmysmenu
+<BARVA=!;KLAVESY=s>s<SB>tafur
+<BARVA=!;KLAVESY=o>o<SB>rð
+<BARVA=!;KLAVESY=l>l<SB>ína
+
+#doprad
+Útfylling línu
+
+#doprad_txt
+Sláðu inn stafi til að fylla
+bil frá enda línu til
+músarsmells
+
+#zarovnani
+Jöfnun:*vinstri*hægri
+
+#carkod_tvorba
+Strikamerki
+
+#carkod_instr
+Sláðu inn númer eða texta.
+
+#carkod_ulozit
+Vista
+
+#carkod_uspech
+Tókst! Vistað sem:
+
+#carkod_chyba
+Villa við gerð strikamerkis.
+
+#carkod_chyba_save
+Villa við að vista strikamerki.
+
+#carkod_combine
+Bæta við kóðaðri runu
+
+#carkod_mozn
+Hægt er að kóða þessa runu sem:

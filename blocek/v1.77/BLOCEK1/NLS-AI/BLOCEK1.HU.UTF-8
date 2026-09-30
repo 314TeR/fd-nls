@@ -1,0 +1,139 @@
+## Blocek1, Hungarian, hu, CP852
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' I<BARVA=!;KLAVESY=g#1;VYZNAM=!1>g<SB>en '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>em '
+#_CANCEL
+<BARVA=!;KLAVESY=m#2;VYZNAM=!3>M<SB>égse
+#_CANCEL2
+' <BARVA=!;KLAVESY=m#2;VYZNAM=!3>M<SB>égse '
+#_POMOC
+<BARVA=!;KLAVESY=s;VYZNAM=!4>S<SB>úgó
+#_PALETA
+<BARVA=!;KLAVESY=p;VYZNAM=!6>P<SB>aletta
+#_MIXBAREV
+S<BARVA=!;KLAVESY=z;VYZNAM=!7>z<SB>ínkeverés
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=l;VYZNAM=!9>L<SB>emez
+#_ZADAT
+Mega<BARVA=!;KLAVESY=d;VYZNAM=!14>d<SB>ás
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+Ú<BARVA=!;KLAVESY=j;VYZNAM=!19>j<SB> kvt.
+#_ZPET
+<BARVA=!;KLAVESY=v;VYZNAM=!20>V<SB>issza
+#_VPRED
+<BARVA=!;KLAVESY=e;VYZNAM=!21>E<SB>lőre
+#_FS_NAHORU
+<BARVA=!;KLAVESY=f;VYZNAM=!23>F<SB>el
+#_FS_TRIDENI
+<BARVA=!;KLAVESY=r;VYZNAM=!24>R<SB>endezés
+#_INFO
+'Info:            '
+#_DOTAZ
+'Kérdés:          '
+#_ANONE_DOTAZ
+'Kérdés:          '
+#_CHYBA
+Hiba!
+#_VLOZ_TEXT
+Szöveg beill.:
+#_VYBER_BARVU
+Színválasztás:
+#_FS_ADR_JAKSEMAJMENOVAT
+Kvt. nevének megadása
+#_FS_PRO_CTENI
+'csak olv., '
+#_FS_SKRYTY
+'rejtett, '
+#_FS_SYSTEMOVY
+'rendszer, '
+#_FS_ARCHIVOVAT
+'archív, '
+#_FS_ZADNE
+nincsenek.
+#_FS_ZPRAVA
+Üzenet:
+#_FS_SOUBOR
+'Fájl: '
+#_FS_VELIKOST
+'Méret: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' bájt'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Utolsó mód.: '
+#_FS_ATRIBUTY
+'Attrib.: '
+#_FS_VYBER_SOUBOR
+Fájl kiválasztása:
+#_FS_SOUBORNEVYTVOREN
+Fájl nem hozható létre.
+#_FS_ADRESARNEVYTVOREN
+Kvt. nem hozható létre.
+#_FS_DISK2
+Meghajtók:
+#_FS_DISK3
+'Meghajtó '
+#_FS_JMENOVKADISKU
+'Címke:          '
+#_FS_SYSTEMSOUBORU
+'Fájlrendszer:   '
+#_FS_KAPACITA
+'Kapacitás:      '
+#_FS_VOLNEHO
+'Szabad terület: '
+#_FS_SERCISLO
+Sorozatszám:
+#_FS_VYBER_NECO
+Válasszon ki egy fájlt.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Meghajtó nem áll készen.
+#_FS_TRIDENI_NADPIS
+Rendezés:
+#_FS_TRIDENI_MIX1
+név*dátum*kiterjesztés
+#_FS_TRIDENI_MIX2
+növekvő*csökkenő
+#_PREPSATSOUBOR
+Fájl felülírása?
+#_VSEPOL
+összes elem
+#_VYBPOL
+kivál. elemek
+#_ZAMPOL
+elvetett elemek
+#_VYBINFO
+A jobb oldali panelen az összes elem, a bal oldalin a kiválasztottak.
+Kiválasztás és törlés Enterrel történik.
+Panelek közötti váltás a Tab billentyűvel.
+#_VYBINFO2
+A bal oldali panelen a kiválasztott elemek, a jobb oldalin az elvetettek.
+Kiválasztás és törlés Enterrel történik.
+Panelek közötti váltás a Tab billentyűvel.
+#_MOUSE_NOT_INSTALLED
+Nincs egérillesztő telepítve. Töltsön be CTmouse-t vagy hasonlót.
+#_LFB_NOT_AVAILABLE
+A videokártya nem támogatja az LFB módot a kért videomódhoz.

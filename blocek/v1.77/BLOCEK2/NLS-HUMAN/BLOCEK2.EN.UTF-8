@@ -1,0 +1,750 @@
+## For instructions for translators please look into file TRANSLAT.TXT
+##
+
+#identifikuj_se
+English      (en)
+#identifikuj_se2
+blocek2.en
+#sys_font
+437-16.fv
+#sys_font_maly
+437-14.fv
+#chyba_videomodu
+Specified videomode is not available:
+#sys_font_kodovani
+437
+#m1
+<BARVA=!;KLAVESY=f>F<SB>ile
+#m2
+<BARVA=!;KLAVESY=o>O<SB>ptions
+#m3
+<BARVA=!;KLAVESY=h>H<SB>elp
+#m31
+<BARVA=!;KLAVESY=a>A<SB>bout program
+#m32
+Load file <BARVA=!;KLAVESY=i>I<SB>NFO.TXT <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>ystem info
+#m34
+<BARVA=!;KLAVESY=h>H<SB>ypertext help
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ext
+#m11
+<BARVA=!;KLAVESY=n>N<SB>ew file <<F1>>
+#m12
+<BARVA=!;KLAVESY=o>O<SB>pen     <<F3>>
+#m13
+<BARVA=!;KLAVESY=s>S<SB>ave     <<F2>>
+#m14
+Command <BARVA=!;KLAVESY=p>p<SB>rompt
+#m15
+<BARVA=!;KLAVESY=e>E<SB>xit     <<ESC>>
+#m16
+<BARVA=!;KLAVESY=c>C<SB>lose file <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=c>C<SB>olours
+#m211
+<BARVA=!;KLAVESY=f>F<SB>oreground colour
+#m212
+<BARVA=!;KLAVESY=b>B<SB>ackground colour
+#m213
+<BARVA=!;KLAVESY=d>D<SB>esktop colour
+#m215
+<BARVA=!;KLAVESY=h>H<SB>ighlighted line colour
+#m22
+<BARVA=!;KLAVESY=l>L<SB>anguage
+#m23
+Highlight current <BARVA=!;KLAVESY=r>r<SB>ow
+#m24
+<BARVA=!;KLAVESY=f>F<SB>ont change
+#m25
+Select <BARVA=!;KLAVESY=i>i<SB>mage filter
+#m26
+Preferred <BARVA=!;KLAVESY=k>k<SB>eyboards
+#m27
+Toggle editor side<BARVA=!;KLAVESY=b>b<SB>ar
+#m28
+<BARVA=!;KLAVESY=s>S<SB>ave settings
+#m29
+Space <BARVA=!;KLAVESY=e>e<SB>mphasizing
+#m41
+Convert <BARVA=!;KLAVESY=t>t<SB>o UTF-8
+#m42
+Convert <BARVA=!;KLAVESY=f>f<SB>rom UTF-8
+#m43
+<BARVA=!;KLAVESY=w>W<SB>ord wrapping
+#m431
+<BARVA=!;KLAVESY=f>F<SB>ix current word wrapping
+#m432
+<BARVA=!;KLAVESY=m>M<SB>erge lines
+#m44
+<BARVA=!;KLAVESY=s>S<SB>earch       <<Ctrl-F>>
+#m45
+Search <BARVA=!;KLAVESY=a>a<SB>gain <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=r>R<SB>eplace      <<Ctrl-H>>
+#m460
+Boo<BARVA=!;KLAVESY=k>k<SB>marks
+#m47
+<BARVA=!;KLAVESY=c>C<SB>harmap
+#m48
+Co<BARVA=!;KLAVESY=d>d<SB>ing and conversions <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=b>B<SB>lock operations
+#m490
+Generate <BARVA=!;KLAVESY=q>Q<SB>R code
+#m491
+Characters to <BARVA=!;KLAVESY=h>H<SB>TML entities
+#m492
+Convert to <BARVA=!;KLAVESY=u>u<SB>ppercase
+#m493
+Convert to <BARVA=!;KLAVESY=l>l<SB>owercase
+#m494
+HTML entities to <BARVA=!;KLAVESY=c>c<SB>haracters
+#m495
+Bar c<BARVA=!;KLAVESY=o>o<SB>des
+#vyber_soubor
+Select file:
+#jak_to_ulozit
+Enter the file name
+#soubor_existuje_prepsat
+This file already exists
+overwrite?
+#o_programu
+About program
+#napoveda
+Help
+#varovani
+<BARVA=51200>warning!<SB>
+#opravdu_konec
+Really quit?
+Changes will not be saved.
+#tento_soubor_uz_jednou_mame
+This file is already opened.
+Blocek allows you to open it again but
+it will behave independently to previous instances!
+(That is, NOT LIKE THE PASCAL IDE)
+#unicode
+unicode
+#zalamovani
+word wrapping
+#proporcionalni_mod
+proportional
+#vyber_barvu_popredi
+Select foreground colour
+#vyber_barvu_pozadi
+select background colour
+#vyber_barvu_zakladu
+select desktop colour
+#zda_pro_rad
+Do you want to highlight the current row?
+#nastaveni_ulozeno
+Settings saved
+#zatim_neni
+This function is not yet available.
+#hypertextova_napoveda
+Hypertext help system
+
+#napoveda_koren
+<FONT=latin216.fv>Bloƒek<SF> - text editor and image viewer
+
+Help topics:
+1) <OK="napoveda_klavesy">Keyboard control<OK/>
+2) <OK="napoveda_mys">Mouse control<OK/>
+3) <OK="napoveda_prvky">Control elements<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Keyboard control<SB;SF>
+<barva=65535>F10<sb>   - enter main menu
+<barva=65535>F1<sb>    - make a new file
+<barva=65535>F2<sb>    - save file
+<barva=65535>F3<sb>    - load file
+<barva=65535>Alt+F3<sb> - close file
+<barva=65535>Alt+F1<sb> - load this file (INFO.TXT)
+<barva=65535>Ctrl+F<sb> - search
+<barva=65535>Ctrl+S<sb> - search again
+<barva=65535>Ctrl+H<sb> - replace
+<barva=65535>Ctrl+A<sb> - select all document to block
+<barva=65535>Ctrl+Q<sb> - offers a variant for last written character (like a-ß-Σ...])
+<barva=65535>Ctrl+K<sb> - char conversion functions
+<barva=65535>Ctrl+L<sb> - quick call for line adjustement functions
+<barva=65535>LShift+Alt<sb> - change keyboard layout
+<barva=65535>Ctrl+Alt+Up<sb> - select actual line to block
+<barva=65535>Ctrl+Alt+Down<sb> - word on the cursor to block
+<barva=65535>Ctrl+Alt+Left<sb> - all characters from cursor to left to block
+<barva=65535>Ctrl+Alt+Right<sb> - all characters from cursor to right to block
+<barva=65535>Backspace<sb> - delete one character left to cursor
+<barva=65535>Delete<sb> - delete one character right to cursor
+<barva=65535>Shift+Delete<sb> - delete selected block
+<barva=65535>*arrows<sb> - cursor movements
+<barva=65535>*Ctrl+PageUp<sb> or <barva=65535>*Ctrl+Home<sb> - jumps on first line of the file
+<barva=65535>*Ctrl+PageDown<sb> or <barva=65535>*Ctrl+End<sb>- jumps on last line of the file
+<barva=65535>*Ctrl+RightArrow<sb> - moves one word to right
+<barva=65535>*Ctrl+LeftArrow<sb> - moves one word to left
+   These function keys (marked with the "*" char) can be combined with the <Shift> key.
+   In such case is together *with cursor movement also created or updated the text
+   selection block.
+<barva=65535>Ctrl+[1-7]<sb> - copy selected block of text into clipboard No 1-7
+<barva=65535>Alt+[1-7]<sb> - paste text from clipboard No 1-7 into cursor position
+<barva=65535>Ctrl+plus<sb> and <barva=65535>Ctrl+minus<sb> (on the numeric keyboard) - fast switching among opened files forward or backward
+<barva=65535>ESC<sb>   - quit
+<barva=65535>Alt+F2<sb> - make a screenshot
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Mouse control<SB;SF>
+<barva=65535>1) In document window<SB>
+Left mouse button (LMB) click  - move cursor to selected text place
+LMB click+shift - select beginning and end of the text block
+LMB press and drag - interactive selection of the text block
+Right mouse (RMB) click - shows information and optionally a conversion menu for the char you clicked to.
+Also accesses functions for work with bookmarks.
+
+<barva=65535>2) In panel with cards of opened files<SB>
+LMB click - switches the main window to the specified file
+RMB click - several actions with the specified file
+(close, close all but this, show full file path)
+
+<barva=65535>3) In the clipboards indicators<SB>
+LMB click - menu for operations with the clipboard
+
+<barva=65535>4) Other notes<SB>
+->> All other buttons and other GUI elements use only left mouse button at this moment.
+    The right one is not used currently.
+->> Nearly all dialog boxes can be moved by dragging their title bar.
+->> Dragging text with left mouse button over information windows like this one can select text blocks to 
+    copy to clipboard with Ctrl+[1-7] to pasting to document window.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Control elements<SB;SF>
+Most of the workplace is covered by the <barva=65535>main window<SB>. In this window, it displays either a document with editable text or viewer with loaded image. 
+Along the left side of the editor window, there's an optional panel with indicators showing where the individual lines in the document are terminated.
+Above the editor or viewer are three horizontal panels.
+
+<barva=65535>1) Permanent panel<SB>
+The main menu with items: <barva=65535>File<SB>, <barva=65535>Text<SB>, <barva=65535>Options<SB>, <barva=65535>Help<SB>
+To right from this menu are the <OK="napoveda_indikatory">clipboard indicators<OK/> for the text blocks numbered 1-7.
+Even more to right (in the upper right corner) is a dropdown list where the keyboard layout can be selected.
+This list can also be opened by pressing <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Context panel<SB>
+It changes the main window content accordingly.
+If an image is currently viewed, the left side shows their dimensions in pixels. To right from this are buttons for fullscreen, for optimal window size and for rotating and flipping the image.
+If an editable document is viewed, the context panel is different. On the left side is a button linking to the code page conversion functions dialog (can also be activated by pressing <OK="napoveda_klavesy">CTRL+K<OK/>).
+On the right side, there's a button to change word wrapping options.
+On the right from this button is a checkbox which switches the wrapping and non-wrapping mode. Along the right border, the current cursor position is displayed.
+
+<barva=65535>3) Panel with cards of opened files<SB>
+Until no file is loaded the third panel is empty. When some file is opened, its card is displayed in this panel. In the
+<FONT=latin216.fv>Bloƒek<SF> editor, it is possible to have simultaneously opened many files.
+Their cards are displayed next to next and user can switch among them by the <OK="napoveda_mys">mouse<OK/>.
+The left mouse button switches the main window to specified file (document or image). The right mouse button opens a submenu allowing the closing the file, closing all files but this and the function for displaying the full path to the file.
+
+#napoveda_indikatory
+If some text is copied to clipboard by pressing <OK="napoveda_klavesy">CTRL+[1-7]<OK/> or a special button in some dialog windows, the presence of the content in a particular clipboard is indicated.
+The indicator goes white and resembles a lit light bulb.
+If a clipboard is empty, it displays in black and with symbol of a overstriked circle.
+Indicator of clipboard No.7 can be displayed as <BARVA=65535>7W<SB>. This means that MS Windows clipboard services (or a compatible interface) are available. In this case, clipboard No.7 is linked to the Windows clipboard and it is possible to exchange blocks of text with other programs. Details in the TECHNOTE.TXT file.
+
+#text_napovedy
+<FONT=surea37.fn>Bloƒek<SF>
+<FONT=latin216.fv>version 1.77b
+Date of compilation: <BARVA=65535>28.9.2026<SB>
+programmed by Laaca (laaca@seznam.cz)
+
+Blocek is text editor and image viewer which is
+capable of editing files in Unicode UTF-8 coding
+so it's very usable for example by writing WWW pages.
+Blocek can edit very big files with very long lines.
+Thanks to Mateusz Viste for his Unicode fonts.
+Blocek is also usable as a simple image viewer for files
+in common graphic formats. It is however not able to
+edit the images.
+
+This program is released as free and open source under
+GNU/GPL license<SF>
+
+
+#parametr_otaznik
+Syntax:
+BLOCEK [file1 [,file2 [,...]]]
+#ovladani_obrazku
+fullscreen*o<<>>O*+90*-90*horiz*vert*Exif data
+
+#soubor_nebyl_ulozen
+File wasn't saved!
+there isn't enough space on the drive or
+drive is read only
+
+#chyba_font_int
+Error during loading font file
+#chyba_font_neint
+Missing font file or error during loading file:
+
+#informace_exif
+Exif information
+#exif_date_strs
+Date and time:          *Date and time of original:*Date and time of camshot:
+#exif_camera_info
+Camera manufacturer:*Camera model:*Description:*Software:*Light source:*Flash:*Exposure mode:*ISO:*Exposure time:*Orientation:*Zoom:
+#exif_lightsrc_info
+Unknown*Daylight*Fluorescent*Tungsten*Flash*Standard Light A*Standard Light B*Standard Light C*D55*D65*D75*Other*Unknown
+#exif_flash_info
+No Flash*Flash*Flash No Strobe*Flash Strobe*Flash (Auto)*No Flash*Unknown
+#exif_expos_mode
+Unknown*Manual Control*Normal Program*Aperture Priority*Shutter Priority*Creative Program*Action Program*Portrait Mode*Landscape Mode*Unknown
+#exif_orientation_desc
+Normal*Mirrored horiz.*Rotated 180*Mirrored vert*Rotated 90 left and mirrored*Rotated 90 right*Rotated 90 right and mirrored*Rotated 90 left*Unknown
+#exif_zoom_unused
+Not used
+#exif_GPS_info
+GPS information*latitude:*longitude:*altitude:*azimuth*N*S*W*E*m*deg*min*sec
+#zkopirovat_exif
+Into clipboard
+#nejde_o_obrazek
+File is corrupted or the image data
+is in unsupported format
+File will be opened as text.
+#nelze_fixovat_zalamani
+This function is available
+only in word wrapping mode
+#vyhledavani
+Find
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>searching mode<POZADI=->
+#vyhled_mozn
+<BARVA=!;KLAVESY=f>f<SB>rom cursor
+<BARVA=!;KLAVESY=t>t<SB>o cursor
+from <BARVA=!;KLAVESY=b>b<SB>eginning
+#roz_vel_pismen
+C<BARVA=!;KLAVESY=a>a<SB>se sensitive
+
+#text_nenalezen
+Selected text wasn't found.
+#nahradit_vyskyt
+Replace this occurrence?
+#potvrzovat
+conf<BARVA=!;KLAVESY=i>i<SB>rmation
+#nahradvse
+replace a<BARVA=!;KLAVESY=l>l<SB>l
+#hledany_text
+Text to find
+#novy_text
+New text
+#nahrada_textu
+Replace
+#vyber_filtr
+Select image filter
+#opravdu_zavrit
+File was changed.
+Save it?
+#zavrit_ostatni
+Close all but this
+#umisteni_souboru
+Path to file
+#bezejmenny
+<BARVA=46815><<new file>><SB>
+#bezejmenny_soubor
+New file
+
+#zrusit_nac
+Cancel the loading?
+#chybi_bcfg
+File <BARVA=65535>BLOCEK.CFG<SB> is missing.
+It will be created from default file
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+File <BARVA=65535>BLOCEK.CFG<SB> is invalid.
+I'll create it from file
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Variables were added to <BARVA=65535>BLOCEK.CFG<SB> file:
+#pocet_zmen
+Found*Number of changes:*Number of occurrences:*<BARVA=!;KLAVESY=s>S<SB>tring occurrence counting mode
+#neniswap
+Your system doesn't support virtual memory!
+It can be dangerous in situations when all RAM is consumed.
+Please use another DPMI server.
+you are currently using:
+#dpmineznamy
+<BARVA=333>unknown DPMI server :-(<SB>
+#kaslinaswap
+(You can disable this check in BLOCEK.CFG by setting
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Full list...
+#vybprefkl
+Which keyboards shall be in the main menu?
+#vybprefflt
+Which filters shall be in the main menu?
+
+#asciiauto
+autodetection
+
+#vkod
+<PODTRH=+>source<PODTRH=->
+#ckod
+<PODTRH=+>target<PODTRH=->
+#oznaceno
+selected:
+#ozn_nic
+nothing
+#kompinfo
+Processor:*Memory:*MB RAM*Video:* VESA version:*Videomode:*Videomemory*Refresh frequency:*BIOS default*DOS version:*DOS charset:*DOS country identification:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideomodes*List of video modes
+#kompinfo_lfn
+Long file names (LFN):
+#schranka_c
+Clipboard No.
+#schranka_do
+Copy to clipboard
+#schranka_ze
+Paste from clipboard
+#schranka_copy
+Copy to other clipboard
+#schranka_smaz
+Delete
+#vyber_jazyk
+Choose your language
+#nutny_restart
+You must restart the program for change to take effect.
+#prevod_html_entity
+Conversion to HTML entities
+#prevod_html_ent_info
+Characters with ASCII or Unicode value greater 
+than 127 will be converted to HTML entities. 
+Conversion scope is defined by the block.
+#text_je_v_unicode
+Text is in Unicode.
+#text_je_v_ascii
+Text is in ASCII and conversion
+will be done using a conversion table.
+#neni_oz_blok
+No text block is selected, so the conversion 
+will go through the entire text.
+#prevod_mala_velka
+Convert to uppercase
+#prevod_mala_velka_inf
+Converts letter case in block to uppercase. 
+Doesn't touch other characters.
+#prevod_velka_mala
+Convert to lowercase 
+#prevod_velka_mala_inf
+Converts letter case in block to lowercase. 
+Doesn't touch other characters.
+#kodovani_dokumentu
+Encoding:
+#help_non_unicode
+Only changes the codepage sign. Does not change the font.
+#help_inter_znaku
+Conversions between single characters and multiple characters sequences in UTF-8 or UTF-16.
+Some subfunctions are also applied to text blocks and some apply only to the entire document.
+If switching from non-Unicode to Unicode or vice-versa, it changes the font.
+
+#help_tabkonv_znaku
+Recode the characters using conversion tables. The number of characters remains the same.
+Can be applied to the entire document or only to a specified block.
+If switching from non-Unicode to Unicode or vice-versa, it changes the font.
+
+#analyza_nedef_zn_dok
+Analysis of undefined characters in the entire text
+
+#analyza_nedef_zn_blok
+Analysis of undefined characters in defined block
+
+#poc_vysk_nedef_znaku_n
+number of character occurrences
+
+#poc_vysk_nedef_znaku_vse
+number of all undefined characters
+
+#poc_vysk_nedef_znaku_unik
+number of unique undefined characters*scope
+
+#zamena_znaku
+Change to another character?
+
+#nedefinovany_znak
+Undefined character*Undef. characters analysis (block/text)
+
+#nedefinovany_znak_zam
+Replace all undefined characters?
+
+#zamena_znaku_radiob1
+Once only
+In whole document
+In selected block
+
+#zamena_znaku_radiob2
+Everywhere
+From beginning to marked character
+From marked character further
+
+#znak_k_zamene
+Replace character...
+
+#dotaz_pri_zmene
+Ask when changing?
+
+#kodovaniascii_dlg
+Probable ASCII coding:*can't determine*Do you agree?
+
+#polozka_dos
+(using table)*(without table)*more...
+
+#tbl_filtr_ascii
+Conversion in group:*source encoding*target encoding
+
+#niz_nonunicode1
+Which encoding is this text being displayed?
+
+#niz_nonunicode2
+The source and target encoding are the same.
+No changes will be performed.
+
+#ascii_2_utf_1
+Conversions between ASCII and multibyte sequences UTF-8 or UTF-16
+
+#ascii_2_utf_2
+Block operations (does not change the encoding marker)
+
+#ascii_2_utf_3
+Entire document operations (coding marker changes to Unicode)
+
+#uni_2_utf_1
+Conversions between Unicode and multibyte sequences UTF-8 or UTF-16
+
+#uni_2_utf_2
+Block operations (does not change the encoding marker)
+
+#uni_2_utf_3
+Whole document operations (encoding marker changes to non-Unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (represented as ASCII characters in DOS)
+
+#prohozeni_endianity
+Switch Unicode character endianity
+
+#tab_konv_zn
+Performs no conversions. Only changes the coding marker to non-Unicode (DOS ASCII)
+Characters in range 0-255 will not be changed, characters above 255 will be replaced by placeholder.
+
+#zda_prenastavit_font1
+Also switch the font and encoding marker to non-Unicode setting?
+
+#zda_prenastavit_font2
+Also switch the font and encoding marker to Unicode setting?
+
+#pren_font_ano
+(the entire text conversion, so probably YES)
+
+#pren_font_ne
+(the limited text block conversion so probably NO)
+
+#preznacit_kodovani
+Shall I update the document encoding marker?
+
+#zm_kod_dok
+Change of the document encoding
+
+#zak_unicode
+Document is encoded in Unicode.
+
+#sada_a_filtr_souborem
+The character set and conversion filter to Unicode are specified in file:
+
+#interp_nonuni
+Non-Unicode interpretation
+
+#konv_zn_utf
+Conversion characters/UTF sequences
+
+#tab_konv_zz
+Table based character/character conversions
+
+#zmena_fontu
+Change font
+
+#nas_zal_rad
+Word wrap settings
+
+#nas_zal_mozn
+by document window
+78 characters
+80 characters
+other...
+
+#filesel_nejde_konverze
+The entered filename cannot be converted to the current DOS codepage.
+Continue anyway?
+
+#podrobnosti
+Details
+
+#moznosti...
+Options...
+
+#form_konc_rad
+Line ending format
+
+#form_konc_help
+I recommend keeping the standard CRLF which is common in 
+DOS or Windows systems.
+LF is standard for Unix/Linux and
+CR is reportedly used in the Macintosh computers.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+It only applies to files in Unicode.
+It is two-bytes or three-bytes sequence on the very beginning of the file.
+BOM is recommended to use for files in UTF-16.
+In UTF-8 documents, it is rarely used.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Really to fix the word wrapping in the entire document?
+
+#rozs_fix_lom_blok
+The block does not have any line endings.
+Shall I extend it and continue?
+
+#jen_nezalam_rezim
+This function is only for unwrapped mode.
+
+#opravdu_spoj_radky
+Really apply the line merging algorithm to the entire document?
+
+#nahr_faze
+phase 1:*phase 2:*phase 3:
+
+#jen_v_bloku
+I<BARVA=!;KLAVESY=n>n<SB> the block only
+
+#prevod_z_html_entit
+Decodes HTML entities to characters
+
+#prevod_z_html_entit_info
+Identifies HTML entities in numeric format (like &#8222;) and replaces them with Unicode characters
+
+#qr_vygenerovany
+Generated QR code
+
+#qr_ulozit
+Save
+
+#qr_velikost
+QR code element size (1-20)
+
+#qr_uspech
+Success! Saved with filename:
+
+#qr_chyba
+Error during conversion to QR code.
+
+#qr_chyba_save
+Error during saving the QR code.
+
+#qr_tvorba
+QR codes creation
+
+#qr_text
+Text to create QR code
+
+#related_characters
+Related characters
+
+#zalozky
+Bookmarks*Bookmark No.*Show bookmarks
+
+#menu_slovo
+Menu/Word
+
+#dialogy_menu_slovo
+Find dialog *Replace dialog*UPPERCASE*lowercase*Capitalize*Into clipboard
+
+#menu_radek
+Menu/Line
+
+#dialogy_menu_radek1
+Line to block:
+W<BARVA=!;KLAVESY=i>i<SB>th word wrapping
+Witho<BARVA=!;KLAVESY=u>u<SB>t word wrapping
+
+#dialogy_menu_radek2
+Spaces:
+Remove <BARVA=!;KLAVESY=l>l<SB>eading spaces
+Remove <BARVA=!;KLAVESY=t>t<SB>railing spaces
+
+#dialogy_menu_radek3
+Line indentation:
+according to the <BARVA=!;KLAVESY=p>p<SB>revious line
+according to <BARVA=!;KLAVESY=t>t<SB>abulator
+
+#dialogy_menu_radek4
+plus 1*minus 1*plus 4*minus 4
+
+#pmysmenu
+<BARVA=!;KLAVESY=c>c<SB>har
+<BARVA=!;KLAVESY=w>w<SB>ord
+<BARVA=!;KLAVESY=l>l<SB>ine
+
+#doprad
+Line expansion
+
+#doprad_txt
+Write one or more characters 
+to be used to expand the line from 
+the end or the beginning.
+
+Default is [space]
+
+#zarovnani
+Alignment:*to left*to right
+
+#carkod_tvorba
+Bar codes
+
+#carkod_instr
+Enter a short text or number
+Note: Some of the bar code standards encode numbers only.
+Also don't forget that some bar codes (like EAN-13) expect
+valid codes with correct check sums. Non-valid values can be
+encoded but the bar code may not be valid for reader application.
+
+#carkod_ulozit
+Save
+
+#carkod_uspech
+Success! Saved with filename:
+
+#carkod_chyba
+Error during conversion to bar code.
+
+#carkod_chyba_save
+Error during saving the bar code.
+
+#carkod_combine
+Combine with encoded string
+
+#carkod_mozn
+This string can be encoded into these bar codes:
+
+
+
+
+
+
+

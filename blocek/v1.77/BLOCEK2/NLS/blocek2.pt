@@ -1,0 +1,751 @@
+## Blocek2, portuguese, pt, cp860
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Portuguàs    (pt)
+#identifikuj_se2
+blocek2.pt
+#sys_font
+860-16.fv
+#sys_font_maly
+860-14.fv
+#chyba_videomodu
+O modo de v°deo solicitado nÑo est† dispon°vel:
+#sys_font_kodovani
+860
+#m1
+<BARVA=!;KLAVESY=a>A<SB>rquivo
+#m2
+<BARVA=!;KLAVESY=o>O<SB>páîes
+#m3
+A<BARVA=!;KLAVESY=j>j<SB>uda
+#m31
+<BARVA=!;KLAVESY=s>S<SB>obre
+#m32
+<BARVA=!;KLAVESY=l>L<SB>er INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=i>I<SB>nfo do sistema
+#m34
+Ajuda <BARVA=!;KLAVESY=h>h<SB>ipertexto
+#m4
+<BARVA=!;KLAVESY=t>T<SB>exto
+#m11
+<BARVA=!;KLAVESY=n>N<SB>ovo    <<F1>>
+#m12
+A<BARVA=!;KLAVESY=b>b<SB>rir <<F3>>
+#m13
+<BARVA=!;KLAVESY=g>G<SB>uardar  <<F2>>
+#m14
+Sair para <BARVA=!;KLAVESY=d>D<SB>OS
+#m15
+<BARVA=!;KLAVESY=s>S<SB>air   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=f>F<SB>echar  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=c>C<SB>ores
+#m211
+Cor de <BARVA=!;KLAVESY=p>p<SB>rimeiro plano
+#m212
+Cor de <BARVA=!;KLAVESY=f>f<SB>undo
+#m213
+Cor <BARVA=!;KLAVESY=b>b<SB>ase
+#m215
+Cor de <BARVA=!;KLAVESY=r>r<SB>ealce da linha
+#m22
+<BARVA=!;KLAVESY=i>I<SB>dioma
+#m23
+Realáar <BARVA=!;KLAVESY=l>l<SB>inha atual
+#m24
+<BARVA=!;KLAVESY=f>F<SB>onte
+#m25
+Filtro de i<BARVA=!;KLAVESY=m>m<SB>agem
+#m26
+<BARVA=!;KLAVESY=t>T<SB>eclados
+#m27
+<BARVA=!;KLAVESY=p>P<SB>ainel lateral
+#m28
+<BARVA=!;KLAVESY=g>G<SB>uardar config.
+#m29
+Mostrar <BARVA=!;KLAVESY=e>e<SB>spaáos
+#m41
+Para <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+<BARVA=!;KLAVESY=d>D<SB>e UTF-8
+#m43
+<BARVA=!;KLAVESY=q>Q<SB>uebra de linha
+#m431
+<BARVA=!;KLAVESY=f>F<SB>ixar quebra de linha
+#m432
+U<BARVA=!;KLAVESY=n>n<SB>ir linhas
+#m44
+<BARVA=!;KLAVESY=l>L<SB>ocalizar      <<Ctrl-F>>
+#m45
+Localizar <BARVA=!;KLAVESY=s>s<SB>eguinte <<Ctrl-S>>
+#m46
+Su<BARVA=!;KLAVESY=b>b<SB>stituir      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=m>M<SB>arcadores
+#m47
+Mapa de c<BARVA=!;KLAVESY=a>a<SB>racteres
+#m48
+C<BARVA=!;KLAVESY=o>o<SB>nversîes <<CTRL-K>>
+#m49
+O<BARVA=!;KLAVESY=p>p<SB>eraáîes de bloco
+#m490
+<BARVA=!;KLAVESY=g>G<SB>erar c¢digo QR
+#m491
+Caracteres para <BARVA=!;KLAVESY=h>H<SB>TML
+#m492
+Para ma<BARVA=!;KLAVESY=i>i<SB>£sculas
+#m493
+Para min£s<BARVA=!;KLAVESY=c>c<SB>ulas
+#m494
+<BARVA=!;KLAVESY=e>E<SB>ntidades HTML para car.
+#m495
+C¢digos de ba<BARVA=!;KLAVESY=r>r<SB>ras
+#vyber_soubor
+Selecionar ficheiro:
+#jak_to_ulozit
+Como guardar isto?
+#soubor_existuje_prepsat
+O ficheiro j† existe
+sobrescrever?
+#o_programu
+sobre
+#napoveda
+ajuda
+#varovani
+<BARVA=51200>aviso!<SB>
+#opravdu_konec
+Sair realmente?
+As alteraáîes nÑo guardadas serÑo perdidas.
+#tento_soubor_uz_jednou_mame
+Este ficheiro j† est† aberto.
+Blocek permite abri-lo novamente,
+mas atuar† de forma independente da primeira instÉncia!
+ou seja,
+NéO COMO O IDE DO PASCAL
+#unicode
+unicode
+#zalamovani
+quebra de linha
+#proporcionalni_mod
+proporcional
+#vyber_barvu_popredi
+Selecionar cor de primeiro plano
+#vyber_barvu_pozadi
+Selecionar cor de fundo
+#vyber_barvu_zakladu
+Selecionar cor base
+#vyber_barvu_prosv
+Selecione a cor
+#zda_pro_rad
+Realáar a linha atual?
+#nastaveni_ulozeno
+Configuraáîes guardadas
+
+#zatim_neni
+Esta funáÑo ainda nÑo est† dispon°vel.
+
+#hypertextova_napoveda
+Ajuda hipertexto
+
+#napoveda_koren
+Blocek - editor de texto e visualizador de imagens
+
+T¢picos de ajuda:
+1) <OK="napoveda_klavesy">Controlos<OK/>
+2) <OK="napoveda_mys">Controlos do rato<OK/>
+3) <OK="napoveda_prvky">Elementos da interface<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Controlos<SB;SF>
+<barva=65535>F10<sb>   - entrar no menu principal
+<barva=65535>F1<sb>    - criar novo ficheiro
+<barva=65535>F2<sb>    - guardar ficheiro
+<barva=65535>F3<sb>    - abrir ficheiro
+<barva=65535>Alt+F3<sb> - fechar ficheiro
+<barva=65535>Alt+F1<sb> - abrir ficheiro INFO.TXT
+<barva=65535>Ctrl+F<sb> - localizar
+<barva=65535>Ctrl+S<sb> - continuar localizaáÑo
+<barva=65535>Ctrl+H<sb> - localizar e substituir
+<barva=65535>Ctrl+A<sb> - selecionar todo o documento num bloco
+<barva=65535>Ctrl+Q<sb> - oferece o caractere relacionado para o £ltimo digitado [a,†,...]
+<barva=65535>Ctrl+K<sb> - funáÑo para conversîes de caracteres entre codificaáîes
+<barva=65535>Ctrl+L<sb> - menu r†pido para ediáÑo da linha
+<barva=65535>LShift+Alt<sb> - mudar configuraáîes de teclado
+<barva=65535>Ctrl+Alt+cima<sb>  - selecionar a linha atual num bloco
+<barva=65535>Ctrl+Alt+baixo<sb>   - selecionar a palavra sob o cursor num bloco
+<barva=65535>Ctrl+Alt+esq<sb>  - selecionar todos os caracteres Ö esquerda do cursor
+<barva=65535>Ctrl+Alt+dir<sb> - selecionar todos os caracteres Ö direita do cursor
+<barva=65535>Backspace<sb> - apagar caractere Ö esquerda do cursor
+<barva=65535>Delete<sb> - apagar caractere Ö direita do cursor
+<barva=65535>Shift+Delete<sb> - apagar bloco selecionado
+<barva=65535>*setas<sb> - mover cursor
+<barva=65535>*Ctrl+PageUp<sb> ou <barva=65535>*Ctrl+Home<sb> - saltar para a primeira linha do documento
+<barva=65535>*Ctrl+PageDown<sb> ou <barva=65535>*Ctrl+End<sb> - saltar para a £ltima linha do documento
+<barva=65535>*Ctrl+dir<sb> - avanáar uma palavra para a direita
+<barva=65535>*Ctrl+esq<sb> - retroceder uma palavra para a esquerda
+   As teclas ou combinaáîes marcadas com "*" podem ser
+   combinadas com a tecla <barva=65535><Shift><sb>.
+Nesse caso, o tamanho do bloco de texto ser† ajustado
+   juntamente com o movimento do cursor.
+<barva=65535>Ctrl+[1-7]<sb> - copiar bloco selecionado para a †rea de transf. 1-7
+<barva=65535>Alt+[1-7]<sb> - colar texto da †rea de transf. 1-7 na posiáÑo atual
+<barva=65535>Ctrl+mais<sb> e <barva=65535>Ctrl+menos<sb> (no teclado num.) - rolagem r†pida entre ficheiros
+<barva=65535>ESC<sb>   - sair
+<barva=65535>Alt+F2<sb> - guardar o ecrÑ atual
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Controlos do rato<SB;SF>
+<barva=65535>1) Na janela do documento<SB>
+Clique esquerdo (CE) - move o cursor para esse local no documento de texto.
+CE+shift - especifica o in°cio e o fim de um bloco de texto
+Manter o CE premido e arrastar - seleáÑo interativa de bloco
+Clique direito (CD) - mostra info do caractere e abre a caixa de di†logo
+para conversîes de caracteres.
+TambÇm oferece funáîes de marcadores.
+
+<barva=65535>2) Na barra de separadores de ficheiros abertos<SB>
+Clique CE - muda o ficheiro para a janela principal
+Clique CD - menu de aáîes para esse ficheiro
+(fechar, fechar todos exceto este, mostrar caminho completo)
+
+<barva=65535>3) No indicador da †rea de transferància<SB>
+Clique CE - menu de operaáîes com o conte£do da †rea de transferància
+
+<barva=65535>4) Outras notas<SB>
+->> Todos os outros elementos da interface usam apenas o botÑo esquerdo
+->> Quase todas as caixas de di†logo podem ser movidas arrastando a barra de t°tulo.
+->> Arrastar sobre o texto em janelas de informaáÑo permite selecionar texto e depois
+    copi†-lo para a †rea de transferància com <OK="napoveda_klavesy">CTRL+[1-7]<OK/>.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Elementos da interface<SB;SF>
+A maior parte da interface Ç a <barva=65535>janela principal<SB>. Mostra um documento
+de texto edit†vel ou o visualizador de imagens.
+Na margem esquerda do documento pode haver um painel lateral
+que indica como cada linha termina.
+Acima da janela encontram-se tràs painÇis.
+
+<barva=65535>1) Linha fixa<SB>
+Menu principal: <barva=65535>Arquivo<SB>, <barva=65535>Texto<SB>, <barva=65535>Opáîes<SB>, <barva=65535>Ajuda<SB>
+ë direita do menu estÑo os <OK="napoveda_indikatory">indicadores da †rea de transf.<OK/> numerados de 1-7.
+Mais Ö direita (canto superior direito) h† uma lista pendente de esquemas de teclado.
+Esta lista tambÇm pode ser aberta com <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Linha contextual<SB>
+Muda dependendo do conte£do da janela principal.
+Se houver uma imagem, mostra as suas dimensîes em p°xeis Ö esquerda.
+ë direita, botîes para ecrÑ inteiro, ajuste ideal e rotaáÑo/espelhamento.
+Se houver um documento, aparece um botÑo para conversîes de caracteres
+(tambÇm acess°vel por <OK="napoveda_klavesy">CTRL+K<OK/>). ë sua direita h† um botÑo
+para alternar entre diferentes modos de quebra de linha.
+Mais Ö direita h† uma caixa de verificaáÑo para ligar/desligar a quebra de linha.
+No extremo direito sÑo mostradas a coluna e a linha atuais.
+
+<barva=65535>3) Separadores com ficheiros abertos<SB>
+Enquanto nenhum ficheiro estiver carregado, a barra inferior est† vazia.
+Assim que abrir um ficheiro, o seu separador aparece nesta barra.
+No Blocek, pode ter muitos ficheiros abertos em simultÉneo.
+Os seus separadores sÑo mostrados lado a lado e pode alternar com o <OK="napoveda_mys">rato<OK/>.
+O botÑo esquerdo do rato muda a janela principal para esse ficheiro.
+O botÑo direito abre um submenu para fechar o ficheiro, fechar outros ou mostrar o caminho.
+
+#napoveda_indikatory
+Se copiar texto para a †rea de transferància (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>) ou usando o di†logo,
+a sua presenáa Ç indicada pelo indicador a acender-se como uma lÉmpada.
+Se a †rea de transferància estiver vazia, Ç mostrada como um c°rculo traáado.
+O indicador nß 7 pode aparecer como <BARVA=65535>7W<SB>.
+Isto significa que os serviáos de †rea de transferància do MS Windows estÑo dispon°veis.
+Neste caso, a †rea de transferància 7 est† associada Ö do Windows para trocar texto com outros programas.
+Detalhes no ficheiro TECHNOTE.TXT
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versÑo 1.77b
+data de compilaáÑo: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek Ç um editor de texto e visualizador de imagens
+capaz de trabalhar, entre outras coisas, com ficheiros UTF-8,
+tornando-o muito adequado para a criaáÑo de p†ginas web.
+Blocek pode lidar com ficheiros muito grandes e linhas
+muito longas. Obrigado a Mateusz Viste pelas fontes Unicode.
+Blocek atua tambÇm como visualizador de formatos de imagem comuns,
+mas nÑo Ç capaz de os editar.
+Este programa pode ser distribu°do sob a licenáa GNU/GPL
+
+#parametr_otaznik
+Sintaxe:
+BLOCEK [ficheiro1 [, ficheiro2 [,...]]]
+#ovladani_obrazku
+ecrÑ inteiro*o<<>>O*+90*-90*horiz*vert*dados Exif
+
+#soubor_nebyl_ulozen
+Ficheiro nÑo guardado!
+espaáo insuficiente na unidade ou
+a unidade Ç apenas de leitura
+
+#chyba_font_int
+Erro ao carregar o arquivo de fonte
+#chyba_font_neint
+Arquivo de fonte ausente ou erro ao carregar o arquivo:
+
+#informace_exif
+Informaáîes do bloco Exif
+#exif_date_strs
+Data e hora:*Data e hora originais:*Data e hora de digitalizaáÑo:
+#exif_camera_info
+Fabricante da cÉmara:*Modelo da cÉmara:*DescriáÑo:*Software:*Fonte de luz:*Flash:*Modo de exposiáÑo:*ISO:*Tempo de exp.:*OrientaáÑo:*Zoom:
+#exif_lightsrc_info
+Desconhecida*Luz do dia*Fluorescente*TungstÇnio*Flash*Luz padrÑo A*Luz padrÑo B*Luz padrÑo C*D55*D65*D75*Outra fonte*Desconhecida
+#exif_flash_info
+Sem flash*Flash*Flash sem prÇ-flash*Flash com prÇ-flash*Flash auto*Sem flash*Desconhecido
+#exif_expos_mode
+Desconhecido*Modo manual*Programa normal*Prioridade de abertura*Prioridade de obturaáÑo*Programa criativo*Modo de aáÑo*Modo de retrato*Modo de paisagem*Desconhecido
+#exif_orientation_desc
+Normal*Espelhado horiz.*Rodado 180¯*Espelhado vert.*Rodado 90¯ esq. e espelhado*Rodado 90¯ dir.*Rodado 90¯ dir. e espelhado*Rodado 90¯ esq.*Desconhecida
+#exif_zoom_unused
+NÑo utilizado
+#exif_GPS_info
+InformaáÑo de localizaáÑo GPS*latitude:*longitude:*altitude:*azimute*N*S*O*E*m*o*'*''
+#zkopirovat_exif
+Para a †rea de transferància
+#nejde_o_obrazek
+O ficheiro est† danificado ou os dados
+da imagem nÑo estÑo num formato suportado
+O ficheiro ser† aberto como texto.
+#nelze_fixovat_zalamani
+Esta funáÑo s¢ est† dispon°vel
+no modo de quebra de linha.
+#vyhledavani
+LocalizaáÑo
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>modo de localizaáÑo<POZADI=->
+#vyhled_mozn
+para a <BARVA=!;KLAVESY=f>f<SB>rente
+para <BARVA=!;KLAVESY=t>t<SB>r†s
+desde o <BARVA=!;KLAVESY=i>i<SB>n°cio
+#roz_vel_pismen
+Distinguir <BARVA=!;KLAVESY=m>m<SB>ai£sculas/min£sculas
+
+#text_nenalezen
+O texto especificado nÑo foi encontrado.
+#nahradit_vyskyt
+Substituir esta ocorrància?
+#potvrzovat
+confi<BARVA=!;KLAVESY=r>r<SB>mar
+#nahradvse
+substituir t<BARVA=!;KLAVESY=u>u<SB>do
+#hledany_text
+texto a localizar:
+#novy_text
+novo texto
+#nahrada_textu
+substituiáÑo de texto
+#vyber_filtr
+Selecionar filtro
+#opravdu_zavrit
+O ficheiro foi modificado.
+Deseja guard†-lo?
+#zavrit_ostatni
+Fechar todos os outros
+#umisteni_souboru
+LocalizaáÑo do ficheiro
+#bezejmenny
+<BARVA=46815><<novo>><SB>
+#bezejmenny_soubor
+Novo ficheiro
+
+#zrusit_nac
+Abortar o carregamento?
+#chybi_bcfg
+O ficheiro de configuraáÑo <BARVA=65535>BLOCEK.CFG<SB>
+ainda nÑo existe.
+Ser† criado copiando o ficheiro
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+O ficheiro de configuraáÑo <BARVA=65535>BLOCEK.CFG<SB>
+tem um formato inv†lido.
+Portanto, vou sobrescrevà-lo com
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Ao ficheiro de configuraáÑo <BARVA=65535>BLOCEK.CFG<SB>
+foram adicionados estes itens de <BARVA=65535>DEFAULT.CFG<SB>:
+#pocet_zmen
+Encontrado*Nß de alteraáîes:*Ocorràncias*F<BARVA=!;KLAVESY=u>u<SB>náÑo contagem de ocorràncias
+#neniswap
+O seu sistema nÑo suporta mem¢ria virtual!
+Isto pode ser perigoso (risco de falta de mem¢ria).
+Tente usar outro gestor DPMI.
+atualmente instalado:
+#dpmineznamy
+<BARVA=333>gestor DPMI desconhecido :-(<SB>
+#kaslinaswap
+(Pode desativar esta verificaáÑo definindo
+<BARVA=65530>zkontroluj_swap = 0<SB> no BLOCEK.CFG)
+#plnyseznam
+Lista completa...
+#vybprefkl
+Quais os teclados que devem estar no menu base?
+#vybprefflt
+Quais os filtros que devem estar no menu base?
+
+#asciiauto
+autodeteáÑo
+
+#vkod
+<PODTRH=+>origem<PODTRH=->
+#ckod
+<PODTRH=+>destino<PODTRH=->
+#oznaceno
+selecionado:
+#ozn_nic
+nada
+#kompinfo
+Processador:*Mem¢ria:*MB RAM*V°deo:* VersÑo VESA:*Modo de v°deo:*Mem¢ria de v°deo:*Taxa de atual.:*BIOS default*VersÑo DOS:*Set de carateres:*C¢d. pa°s DOS:*OS
+#videomody
+<BARVA=!;KLAVESY=m>M<SB>odos de v°deo*VisÑo geral dos modos
+#kompinfo_lfn
+Nomes longos de ficheiro (LFN):
+#schranka_c
+Ürea de transf. nß
+#schranka_do
+Copiar para a †rea de transferància
+#schranka_ze
+Colar da †rea de transferància
+#schranka_copy
+Copiar para outra †rea de transferància
+#schranka_smaz
+Apagar
+#vyber_jazyk
+Selecionar idioma
+#nutny_restart
+ê necess†rio reiniciar para alterar o idioma.
+#prevod_html_entity
+Converter para entidades HTML
+#prevod_html_ent_info
+Caracteres com valor ASCII/Unicode superior a 127
+serÑo convertidos para entidades HTML.
+O intervalo Ç determinado pelo bloco selecionado.
+#text_je_v_unicode
+O texto est† em Unicode.
+#text_je_v_ascii
+O texto est† em codificaáÑo ASCII e ser†
+convertido de acordo com a tabela de conversÑo.
+#neni_oz_blok
+Nenhum bloco selecionado - vou converter
+todo o texto
+#prevod_mala_velka
+Texto para mai£sculas
+#prevod_mala_velka_inf
+Altera letras min£sculas no bloco selecionado para mai£sculas.
+Outros caracteres permanecem inalterados.
+#prevod_velka_mala
+Texto para min£sculas
+#prevod_velka_mala_inf
+Altera letras mai£sculas no bloco selecionado para min£sculas.
+Outros caracteres permanecem inalterados.
+#kodovani_dokumentu
+codificaáÑo:
+#help_non_unicode
+Apenas altera o r¢tulo do set de caracteres. A fonte nÑo muda.
+#help_inter_znaku
+Conversîes entre caracteres e sequàncias em UTF-8 ou UTF-16.
+Algumas subfunáîes aplicam-se a um bloco, outras a todo o documento.
+Mudar entre Unicode/nÑo-Unicode alterar† a fonte.
+#help_tabkonv_znaku
+Converte os caracteres do documento noutra codificaáÑo via tabelas.
+O n£mero de caracteres permanece o mesmo.
+Aplica-se ao bloco selecionado ou a todo o texto.
+Mudar entre Unicode/nÑo-Unicode alterar† a fonte.
+
+#analyza_nedef_zn_dok
+An†lise de caracteres indefinidos no documento
+
+#analyza_nedef_zn_blok
+An†lise de caracteres indefinidos no bloco
+
+#poc_vysk_nedef_znaku_n
+nß de ocorràncias do caractere
+
+#poc_vysk_nedef_znaku_vse
+total de caracteres indefinidos
+
+#poc_vysk_nedef_znaku_unik
+caracteres indefinidos £nicos:*o seu intervalo:
+
+#zamena_znaku
+Substituir o caractere por outro?
+#nedefinovany_znak
+Caractere indefinido*An†lise de car. indef.
+
+#nedefinovany_znak_zam
+Substituir todos os caracteres indefinidos?
+
+#zamena_znaku_radiob1
+SubstituiáÑo £nica
+Em todo o documento
+No bloco selecionado
+
+#zamena_znaku_radiob2
+em todo o lado
+desde o in°cio atÇ ao caractere
+do caractere em diante
+
+#znak_k_zamene
+Caractere de substituiáÑo...
+
+#dotaz_pri_zmene
+Perguntar antes de alterar?
+#kodovaniascii_dlg
+Prov†vel codificaáÑo ASCII:*nÑo Ç poss°vel determinar*Concorda?
+
+#polozka_dos
+(com tabela)*(sem tabela)*mais...
+
+#tbl_filtr_ascii
+ConversÑo no grupo:*codificaáÑo de origem*codificaáÑo de destino
+
+#niz_nonunicode1
+Em que codificaáÑo Ç exibido o texto?
+
+#niz_nonunicode2
+As codificaáîes de origem e destino sÑo idànticas.
+Nenhuma alteraáÑo ser† feita.
+
+#ascii_2_utf_1
+Conversîes entre sequàncias ASCII e UTF-8/UTF-16
+
+#ascii_2_utf_2
+Operaáîes de bloco (nÑo altera a codificaáÑo geral)
+
+#ascii_2_utf_3
+Operaáîes no documento inteiro (muda para Unicode)
+
+#uni_2_utf_1
+Conversîes entre sequàncias Unicode e UTF-8/UTF-16
+
+#uni_2_utf_2
+Operaáîes de bloco (nÑo altera a codificaáÑo geral)
+
+#uni_2_utf_3
+Operaáîes no documento inteiro (muda para nÑo-Unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (em codificaáÑo DOS)
+
+#prohozeni_endianity
+Trocar Endianness Unicode
+
+#tab_konv_zn
+NÑo realiza conversîes.
+Apenas rotula o documento como nÑo-Unicode.
+Caracteres 0-255 nÑo mudam, os superiores sÑo substitu°dos.
+#zda_prenastavit_font1
+Devo repor a fonte e rotular a codificaáÑo como nÑo-Unicode?
+
+#zda_prenastavit_font2
+Devo repor a fonte e rotular a codificaáÑo como Unicode?
+#pren_font_ano
+(todo o texto ser† convertido, recomendado SIM)
+
+#pren_font_ne
+(apenas parte do texto ser† convertida, recomendado NéO)
+
+#preznacit_kodovani
+Devo mudar o r¢tulo de codificaáÑo do documento?
+#zm_kod_dok
+Mudanáa da codificaáÑo do documento
+
+#zak_unicode
+O documento est† codificado no padrÑo Unicode.
+
+#sada_a_filtr_souborem
+O set de caracteres e o filtro sÑo determinados pelo ficheiro:
+
+#interp_nonuni
+InterpretaáÑo de nÑo-Unicode
+
+#konv_zn_utf
+ConversÑo de sequància caractere/UTF
+
+#tab_konv_zz
+ConversÑo por tabela caractere/caractere
+
+#zmena_fontu
+Mudar fonte
+
+#nas_zal_rad
+Configuraáîes de quebra de linha
+
+#nas_zal_mozn
+de acordo com a janela
+78 caracteres
+80 caracteres
+personalizado...
+
+#filesel_nejde_konverze
+O nome nÑo pode ser convertido corretamente
+para a p†gina de c¢digos DOS atual.
+Deseja continuar de qualquer forma?
+
+#podrobnosti
+Detalhes
+
+#moznosti...
+Opáîes...
+
+#form_konc_rad
+Formato de fim de linha
+
+#form_konc_help
+Recomenda-se manter o padrÑo CRLF,
+usado em ambientes DOS e Windows.
+LF Ç o padrÑo Unix/Linux, e
+CR era usado em computadores Macintosh.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = byte order mark
+Aplica-se apenas a ficheiros Unicode.
+ê uma sequància de tràs bytes
+no in°cio do ficheiro.
+Recomendado para ficheiros UTF-16.
+Normalmente nÑo utilizado para UTF-8.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Deseja mesmo fixar a quebra de linha em todo o texto?
+#rozs_fix_lom_blok
+O bloco nÑo cruza nenhuma quebra de linha
+Deseja expandi-lo e continuar?
+
+#jen_nezalam_rezim
+Esta funáÑo s¢ est† dispon°vel no modo sem quebra de linha.
+#opravdu_spoj_radky
+Unir as linhas em par†grafos em todo o texto?
+
+#nahr_faze
+1¶ fase:*2¶ fase:*3¶ fase:
+
+#jen_v_bloku
+A<BARVA=!;KLAVESY=p>p<SB>enas no bloco
+
+#prevod_z_html_entit
+DescodificaáÑo de entidades HTML em caracteres
+
+#prevod_z_html_entit_info
+Reconhece entidades HTML (ex. &#8222;) e substitui-as por caracteres Unicode
+
+#qr_vygenerovany
+C¢digo QR gerado
+
+#qr_ulozit
+Guardar
+
+#qr_velikost
+Tamanho do ponto no c¢digo QR (1-20)
+
+#qr_uspech
+Sucesso! Guardado como:
+
+#qr_chyba
+Erro durante a conversÑo para c¢digo QR.
+
+#qr_chyba_save
+Erro ao guardar o c¢digo QR.
+#qr_tvorba
+CriaáÑo de c¢digos QR
+
+#qr_text
+Texto a converter para c¢digo QR
+
+#related_characters
+Caracteres relacionados
+
+#zalozky
+Marcadores*Marcador nß*Mostrar marcadores
+
+#menu_slovo
+menu/palavra
+
+#dialogy_menu_slovo
+Di†logo Localizar*Di†logo Substituir*MAIñSCULAS*min£sculas*Primeira Mai£sc.*Para a †rea de transf.
+
+#menu_radek
+menu/linha
+
+#dialogy_menu_radek1
+Linha para bloco:
+co<BARVA=!;KLAVESY=m>m<SB> quebra de linha
+s<BARVA=!;KLAVESY=e>e<SB>m quebra de linha
+
+#dialogy_menu_radek2
+Espaáos:
+remover espaáos no <BARVA=!;KLAVESY=i>i<SB>n°cio
+remover espaáos no <BARVA=!;KLAVESY=f>f<SB>im
+
+#dialogy_menu_radek3
+Avanáo:
+segundo a linha <BARVA=!;KLAVESY=a>a<SB>cima
+segundo a <BARVA=!;KLAVESY=t>t<SB>abulaáÑo
+
+#pmysmenu
+c<BARVA=!;KLAVESY=a>a<SB>ractere
+<BARVA=!;KLAVESY=p>p<SB>alavra
+<BARVA=!;KLAVESY=l>l<SB>inha
+
+#doprad
+Preenchimento de linha
+
+#doprad_txt
+Escreva um ou mais caracteres para
+preencher o espaáo do fim da linha
+atÇ ao local onde clicou.
+A predefiniáÑo Ç [espaáo]
+
+#zarovnani
+Alinhamento:*esquerda*direita
+
+#carkod_tvorba
+C¢digos de barras
+
+#carkod_instr
+Introduza um n£mero ou texto curto
+Nota: Alguns formatos apenas suportam n£meros.
+AlÇm disso, algumas codificaáîes (ex. EAN-13) exigem
+c¢digos v†lidos com o checksum correto.
+N£meros inv†lidos podem ser codificados, mas os
+leitores podem nÑo conseguir process†-los.
+
+#carkod_ulozit
+Guardar
+
+#carkod_uspech
+Sucesso! Guardado como:
+
+#carkod_chyba
+Erro durante a conversÑo para c¢digo de barras.
+
+#carkod_chyba_save
+Erro ao guardar o c¢digo de barras.
+#carkod_combine
+Adicionar string codificada
+
+#carkod_mozn
+Esta string pode ser codificada nos seguintes c¢digos de barras:

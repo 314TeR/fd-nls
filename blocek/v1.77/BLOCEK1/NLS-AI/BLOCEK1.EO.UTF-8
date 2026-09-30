@@ -1,0 +1,140 @@
+## Blocek1, Esperanto, eo, CP853
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=j#1;VYZNAM=!1>J<SB>es '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>e '
+#_CANCEL
+<BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>nuligi
+#_CANCEL2
+' <BARVA=!;KLAVESY=a#2;VYZNAM=!3>A<SB>nuligi '
+#_POMOC
+<BARVA=!;KLAVESY=h;VYZNAM=!4>H<SB>elpo
+#_PALETA
+<BARVA=!;KLAVESY=p;VYZNAM=!6>P<SB>aletro
+#_MIXBAREV
+<BARVA=!;KLAVESY=m;VYZNAM=!7>M<SB>iksi kolorojn
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nformo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>isko
+#_ZADAT
+<BARVA=!;KLAVESY=e;VYZNAM=!14>E<SB>nigi
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+<BARVA=!;KLAVESY=f;VYZNAM=!19>F<SB>ari dosierujon
+#_ZPET
+<BARVA=!;KLAVESY=r;VYZNAM=!20>R<SB>etroiri
+#_VPRED
+<BARVA=!;KLAVESY=v;VYZNAM=!21>V<SB>enonta
+#_FS_NAHORU
+<BARVA=!;KLAVESY=s;VYZNAM=!23>S<SB>upren
+#_FS_TRIDENI
+Ordi<BARVA=!;KLAVESY=g;VYZNAM=!24>g<SB>ado
+
+#_INFO
+'Informo:         '
+#_DOTAZ
+'Demando:         '
+#_ANONE_DOTAZ
+'Demando:         '
+#_CHYBA
+Eraro!
+#_VLOZ_TEXT
+Enigu tekston:
+#_VYBER_BARVU
+Elektu koloron:
+#_FS_ADR_JAKSEMAJMENOVAT
+Enigu nomon de dosierujo
+#_FS_PRO_CTENI
+'nur legebla, '
+#_FS_SKRYTY
+'kaŝita, '
+#_FS_SYSTEMOVY
+'sistema, '
+#_FS_ARCHIVOVAT
+'arkivenda, '
+#_FS_ZADNE
+neniu.
+#_FS_ZPRAVA
+Mesaĝo:
+#_FS_SOUBOR
+'Dosiero: '
+#_FS_VELIKOST
+'Grandeco: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' bajtoj'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Lasta ŝanĝo: '
+#_FS_ATRIBUTY
+'Atributoj: '
+#_FS_VYBER_SOUBOR
+Elektu dosieron:
+#_FS_SOUBORNEVYTVOREN
+Ne povis krei dosieron.
+#_FS_ADRESARNEVYTVOREN
+Ne povis krei dosierujon.
+#_FS_DISK2
+Diskoj:
+#_FS_DISK3
+'Disko '
+#_FS_JMENOVKADISKU
+'Etikedo de disko: '
+#_FS_SYSTEMSOUBORU
+'Dosiersistemo: '
+#_FS_KAPACITA
+'Kapacito: '
+#_FS_VOLNEHO
+'Libera spaco: '
+#_FS_SERCISLO
+Seria numero:
+#_FS_VYBER_NECO
+Devas elekti iun dosieron.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Disko ne estas preta.
+#_FS_TRIDENI_NADPIS
+Ordigado:
+#_FS_TRIDENI_MIX1
+nomo*dato*etendaĵo
+#_FS_TRIDENI_MIX2
+ascenda*descenda
+#_PREPSATSOUBOR
+Ĉu anstataŭigi dosieron?
+#_VSEPOL
+ĉiuj elementoj
+#_VYBPOL
+elektitaj elementoj
+#_ZAMPOL
+rifuzitaj elementoj
+#_VYBINFO
+En la dekstra panelo estas ĉiuj elementoj kaj en la maldekstra la elektitaj.
+Elekto kaj forigo okazas per Enter.
+Inter paneloj oni ŝanĝas per tabulatoro.
+#_VYBINFO2
+En la maldekstra panelo montriĝas elektitaj elementoj kaj en dekstra la rifuzitaj.
+Elekto kaj forigo okazas per Enter.
+Inter paneloj oni ŝanĝas per tabulatoro.
+#_MOUSE_NOT_INSTALLED
+Muspelilo ne instalita. Ŝargu CTmouse aŭ similan pelilon.
+#_LFB_NOT_AVAILABLE
+Via grafikkarto ne subtenas LFB-reĝimon por la petita videoreĝimo.

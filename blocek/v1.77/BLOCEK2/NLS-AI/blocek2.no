@@ -1,0 +1,752 @@
+## Blocek2, norwegian, no, cp865
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Norsk        (no)
+#identifikuj_se2
+blocek2.no
+#sys_font
+865-16.fv
+#sys_font_maly
+865-14.fv
+#chyba_videomodu
+ùnsket videomodus er ikke tilgjengelig:
+#sys_font_kodovani
+865
+#m1
+<BARVA=!;KLAVESY=f>F<SB>il
+#m2
+<BARVA=!;KLAVESY=a>A<SB>lternativer
+#m3
+<BARVA=!;KLAVESY=h>H<SB>jelp
+#m31
+<BARVA=!;KLAVESY=o>O<SB>m programmet
+#m32
+<BARVA=!;KLAVESY=l>L<SB>es INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>ysteminformasjon
+#m34
+H<BARVA=!;KLAVESY=y>y<SB>pertekst-hjelp
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ekst
+#m11
+<BARVA=!;KLAVESY=n>N<SB>y    <<F1>>
+#m12
+è<BARVA=!;KLAVESY=p>p<SB>ne <<F3>>
+#m13
+<BARVA=!;KLAVESY=l>L<SB>agre  <<F2>>
+#m14
+Hopp til <BARVA=!;KLAVESY=d>D<SB>OS
+#m15
+<BARVA=!;KLAVESY=a>A<SB>vslutt   <<ESC>>
+#m16
+L<BARVA=!;KLAVESY=u>u<SB>kk  <<Alt-F3>>
+#m21
+<BARVA=!;KLAVESY=f>F<SB>arger
+#m211
+<BARVA=!;KLAVESY=f>F<SB>orgrunnsfarge
+#m212
+<BARVA=!;KLAVESY=b>B<SB>akgrunnsfarge
+#m213
+<BARVA=!;KLAVESY=g>G<SB>runnfarge
+#m215
+Farge for Ü f<BARVA=!;KLAVESY=r>r<SB>emheve linje
+#m22
+<BARVA=!;KLAVESY=s>S<SB>prÜk
+#m23
+F<BARVA=!;KLAVESY=r>r<SB>emhev akt. linje
+#m24
+S<BARVA=!;KLAVESY=k>k<SB>rift
+#m25
+<BARVA=!;KLAVESY=b>B<SB>ildefilter
+#m26
+<BARVA=!;KLAVESY=t>T<SB>astaturer
+#m27
+Side<BARVA=!;KLAVESY=p>p<SB>anel
+#m28
+L<BARVA=!;KLAVESY=a>a<SB>gre innstillinger
+#m29
+<BARVA=!;KLAVESY=v>V<SB>is mellomrom
+#m41
+Til <BARVA=!;KLAVESY=u>U<SB>TF-8
+#m42
+<BARVA=!;KLAVESY=f>F<SB>ra UTF-8
+#m43
+<BARVA=!;KLAVESY=t>T<SB>ekstbryting
+#m431
+FiksÇr tekstbr<BARVA=!;KLAVESY=y>y<SB>ting
+#m432
+S<BARVA=!;KLAVESY=l>l<SB>Ü sammen linjer
+#m44
+<BARVA=!;KLAVESY=s>S<SB>õk      <<Ctrl-F>>
+#m45
+Finn <BARVA=!;KLAVESY=n>n<SB>este <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=e>E<SB>rstatt      <<Ctrl-H>>
+#m460
+<BARVA=!;KLAVESY=b>B<SB>okmerker
+#m47
+Te<BARVA=!;KLAVESY=g>g<SB>nkart
+#m48
+K<BARVA=!;KLAVESY=o>o<SB>nverteringer <<CTRL-K>>
+#m49
+Blokk<BARVA=!;KLAVESY=p>p<SB>erasjoner
+#m490
+Generer <BARVA=!;KLAVESY=q>Q<SB>R-kode
+#m491
+Tegn til <BARVA=!;KLAVESY=h>H<SB>TML-entiteter
+#m492
+Til sto<BARVA=!;KLAVESY=r>r<SB>e bokstaver
+#m493
+Til s<BARVA=!;KLAVESY=m>m<SB>Ü bokstaver
+#m494
+HTML-ent<BARVA=!;KLAVESY=i>i<SB>teter til tegn
+#m495
+Stre<BARVA=!;KLAVESY=k>k<SB>koder
+#vyber_soubor
+Velg fil:
+#jak_to_ulozit
+Hvordan skal dette lagres?
+#soubor_existuje_prepsat
+Filen finnes allerede
+overskriv?
+#o_programu
+om programmet
+#napoveda
+hjelp
+#varovani
+<BARVA=51200>advarsel!<SB>
+#opravdu_konec
+Vil du virkelig avslutte?
+Ulagrede endringer vil gÜ tapt.
+#tento_soubor_uz_jednou_mame
+Denne filen er allerede Üpen.
+Blocek lar deg Üpne den igjen,
+men den vil fungere uavhengig av den fõrste instansen!
+dvs.
+IKKE SOM PASCAL IDE
+#unicode
+unicode
+#zalamovani
+tekstbryting
+#proporcionalni_mod
+proporsjonale
+#vyber_barvu_popredi
+Velg forgrunnsfarge
+#vyber_barvu_pozadi
+Velg bakgrunnsfarge
+#vyber_barvu_zakladu
+Velg grunnfarge
+#vyber_barvu_prosv
+velg farge
+#zda_pro_rad
+Fremhev aktuell linje?
+#nastaveni_ulozeno
+Innstillinger lagret
+
+#zatim_neni
+Denne funksjonen er forelõpig ikke tilgjengelig.
+
+#hypertextova_napoveda
+Hypertekst-hjelp
+
+#napoveda_koren
+Blocek - tekstredigering og bildeviser
+
+Hjelpeemner:
+1) <OK="napoveda_klavesy">Kontroller<OK/>
+2) <OK="napoveda_mys">Musestyring<OK/>
+3) <OK="napoveda_prvky">Grensesnittelementer<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Kontroller<SB;SF>
+<barva=65535>F10<sb>   - Üpne hovedmeny
+<barva=65535>F1<sb>    - opprett ny fil
+<barva=65535>F2<sb>    - lagre fil
+<barva=65535>F3<sb>    - Üpne fil
+<barva=65535>Alt+F3<sb> - lukk fil
+<barva=65535>Alt+F1<sb> - Üpne filen INFO.TXT
+<barva=65535>Ctrl+F<sb> - sõk
+<barva=65535>Ctrl+S<sb> - fortsett sõk
+<barva=65535>Ctrl+H<sb> - sõk og erstatt
+<barva=65535>Ctrl+A<sb> - marker hele dokumentet
+<barva=65535>Ctrl+Q<sb> - foreslÜr relatert tegn for det sist inntastede [a,†,...]
+<barva=65535>Ctrl+K<sb> - funksjon for tegnkonvertering mellom kodninger
+<barva=65535>Ctrl+L<sb> - hurtigmeny for linjeredigering
+<BARVA=65535>LShift+Alt<sb> - bytt tastaturinnstillinger
+<barva=65535>Ctrl+Alt+opp<sb>  - marker den aktuelle linjen som blokk
+<barva=65535>Ctrl+Alt+ned<sb>   - marker ordet under markõren
+<barva=65535>Ctrl+Alt+venstre<sb>  - marker alle tegn til venstre for markõren
+<barva=65535>Ctrl+Alt+hõyre<sb> - marker alle tegn til hõyre for markõren
+<barva=65535>Backspace<sb> - slett tegn til venstre for markõren
+<barva=65535>Delete<sb> - slett tegn til hõyre for markõren
+<barva=65535>Shift+Delete<sb> - slett markert blokk
+<barva=65535>*piler<sb> - flytt markõr
+<barva=65535>*Ctrl+PageUp<sb> eller <barva=65535>*Ctrl+Home<sb> - hopp til dokumentets fõrste linje
+<barva=65535>*Ctrl+PageDown<sb> eller <barva=65535>*Ctrl+End<sb> - hopp til dokumentets siste linje
+<barva=65535>*Ctrl+hõyre<sb> - flytt et ord til hõyre
+<barva=65535>*Ctrl+venstre<sb> - flytt et ord til venstre
+   Taster eller kombinasjoner markert med "*" kan
+   kombineres med <barva=65535><Shift><sb>-tasten.
+I sÜ fall justeres stõrrelsen pÜ tekstblokken
+   sammen med markõrens bevegelse.
+<barva=65535>Ctrl+[1-7]<sb> - kopier markert blokk til utklippstavle nr. 1-7
+<barva=65535>Alt+[1-7]<sb> - lim inn tekst fra utklippstavle nr. 1-7 ved markõren
+<barva=65535>Ctrl+pluss<sb> og <barva=65535>Ctrl+minus<sb> (pÜ numpad) - rask rulling mellom Üpne filer
+<barva=65535>ESC<sb>   - avslutt
+<barva=65535>Alt+F2<sb> - lagre aktuell skjerm
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Musestyring<SB;SF>
+<barva=65535>1) I dokumentvinduet<SB>
+Venstreklikk (VK) - flytter markõren til det stedet i tekstdokumentet.
+VK+shift - spesifiserer start og slutt pÜ en tekstblokk
+Hold VK nede og dra - interaktiv markering av tekstblokk
+Hõyreklikk (HK) - viser informasjon om tegnet og Üpner dialogboksen
+for tegnkonverteringer.
+Tilbyr ogsÜ funksjoner for bokmerker.
+
+<barva=65535>2) I fanelinjen for Üpne filer<SB>
+Klikk VK - bytter filen til hovedvinduet
+Klikk HK - handlingsmeny for den filen
+(lukk, lukk alle andre, vis hele banen)
+
+<barva=65535>3) I utklippstavleindikatoren<SB>
+Klikk VK - meny for operasjoner med innholdet pÜ utklippstavlen
+
+<barva=65535>4) Andre merknader<SB>
+->> Alle andre grensesnittelementer bruker bare venstre museknapp
+->> Nesten alle dialogbokser kan flyttes ved Ü dra i tittellinjen.
+->> Ved Ü dra over tekst i informasjonsvinduer kan du markere tekst og
+    deretter kopiere den til utklippstavlen med <OK="napoveda_klavesy">CTRL+[1-7]<OK/>.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Grensesnittelementer<SB;SF>
+Stõrstedelen av grensesnittet utgjõres av <barva=65535>hovedvinduet<SB>. Det viser et
+redigerbart tekstdokument eller bildeviseren.
+I dokumentets venstre kant kan det vëre et sidepanel som
+viser hvordan de enkelte linjene avsluttes.
+Over vinduet er det tre paneler.
+
+<barva=65535>1) Fast linje<SB>
+Hovedmeny: <barva=65535>Fil<SB>, <barva=65535>Tekst<SB>, <barva=65535>Alternativer<SB>, <barva=65535>Hjelp<SB>
+Til hõyre for menyen er det <OK="napoveda_indikatory">utklippstavleindikatorer<OK/> nummerert 1-7.
+Enda lenger til hõyre (õverste hõyre hjõrne) er en rullegardinliste for tastaturoppsett.
+Denne listen kan ogsÜ Üpnes med snarveien <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Kontekstuell linje<SB>
+Endres avhengig av innholdet i hovedvinduet.
+Hvis det er et bilde, vises dimensjonene i piksler til venstre.
+Til hõyre er det knapper for fullskjerm, optimal tilpasning samt rotasjon/speiling.
+Hvis det er et dokument, vises en knapp for tegnkonverteringer
+(kan ogsÜ Üpnes med <OK="napoveda_klavesy">CTRL+K<OK/>). Til hõyre for den er det en knapp
+for Ü bytte mellom forskjellige moduser for tekstbryting.
+Til hõyre er en avmerkingsboks for Ü slÜ tekstbryting av eller pÜ.
+Helt til hõyre vises aktuell kolonne og linje.
+
+<barva=65535>3) Faner med Üpne filer<SB>
+SÜ lenge ingen fil er lastet inn, er den nederste linjen tom.
+SÜ snart du Üpner en fil, vises fanen pÜ denne linjen.
+I Blocek kan du ha mange filer Üpne samtidig.
+Deres faner vises ved siden av hverandre, og du kan bytte mellom dem med <OK="napoveda_mys">musen<OK/>.
+Venstre museknapp bytter hovedvinduet til den valgte filen.
+Hõyre museknapp Üpner en undermeny for Ü lukke filen, lukke andre eller vise banen.
+
+#napoveda_indikatory
+Hvis du kopierer tekst til utklippstavlen (<OK="napoveda_klavesy">CTRL+[1-7]<OK/>) eller via dialogboksen,
+indikeres dets tilstedevërelse ved at indikatoren lyser som en përe.
+Hvis utklippstavlen er tom, vises den som en overstreket sirkel.
+Indikator nr. 7 kan vises som <BARVA=65535>7W<SB>.
+Dette betyr at MS Windows utklippstavletjenester er tilgjengelige.
+I dette tilfellet er utklippstavle 7 knyttet til Windows' utklippstavle for utveksling av tekst med andre programmer.
+Detaljer finnes i filen TECHNOTE.TXT
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+versjon 1.77b
+kompileringsdato: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek er et tekstredigeringsprogram og bildeviser,
+som bl.a. kan arbeide med filer i UTF-8,
+noe som gjõr det svërt velegnet til f.eks. opprettelse av nettsider.
+Blocek kan hÜndtere svërt store filer og lange
+linjer. Takk til Mateusz Viste for Unicode-skriftene.
+Blocek fungerer ogsÜ som viser av vanlige bildeformater,
+men kan ikke redigere dem.
+Dette programmet kan distribueres under betingelsene i GNU/GPL-lisensen
+
+#parametr_otaznik
+Syntaks:
+BLOCEK [fil1 [, fil2 [,...]]]
+#ovladani_obrazku
+fullskjerm*o<<>>O*+90*-90*horis.*vert.*Exif-data
+
+#soubor_nebyl_ulozen
+Filen ble ikke lagret!
+utilstrekkelig plass pÜ stasjonen eller
+stasjonen er skrivebeskyttet
+
+#chyba_font_int
+Feil under innlasting av skriftfil
+#chyba_font_neint
+Manglende skriftfil eller feil under innlasting av fil:
+
+#informace_exif
+Informasjon fra Exif-blokken
+#exif_date_strs
+Dato og tid:*Original dato og tid:*Dato og tid for digitalisering:
+#exif_camera_info
+Kameraprodusent:*Kameramodell:*Beskrivelse:*Programvare:*Lyskilde:*Blits:*Eksponeringsmodus:*ISO:*Eksponeringstid:*Orientering:*Zoom:
+#exif_lightsrc_info
+Ukjent*Dagslys*Lysstoffrõr*Glõdelampe*Blits*Standardlys A*Standardlys B*Standardlys C*D55*D65*D75*Annen kilde*Ukjent
+#exif_flash_info
+Ingen blits*Blits*Blits uten for-blits*Blits med for-blits*Auto-blits*Ingen blits*Ukjent
+#exif_expos_mode
+Ukjent*Manuell modus*Normalt program*Blenderprioritet*Lukkerprioritet*Kreativt program*Action-modus*Portrett-modus*Landskaps-modus*Ukjent
+#exif_orientation_desc
+Normal*Speilvendt horis.*Rotert 180¯*Speilvendt vert.*Rotert 90¯ ve. og speilvendt*Rotert 90¯ hõ.*Rotert 90¯ hõ. og speilvendt*Rotert 90¯ ve.*Ukjent
+#exif_zoom_unused
+Ikke brukt
+#exif_GPS_info
+GPS-posisjonsinformasjon*breddegrad:*lengdegrad:*hõyde:*asimut*N*S*V*O*m*o*'*''
+#zkopirovat_exif
+Til utklippstavle
+#nejde_o_obrazek
+Filen er skadet, eller bildedata
+er ikke i et format som stõttes
+Filen Üpnes som tekst.
+#nelze_fixovat_zalamani
+Denne funksjonen er bare
+tilgjengelig i tekstbrytingsmodus.
+#vyhledavani
+Sõk
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>sõkmodus<POZADI=->
+#vyhled_mozn
+f<BARVA=!;KLAVESY=r>r<SB>emover
+ba<BARVA=!;KLAVESY=k>k<SB>over
+fra b<BARVA=!;KLAVESY=e>e<SB>gynnelsen
+#roz_vel_pismen
+Skill mellom s<BARVA=!;KLAVESY=t>t<SB>ore/smÜ bokstaver
+
+#text_nenalezen
+Den angitte teksten ble ikke funnet.
+#nahradit_vyskyt
+Erstatt denne forekomsten?
+#potvrzovat
+<BARVA=!;KLAVESY=b>b<SB>ekreft
+#nahradvse
+erstatt a<BARVA=!;KLAVESY=l>l<SB>t
+#hledany_text
+sõktekst:
+#novy_text
+ny tekst
+#nahrada_textu
+erstatning av tekst
+#vyber_filtr
+Velg filter
+#opravdu_zavrit
+Filen har blitt endret.
+Vil du lagre den?
+#zavrit_ostatni
+Lukk alle andre
+#umisteni_souboru
+Filplassering
+#bezejmenny
+<BARVA=46815><<ny>><SB>
+#bezejmenny_soubor
+Ny fil
+
+#zrusit_nac
+Avbryt innlesing?
+#chybi_bcfg
+Konfigurasjonsfilen <BARVA=65535>BLOCEK.CFG<SB>
+finnes forelõpig ikke.
+Jeg oppretter den ved Ü kopiere filen
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Konfigurasjonsfilen <BARVA=65535>BLOCEK.CFG<SB>
+har et ugyldig format.
+Derfor overskriver jeg den med
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+I konfigurasjonsfilen <BARVA=65535>BLOCEK.CFG<SB>
+har disse elementene fra <BARVA=65535>DEFAULT.CFG<SB> blitt lagt til:
+#pocet_zmen
+Funnet*Antall endringer:*Antall forekomster*<BARVA=!;KLAVESY=f>F<SB>unksjon for antall forekomster
+#neniswap
+Systemet ditt stõtter ikke virtuelt minne!
+Dette kan vëre farlig (risiko for tomt minne).
+Prõv Ü bruke en annen DPMI-behandler.
+for õyeblikket installert:
+#dpmineznamy
+<BARVA=333>ukjent DPMI-behandler :-(<SB>
+#kaslinaswap
+(Du kan deaktivere denne kontrollen ved Ü sette
+<BARVA=65530>zkontroluj_swap = 0<SB> i BLOCEK.CFG)
+#plnyseznam
+Full liste...
+#vybprefkl
+Hvilke tastaturer skal vëre i grunnmenyen?
+#vybprefflt
+Hvilke filtre skal vëre i grunnmenyen?
+
+#asciiauto
+autodeteksjon
+
+#vkod
+<PODTRH=+>kilde<PODTRH=->
+#ckod
+<PODTRH=+>mÜl<PODTRH=->
+#oznaceno
+markert:
+#ozn_nic
+ingenting
+#kompinfo
+Prosessor:*Minne:*MB RAM*Video:* VESA-versjon:*Videomodus:*Videominne:*Oppdateringsfrekvens:*BIOS default*DOS-versjon:*Tegnsett:*DOS landekode:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideomoduser*Oversikt over moduser
+#kompinfo_lfn
+Lange filnavn (LFN):
+#schranka_c
+Utklippstavle nr.
+#schranka_do
+Kopier til utklippstavle
+#schranka_ze
+Lim inn fra utklippstavle
+#schranka_copy
+Kopier til en annen utklippstavle
+#schranka_smaz
+Slett
+#vyber_jazyk
+Velg sprÜk
+#nutny_restart
+Omstart kreves for Ü endre sprÜk.
+#prevod_html_entity
+Konverter til HTML-entiteter
+#prevod_html_ent_info
+Tegn med ASCII/Unicode-verdi over 127
+konverteres til HTML-entiteter.
+Omfanget bestemmes av den markerte blokken.
+#text_je_v_unicode
+Teksten er i Unicode.
+#text_je_v_ascii
+Teksten er i ASCII-koding og vil bli
+konvertert i henhold til konverteringstabellen.
+#neni_oz_blok
+Ingen blokk markert - jeg konverterer
+hele teksten
+#prevod_mala_velka
+Tekst til store bokstaver
+#prevod_mala_velka_inf
+Endrer smÜ bokstaver i den markerte blokken til store.
+Andre tegn endres ikke.
+#prevod_velka_mala
+Tekst til smÜ bokstaver
+#prevod_velka_mala_inf
+Endrer store bokstaver i den markerte blokken til smÜ.
+Andre tegn endres ikke.
+#kodovani_dokumentu
+koding:
+#help_non_unicode
+Endrer bare tegnsett-etiketten. Skriften endres ikke.
+#help_inter_znaku
+Konverteringer mellom tegn og sekvenser i UTF-8 eller UTF-16.
+Noen underfunksjoner gjelder for en blokk, andre for hele dokumentet.
+Bytte mellom Unicode/non-Unicode endrer skriften.
+#help_tabkonv_znaku
+Konverterer dokumentets tegn til en annen koding via tabeller.
+Antall tegn forblir det samme.
+Gjelder den markerte blokken eller hele teksten.
+Bytte mellom Unicode/non-Unicode endrer skriften.
+
+#analyza_nedef_zn_dok
+Analyse av udefinerte tegn i dokumentet
+
+#analyza_nedef_zn_blok
+Analyse av udefinerte tegn i blokken
+
+#poc_vysk_nedef_znaku_n
+antall forekomster av tegnet
+
+#poc_vysk_nedef_znaku_vse
+totalt antall udefinerte tegn
+
+#poc_vysk_nedef_znaku_unik
+unike udefinerte tegn:*deres omfang:
+
+#zamena_znaku
+Erstatt tegnet med et annet?
+#nedefinovany_znak
+Udefinert tegn*Analyse av udef. tegn
+
+#nedefinovany_znak_zam
+Erstatt alle udefinerte tegn?
+
+#zamena_znaku_radiob1
+Engangserstatning
+I hele dokumentet
+I den markerte blokken
+
+#zamena_znaku_radiob2
+overalt
+fra begynnelsen frem til tegnet
+fra tegnet og fremover
+
+#znak_k_zamene
+Erstatningstegn...
+
+#dotaz_pri_zmene
+Spõr fõr endring?
+#kodovaniascii_dlg
+Sannsynlig ASCII-koding:*kan ikke fastslÜs*Er du enig?
+
+#polozka_dos
+(med tabell)*(uten tabell)*mer...
+
+#tbl_filtr_ascii
+Konvertering i gruppe:*kildekoding*mÜlkoding
+
+#niz_nonunicode1
+I hvilken koding vises teksten?
+
+#niz_nonunicode2
+Kilde- og mÜlkoding er identiske.
+Det gjõres ingen endringer.
+
+#ascii_2_utf_1
+Konverteringer mellom ASCII og UTF-8/UTF-16-sekvenser
+
+#ascii_2_utf_2
+Blokkoperasjoner (endrer ikke den overordnede kodingen)
+
+#ascii_2_utf_3
+Operasjoner for hele dokumentet (bytter til Unicode)
+
+#uni_2_utf_1
+Konverteringer mellom Unicode og UTF-8/UTF-16-sekvenser
+
+#uni_2_utf_2
+Blokkoperasjoner (endrer ikke den overordnede kodingen)
+
+#uni_2_utf_3
+Operasjoner for hele dokumentet (bytter til non-Unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (i DOS-koding)
+
+#prohozeni_endianity
+Bytt Endianness Unicode
+
+#tab_konv_zn
+Utfõrer ingen konverteringer.
+Omerker bare dokumentet som non-Unicode.
+Tegn 0-255 endres ikke, hõyere tegn erstattes.
+#zda_prenastavit_font1
+Skal jeg tilbakestille skriften og angi kodingen som non-Unicode?
+
+#zda_prenastavit_font2
+Skal jeg tilbakestille skriften og angi kodingen som Unicode?
+#pren_font_ano
+(hele teksten konverteres, JA anbefales)
+
+#pren_font_ne
+(bare en del av teksten konverteres, NEI anbefales)
+
+#preznacit_kodovani
+Skal jeg endre dokumentets kodingsetikett?
+#zm_kod_dok
+Endring av dokumentets koding
+
+#zak_unicode
+Dokumentet er kodet i Unicode-standarden.
+
+#sada_a_filtr_souborem
+Tegnsettet og filteret bestemmes av filen:
+
+#interp_nonuni
+Tolkning av non-Unicode
+
+#konv_zn_utf
+Konvertering av sekvens tegn/UTF
+
+#tab_konv_zz
+Tabellkonvertering tegn/tegn
+
+#zmena_fontu
+Bytt skrift
+
+#nas_zal_rad
+Innstillinger for tekstbryting
+
+#nas_zal_mozn
+i henhold til vinduet
+78 tegn
+80 tegn
+tilpasset...
+
+#filesel_nejde_konverze
+Navnet kan ikke konverteres riktig
+til den aktuelle DOS-tegntabellen.
+Vil du fortsette likevel?
+
+#podrobnosti
+Detaljer
+
+#moznosti...
+Alternativer...
+
+#form_konc_rad
+Format for linjeslutt
+
+#form_konc_help
+Det anbefales Ü beholde CRLF-standarden,
+som brukes i DOS- og Windows-miljõer.
+LF er Unix/Linux-standarden, og
+CR ble brukt pÜ Macintosh-datamaskiner.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = byte order mark
+Gjelder bare for Unicode-filer.
+Det er en tre-byte sekvens
+i begynnelsen av filen.
+Anbefales for UTF-16 filer.
+Brukes normalt ikke for UTF-8.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Vil du virkelig fiksere tekstbrytingen i hele teksten?
+#rozs_fix_lom_blok
+Blokken krysser ingen linjeskift
+Vil du utvide den og fortsette?
+
+#jen_nezalam_rezim
+Denne funksjonen er bare tilgjengelig i modus uten tekstbryting.
+#opravdu_spoj_radky
+Skal linjene i avsnitt slÜs sammen i hele teksten?
+
+#nahr_faze
+1. fase:*2. fase:*3. fase:
+
+#jen_v_bloku
+B<BARVA=!;KLAVESY=a>a<SB>re i blokk
+
+#prevod_z_html_entit
+Dekoding av HTML-entiteter til tegn
+
+#prevod_z_html_entit_info
+Gjenkjenner HTML-entiteter (f.eks. &#8222;) og erstatter dem med Unicode-tegn
+
+#qr_vygenerovany
+QR-kode generert
+
+#qr_ulozit
+Lagre
+
+#qr_velikost
+Punktstõrrelse i QR-kode (1-20)
+
+#qr_uspech
+Suksess! Lagret som:
+
+#qr_chyba
+Feil under konvertering til QR-kode.
+
+#qr_chyba_save
+Feil ved lagring av QR-kode.
+#qr_tvorba
+Opprettelse av QR-koder
+
+#qr_text
+Tekst til konvertering til QR-kode
+
+#related_characters
+Relaterte tegn
+
+#zalozky
+Bokmerker*Bokmerke nr.*Vis bokmerker
+
+#menu_slovo
+meny/ord
+
+#dialogy_menu_slovo
+Dialog Sõk*Dialog Erstatt*STORE bokstaver*smÜ bokstaver*Fõrste Store*Til utklippstavle
+
+#menu_radek
+meny/linje
+
+#dialogy_menu_radek1
+Linje til blokk:
+m<BARVA=!;KLAVESY=e>e<SB>d tekstbryting
+u<BARVA=!;KLAVESY=t>t<SB>en tekstbryting
+
+#dialogy_menu_radek2
+Mellomrom:
+fjern mellomrom i <BARVA=!;KLAVESY=b>b<SB>egynnelsen
+fjern mellomrom i <BARVA=!;KLAVESY=s>s<SB>lutten
+
+#dialogy_menu_radek3
+Innrykk:
+etter linjen o<BARVA=!;KLAVESY=v>v<SB>enfor
+etter tabu<BARVA=!;KLAVESY=l>l<SB>ering
+
+#pmysmenu
+<BARVA=!;KLAVESY=t>t<SB>egn
+<BARVA=!;KLAVESY=o>o<SB>rd
+<BARVA=!;KLAVESY=l>l<SB>inje
+
+#doprad
+Linjeutfylling
+
+#doprad_txt
+Skriv ett eller flere tegn for Ü
+fylle plassen fra slutten av linjen
+til stedet der du klikket.
+Standard er [mellomrom]
+
+#zarovnani
+Justering:*venstre*hõyre
+
+#carkod_tvorba
+Strekkoder
+
+#carkod_instr
+Skriv inn et nummer eller en kort tekst
+Merk: Noen formater stõtter bare tall.
+I tillegg krever noen kodninger (f.eks. EAN-13)
+gyldige koder med riktig kontrollsum.
+Ugyldige numre kan kodes, men lesere
+vil kanskje ikke kunne behandle dem.
+
+#carkod_ulozit
+Lagre
+
+#carkod_uspech
+Suksess! Lagret som:
+
+#carkod_chyba
+Feil under konvertering til strekkode.
+
+#carkod_chyba_save
+Feil ved lagring av strekkode.
+#carkod_combine
+Legg til kodet streng
+
+#carkod_mozn
+Denne strengen kan kodes i fõlgende strekkoder:
+

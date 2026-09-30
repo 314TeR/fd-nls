@@ -1,0 +1,823 @@
+## For instructions for translators please look into file TRANSLAT.TXT
+##
+## Problems: See french comments. Radio buttons can only be chosen by mouse.
+## German: X Lesezeichen anzeigen=h>hl der Vorkommen der Zeichenkette
+## anything is wrong at: #pocet_zmen, even in FR and CZ!
+
+#identifikuj_se
+Deutsch      (de)
+#identifikuj_se2
+blocek2.de
+#sys_font
+## latin216.fv
+858-16.fv
+#sys_font_maly
+## latin214.fv
+858-14.fv
+#chyba_videomodu
+Der gewünschte Videomodus ist nicht verfügbar: 
+#sys_font_kodovani
+858
+
+## THIS IS START MAIN MENU - MARKERS ARE NOT SHOWN IN PROGRAM m1, m2, m3, m4 do not mix with others when calculating hotkey doubles)
+#m1
+<BARVA=!;KLAVESY=d>D<SB>atei
+#m2
+<BARVA=!;KLAVESY=o>O<SB>ptionen
+#m3
+<BARVA=!;KLAVESY=h>H<SB>ilfe
+#m4
+Te<BARVA=!;KLAVESY=x>x<SB>t
+## THIS IS END MAIN MENU - COMPLETE
+
+
+## THIS IS START SUB-WINDOW HILFE m31, m32, m33, m34, do not mix with others when calculating hotkey doubles
+#m31
+Ü<BARVA=!;KLAVESY=b>b<SB>er das Programm
+#m32
+L<BARVA=!;KLAVESY=a>a<SB>de Datei INFO.TXT <<Alt-F1>>
+#m33
+S<BARVA=!;KLAVESY=y>y<SB>steminfo
+#m34
+<BARVA=!;KLAVESY=h>H<SB>ypertext Hilfe
+## THIS IS END SUB-WINDOW HILFE COMPLETE
+
+
+## THIS IS SUB-WINDOW DATEI m11, m12, m13, m14, m15, m16, do not mix with others when calculating hotkey doubles
+#m11
+<BARVA=!;KLAVESY=n>N<SB>eue Datei      <<F1>>
+#m12
+Ö<BARVA=!;KLAVESY=f>f<SB>fnen          <<F3>>
+#m13
+<BARVA=!;KLAVESY=s>S<SB>peichern       <<F2>>
+#m14
+Ein<BARVA=!;KLAVESY=g>g<SB>abeaufforderung
+#m15
+B<BARVA=!;KLAVESY=e>e<SB>enden         <<ESC>>
+#m16
+Datei s<BARVA=!;KLAVESY=c>c<SB>hließen <<Alt-F3>>
+## THIS IS END SUB-WINDOW DATEI - COMPLETE
+
+
+## THIS IS START SUB-WINDOW OPTIONEN m21, m22, m23, m24, m25, m26, m27, m28, m29, do not mix with others when calculatin hotkey doubles
+#m21
+Fa<BARVA=!;KLAVESY=r>r<SB>ben
+#m22
+S<BARVA=!;KLAVESY=p>p<SB>rache
+#m23
+Ak<BARVA=!;KLAVESY=t>t<SB>uelle Zeile hervorheben
+#m24
+Schri<BARVA=!;KLAVESY=f>f<SB>tart ändern
+#m25
+B<BARVA=!;KLAVESY=i>i<SB>ldfilter auswählen
+#m26
+Bevorzu<BARVA=!;KLAVESY=g>g<SB>te Tastaturen
+#m27
+Editor-Seitenleiste u<BARVA=!;KLAVESY=m>m<SB>schalten
+#m28
+Ein<BARVA=!;KLAVESY=s>s<SB>tellungen speichern
+#m29
+Lückenh<BARVA=!;KLAVESY=e>e<SB>rvorhebung
+## THIS IS END SUB-WINDOW OPTIONEN - COMPLETE
+
+
+## THIS IS START SUB-WINDOW OPTIONEN - FARBEN m211, m212, m213, NO 214, m215, do not mix with others when calculating hotkeys
+#m211
+<BARVA=!;KLAVESY=v>V<SB>ordergrundfarbe
+#m212
+<BARVA=!;KLAVESY=h>H<SB>intergrundfarbe
+#m213
+<BARVA=!;KLAVESY=d>D<SB>esktopfarbe
+#m215
+<BARVA=!;KLAVESY=f>F<SB>arbe hervorgehobener Linien
+## THIS IS END SUB-WINDOW OPTIONEN - FARBEN - COMPLETE
+
+
+
+## THIS IS START UNKNOWN SUB-WINDOW XXXX (tF) m41, m42  NO IDEA WHERE IT BELONGS To with hotkeys!!!
+#m41
+Konver<BARVA=!;KLAVESY=t>t<SB>iere zu UTF-8
+#m42
+Konvertiere von UT<BARVA=!;KLAVESY=f>F<SB>-8
+## THIS IS END UNKNOWN SUB-WINDOW XXXX
+
+
+## THIS IS START SUB-WINDOW TEXT m48, m49, m490, m43, m44, m45, m46, m460, m47, m495, do not mix with others when calculating hotkeys
+#m48
+Co<BARVA=!;KLAVESY=d>d<SB>ierung und Konvertierungen <<Strg-K>>
+#m49
+<BARVA=!;KLAVESY=b>B<SB>lockoperationen
+#m490
+<BARVA=!;KLAVESY=q>Q<SB>R-Code-Generierung
+#m43
+<BARVA=!;KLAVESY=w>W<SB>orttrennung
+#m44
+<BARVA=!;KLAVESY=s>S<SB>uchen        <<Strg-F>>
+#m45
+E<BARVA=!;KLAVESY=r>r<SB>neut suchen <<Strg-S>>
+#m46
+Erset<BARVA=!;KLAVESY=z>z<SB>en      <<Strg-H>>
+#m460
+Lesezei<BARVA=!;KLAVESY=c>c<SB>hen
+#m47
+Zeichent<BARVA=!;KLAVESY=a>a<SB>belle
+#m495
+Str<BARVA=!;KLAVESY=i>i<SB>chcodes
+## THIS IS END SUB-WINDOW TEXT - COMPLETE
+
+
+## THIS IS START SUB-WINDOW TEXT - WORTTRENNUNG m431, m432, do not mix with others when calculating hotkeys
+#m431
+<BARVA=!;KLAVESY=k>K<SB>orrigiere aktuelle Worttrennung
+#m432
+Linienzusa<BARVA=!;KLAVESY=m>m<SB>menführung
+## THIS IS END SUB-WINDOW TEXT - WORTTRENNUNG - COMPLETE
+
+
+## THIS IS START SUB-WINDOW TEXT - Blockoperationen m491, m492, m493, m494, do not mix with others when calculating hotkeys
+#m491
+Zeichen zu <BARVA=!;KLAVESY=h>H<SB>TML-Entitäten
+#m492
+In Großb<BARVA=!;KLAVESY=u>u<SB>chstaben umwandeln
+#m493
+In Kleinbuchs<BARVA=!;KLAVESY=t>t<SB>aben umwandeln
+#m494
+HTML-Entitäten zu Zei<BARVA=!;KLAVESY=c>c<SB>hen
+
+## Strichcodes
+## THIS IS END SUB-WINDOW TEXT - Blockoperationen
+
+#vyber_soubor
+Wähle Datei:
+#jak_to_ulozit
+Gib Dateinamen ein
+#soubor_existuje_prepsat
+Diese Datei existiert bereits
+Überschreiben?
+#o_programu
+Über das Programm
+#napoveda
+Hilfe
+#varovani
+<BARVA=51200>Warnung!<SB>
+#opravdu_konec
+Wirklich beenden?
+Die Änderungen werden nicht gespeichert!
+#tento_soubor_uz_jednou_mame
+Diese Datei ist bereits geöffnet.
+Blocek ermöglicht es Ihnen, sie nochmals zu öffnen, aber
+sie verhält sich unabhängig von vorherigen Instanzen
+(NICHT WIE Z. B: PASCAL IDE ES MACHT)!
+#unicode
+Unicode
+#zalamovani
+Worttrennung
+#proporcionalni_mod
+proportional
+#vyber_barvu_popredi
+Wähle Vordergrundfarbe
+#vyber_barvu_pozadi
+Wähle Hintergrundfarbe
+#vyber_barvu_zakladu
+Wähle Desktopfarbe
+#vyber_barvu_prosv
+Wähle Farbe
+#zda_pro_rad
+Möchten Sie die aktuelle Zeile hervorheben?
+#nastaveni_ulozeno
+Einstellungen gespeichert
+#zatim_neni
+Diese Funktion ist noch nicht verfügbar.
+#hypertextova_napoveda
+Hypertext Hilfesystem
+
+#napoveda_koren
+Blocek - Texteditor und Bildbetrachter
+
+Hilfethemen:
+1) <OK="napoveda_klavesy">Tastatursteuerung<OK/>
+2) <OK="napoveda_mys">Maussteuerung<OK/>
+3) <OK="napoveda_prvky">Steuerungselemente<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Tastatursteuerung<SB;SF>
+<barva=65535>F10<sb>           - Rufe Hauptmenü auf
+<barva=65535>F1<sb>            - Erstelle neue Datei
+<barva=65535>F2<sb>            - Speichere Datei
+<barva=65535>F3<sb>            - Lade Datei
+<barva=65535>Alt+F3<sb>        - Schließe Datei
+<barva=65535>Alt+F1<sb>        - Lade diese Datei (INFO.TXT)
+<barva=65535>Strg+F<sb>        - Suche
+<barva=65535>Strg+S<sb>        - Wiederhole Suche
+<barva=65535>Strg+H<sb>        - Ersetzen
+
+<barva=65535>Strg+A<sb>        - Wähle ganzes Dokument zum Block
+<barva=65535>Strg+Q<sb>        - Bietet eine Variante für das letzte
+                                 geschriebene Zeichen (wie [a,á,ä...])
+<barva=65535>Strg+K<sb>        - Zeichenkonvertierungsfunktionen
+<barva=65535>Strg+L<sb>        - Schneller Menüaufruf zur Zeilenbearbeitung
+<barva=65535>LShift+Alt<sb>     - Tastaturlayout ändern
+<barva=65535>Strg+Alt+Auf<sb>   - Wähle aktuelle Zeile zum Block
+<barva=65535>Strg+Alt+Ab<sb>    - Wort auf dem Cursor zum Block
+<barva=65535>Strg+Alt+Links<sb> - Alle Zeichen vom Cursor nach links
+                                  zum Block
+<barva=65535>Strg+Alt+Rechts<sb>- Alle Zeichen vom Cursor nach rechts
+                                  zum Block
+<barva=65535>Backspace<sb> - Ein Zeichen links vom Cursor löschen 
+<barva=65535>Delete<sb> - Ein Zeichen rechts vom Cursor löschen 
+<barva=65535>Shift+Delete<sb> - Lösche gewählten Block
+<barva=65535>*Pfeile<sb>        - Cursorbewegungen
+<barva=65535>*Strg+Bild auf<sb> / <barva=65535>*Strg+Home<sb> - Springe zur ersten
+                                  Dateizeile
+<barva=65535>*Strg+Bild ab<sb> / <barva=65535>*Strg+End<sb>   - Springe zur letzten
+Dateizeile
+<barva=65535>*Strg+Pfeil rechts<sb> - Schiebe ein Wort nach rechts
+<barva=65535>*Strg+Pfeil links<sb>   - Schiebe ein Wort nach links.
+Diese (mit dem "*"-Zeichen) gekennzeichneten Funktionstasten können mit der "Shift"
+-Taste kombiniert werden. In diesem Fall wird zusammen mit der Cursorbewegung auch
+der Textauswahlblock erstellt oder aktualisiert.
+<barva=65535>Strg+[1-7]<sb>       - Kopiere gewählten Textblock in
+                                    Zwischenablage Nr. 1-7
+<barva=65535>Alt+[1-7]<sb>        - Füge Text von Zwischenablage Nr. 1-7
+                                    bei Cursorposition ein
+<barva=65535>Strg+Plus<sb> und <barva=65535>Strg+Minus<sb> (Plus und Minus auf dem
+Ziffernblock)    - schaltet schnell zwischen geöffneten Dateien vorwärts oder rückwärts
+<barva=65535>ESC<sb>              - Beende
+<barva=65535>Alt+F2<sb>           - Erstelle einen Screenshot
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Maussteuerung<SB;SF>
+<barva=65535>1) Im Dokumentenfenster:<SB>
+LINKE Maustaste         - Bewege den Cursor an die
+ausgewählte Stelle im Text
+LINKE Maustaste + SHIFT  - Wähle Anfang und Ende des
+Textblocks aus
+LINKE Maustaste + ziehen - Interaktive Auswahl des
+Textblocks
+RECHTE Maustaste        - zeige Informationen und
+optional ein Konvertierungsmenü für das angeklickte
+Zeichen
+
+<barva=65535>2) Im Paneel mit Registern geöffneter Dateien<SB>
+LINKE Maustaste  - schaltet das Hauptfenster auf die
+angegebene Datei um
+RECHTE Maustaste - mehrere Aktionen mit der angegebenen
+Datei (Schließen, alle anderen schließen, vollen
+Dateipfad zeigen)
+
+<barva=65535>3) In den Zwischenablageanzeigern<SB>
+LINKE Maustaste  - Menü für Operationen mit der Zwischenablage
+
+<barva=65535>4) Weitere Anmerkungen<SB>
+->> Alle anderen Schaltflächen und GUI-Elemente verwenden
+    momentan nur die linke Maustaste, die rechte wird
+    nicht verwendet.
+->> Fast alle Dialogfenster können durch Ziehen an ihrer
+    Titelleiste auf dem Bildschirm verschoben werden.
+->> Durch Ziehen mit der linken Maustaste über den Text
+    in den Informationsfenstern (einschließlich dieses
+    Fensters) ist es möglich, den Text hervorzuheben und
+    dann durch Drücken von <OK="napoveda_klavesy">Strg+[1-7]<OK/> für eine spätere
+    Weiterverwendung in die Zwischenablage zu kopieren.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Steuerungselemente<SB;SF>
+Den größten Teil des Arbeitsplatzes deckt das <barva=65535>Hauptfenster<SB> ab. In diesem Fenster wird entweder ein
+Dokument mit editierbarem Text oder der Viewer mit geladenem Bild angezeigt.
+Auf der linken Seite des Editorfensters kann ein optionales Panel mit Indikatoren sein, die anzeigen, wie die einzelnen Zeilen des Dokuments abgeschlossen werden.
+Über diesem Bereich befinden sich drei horizontale Paneele.
+
+<barva=65535>1) Permanentes Paneel<SB>
+Das Hauptmenü mit den Objekten: <barva=65535>Datei<SB>, <barva=65535>Text<SB>, <barva=65535>Optionen<SB>, <barva=65535>Hilfe<SB>.
+Rechts von diesem Menü sind die <OK="napoveda_indikatory">Zwischenablageanzeigen<OK/> für die Textblocknummern 1-7.
+Noch weiter rechts (in der oberen rechten Ecke) befindet sich eine Auswahlliste, in der das Tastaturlayout ausgewählt werden kann.
+Diese Liste kann auch über die Tastenkombination <OK="napoveda_klavesy">ALT+SHIFT<OK/> geöffnet werden.
+
+<barva=65535>2) Kontextbereich<SB>
+Er ändert sich entsprechend dem Inhalt des Hauptfensters.
+Wenn gerade ein Bild angezeigt wird, werden auf der linken Seite dessen Abmessungen in Pixeln angezeigt. Rechts davon befinden sich ein Button für den Vollbildmodus, für die optimale Fenstergröße sowie für das Drehen und Spiegeln des Bildes.
+Wenn ein bearbeitbares Dokument angezeigt wird, ist das Kontextfeld anders. Auf der linken Seite befindet sich ein Button, der zu einem Dialogfenster für verschiedene Codepage-Konvertierungsfunktionen führt. (auch per
+Tastendruck <OK="napoveda_klavesy">STRG+K<OK/> aktivierbar).
+Auf der rechten Seite befindet sich der Button zum Einstellen der Optionen für die Worttrennung.
+Rechts von diesem Button befindet sich ein Kontrollkästchen, das den Zeilenumbruch- und Nicht-Zeilenumbruchmodus umschaltet. Ganz am rechten
+Rand wird die aktuelle Cursorposition angezeigt.
+
+<barva=65535>3) Paneel mit Registerkarten geöffneter Dateien<SB>
+Solange keine Datei geladen ist, ist das dritte Paneel leer. Wenn eine Datei geöffnet wird, wird ihre Registerkarte in diesem Paneel angezeigt. Im
+<FONT=latin216.fv>Blocek<SF> Editor kann man gleichzeitig viele Dateien geöffnet haben.
+Die Registerkarten werden nebeneinander angezeigt und der Benutzer kann mit der <OK="napoveda_mys">Maus<OK/> zwischen ihnen wechseln.
+Die linke Maustaste schaltet das Hauptfenster auf die angegebene Datei (Dokument oder Bild) um. Die rechte Maustaste öffnet ein Untermenü, welches das Schließen der Datei, das Schließen aller anderen Dateien und die Funktion zum Anzeigen des vollständigen
+Dateipfads ermöglicht.
+
+#napoveda_indikatory
+Wenn ein Text in die Zwischenablage kopiert wird (durch die Taste <OK="napoveda_klavesy">STRG+[1-7]<OK/>) oder durch die spezielle Schaltfläche in mehreren Dialogfenstern, wird das Vorhandensein des Inhalts in der jeweiligen Zwischenablage angezeigt.
+Das Symbol wechselt seine Farbe nach weiss und ähnelt einer leuchtenden Glühbirne.
+Ist die Zwischenablage leer, wird sie schwarz und mit dem Symbol eines durchgestrichenen Kreises dargestellt.
+<BARVA=12678>Das Symbol von Zwischenablage Nummer 7 kann als <BARVA=65535>7W<SB> angezeigt werden. Dies bedeutet, daß der MS Windows-Zwischenablagedienst (oder eine kompatible Schnittstelle) verfügbar ist. In diesem Fall ist die Zwischenablage Nr.7 mit der Windows-Zwischenablage verknüpft und es ist möglich, Textblöcke mit anderen Programmen auszutauschen. Siehe Details in der Datei TECHNOTE.TXT.<SB>
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+<FONT=latin216.fv>Version 1.77b
+Kompilierungsdatum: <BARVA=65535>28.9.2026<SB>
+Programmiert von Laaca (laaca@seznam.cz)
+
+Blocek ist ein Texteditor und Bildbetrachter, der in der
+Lage ist, Dateien in Unicode UTF-8 Kodierung zu bearbeiten,
+daher ist er z.B. zum Schreiben von WWW-Seiten sehr hilfreich.
+Blocek kann sehr große Dateien mit sehr langen Zeilen bearbeiten.
+Herzlichen Dank an Mateusz Viste für seine Unicode Fonts.
+Blocek kann auch als einfacher Bildbetrachter in gängigen
+Grafikformaten verwendet werden. Er kann aber diese Bilder
+nicht bearbeiten.
+
+Diese Programm wurde als freies und offenes Quellprogramm
+unter der GNU/GPL Lizenz veröffentlicht.<SF>
+
+
+#parametr_otaznik
+Syntax:
+BLOCEK [Datei1 [,Datei2 [,...]]]
+#ovladani_obrazku
+Vollbildschirm*o<<>>O*+90*-90*horiz*vert*Exif Daten
+
+#soubor_nebyl_ulozen
+Datei wurde nicht gespeichert!
+Es ist auf dem Laufwerk nicht genügend freier
+Platz oder das Laufwerk ist nicht bereit
+
+#chyba_font_int
+Beim Laden der Font-Datei ist ein Fehler aufgetreten
+#chyba_font_neint
+Die Font-Datei fehlt oder beim Laden ist ein Fehler aufgetreten:
+
+#informace_exif
+Exif Information
+#exif_date_strs
+Datum und Uhrzeit:          *Datum und Zeit des Originals:*Datum und Uhrzeit des Fotos:
+#exif_camera_info
+Kamerahersteller:*Kameramodell:*Beschreibung:*Software:*Lichtquelle:*Blitz:*Expositionsmodus:*ISO:*Expositionszeit:*Orientierung:*Zoom:
+#exif_lightsrc_info
+Unbekannt*Tageslicht*Fluorezierend*Tungsten*Blitz*Standardlicht A*Standardlicht B*Standardlicht C*D55*D65*D75*Anderes*Unbekannt
+#exif_flash_info
+Kein Blitz*Blitz*Blitz ohne Stroboskop*Blitz mit Stroboskop*Blitz (Auto)*Kein Blitz*Unbekannt
+#exif_expos_mode
+Unbekannt*Manuelle Kontrolle*Normales Programm*Blendenpriorität*Verschlußpriorität*Kreativprogramm*Actionprogram*Portraitmodus*Landscapemodus*Unbekannt
+#exif_orientation_desc
+Normal*Horiz gespiegelt*180 rotiert*Vert gespiegelt*90 links rotiert u gespiegelt*90 rechts rotiert*90 rechts rotiert u gespiegelt*90 links rotiert*Unbekannt
+#exif_zoom_unused
+Nicht verwendet
+#exif_GPS_info
+GPS Information*Breitengrad:*Längengrad:*Höhengrad:*Azimut*N*S*W*O*m*deg*min*sec
+#zkopirovat_exif
+In die Zwischenablage
+#nejde_o_obrazek
+Datei ist korrupt oder Bilddaten
+haben ein nicht unterstütztes Format
+Datei wird als Text geöffnet.
+#nelze_fixovat_zalamani
+Diese Funktion ist nur im
+Worttrennungsmodus verfügbar
+#vyhledavani
+Suche
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>Suchmodus<POZADI=->
+
+
+## THIS IS START SUB-WINDOW TEXT - Suchen - SUCHE (vzAGNhi) (h=l der Vorkommen der Zeichenkette i=Bestät)
+#vyhled_mozn
+<BARVA=!;KLAVESY=v>v<SB>om Cursor
+zu<BARVA=!;KLAVESY=m>m<SB> Cursor
+von An<BARVA=!;KLAVESY=f>f<SB>ang an
+#roz_vel_pismen
+<BARVA=!;KLAVESY=g>G<SB>roß/Kleinschreibung
+
+#jen_v_bloku
+<BARVA=!;KLAVESY=n>N<SB>ur im Block
+## THIS IS END SUB-WINDOW TEXT - Suchen - SUCHE
+
+#text_nenalezen
+Der gewählte Text wurde nicht gefunden.
+#nahradit_vyskyt
+Dieses Vorkommnis ersetzen?
+#potvrzovat
+Bestät<BARVA=!;KLAVESY=i>i<SB>gung
+#nahradvse
+A<BARVA=!;KLAVESY=l>l<SB>le ersetzen
+#hledany_text
+Zu suchender Text
+#novy_text
+Neuer Text
+#nahrada_textu
+Ersetzen
+#vyber_filtr
+Konvertierungsfilter wählen
+#opravdu_zavrit
+Datei wurde geändert.
+Speichern?
+#zavrit_ostatni
+Schließe alle anderen Dateien
+#umisteni_souboru
+Pfad zur Datei
+#bezejmenny
+<BARVA=46815><<Neue Datei>><SB>
+#bezejmenny_soubor
+Neue Datei
+
+#zrusit_nac
+Das Laden abbrechen?
+#chybi_bcfg
+Datei <BARVA=65535>BLOCEK.CFG<SB> fehlt.
+Sie wird aus der Standarddatei erstellt
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Datei <BARVA=65535>BLOCEK.CFG<SB> ist ungültig.
+Ich erstelle sie aus der Datei
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Die Variablen werden der Datei <BARVA=65535>BLOCEK.CFG<SB> hinzugefügt:
+#pocet_zmen
+## Gefunden*Anzahl der Änderungen:*Anzahl der Vorkommen:*<BARVA=!;KLAVESY=s>S<SB>uchtrefferanzahl
+
+Gefunden*Änderungen:*Vorkommen:*<BARVA=!;KLAVESY=s>S<SB>uchtreffer
+#neniswap
+Ihr System unterstützt keinen virtuellen Speicher!
+Das kann in Situationen, in denen der gesamte Arbeitsspeicher verbraucht ist,
+gefährlich sein. Bitte verwenden Sie einen anderen DPMI Server.
+Momentan verwenden Sie:
+#dpmineznamy
+<BARVA=333>Unbekannter DPMI Server :-(<SB>
+#kaslinaswap
+(Sie können diese Prüfung durch folgende Einstellung in der BLOCEK.CFG-Datei deaktivieren:
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Volle Liste...
+#vybprefkl
+Welche Tastaturen sollen im Hauptmenü sein?
+#vybprefflt
+Welche Filter sollen im Hauptmenü sein?
+
+#asciiauto
+automatische Erkennung
+
+#vkod
+<PODTRH=+>source<PODTRH=->
+#ckod
+<PODTRH=+>target<PODTRH=->
+#oznaceno
+gewählt:
+#ozn_nic
+nichts
+#kompinfo
+Prozessor:*Speicher:*MB RAM*Video:* VESA Version:*Videomodus:*Videospeicher*Refreshfrequenz:*BIOS Standard*DOS Version:*DOS Zeichensatz:*DOS Länderidentifikation:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideomodi*Übersicht der Videomodi
+#kompinfo_lfn
+Lange Dateinamen (LFN):
+#schranka_c
+Zwischenablagenummer
+#schranka_do
+In die Zwischenablage kopieren
+#schranka_ze
+Aus der Zwischenablage einfügen
+#schranka_copy
+In eine andere Zwischenablage einfügen
+#schranka_smaz
+Löschen
+#vyber_jazyk
+Wählen Sie Ihre Sprache
+#nutny_restart
+Sie müssen das Programm neu starten, damit die Änderungen wirksam werden.
+#prevod_html_entity
+Konvertierung in HTML Entitäten
+#prevod_html_ent_info
+Zeichen mit ASCII- oder Unicode-Wert größer
+127 werden in HTML-Entitäten konvertiert.
+Der Umfang der Konvertierung wird durch
+den Block festgelegt.
+#text_je_v_unicode
+Der Text ist in Unicode.
+#text_je_v_ascii
+Der Text ist in ASCII und die Umwandlung wird unter
+Zuhilfenahme einer Konvertierungstabelle vorgenommen.
+#neni_oz_blok
+Es ist kein Textblock ausgewählt, deshalb wird
+die Konvertierung durch einen ganzen Text gehen.
+#prevod_mala_velka
+Wandle in Großschreibung um.
+#prevod_mala_velka_inf
+Wandle die letzteren im Block in Großschrei-
+bung um. Betrifft keine anderen Zeichen.
+#prevod_velka_mala
+Wandle in Kleinschreibung um
+#prevod_velka_mala_inf
+Wandle die letzteren im Block in Kleinschrei-
+bung um. Betrifft keine anderen Zeichen.
+#kodovani_dokumentu
+Codierung:
+#help_non_unicode
+Ändert nur das Codepage-Zeichen. Ändert nicht die Schriftart.
+#help_inter_znaku
+Konvertierungen zwischen einzelnen Zeichen und mehreren Zeichenfolgen in UTF-8 oder UTF-16.
+Manche Unterfunktionen sind auch auf Textblöcke anwendbar, manche nur auf das gesamte Dokument.
+Wenn von Nicht-Unicode zu Unicode oder umgekehrt gewechselt wird, ändert sich die Schriftart.
+
+#help_tabkonv_znaku
+Codiert die Zeichen mithilfe von Konvertierungstabellen neu. Die Anzahl der Zeichen bleibt gleich.
+Kann auf das gesamte Dokument oder nur auf bestimmte Blöcke angewendet werden.
+Wenn von Nicht-Unicode zu Unicode oder umgekehrt gewechselt wird, ändert sich die Schriftart.
+
+#analyza_nedef_zn_dok
+Analyse der undefinierten Zeichen im ganzen Text
+
+#analyza_nedef_zn_blok
+Analyse der undefinierten Zeichen im definierten Block
+
+#poc_vysk_nedef_znaku_n
+Anzahl des Vorkommens des Zeichens
+
+#poc_vysk_nedef_znaku_vse
+Anzahl aller undefinierten Zeichen
+
+#poc_vysk_nedef_znaku_unik
+Anzahl eindeutiger undefinierter Zeichen*Bereich
+
+#zamena_znaku
+Das Zeichen in ein anderes ändern?
+
+#nedefinovany_znak
+Undefiniertes Zeichen*Analyse der undef. Zeichen (Block/Text)
+
+#nedefinovany_znak_zam
+Alle Arten von undefinierten Zeichen ersetzen?
+
+#zamena_znaku_radiob1
+Nur einmal
+Im ganzen Dokument
+Im gewählten Block
+
+#zamena_znaku_radiob2
+Überall
+Vom Anfang bis zum markierten Zeichen
+Vom markierten Zeichen aus weiter
+
+#znak_k_zamene
+Zu ersetzendes Zeichen...
+
+#dotaz_pri_zmene
+Beim Ändern fragen?
+
+#kodovaniascii_dlg
+Wahrscheinlich ASCII Codierung:*kann nicht bestimmen*Stimmen Sie zu?
+
+#polozka_dos
+(verwende Tabelle)*(ohne Tabelle)*weitere...
+
+#tbl_filtr_ascii
+Konvertierung in Gruppe:*Quellcodierung*Zielcodierung
+
+#niz_nonunicode1
+In welcher Kodierung ist der angezeigte Text?
+
+#niz_nonunicode2
+Quell- und Zielcodierung sind identisch.
+Es werden keine Änderungen vorgenommen.
+
+#ascii_2_utf_1
+Konvertierungen zwischen ASCII- und Multibyte-Sequenzen UTF-8 oder UTF-16
+
+#ascii_2_utf_2
+Blockoperationen (verändert den Codiermarker nicht)
+
+#ascii_2_utf_3
+Ganze Dokumentoperationen (Codiermarker ändert sich zu Unicode)
+
+#uni_2_utf_1
+Konvertierungen zwischen Unicode- und Multibytesequenzen UTF-8 oder UTF-16
+
+#uni_2_utf_2
+Blockoperationen (verändert den Codiermarker nicht)
+
+#uni_2_utf_3
+Ganze Dokumentoperationen (Codiermarker ändert sich zu non-Unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (repräsentiert in DOS ASCII Zeichen)
+
+#prohozeni_endianity
+Ändert die Endianität (Byte-Reihenfolge) der Unicode-Zeichen
+
+#tab_konv_zn
+Führt keine Konvertierungen aus. Ändert nur den Codiermarker auf Nicht-Unicode (DOS ASCII).
+Zeichen im Bereich 0-255 werden nicht geändert, Zeichen über 255 werden durch Platzhalter ersetzt.
+
+#zda_prenastavit_font1
+Auch die Schriftart und den Codiermarke auf Nicht-Unicode-Einstellung umstellen?
+
+#zda_prenastavit_font2
+Auch die Schriftart und den Codiermarker auf Unicode-Einstellung umstellen?
+
+#pren_font_ano
+(die gesamte Textkonvertierung, also wahrscheinlich JA)
+
+#pren_font_ne
+(die begrenzte Textblockkonvertierung, also wahrscheinlich NEIN)
+
+#preznacit_kodovani
+Soll ich den Dokumentkodiermarker aktualisieren?
+
+#zm_kod_dok
+Dokumentcodierung ändern
+
+#zak_unicode
+Das Dokument ist auf Unicode kodiert.
+
+#sada_a_filtr_souborem
+Zeichensatz und Konvertierungsfilter zu Unicode sind in folgender Datei:
+
+#interp_nonuni
+Interpretation von Nicht-Unicode
+
+#konv_zn_utf
+Konvertierungszeichen/UTF-Sequenzen
+
+#tab_konv_zz
+Tabellenbasierte Konvertierungen char/char
+
+#zmena_fontu
+Schriftartänderung
+
+#nas_zal_rad
+Einstellungen Worttrennung
+
+#nas_zal_mozn
+Analog zum Fenster
+78 Zeichen
+80 Zeichen
+andere...
+
+#filesel_nejde_konverze
+Der eingegebene Dateiname kann nicht in die aktuelle DOS-Codepage
+konvertiert werden. Trotzdem weitermachen?
+
+#podrobnosti
+Details
+
+#moznosti...
+Optionen...
+
+#form_konc_rad
+Zeilenendeformat
+
+#form_konc_help
+Ich empfehle, das Standard-CRLF Format beizubehalten, welches
+unter DOS-oder Windowssystemen üblich ist.
+LF ist Standard für Unix/Linux und
+CR wird Berichten zufolge in Macintosh Computern verwendet.
+
+#form_konc_mozn
+CRLF (DOS/WIN)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = "Byte order mark"
+Es gilt nur für in Unicode codierte Zeichen.
+Es ist eine zwei-Byte oder drei-Byte Sequenz ganz am Anfang der Datei.
+BOM wird für die Verwendung von Dateien in den UTF-16 Varianten empfohlen.
+In UTF-8-Dokumenten wird es selten verwendet.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Wirklich die Worttrennung im gesamten Dokument fixieren?
+
+#rozs_fix_lom_blok
+Der Block enthält kein Zeilenende.
+Soll ich ihn verlängern und fortfahren?
+
+#jen_nezalam_rezim
+Diese Funktion gilt nur für den Non-Wrapping-Modus.
+
+#opravdu_spoj_radky
+Den Zeilenzusammenführungsalgorithmus wirklich auf das gesamte Dokument anwenden?
+
+#nahr_faze
+Phase 1:*Phase 2:*Phase 3:
+
+
+#prevod_z_html_entit
+Dekodiert die HTML-Entitäten zu Zeichen
+
+#prevod_z_html_entit_info
+Erkennt die HTML-Entitäten im numerischen
+Format (wie &#8222;) und ersetzt sie durch
+Unicode-Zeichen.
+
+#qr_vygenerovany
+Erstellter QR Code
+
+#qr_ulozit
+Speichern
+
+#qr_velikost
+Elementgröße im QR-Code (1-20)
+
+#qr_uspech
+Erfolg! Gespeichert mit Dateiname:
+
+#qr_chyba
+Fehler beim Konvertieren zum QR-Code.
+
+#qr_chyba_save
+Fehler beim Konvertieren zum QR-Code
+
+#qr_tvorba
+Erstellen von QR-Codes
+
+#qr_text
+Text zum Erstellen des QR-Codes
+
+#related_characters
+Verwandte Zeichen
+
+#zalozky
+Lesezeichen*Lesezeichen Nr.*Lesezeichen zeigen
+
+#menu_slovo
+Menü/Wort
+
+#dialogy_menu_slovo
+Dialog Suchen *Dialog Ersetzen*GROSSBUCHSTABEN*Kleinbuchstaben*Groß-/Kleinschreibung*In die Zwischenablage
+
+#menu_radek
+Menü/Zeile
+
+#dialogy_menu_radek1
+Zeile zu Block:
+M<BARVA=!;KLAVESY=i>i<SB>t Worttrennung
+<BARVA=!;KLAVESY=o>O<SB>hne Worttrennung
+
+#dialogy_menu_radek2
+Leerzeichen:
+Entferne <BARVA=!;KLAVESY=l>L<SB>eerzeichen am Anfang
+Entferne Leer<BARVA=!;KLAVESY=z>z<SB>eichen am Ende
+
+#dialogy_menu_radek3
+Einrückung:
+gemäß der vo<BARVA=!;KLAVESY=r>r<SB>herigen Zeile
+gemäß dem <BARVA=!;KLAVESY=t>T<SB>abulator
+
+EN:
+#dialogy_menu_radek4
+plus 1*minus 1*plus 4*minus 4
+
+#pmysmenu
+<BARVA=!;KLAVESY=z>Z<SB>eichen
+<BARVA=!;KLAVESY=w>W<SB>ort
+Zei<BARVA=!;KLAVESY=l>l<SB>e
+
+#doprad
+Zeilenvervollständigung
+
+#doprad_txt
+Schreiben Sie ein oder mehrere Zei-
+chen, die dazu verwendet werden,
+die Zeile vom Ende oder vom Anfang
+her bis zur Mausposition zu erweitern.
+Standard ist [Leerzeichen]
+
+#zarovnani
+Ausrichtung:*nach links*nach rechts
+
+#carkod_tvorba
+Strichcodes
+
+#carkod_instr
+Geben Sie einen kurzen Text oder eine Zahl ein. Hinweis: Einige der Barcode-
+Standards kodieren nur Zahlen. Einige Strichcodes (wie EAN-13) erwarten gül-
+tige Codes mit korrekten Prüfsummen. Ungültige Werte können kodiert werden,
+der Strichcode ist evtl. nicht gültig.
+
+#carkod_ulozit
+Speichern
+
+#carkod_uspech
+Erfolgreich! Gespeichert mit Dateiname:
+
+#carkod_chyba
+Fehler bei der Umwandlung in Barcode.
+
+#carkod_chyba_save
+Fehler beim Speichern des Barcodes.
+
+#carkod_combine
+Kombinieren mit kodierter Zeichenkette
+
+#carkod_mozn
+Diese Zeichenfolge kann in diese Strichcodes kodiert werden:

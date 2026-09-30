@@ -1,0 +1,139 @@
+## Blocek1, Portuguese, pt, CP860
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=s#1;VYZNAM=!1>S<SB>im '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>ão '
+#_CANCEL
+<BARVA=!;KLAVESY=c#2;VYZNAM=!3>C<SB>ancelar
+#_CANCEL2
+' <BARVA=!;KLAVESY=c#2;VYZNAM=!3>C<SB>ancelar '
+#_POMOC
+A<BARVA=!;KLAVESY=j;VYZNAM=!4>j<SB>uda
+#_PALETA
+<BARVA=!;KLAVESY=p;VYZNAM=!6>P<SB>aleta
+#_MIXBAREV
+<BARVA=!;KLAVESY=m;VYZNAM=!7>M<SB>isturar cores
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>isco
+#_ZADAT
+Ins<BARVA=!;KLAVESY=e;VYZNAM=!14>e<SB>rir
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+No<BARVA=!;KLAVESY=v;VYZNAM=!19>v<SB>a dir.
+#_ZPET
+Vol<BARVA=!;KLAVESY=t;VYZNAM=!20>t<SB>ar
+#_VPRED
+Avança<BARVA=!;KLAVESY=r;VYZNAM=!21>r<SB>
+#_FS_NAHORU
+S<BARVA=!;KLAVESY=u;VYZNAM=!23>u<SB>bir
+#_FS_TRIDENI
+O<BARVA=!;KLAVESY=r;VYZNAM=!24>r<SB>denar
+#_INFO
+'Info:            '
+#_DOTAZ
+'Pergunta:        '
+#_ANONE_DOTAZ
+'Pergunta:        '
+#_CHYBA
+Erro!
+#_VLOZ_TEXT
+Inserir texto:
+#_VYBER_BARVU
+Escolher cor:
+#_FS_ADR_JAKSEMAJMENOVAT
+Nome da diretoria
+#_FS_PRO_CTENI
+'só leitura, '
+#_FS_SKRYTY
+'oculto, '
+#_FS_SYSTEMOVY
+'sistema, '
+#_FS_ARCHIVOVAT
+'arquivo, '
+#_FS_ZADNE
+nenhum.
+#_FS_ZPRAVA
+Mensagem:
+#_FS_SOUBOR
+'Ficheiro: '
+#_FS_VELIKOST
+'Tamanho: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' bytes'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Modificado: '
+#_FS_ATRIBUTY
+'Atributos: '
+#_FS_VYBER_SOUBOR
+Escolher ficheiro:
+#_FS_SOUBORNEVYTVOREN
+Não foi possível criar o ficheiro.
+#_FS_ADRESARNEVYTVOREN
+Não foi possível criar a diretoria.
+#_FS_DISK2
+Unidades:
+#_FS_DISK3
+'Unidade '
+#_FS_JMENOVKADISKU
+'Rótulo do disco: '
+#_FS_SYSTEMSOUBORU
+'Sist. ficheiros: '
+#_FS_KAPACITA
+'Capacidade:      '
+#_FS_VOLNEHO
+'Espaço livre:    '
+#_FS_SERCISLO
+Número de série:
+#_FS_VYBER_NECO
+Deve selecionar um ficheiro.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+A unidade não está pronta.
+#_FS_TRIDENI_NADPIS
+Ordenação:
+#_FS_TRIDENI_MIX1
+nome*data*extensão
+#_FS_TRIDENI_MIX2
+ascendente*descendente
+#_PREPSATSOUBOR
+Substituir o ficheiro?
+#_VSEPOL
+todos os elem.
+#_VYBPOL
+elem. selec.
+#_ZAMPOL
+elem. rejeitados
+#_VYBINFO
+No painel direito estão todos os elementos, no esquerdo os selecionados.
+A seleção e eliminação são feitas com Enter.
+Alterne entre os painéis com a tecla Tab.
+#_VYBINFO2
+No painel esquerdo estão os elementos selecionados, no direito os rejeitados.
+A seleção e eliminação são feitas com Enter.
+Alterne entre os painéis com a tecla Tab.
+#_MOUSE_NOT_INSTALLED
+Controlador de rato não instalado. Carregue o CTmouse ou similar.
+#_LFB_NOT_AVAILABLE
+A sua placa de vídeo não suporta o modo LFB para o modo de vídeo pedido.

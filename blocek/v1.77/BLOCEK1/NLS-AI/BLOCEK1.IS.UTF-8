@@ -1,0 +1,139 @@
+## Blocek1, Icelandic, is, CP861
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#_OK
+' <BARVA=!;KLAVESY=o#1;VYZNAM=!1>O<SB>K '
+#_OK2
+' <BARVA=!;KLAVESY=o#1#2;VYZNAM=!1>O<SB>K '
+#_ANO
+' <BARVA=!;KLAVESY=j#1;VYZNAM=!1>J<SB>á '
+#_NE
+' <BARVA=!;KLAVESY=n#2;VYZNAM=!2>N<SB>ei '
+#_CANCEL
+<BARVA=!;KLAVESY=h#2;VYZNAM=!3>H<SB>ætta við
+#_CANCEL2
+' <BARVA=!;KLAVESY=h#2;VYZNAM=!3>H<SB>ætta við '
+#_POMOC
+Hjál<BARVA=!;KLAVESY=p;VYZNAM=!4>p<SB>
+#_PALETA
+<BARVA=!;KLAVESY=l;VYZNAM=!6>L<SB>itaspjald
+#_MIXBAREV
+<BARVA=!;KLAVESY=b;VYZNAM=!7>B<SB>landa liti
+#_FS_INFO
+<BARVA=!;KLAVESY=i;VYZNAM=!8>I<SB>nfo
+#_FS_DISK
+<BARVA=!;KLAVESY=d;VYZNAM=!9>D<SB>iskur
+#_ZADAT
+<BARVA=!;KLAVESY=s;VYZNAM=!14>S<SB>lá inn
+#_PRIDEJPOL
+<VYZNAM=!17><<---
+#_UBERPOL
+<VYZNAM=!18>--->>
+#_FS_NOVYADRESAR
+Ný <BARVA=!;KLAVESY=m;VYZNAM=!19>m<SB>appa
+#_ZPET
+<BARVA=!;KLAVESY=t;VYZNAM=!20>T<SB>il baka
+#_VPRED
+Á<BARVA=!;KLAVESY=f;VYZNAM=!21>f<SB>ram
+#_FS_NAHORU
+<BARVA=!;KLAVESY=u;VYZNAM=!23>U<SB>pp
+#_FS_TRIDENI
+<BARVA=!;KLAVESY=r;VYZNAM=!24>R<SB>öðun
+#_INFO
+'Info:            '
+#_DOTAZ
+'Spurning:        '
+#_ANONE_DOTAZ
+'Spurning:        '
+#_CHYBA
+Villa!
+#_VLOZ_TEXT
+Setja inn texta:
+#_VYBER_BARVU
+Velja lit:
+#_FS_ADR_JAKSEMAJMENOVAT
+Nafn möppu
+#_FS_PRO_CTENI
+'skrifvarið, '
+#_FS_SKRYTY
+'falið, '
+#_FS_SYSTEMOVY
+'kerfis, '
+#_FS_ARCHIVOVAT
+'safn, '
+#_FS_ZADNE
+engin.
+#_FS_ZPRAVA
+Skilaboð:
+#_FS_SOUBOR
+'Skrá: '
+#_FS_VELIKOST
+'Stærð: '
+#_FS_B
+' B ('
+#_FS_KB
+' kB)'
+#_FS_B2
+' bæt'
+#_FS_KB2
+KB
+#_FS_MB2
+MB
+#_FS_GB2
+GB
+#_FS_POSL_ZMENA
+'Breytt: '
+#_FS_ATRIBUTY
+'Eigindi: '
+#_FS_VYBER_SOUBOR
+Velja skrá:
+#_FS_SOUBORNEVYTVOREN
+Ekki tókst að búa til skrá.
+#_FS_ADRESARNEVYTVOREN
+Ekki tókst að búa til möppu.
+#_FS_DISK2
+Drif:
+#_FS_DISK3
+'Drif '
+#_FS_JMENOVKADISKU
+'Disksmerki:     '
+#_FS_SYSTEMSOUBORU
+'Skráarkerfi:    '
+#_FS_KAPACITA
+'Stærð:          '
+#_FS_VOLNEHO
+'Laust pláss:    '
+#_FS_SERCISLO
+Raðnúmer:
+#_FS_VYBER_NECO
+Velja verður skrá.
+#_FS_JEDNOTKA_NEPRIPRAVENA
+Drif ekki tilbúið.
+#_FS_TRIDENI_NADPIS
+Röðun:
+#_FS_TRIDENI_MIX1
+nafn*dagsetning*ending
+#_FS_TRIDENI_MIX2
+hækkandi*lækkandi
+#_PREPSATSOUBOR
+Skrifa yfir skrá?
+#_VSEPOL
+öll atriði
+#_VYBPOL
+valin atriði
+#_ZAMPOL
+höfnuð atriði
+#_VYBINFO
+Í hægri glugga eru öll atriði og í þeim vinstri þau völdu.
+Val og eyðing er gerð með Enter.
+Skipt er á milli glugga með Tab.
+#_VYBINFO2
+Í vinstri glugga eru valin atriði og í þeim hægri þau höfnuðu.
+Val og eyðing er gerð með Enter.
+Skipt er á milli glugga með Tab.
+#_MOUSE_NOT_INSTALLED
+Músarrekill ekki uppsettur. Hladdu inn CTmouse eða svipuðu.
+#_LFB_NOT_AVAILABLE
+Skjákortið þitt styður ekki LFB-ham fyrir valinn skjáham.

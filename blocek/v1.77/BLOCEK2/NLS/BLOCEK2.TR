@@ -1,0 +1,756 @@
+## For instructions for translators please look into file TRANSLAT.TXT
+##
+## Modified by Willi:
+## Y<BARVA=!;KLAVESY=e>e<SB>ni dosya <<F1>>, D<BARVA=!;KLAVESY=o>o<SB>syay Kapat <<Alt-F3>>,
+## Yer ˜<BARVA=!;KLAVESY=m>m<SB>leri, R<BARVA=!;KLAVESY=e>e<SB>nkler, Ter<BARVA=!;KLAVESY=c>c<SB>ih edilen klavyeler
+## P<BARVA=!;KLAVESY=r>r<SB>ogram Hakknda, ™<BARVA=!;KLAVESY=n>n<SB> plan rengi
+## "Y"ardim (help in options - add keyboard) does not work by pressing a key! Only with mouse!
+## Karakterlerden <BARVA=!;KLAVESY=h>H<SB>TML unsurlarna, <BARVA=!;KLAVESY=b>B<SB>yk harfe d”nŸtr,
+## <BARVA=!;KLAVESY=k>K<SB>‡k harfe d”nŸtr, HTML unsurlarndan K<BARVA=!;KLAVESY=a>a<SB>rakterlere
+## im<BARVA=!;KLAVESY=l>l<SB>e‡ten, baŸla<BARVA=!;KLAVESY=n>n<SB>g‡tan, <BARVA=!;KLAVESY=s>s<SB>adece blok i‡inde
+## t<BARVA=!;KLAVESY=e>e<SB>yit, tmn <BARVA=!;KLAVESY=d>d<SB>e§iŸtir, €<BARVA=!;KLAVESY=k>k<SB>        <<ESC>>,
+## Kay<BARVA=!;KLAVESY=d>d<SB>et     <<F2>>
+
+
+#identifikuj_se
+Trk‡e       (tr)
+#identifikuj_se2
+blocek2.tr
+#sys_font
+857-16.fv
+#sys_font_maly
+857-14.fv
+#chyba_videomodu
+˜stenden video modu mevcut de§il:
+#sys_font_kodovani
+857
+#m1
+<BARVA=!;KLAVESY=d>D<SB>osya
+#m2
+<BARVA=!;KLAVESY=s>S<SB>e‡enekler
+#m3
+<BARVA=!;KLAVESY=y>Y<SB>ardm
+#m31
+P<BARVA=!;KLAVESY=r>r<SB>ogram Hakknda
+#m32
+<BARVA=!;KLAVESY=i>I<SB>NFO.TXT Dosyasn Ykle <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=s>S<SB>istem Bilgisi
+#m34
+<BARVA=!;KLAVESY=h>H<SB>iper metin yardm
+#m4
+<BARVA=!;KLAVESY=m>M<SB>etin
+#m11
+Y<BARVA=!;KLAVESY=e>e<SB>ni dosya <<F1>>
+#m12
+<BARVA=!;KLAVESY=a>A<SB>‡         <<F3>>
+#m13
+Kay<BARVA=!;KLAVESY=d>d<SB>et     <<F2>>
+#m14
+Komut is<BARVA=!;KLAVESY=t>t<SB>emi
+#m15
+€<BARVA=!;KLAVESY=k>k<SB>        <<ESC>>
+#m16
+D<BARVA=!;KLAVESY=o>o<SB>syay Kapat <<Alt-F3>>
+#m21
+R<BARVA=!;KLAVESY=e>e<SB>nkler
+#m211
+™<BARVA=!;KLAVESY=n>n<SB> plan rengi
+#m212
+<BARVA=!;KLAVESY=a>A<SB>rka plan rengi
+#m213
+<BARVA=!;KLAVESY=m>M<SB>asast rengi
+#m215
+V<BARVA=!;KLAVESY=u>u<SB>rgulanan satr rengi
+#m22
+<BARVA=!;KLAVESY=l>L<SB>isan
+#m23
+Gncel <BARVA=!;KLAVESY=s>s<SB>atr vurgula
+#m24
+Yaz <BARVA=!;KLAVESY=t>t<SB>ipi de§iŸtir
+#m25
+<BARVA=!;KLAVESY=r>R<SB>esim filtresi se‡
+#m26
+Ter<BARVA=!;KLAVESY=c>c<SB>ih edilen klavyeler
+#m27
+Edit”r kenar ‡u<BARVA=!;KLAVESY=b>b<SB>u§unu a‡/kapa
+#m28
+Ayarlar <BARVA=!;KLAVESY=k>k<SB>aydet
+#m29
+BoŸluk <BARVA=!;KLAVESY=v>v<SB>urgulama
+#m41
+UTF-8'<BARVA=!;KLAVESY=e>e<SB> d”nŸtr
+#m42
+UTF-8'<BARVA=!;KLAVESY=d>d<SB>en d”nŸtr
+#m43
+<BARVA=!;KLAVESY=k>K<SB>elime kaydrma
+#m431
+Gncel kelime kaydrmay <BARVA=!;KLAVESY=d>d<SB>zelt
+#m432
+Satr <BARVA=!;KLAVESY=b>b<SB>irleŸtirme
+#m44
+<BARVA=!;KLAVESY=a>A<SB>ra          <<Ctrl-F>>
+#m45
+<BARVA=!;KLAVESY=t>T<SB>ekrar ara   <<Ctrl-S>>
+#m46
+Yerine k<BARVA=!;KLAVESY=o>o<SB>y  <<Ctrl-H>>
+#m460
+Yer ˜<BARVA=!;KLAVESY=m>m<SB>leri
+#m47
+Karakter <BARVA=!;KLAVESY=h>h<SB>aritas
+#m48
+Kodlama <BARVA=!;KLAVESY=v>v<SB>e d”nŸtrmeler <<CTRL-K>>
+#m49
+<BARVA=!;KLAVESY=b>B<SB>lok iŸlemleri
+#m490
+<BARVA=!;KLAVESY=q>Q<SB>R kodu oluŸtur
+#m491
+Karakterlerden <BARVA=!;KLAVESY=h>H<SB>TML unsurlarna
+#m492
+<BARVA=!;KLAVESY=b>B<SB>yk harfe d”nŸtr
+#m493
+<BARVA=!;KLAVESY=k>K<SB>‡k harfe d”nŸtr
+#m494
+HTML unsurlarndan K<BARVA=!;KLAVESY=a>a<SB>rakterlere
+#m495
+Ba<BARVA=!;KLAVESY=r>r<SB>kodlar
+#vyber_soubor
+Dosya se‡:
+#jak_to_ulozit
+Dosya ismini gir
+#soubor_existuje_prepsat
+Bu dosya zaten mevcut
+zerine yazlsn m?
+#o_programu
+Uygulama hakknda
+#napoveda
+Yardm
+#varovani
+<BARVA=51200>ikaz!<SB>
+#opravdu_konec
+Hakikaten ‡klsn m?
+De§iŸiklikler kaydedilmeyecektir.
+#tento_soubor_uz_jednou_mame
+Bu dosya zaten a‡lmŸtr.
+Blocek onu tekrar a‡manza izin verir fakat
+”nceki ”rneklemeden ba§msz bir Ÿekilde iŸleyecektir!
+(F.E. PASCAL tmleŸik geliŸtirme ortamnn yapt§ gibi de§il)
+#unicode
+Unikod
+#zalamovani
+kelime kaydrma
+#proporcionalni_mod
+orantl
+#vyber_barvu_popredi
+™n plan rengini se‡
+#vyber_barvu_pozadi
+Arka plan rengini se‡
+#vyber_barvu_zakladu
+Masast rengini se‡
+#vyber_barvu_prosv
+renk se‡
+#zda_pro_rad
+Gncel satr vurgulamak istiyor musunuz?
+#nastaveni_ulozeno
+Ayarlar kaydedildi
+#zatim_neni
+Bu iŸlev henz mevcut de§ildir.
+#hypertextova_napoveda
+Hiper metin yardm sistemi
+
+#napoveda_koren
+Blocek - metin dzenleyicisi ve resim g”rntleyicisi
+
+Yardm konular:
+1) <OK="napoveda_klavesy">Klavyeyle kontrol<OK/>
+2) <OK="napoveda_mys">Fareyle kontrol<OK/>
+3) <OK="napoveda_prvky">Kontrol unsurlar<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Klavyeyle kontrol<SB;SF>
+<barva=65535>F10<sb>   - ana menye gir
+<barva=65535>F1<sb>    - yeni dosya oluŸtur
+<barva=65535>F2<sb>    - dosyay kaydet
+<barva=65535>F3<sb>    - dosyay ykle
+<barva=65535>Alt+F3<sb> - dosyay kapat
+<barva=65535>Alt+F1<sb> - bu dosyay ykle (INFO.TXT)
+<barva=65535>Ctrl+F<sb> - ara
+<barva=65535>Ctrl+S<sb> - tekrar ara
+<barva=65535>Ctrl+H<sb> - yerine koy
+<barva=65535>Ctrl+A<sb> - tm belgeyi blok olarak se‡
+<barva=65535>Ctrl+Q<sb> - son yazlan karakter i‡in baŸka bir bi‡im sunar (c,‡,?...])
+<barva=65535>Ctrl+K<sb> - karakter d”nŸtrme iŸlevleri
+<barva=65535>Ctrl+L<sb> - hat dzenleme i‡in hzl men Â‡aÂ§rÂsÂ
+<barva=65535>LShift+Alt<sb> - klavye dzenini de§iŸtir
+<barva=65535>Ctrl+Alt+Yukar<sb> - gncel satr blok olarak se‡
+<barva=65535>Ctrl+Alt+AŸa§<sb> - imlecin zerinde bulundu§u kelimeyi bloka
+<barva=65535>Ctrl+Alt+Sol<sb> - imle‡ten sola do§ru tm karakterler bloka
+<barva=65535>Ctrl+Alt+Sa§<sb> - imle‡ten sa§a do§ru tm karakterler bloka
+<barva=65535>Backspace<sb> - imlecin solundaki bir karakteri silme
+<barva=65535>Delete<sb> - imlecin sagndaki bir karakteri silme
+<barva=65535>Shift+Delete<sb> - se‡ili bloku sil
+<barva=65535>*oklar<sb> - imle‡ hareketleri
+<barva=65535>*Ctrl+PageUp<sb> veya <barva=65535>*Ctrl+Home<sb> - dosyann ilk satrna atlar
+<barva=65535>*Ctrl+PageDown<sb> veya <barva=65535>*Ctrl+End<sb>- dosyann son satrna atlar
+<barva=65535>*Ctrl+Sa§Ok<sb> - bir kelime sa§a do§ru hareket eder
+<barva=65535>*Ctrl+SolOk<sb> - bir kelime sola do§ru hareket eder
+   Bu iŸlev tuŸlar ("*" karakteri ile iŸaretlendirilen) <<Shift>> tuŸu ile birleŸtirilebilir.
+   B”yle bir durumda, imle‡ hareketi ile beraber metin se‡me bloku ayn zamanda oluŸturulur
+   veya gncellenir.
+<barva=65535>Ctrl+[1-7]<sb> - se‡ili bloku pano No 1 ila 7'ye kopyala
+<barva=65535>Alt+[1-7]<sb> - pano No 1 ila 7'den metni imle‡ konumuna yapŸtr
+<barva=65535>Ctrl+art<sb> ve <barva=65535>Ctrl+eksi<sb> (saysal klavyede) - ileri veya geriye do§ru a‡k dosyalar aras hzl ge‡iŸ
+<barva=65535>ESC<sb>   - ‡k
+<barva=65535>Alt+F2<sb> - ekran foto§raf oluŸtur
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Fareyle kontrol<SB;SF>
+<barva=65535>1) Belge penceresinde<SB>
+Sol fare d§mesi (LMB) tklamas  - imleci metinde se‡ili konuma taŸr
+LMB tklamas+shift - metin blokunun baŸlangcn ve sonunu se‡
+LMB tklamas ve kaydrma - metin blokunun etkileŸimli se‡imi
+Sa§ fare d§mesi (RMB) tklamas - bilgi ve se‡ime dayal olarak tklad§nz karakter i‡in d”nŸtrme mens g”sterir
+
+<barva=65535>2) Panelde, a‡k dosya kartlar ile<SB>
+LMB tklamas - ana pencereyi belirtilen dosyaya kaydrr
+RMB tklamas - belirtilen dosyayla bir‡ok faaliyet
+(kapat, bu dŸnda di§erlerini kapat, tam dosya yolunu g”ster)
+
+<barva=65535>3) Pano iŸaret‡ileri ile<SB>
+LMB tklamas - pano iŸlemleri i‡in men
+
+<barva=65535>4) Di§er notlar<SB>
+->> Di§er tm d§meler ve grafik arayz unsurlar gncel olarak sadece farenin sol d§mesini kullanr.
+    Sa§ d§me Ÿu an i‡in kullanlmaz.
+->> Neredeyse tm diyalog pencereleri, baŸlk ‡ubuklarn kaydrarak ekranda taŸnabilir.
+->> Bilgi pencerelerinde (bu pencere de dahil) LMB ile fareyle kaydrmak,
+    metin blokunu panoya <OK="napoveda_klavesy">Ctrl+[1-7]<OK/> ile kopyalamak i‡in se‡ebilir
+    ve bu daha sonra belge penceresine yapŸtrlabilir.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Kontrol unsurlar<SB;SF>
+€alŸma alannn byk bir ksm <barva=65535>ana pencere<SB> tarafndan kaplanr. Bu pencerede ya dzenlenebilir
+metinle bir belge veya ykl bir resimle g”rntleyici bulunur.
+Dzenleme penceresinin sol ksmnda belgenin her bir satrnn nasl sonlandrld§n g”steren se‡ime dayal bir panel bulunabilir.
+Bu alann zerinde ‡ yatay panel bulunur.
+
+<barva=65535>1) Daimi panel<SB>
+u unsurlarla ana men: <barva=65535>Dosya<SB>, <barva=65535>Metin<SB>, <barva=65535>Se‡enekler<SB>, <barva=65535>Yardm<SB>
+Bu mennn sa§nda, metin bloklar i‡in 1 ila 7 olarak numaralandrlmŸ <OK="napoveda_indikatory">pano iŸaret‡ileri<OK/> bulunur.
+Daha da sa§da (st sa§ k”Ÿede) bir se‡me listesi vardr, burada klavye dzeni se‡ilebilir.
+Bu liste ayrca <OK="napoveda_klavesy">ALT+SHIFT<OK/> klavye ksayolu ile de a‡labilir.
+
+<barva=65535>2) Ba§lam paneli<SB>
+Ana pencerenin i‡eri§ine g”re de§iŸiklik g”sterir.
+E§er bir resim g”rntleniyor ise sol k”Ÿede onun piksel olarak ‡ap g”sterilir. Bunun sa§nda tam ekran, en uygun pencere boyutu ile resmi d”ndrmek ve ‡evirmek i‡in d§meler bulunur.
+ayet dzenlenebilir bir belge g”rntleniyor ise, ba§lam paneli de§iŸik olacaktr. Sol tarafta ‡eŸitli kod sayfas d”nŸtrme iŸlevlerine ba§lant veren bir d§me bulunur. <OK="napoveda_klavesy">CTRL+K<OK/>) tuŸ birleŸimi ile de a‡labilir.
+Sa§ k”Ÿede kelime kaydrma se‡eneklerini ayarlamak i‡in bir d§me vardr.
+Bu d§menin sa§nda kaydrmal veya kaydrmasz kipler i‡in bir kutucuk bulunur. Sa§ k”Ÿede
+imlecin gncel konumu g”rntlenir.
+
+<barva=65535>3) A‡k dosya kartlar bulunduran panel<SB>
+Herhangi bir dosya yklenene dek ‡nc panel boŸtur. Bir dosya a‡ld§nda, onun kart bu panelde g”rntlenir. Blocek dzenleyicisinde bir‡ok dosyann ayn anda a‡k olarak bulunmas mmkndr. Kartlar birbirlerinin yannda g”rntlenir ve kullanc bunlar arasnda  <OK="napoveda_mys">fare<OK/> ile ge‡iŸ yapabilir.
+Sol fare d§mesi ana pencereyi belirtilen dosyaya ge‡irir (belge veya resim). Sa§ fare d§mesi dosyay kapatmaya, di§er tm dosyalar kapatmaya ve dosyann tam yolunu g”stermeye imkƒn veren bir alt men a‡ar.
+
+#napoveda_indikatory
+Bir metin panoya kopyaland ise (<OK="napoveda_klavesy">CTRL+[1-7]<OK/> tuŸ birleŸimi ile veya bir‡ok diyalog penceresindeki ”zel d§meyle), bu panodaki i‡erik mevcudiyeti belirtilir.
+G”sterge rengini beyaz olarak de§iŸtirir ve yanan bir ampule benzer.
+ayet pano boŸsa siyah renk kullanlarak g”rntlenir ve zeri ‡izili bir daire simgesi g”sterilir.
+<BARVA=12678>7. pano g”stergesi <BARVA=65535>7W<SB> olarak g”rntlenebilir. Bunun anlam, MS Windows sistem pano servislerinin (veya uyumlu bir arayzn) mevcut oldu§udur. Bu durumda 7. pano MS Windows panosuyla iliŸkilendirilir ve di§er programlarla metin bloklar alŸveriŸi yapmak mmkn olacaktr. Teferruatlar i‡in TECHNOTE.TXT dosyasna bakn.<SB>
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+<FONT=latin216.fv>srm 1.77b
+Derleme tarihi: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz) tarafndan programlanmŸtr.
+
+Blocek, dosyalar UTF-8 kodlamas ile dzenleyebilen
+metin dzenleyicisi ve resim g”rntleyicisidir
+dolaysyla mesela WWW sayfalar yazmak i‡in ‡ok kullanŸldr.
+Blocek ‡ok uzun satrlar barndran ‡ok byk dosyalar dzenleyebilir.
+Mateusz Viste'ye Unikod yaz tipleri i‡in teŸekkrler.
+Blocek ayn zamanda yaygn grafik bi‡imlerindeki dosyalar g”rntleyebilecek
+sade bir g”rntleyici olarak kullanlabilir. Bununla beraber resimleri
+dzenlemeye imkƒn sa§lamaz
+
+Bu program GNU/GPL lisans kapsamnda ”zgr ve a‡k kaynakl
+olarak yaynlanmŸtr<SF>
+
+
+#parametr_otaznik
+S”zdizimi:
+BLOCEK [dosya1 [,dosya2 [,...]]]
+#ovladani_obrazku
+tam ekran*o<<>>O*+90*-90*yatay*dikey*Exif verileri
+
+#soubor_nebyl_ulozen
+Dosya kaydedilmedi!
+Srcde yeterli boŸ alan yok veya
+src salt okunur
+
+#chyba_font_int
+Font dosyas yklenirken bir hata oluŸtu
+#chyba_font_neint
+Font dosyas eksik veya yklenirken bir hata oluŸtu:
+
+#informace_exif
+Exif bilgileri
+#exif_date_strs
+Tarih ve zaman:          *Orijinalin tarih ve zaman:*Foto§rafn tarih ve zaman:
+#exif_camera_info
+Kamera reticisi:*Kamera modeli:*A‡klama:*Yazlm:*IŸk kayna§:*FlaŸ:*Maruziyet kipi:*ISO:*Maruziyet zaman:*Y”nelim:*YaknlaŸtrma:
+#exif_lightsrc_info
+Bilinmiyor*Gn Ÿ§*Floresan*Tungsten*FlaŸ*Standart IŸk A*Standart IŸk B*Standart IŸk C*D55*D65*D75*Di§er*Bilinmiyor
+#exif_flash_info
+FlaŸ Yok*FlaŸ*FlaŸ Stroboskopik de§il*Stroboskopik FlaŸ*FlaŸ (Otomatik)*FlaŸ Yok*Bilinmiyor
+#exif_expos_mode
+Bilinmiyor*Elle kontrol*Normal Program*Diyafram ™nceli§i*DeklanŸ”r ”nceli§i*Yaratc Program*Aksiyon Program*Portre Kipi*Peyzaj Kipi*Bilinmiyor
+#exif_orientation_desc
+Normal*Yatay ayna*180 d”ndrlmŸ*Dikey ayna*90 sola d”ndrlmŸ ve ayna*Sa§a 90 d”ndrlmŸ*Sa§a 90 d”ndrlmŸ ve ayna*Sola 90 d”ndrlmŸ*Bilinmiyor
+#exif_zoom_unused
+KullanlmamŸ
+#exif_GPS_info
+GPS bilgisi*enlem:*boylam:*rakm:*azimut*K*G*B*D*m*der*dak*san
+#zkopirovat_exif
+Panoya
+#nejde_o_obrazek
+Dosya bozuk veya resim verileri
+desteklenen bi‡imde de§il
+Dosya metin olarak a‡lacaktr.
+#nelze_fixovat_zalamani
+Bu iŸlev sadece kelime kaydrma
+kipinde kullanlabilir
+#vyhledavani
+Bul
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>arama kipi<POZADI=->
+#vyhled_mozn
+im<BARVA=!;KLAVESY=l>l<SB>e‡ten
+i<BARVA=!;KLAVESY=m>m<SB>lece
+baŸla<BARVA=!;KLAVESY=n>n<SB>g‡tan
+#roz_vel_pismen
+<BARVA=!;KLAVESY=B>B<SB>yk/k‡k harflere duyarl
+
+#text_nenalezen
+Se‡ili metin bulunamad.
+#nahradit_vyskyt
+Bu oluŸum de§iŸtirilsin mi?
+#potvrzovat
+t<BARVA=!;KLAVESY=e>e<SB>yit
+#nahradvse
+tmn <BARVA=!;KLAVESY=d>d<SB>e§iŸtir
+#hledany_text
+Bulunacak metin
+#novy_text
+Yeni metin
+#nahrada_textu
+Yerine koy
+#vyber_filtr
+Resim filtresi se‡
+#opravdu_zavrit
+Dosya de§iŸtirildi.
+Kaydedilsin mi?
+#zavrit_ostatni
+Bu dŸndaki tmn kapat
+#umisteni_souboru
+Dosyann yolu
+#bezejmenny
+<BARVA=46815><<yeni dosya>><SB>
+#bezejmenny_soubor
+Yeni dosya
+
+#zrusit_nac
+Ykleme iptal edilsin mi?
+#chybi_bcfg
+<BARVA=65535>BLOCEK.CFG<SB> dosyas eksik.
+Varsaylan <BARVA=65535>DEFAULT.CFG<SB>
+dosyasndan oluŸturulacak
+#chybny_bcfg
+<BARVA=65535>BLOCEK.CFG<SB> dosyas ge‡ersiz.
+u dosyadan yola ‡karak onu oluŸturaca§m:
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+De§iŸkenler <BARVA=65535>BLOCEK.CFG<SB> dosyasna eklendi:
+#pocet_zmen
+Bulundu*De§iŸiklik says:*OluŸum says:*<BARVA=!;KLAVESY=s>S<SB>aym kipi
+#neniswap
+Sisteminiz sanal belle§i desteklememektedir!
+Bu, tm RAM belle§in kullanld§ durumlarda tehlikeli olabilir.
+BaŸka bir DPMI sunucusu kullanmay deneyin.
+u anda Ÿunu kullanmaktasnz:
+#dpmineznamy
+<BARVA=333>bilinmeyen DPMI sunucusu :-(<SB>
+#kaslinaswap
+(Bu denetimi BLOCEK.CFG dosyasnda Ÿu ayar kullanarak devre dŸ brakabilirsiniz:
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Tam liste...
+#vybprefkl
+Ana mende hangi klavyeler olmaldr?
+#vybprefflt
+Ana mende hangi filtreler olmaldr?
+
+#asciiauto
+otomatik tespit
+
+#vkod
+<PODTRH=+>kaynak<PODTRH=->
+#ckod
+<PODTRH=+>hedef<PODTRH=->
+#oznaceno
+se‡ili:
+#ozn_nic
+hi‡bir Ÿey
+#kompinfo
+Yonga:*Bellek:*MB RAM*Video:* VESA srm:*Video kipi:*Video belle§i*Tazeleme frekans:*BIOS varsaylan*DOS srm:*DOS karakter seti:*DOS lke kimli§i*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideo kipleri*Video kiplerinin listesi
+#kompinfo_lfn
+Uzun dosya isimleri (LFN):
+#schranka_c
+Pano No.
+#schranka_do
+Panoya kopyala
+#schranka_ze
+Panodan yapŸtr
+#schranka_copy
+BaŸka bir panoya kopyala
+#schranka_smaz
+Sil
+#vyber_jazyk
+Lisannz se‡in
+#nutny_restart
+De§iŸikli§in etkili olmas i‡in program yeniden baŸlatmalsnz.
+#prevod_html_entity
+HTML unsurlarna d”nŸtrme
+#prevod_html_ent_info
+ASCII veya Unikod de§eri 127'den byk olan
+karakterler HTML unsurlarna d”nŸtrlecektir.
+D”nŸmn kapsam blok tarafndan tanmlanr.
+#text_je_v_unicode
+Metin Unikod kodlamas kullanmaktadr.
+#text_je_v_ascii
+Metin ASCII bi‡imindedir ve d”nŸm
+bir d”nŸm tablosu kullanlarak yaplacaktr.
+#neni_oz_blok
+Hi‡bir metin bloku se‡ilmemiŸtir, dolaysyla d”nŸm
+tm metni kapsayacaktr.
+#prevod_mala_velka
+Byk harfe ‡evir
+#prevod_mala_velka_inf
+Bloktaki harfleri byk harflere d”nŸtrr.
+Di§er karakterlere dokunmaz.
+#prevod_velka_mala
+K‡k harfe d”nŸtr
+#prevod_velka_mala_inf
+Bloktaki harfleri k‡k harflere d”nŸtrr.
+Di§er karakterlere dokunmaz.
+#kodovani_dokumentu
+Kodlama:
+#help_non_unicode
+Sadece kod sayfas iŸaretini de§iŸtirir. Yaz tipini de§iŸtirmez.
+#help_inter_znaku
+Tek karakterler ile UTF-8 veya UTF-16 ‡oklu karakter dizeleri arasnda d”nŸm.
+Baz alt iŸlevler metin bloklarna da uygulanabilir, bazlar sadece tm metne.
+E§er Unikod olmayandan Unikod'a veya tersi bir d”nŸm yaplrsa yaz tipi de§iŸtirilir.
+
+#help_tabkonv_znaku
+Karakterleri d”nŸm tablolar kullanarak tekrar kodla. Karakter says de§iŸmez.
+Tm metne veya sadece belirtilen bloka uygulanabilir.
+E§er Unikod olmayandan Unikod'a veya tersi bir d”nŸm yaplrsa yaz tipi de§iŸtirilir.
+
+#analyza_nedef_zn_dok
+Tm metindeki tanmlanmamŸ karakterlerin analizi
+
+#analyza_nedef_zn_blok
+Belirtilen bloktaki tanmlanmamŸ karakterlerin analizi
+
+#poc_vysk_nedef_znaku_n
+karakterin oluŸum says
+
+#poc_vysk_nedef_znaku_vse
+Tm tanmlanmayan karakterlerin says
+
+#poc_vysk_nedef_znaku_unik
+benzersiz tanmlanmamŸ karakterlerin says*kapsam
+
+#zamena_znaku
+Karakter, baŸka bir karakterle de§iŸtirilsin mi?
+
+#nedefinovany_znak
+TanmlanmamŸ karakter*TanmlanmamŸ karakterlerin analizi (blok/metin)
+
+#nedefinovany_znak_zam
+Her trl tanmlanmamŸ karakter de§iŸtirilsin mi?
+
+#zamena_znaku_radiob1
+Sadece bir defa
+Tm metinde
+Se‡ili blokta
+
+#zamena_znaku_radiob2
+Her yerde
+BaŸlang‡tan iŸaretli karaktere
+˜Ÿaretli karakterden sonrasna
+
+#znak_k_zamene
+De§iŸtirilecek karakter
+
+#dotaz_pri_zmene
+De§iŸim oldu§unda sorulsun mu?
+
+#kodovaniascii_dlg
+Muhtemel ASCII kodlamas:*belirlenemedi*Katlyor musunuz?
+
+#polozka_dos
+(tablo kullanlarak)*(tablosuz)*dahas...
+
+#tbl_filtr_ascii
+Grupta d”nŸm:*kaynak kodlama*hedef kodlama
+
+#niz_nonunicode1
+G”rntlenen metin hangi kodlamay kullanyor?
+
+#niz_nonunicode2
+Kaynak ve hedef kodlamalar aynsdr.
+Hi‡bir de§iŸiklik yaplmayacaktr.
+
+#ascii_2_utf_1
+ASCII ile ‡oklu baytl UTF-8 veya UTF-16 dizeleri arasnda d”nŸm
+
+#ascii_2_utf_2
+Blok iŸlemleri (kodlama iŸaretini de§iŸtirmez)
+
+#ascii_2_utf_3
+Tm belge iŸlemleri (kodlama iŸareti Unikod olarak de§iŸir)
+
+#uni_2_utf_1
+Unikod ve ‡oklu baytl UTF-8 veya UTF-16 dizeleri arasnda d”nŸm
+
+#uni_2_utf_2
+Blok iŸlemleri (kodlama iŸaretini de§iŸtirmez)
+
+#uni_2_utf_3
+Tm belge iŸlemleri (kodlama iŸareti [DOS] olarak de§iŸir)
+
+#uni_2_utf_4
+Unicode --> UTF-8 (DOS ASCII karakterleriyle temsil edilir)
+
+#prohozeni_endianity
+Unikod karakterlerinin endianness'ini de§iŸtir
+
+#tab_konv_zn
+Hi‡bir d”nŸm yapmaz. Sadece kodlama iŸaretini Unikod olmayan olarak de§iŸtirir (DOS ASCII)
+0 ila 255 aras karakterler de§iŸtirilmez, 255 zeri karakterler yer tutucu ile de§iŸtirilir.
+
+#zda_prenastavit_font1
+Ayn zamanda kodlama iŸareti ile yaz tipi de Unikod olmayan ayarna ayarlansn m?
+
+#zda_prenastavit_font2
+Ayn zamanda yaz tipi ile kodlama iŸareti de Unikod olmayan ayarna ayarlansn m?
+
+#pren_font_ano
+(tm metin d”nŸm, dolaysyla muhtemelen EVET)
+
+#pren_font_ne
+(blok d”nŸm ile snrl, dolaysyla muhtemelen HAYIR)
+
+#preznacit_kodovani
+Belgenin kodlama iŸaretini gncellemeli miyim?
+
+#zm_kod_dok
+Belge kodlamasnn de§iŸimi
+
+#zak_unicode
+Belge Unikod olarak kodlanmŸ.
+
+#sada_a_filtr_souborem
+Karakter seti ve Unikod d”nŸm filtresi Ÿu dosyada belirtilmiŸtir:
+
+#interp_nonuni
+Unikod olmayann yorumu
+
+#konv_zn_utf
+Karakterler/UTF dizeleri d”nŸm
+
+#tab_konv_zz
+Tabloya dayal karakter/karakter d”nŸm
+
+#zmena_fontu
+Yaz tipi de§iŸimi
+
+#nas_zal_rad
+Kelime kaydrma ayarlar
+
+#nas_zal_mozn
+belge penceresine g”re
+78 karakter
+80 karakter
+baŸka...
+
+#filesel_nejde_konverze
+Girilen dosya isminin gncel DOS kod sayfasna d”nŸtrlmesi mmkn de§il.
+Her halkarda devam edilsin mi?
+
+#podrobnosti
+Ayrntlar
+
+#moznosti...
+Se‡enekler...
+
+#form_konc_rad
+Satr sonu bi‡imi
+
+#form_konc_help
+DOS veya Windows sistemlerinde yaygn olan standart CRLF'i
+muhafaza etmenizi tavsiye ederim.
+LF Unix/GNU/Linux i‡in standarttr ve
+CR'nin Macintosh bilgisayarlarnda kullanld§ bildiriliyor.
+
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Sadece Unikod olarak kodlanan dosyalarda uygulanr.
+Dosyann baŸlangcnda iki bayt veya ‡ baytlk bir dizedir.
+BOM'un UTF-16 varyantlarnda kullanlmas tavsiye edilir.
+UTF-8 belgelerinde nadiren kullanlr.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Tm belge i‡in kelime kaydrma ger‡ekten dzeltilsin mi?
+
+#rozs_fix_lom_blok
+Blok, hi‡bir satr sonu i‡ermemektedir.
+Onu geniŸletip devam edeyim mi?
+
+#jen_nezalam_rezim
+Bu iŸlev sadece kelime kaydrmasz kip i‡indir.
+
+#opravdu_spoj_radky
+Satr birleŸtirme algoritmas ger‡ekten tm belgeye uygulansn m?
+
+#nahr_faze
+aŸama 1:*aŸama 2:*aŸama 3:
+
+#jen_v_bloku
+s<BARVA=!;KLAVESY=a>a<SB>dece blok i‡inde
+
+#prevod_z_html_entit
+HTML unsurlarn karakterler olarak kodlar
+
+#prevod_z_html_entit_info
+Saysal bi‡imdeki HTML unsurlarn (&#8222; gibi) tespit eder ve bunlarn yerine Unikod karakterler koyar
+
+#qr_vygenerovany
+OluŸturulan QR kodu
+
+#qr_ulozit
+Kaydet
+
+#qr_velikost
+QR kodunda unsur boyutu (1 ila 20)
+
+#qr_uspech
+BaŸarl! u dosya ismiyle kaydedildi:
+
+#qr_chyba
+QR koduna d”nŸtrrken hata.
+
+#qr_chyba_save
+QR koduna d”nŸtrrken hata.
+
+#qr_tvorba
+QR kodu oluŸtur
+
+#qr_text
+QR kodu oluŸturmak i‡in metin
+
+#related_characters
+˜lgili karakterler
+
+#zalozky
+Yer ˜mleri*Yer ˜Ÿareti No.*Yer imlerini g”ster
+
+#menu_slovo
+Menu/Kelime
+
+#dialogy_menu_slovo
+Bulma diyalo§u *Yerine koyma diyalo§u*BšYšK harf*k‡k harf*BšYšK harfe d”nŸtr*Panoya
+
+#menu_radek
+Menu/Satr
+
+#dialogy_menu_radek1
+Bloklanacak satr:
+Kel<BARVA=!;KLAVESY=i>i<SB>me sarma ile
+Kelime sarma olma<BARVA=!;KLAVESY=d>d<SB>an
+
+#dialogy_menu_radek2
+BoŸluklar:
+<BARVA=!;KLAVESY=b>B<SB>aŸtaki boŸluklar kaldr
+So<BARVA=!;KLAVESY=n>n<SB>daki boŸluklar kaldr
+
+#dialogy_menu_radek3
+Satr girintisi:
+™n<BARVA=!;KLAVESY=c>c<SB>eki satra g”re
+S<BARVA=!;KLAVESY=e>e<SB>kmeye g”re
+
+#dialogy_menu_radek4
+art bir * eksi bir * art d”rt * eksi d”rt
+
+#pmysmenu
+<BARVA=!;KLAVESY=k>k<SB>arakter
+k<BARVA=!;KLAVESY=e>e<SB>lime
+<BARVA=!;KLAVESY=s>s<SB>atr
+
+#doprad
+Satr geniŸletme
+
+#doprad_txt
+Sonundan veya baŸndan satr
+geniŸletmek i‡in kullanlacak bir
+veya daha fazla karakter yazn.
+
+Varsaylan Ÿudur: [boŸluk]
+
+#zarovnani
+Hizalama:*sola*sa§a
+
+#carkod_tvorba
+Barkodlar
+
+#carkod_instr
+Ksa bir metin veya numara girin
+Not: Baz barkod standartlar yalnzca saylar kodlar.
+Ayrca baz barkodlarn (EAN-13 gibi) aŸa§dakileri bekledi§ini unutmayn
+do§ru kontrol toplamlarna sahip ge‡erli kodlar. Ge‡erli olmayan de§erler Ÿunlar olabilir
+kodlanmŸ ancak barkod okuyucu uygulamas i‡in ge‡erli olmayabilir.
+
+#carkod_ulozit
+Kaydet
+
+#carkod_uspech
+BaŸarl! Dosya ad ile kaydedildi:
+
+#carkod_chyba
+Barkoda d”nŸtrme srasnda hata oluŸtu.
+
+#carkod_chyba_save
+Barkod kaydedilirken hata oluŸtu.
+
+#carkod_combine
+KodlanmŸ dize ile birleŸtirin
+
+#carkod_mozn
+Bu dize bu barkodlara kodlanabilir:

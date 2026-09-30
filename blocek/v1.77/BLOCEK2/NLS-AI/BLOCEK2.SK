@@ -1,0 +1,759 @@
+## Blocek2, slovakian, sk, cp852
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+SlovenŸina   (sk)
+#identifikuj_se2
+blocek2.sk
+#sys_font
+## latin216.fv
+852-16.fv
+#sys_font_maly
+## latin214.fv
+852-14.fv
+#chyba_videomodu
+Po§adovanì videom¢d nie je k dispoz¡cii:
+#sys_font_kodovani
+852
+#m1
+<BARVA=!;KLAVESY=s>S<SB>£bor
+#m2
+<BARVA=!;KLAVESY=m>M<SB>o§nosti
+#m3
+<BARVA=!;KLAVESY=p>P<SB>omocn¡k
+#m31
+<BARVA=!;KLAVESY=o>O<SB> programe
+#m32
+P<BARVA=!;KLAVESY=r>r<SB>eŸ¡taœ INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=i>I<SB>nform cie o syst‚me
+#m34
+<BARVA=!;KLAVESY=h>H<SB>ypertextovì pomocn¡k
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ext
+#m11
+<BARVA=!;KLAVESY=n>N<SB>ovì    <<F1>>
+#m12
+<BARVA=!;KLAVESY=o>O<SB>tvoriœ <<F3>>
+#m13
+<BARVA=!;KLAVESY=u>U<SB>lo§iœ  <<F2>>
+#m14
+O<BARVA=!;KLAVESY=d>d<SB>skok do DOSu
+#m15
+<BARVA=!;KLAVESY=k>K<SB>oniec   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=z>Z<SB>avrieœ  <<Alt-F3>>
+#m21
+Vìber <BARVA=!;KLAVESY=f>f<SB>arieb
+#m211
+Farba p<BARVA=!;KLAVESY=o>o<SB>predia
+#m212
+Farba po<BARVA=!;KLAVESY=z>z<SB>adia
+#m213
+Farba po<BARVA=!;KLAVESY=d>d<SB>kladu
+#m215
+Farba pre z<BARVA=!;KLAVESY=v>v<SB>ìraznenie riadka
+#m22
+<BARVA=!;KLAVESY=j>J<SB>azyk
+#m23
+Zvìraznenie <BARVA=!;KLAVESY=a>a<SB>kt. riadka
+#m24
+Vìber <BARVA=!;KLAVESY=p>p<SB>¡sma
+#m25
+Vìber <BARVA=!;KLAVESY=o>o<SB>brazov‚ho filtra
+#m26
+Preferovan‚ <BARVA=!;KLAVESY=k>k<SB>l vesnice
+#m27
+<BARVA=!;KLAVESY=b>B<SB>oŸnì panel editora
+#m28
+<BARVA=!;KLAVESY=u>U<SB>lo§iœ nastavenia
+#m29
+Zvìrazåovanie <BARVA=!;KLAVESY=m>m<SB>edzier
+#m41
+Prevod <BARVA=!;KLAVESY=d>d<SB>o UTF-8
+#m42
+Prevod <BARVA=!;KLAVESY=z>z<SB> UTF-8
+#m43
+Zalamo<BARVA=!;KLAVESY=v>v<SB>anie riadkov
+#m431
+Za<BARVA=!;KLAVESY=f>f<SB>ixuj nal manie riadkov
+#m432
+<BARVA=!;KLAVESY=s>S<SB>p janie riadkov
+#m44
+<BARVA=!;KLAVESY=h>H<SB>–adaj      <<Ctrl-F>>
+#m45
+H–adaj Ô<BARVA=!;KLAVESY=a>a<SB>lç¡ <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=n>N<SB>ahraÔ      <<Ctrl-H>>
+#m460
+Z l<BARVA=!;KLAVESY=o>o<SB>§ky
+#m47
+<BARVA=!;KLAVESY=m>M<SB>apa znakov
+#m48
+Prevody <BARVA=!;KLAVESY=k>k<SB>¢dovania <<CTRL-K>>
+#m49
+Oper cie s <BARVA=!;KLAVESY=b>b<SB>lokmi
+#m490
+Generuj <BARVA=!;KLAVESY=q>Q<SB>R k¢d
+#m491
+Znaky do <BARVA=!;KLAVESY=h>H<SB>TML ent¡t
+#m492
+Na <BARVA=!;KLAVESY=v>v<SB>e–k‚ p¡smen 
+#m493
+Na m<BARVA=!;KLAVESY=a>a<SB>l‚ p¡smen 
+#m494
+H<BARVA=!;KLAVESY=t>T<SB>ML entity na znaky
+#m495
+¬<BARVA=!;KLAVESY=i>i<SB>arov‚ k¢dy
+#vyber_soubor
+Vyber s£bor:
+#jak_to_ulozit
+Ako to m m ulo§iœ?
+#soubor_existuje_prepsat
+Takìto s£bor u§ existuje
+prep¡saœ?
+#o_programu
+O programe
+#napoveda
+n poveda
+#varovani
+<BARVA=51200>varovanie!<SB>
+#opravdu_konec
+Naozaj skonŸiœ?
+Neulo§en‚ zmeny bud£ straten‚.
+#tento_soubor_uz_jednou_mame
+Tento s£bor je u§ raz otvorenì.
+Blocek ti dovol¡ otvoriœ ho znovu,
+ale bude sa chovaœ nez visle na prvej inçtancii!
+tzn.
+NIE AKO IDE PASCALU
+#unicode
+unicode
+#zalamovani
+zalamovanie riadkov
+#proporcionalni_mod
+proporcion lny
+#vyber_barvu_popredi
+Vyber farbu popredia
+#vyber_barvu_pozadi
+Vyber farbu pozadia
+#vyber_barvu_zakladu
+Vyber farbu z kladu
+#vyber_barvu_prosv
+Vyberte si farbu
+#zda_pro_rad
+Presvecovaœ akt. riadok?
+#nastaveni_ulozeno
+Nastavenia ulo§en‚
+
+#zatim_neni
+T to funkcia zatia– nie je k dispoz¡cii.
+
+#hypertextova_napoveda
+Hypertextovì pomocn¡k
+
+#napoveda_koren
+Blocek - textovì editor a prehliadaŸ obr zkov
+
+T‚my pomocn¡ka:
+1) <OK="napoveda_klavesy">Ovl danie<OK/>
+2) <OK="napoveda_mys">Ovl danie myçou<OK/>
+3) <OK="napoveda_prvky">Ovl dacie prvky<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Ovl danie<SB;SF>
+<barva=65535>F10<sb>   - vstup do hlavn‚ho menu
+<barva=65535>F1<sb>    - zalo§ novì s£bor
+<barva=65535>F2<sb>    - ulo§ s£bor
+<barva=65535>F3<sb>    - nahraj s£bor
+<barva=65535>Alt+F3<sb> - zavri s£bor
+<barva=65535>Alt+F1<sb> - nahraj s£bor INFO.TXT
+<barva=65535>Ctrl+F<sb> - h–adaj
+<barva=65535>Ctrl+S<sb> - pokraŸuj v h–adan¡
+<barva=65535>Ctrl+H<sb> - h–adaj a nahraÔ
+<barva=65535>Ctrl+A<sb> - celì dokument oznaŸ do bloku
+<barva=65535>Ctrl+Q<sb> - pon£kne pr¡buznì znak pre naposledy nap¡sanì [a, ,„...]
+<barva=65535>Ctrl+K<sb> - funkcie pre prevody znakov medzi r“znymi k¢dovaniami
+<barva=65535>Ctrl+L<sb> - rìchle vyvolanie menu pre £pravu riadka
+<BARVA=65535>LShift+Alt<sb> - zmeå nastavenie kl vesnice
+<barva=65535>Ctrl+Alt+hore<sb>  - celì aktu lny riadok oznaŸ do bloku
+<barva=65535>Ctrl+Alt+dole<sb>   - slovo, na ktorom je kurzor, oznaŸ¡ do bloku
+<barva=65535>Ctrl+Alt+do–ava<sb>  - vçetky znaky na–avo od kurzora oznaŸ¡ do bloku
+<barva=65535>Ctrl+Alt+doprava<sb> - vçetky znaky vpravo od kurzora oznaŸ¡ do bloku
+<barva=65535>Backspace<sb> - zma§ znak v–avo od kurzora
+<barva=65535>Delete<sb> - zma§ znak vpravo od kurzora
+<barva=65535>Shift+Delete<sb> - zma§ zadanì blok
+<barva=65535>*ç¡pky<sb> - presun kurzora
+<barva=65535>*Ctrl+PageUp<sb> alebo <barva=65535>*Ctrl+Home<sb> - preskoŸ na prvì riadok dokumentu
+<barva=65535>*Ctrl+PageDown<sb> alebo <barva=65535>*Ctrl+End<sb> - preskoŸ na poslednì riadok dokumentu
+<barva=65535>*Ctrl+doprava<sb> - posun o jedno slovo doprava
+<barva=65535>*Ctrl+do–ava<sb> - posun o jedno slovo do–ava
+   Kl vesy Ÿi kl vesov‚ kombin cie oznaŸen‚ symbolom "*" m“§u byœ
+   kombinovan‚ s kl vesom <barva=65535><Shift><sb>.
+V takom pr¡pade sa spoloŸne s pohybom kurzora uprav¡ rozsah bloku pre
+   zad vanie textu.
+<barva=65535>Ctrl+[1-7]<sb> - skop¡ruj oznaŸenì blok do schr nky Ÿ. 1-7
+<barva=65535>Alt+[1-7]<sb> - vlo§ text zo schr nky Ÿ. 1-7 na aktu lnu poz¡ciu kurzora
+<barva=65535>Ctrl+plus<sb> a <barva=65535>Ctrl+m¡nus<sb> (plus a m¡nus na numerickej kl vesnici) - rìchle rolovanie medzi otvorenìmi s£bormi vpred Ÿi vzad
+<barva=65535>ESC<sb>   - koniec
+<barva=65535>Alt+F2<sb> - ulo§ aktu lnu obrazovku
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Ovl danie myçou<SB;SF>
+<barva=65535>1) V okne s dokumentom<SB>
+Kliknutie –avìm tlaŸidlom (•T) - presunie kurzor na dan‚ miesto v textovom dokumente.
+•T+shift - çpecifikuje zaŸiatok a koniec textov‚ho bloku
+StlaŸenie •T a œahanie myçi - interakt¡vne oznaŸovanie textov‚ho bloku
+Kliknutie pravìm tlaŸidlom (PT) - zobraz¡ inform ciu o zameranom znaku a pon£kne dial¢gov‚ okno
+pre znakov‚ konverzn‚ funkcie.
+Taktie§ pon£kne funkcie pre pr cu so z lo§kami.
+
+<barva=65535>2) V p se kariet otvorenìch s£borov<SB>
+Kliknutie •T - danì s£bor prepne do hlavn‚ho okna
+Kliknutie PT - ponuka nieko–kìch akci¡ s danìm s£borom
+(uzavretie, uzavretie vçetkìch ostatnìch okrem çpecifikovan‚ho, zobrazenie £plnej cesty k s£boru)
+
+<barva=65535>3) V indik tore textovìch schr nok<SB>
+Kliknutie •T - ponuka oper ci¡ s obsahom danej textovej schr nky
+
+<barva=65535>4) Ostatn‚ pozn mky<SB>
+->> Vçetky ostatn‚ prvky grafick‚ho rozhrania teraz pou§¡vaj£ iba –av‚ tlaŸidlo myçi
+->> Takmer vçetky dial¢gov‚ okn  je mo§n‚ pos£vaœ po obrazovke œahan¡m myçi za hornì titulkovì pruh.
+->> ›ahan¡m myçi po texte v informaŸnìch okn ch (vr tane tohto okna) je mo§n‚ oznaŸovaœ text a potom ho
+    kl vesom <OK="napoveda_klavesy">CTRL+[1-7]<OK/> skop¡rovaœ do schr nky na neskorçie obnovenie.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Ovl dacie prvky<SB;SF>
+V„Ÿçinu pracovnej plochy zaber  <barva=65535>hlavn‚ okno<SB>. V åom sa zobrazuje buÔ dokument s editovate–nìm textom
+alebo prehliadaŸ s nahranìm obr zkom.
+Na –avom okraji okna s dokumentom m“§e byœ zobrazenì boŸnì panel signalizuj£ci
+akìm sp“sobom s£ ukonŸen‚ jednotliv‚ riadky dokumentu.
+Nad oknom editora Ÿi prehliadaŸa s£ nad sebou tri panely.
+
+<barva=65535>1) St ly riadok<SB>
+Hlavn‚ menu s polo§kami: <barva=65535>S£bor<SB>, <barva=65535>Text<SB>, <barva=65535>Mo§nosti<SB>, <barva=65535>Pomocn¡k<SB>
+Vpravo od tohto menu s£ <OK="napoveda_indikatory">indik tory schr nok<OK/> pre textov‚ bloky oŸ¡slovan‚ 1-7.
+Eçte viac vpravo (v pravom hornom rohu) je roletovì zoznam, kde je mo§n‚ navoliœ rozvrhnutie kl vesnice.
+Tento zoznam je mo§n‚
+tie§ otvoriœ kl vesovou skratkou <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Kontextovì riadok<SB>
+Men¡ sa v z vislosti na obsahu aktu lneho hlavn‚ho okna.
+Pokia– je v åom otvorenì obr zok, tak v–avo zobrazuje jeho rozmery v pixeloch.
+Vpravo s£ potom tlaŸidl  na prepnutie na cel£ obrazovku, na optim lne vyplnenie okna a na ot Ÿanie a zrkadlenie obr zka.
+Pokia– je v hlavnom okne nahranì dokument, tak sa zobraz¡ tlaŸidlo, pod ktorìm s£ pr¡stupn‚ r“zne funkcie pre konverzie znakovìch s d.
+(tie§ je mo§n‚ vyvolaœ kl vesovou skratkou <OK="napoveda_klavesy">CTRL+K<OK/>). Vpravo od neho je tlaŸidlo,
+ktorìm je mo§n‚ prep¡naœ r“zne re§imy pre zalamovanie riadkov pod–a slov.
+Vpravo od tlaŸidla je zaçkrt vacie pol¡Ÿko, ktor‚ prep¡na zalamovac¡ a nezalamovac¡ re§im.
+éplne vpravo sa potom zobrazuje aktu lny st’pec a riadok s kurzorom.
+
+<barva=65535>3) Karty s otvorenìmi s£bormi<SB>
+Kìm nie je nahranì §iadny s£bor, tak je spodnì p s pr zdny.
+Akon hle vçak otvor¡te nejakì s£bor, tak sa v tomto p se zobraz¡ jeho karta.
+V BloŸku je mo§n‚ maœ otvoren‚ mnoho s£borov naraz.
+Ich karty sa potom zobrazuj£ ved–a seba a <OK="napoveda_mys">myçou<OK/> je mo§n‚ medzi nimi prep¡naœ.
+•av‚ tlaŸidlo myçi prepne hlavn‚ okno na urŸenì s£bor (dokument alebo obr zok).
+Prav‚ tlaŸidlo myçi potom otv ra podmenu, ktor‚ pon£ka zatvorenie s£boru, zatvorenie vçetkìch s£borov okrem zadan‚ho a funkcie pre zobrazenie cesty k s£boru.
+
+#napoveda_indikatory
+Pokia– skop¡rujete text do schr nky (kl vesom <OK="napoveda_klavesy">CTRL+[1-7]<OK/>) alebo pomocou tlaŸidla v dial¢govom okne,
+tak sa pr¡tomnosœ obsahu v schr nke zn zorn¡ tìm, §e pr¡sluçnì indik tor zbelie a pripom¡na rozsvieten£ §iarovku.
+Pokia– je dan  schr nka pr zdna, tak sa zobrazuje Ÿiernym symbolom preçkrtnut‚ho kr£§ku.
+Indik tor schr nky Ÿ.7 sa m“§e zobrazovaœ ako <BARVA=65535>7W<SB>.
+To znamen , §e s£ k dispoz¡cii slu§by syst‚movej schr nky MS Windows (Ÿi kompatibiln‚ho rozhrania).
+V tomto pr¡pade je schr nka Ÿ.7 prepojen  so schr nkou Windows a je tak mo§n‚ vymieåaœ bloky textu s Ôalç¡mi programami.
+Podrobnosti v s£bore TECHNOTE.TXT
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+verzia 1.77b
+d tum kompil cie: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek je textovì editor a prehliadaŸ obr zkov
+schopnì okrem in‚ho pr ce so s£bormi v k¢dovan¡ UTF-8,
+Ÿo ho rob¡ ve–mi vhodnìm napr¡klad na tvorbu WWW str nok.
+Blocek je schopnì pracovaœ aj s ve–mi ve–kìmi s£bormi a s ve–mi
+dlhìmi riadkami. Òakujem Mateuszovi Vistemu za Unicode fonty.
+Blocek sa rovnako vie chovaœ ako prehliadaŸ obr zkov v be§nìch form toch.
+Nie je ale schopnì ich edit cie.
+Tento program m“§e byœ ç¡renì pod podmienkami GNU/GPL licencie
+
+#parametr_otaznik
+Syntax:
+BLOCEK [s£bor1 [, s£bor2 [,...]]]
+#ovladani_obrazku
+fullscreen*o<<>>O*+90*-90*horiz*vert*Exif d ta
+
+#soubor_nebyl_ulozen
+S£bor nebol ulo§enì!
+na jednotke je m lo miesta alebo je
+jednotka len na Ÿ¡tanie
+
+#chyba_font_int
+Pri nahr van¡ s£boru s fontom nastala chyba
+#chyba_font_neint
+S£bor s fontom chìba alebo pri jeho nahr van¡ nastala chyba:
+
+#informace_exif
+Inform cie z Exif bloku
+#exif_date_strs
+D tum a Ÿas:*D tum a Ÿas origin lu:*D tum a Ÿas obstarania sn¡mky:
+#exif_camera_info
+Vìrobca fotoapar tu:*Model fotoapar tu:*Popis:*Softv‚r:*Zdroj svetla:*Blesk:*Re§im expoz¡cie:*ISO:*¬as expoz¡cie:*Orient cia:*Zoom:
+#exif_lightsrc_info
+Nezn my*Denn‚ svetlo*FluorescenŸn‚*Volfr mov‚*Blesk*ætandardn‚ svetlo A*ætandardn‚ svetlo B*ætandardn‚ svetlo C*D55*D65*D75*Inì zdroj*Nezn my
+#exif_flash_info
+Bez blesku*Blesk*Blesk bez predbleskov*Blesk s predbleskami*Blesk pod–a automatiky*Bez blesku*Nezn me
+#exif_expos_mode
+Nezn my*Manu lny re§im*Norm lny program*Priorita clony*Priorita uz vierky*Kreat¡vny program*Re§im akcie*Re§im portr‚tu*Re§im krajiny*Nezn my
+#exif_orientation_desc
+Norm lna*Horiz. prevr tenie*OtoŸenie o 180ø*Vert. prevr tenie*OtoŸenie o 90ø v–avo a prevr tenie*OtoŸenie o 90ø vpravo*OtoŸenie o 90ø vpravo a prevr tenie*OtoŸenie o 90ø v–avo*Nezn ma
+#exif_zoom_unused
+Nepou§itì
+#exif_GPS_info
+Inform cie o polohe GPS*ç¡rka:*d’§ka:*vìçka:*azimut*S*J*Z*V*m*stupne*min*sek
+#zkopirovat_exif
+Do schr nky
+#nejde_o_obrazek
+S£bor je poçkodenì alebo obrazov‚
+d ta nie s£ v podporovanom form te
+S£bor bude otvorenì ako text.
+#nelze_fixovat_zalamani
+T to funkcia je dostupn 
+iba v zalamovacom re§ime.
+#vyhledavani
+Vyh–ad vanie
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>re§im vyh–ad vania<POZADI=->
+#vyhled_mozn
+od kurzora <BARVA=!;KLAVESY=d>d<SB>alej
+od kurzora <BARVA=!;KLAVESY=s>s<SB>p„œ
+od zaŸiatku s£<BARVA=!;KLAVESY=b>b<SB>oru
+#roz_vel_pismen
+Rozl<BARVA=!;KLAVESY=i>i<SB>çovaœ ve–kosœ p¡smen
+
+#text_nenalezen
+Zadanì text nebol n jdenì.
+#nahradit_vyskyt
+M m nahradiœ tento vìskyt?
+#potvrzovat
+<BARVA=!;KLAVESY=p>p<SB>otvrdzovaœ
+#nahradvse
+nahraÔ <BARVA=!;KLAVESY=v>v<SB>çetko
+#hledany_text
+h–adanì text:
+#novy_text
+novì text
+#nahrada_textu
+n hrada textu
+#vyber_filtr
+Vyber filter
+#opravdu_zavrit
+S£bor bol zmenenì.
+M m ho ulo§iœ?
+#zavrit_ostatni
+Zavrieœ vçetky ostatn‚
+#umisteni_souboru
+Umiestnenie s£boru
+#bezejmenny
+<BARVA=46815><<novì>><SB>
+#bezejmenny_soubor
+Novì s£bor
+
+#zrusit_nac
+Preruçiœ naŸ¡tavanie?
+#chybi_bcfg
+KonfiguraŸnì s£bor <BARVA=65535>BLOCEK.CFG<SB>
+zatia– neexistuje.
+Vytvor¡m ho skop¡rovan¡m s£boru
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+KonfiguraŸnì s£bor <BARVA=65535>BLOCEK.CFG<SB>
+nie je v po§adovanom form te.
+Preto ho prep¡çem s£borom
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Do konfiguraŸn‚ho s£boru <BARVA=65535>BLOCEK.CFG<SB>
+boli zo s£boru <BARVA=65535>DEFAULT.CFG<SB> prekop¡rovan‚ tieto polo§ky:
+#pocet_zmen
+N jden‚*PoŸet zmien:*PoŸet vìskytov*<BARVA=!;KLAVESY=r>R<SB>e§im poŸ¡tania
+#neniswap
+V ç syst‚m nepodporuje virtu lnu pam„œ!
+To m“§e byœ nebezpeŸn‚ a hroz¡ nedostatok pam„te.
+Sk£ste pou§iœ in‚ho spr vcu DPMI.
+moment lne je nainçtalovanì:
+#dpmineznamy
+<BARVA=333>nezn my spr vca DPMI :-(<SB>
+#kaslinaswap
+(T£to kontrolu m“§ete zruçiœ v BLOCEK.CFG nastaven¡m
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+éplnì zoznam...
+#vybprefkl
+Ktor‚ kl vesnice maj£ byœ v z kladnej ponuke?
+#vybprefflt
+Ktor‚ filtre maj£ byœ v z kladnej ponuke?
+
+#asciiauto
+autodetekcia
+
+#vkod
+<PODTRH=+>vìchodiskov‚<PODTRH=->
+#ckod
+<PODTRH=+>cie–ov‚<PODTRH=->
+#oznaceno
+oznaŸen‚:
+#ozn_nic
+niŸ
+#kompinfo
+Procesor:*Pam„œ:*MB RAM*Video:* Verzia VESA:*Videom¢d:*Videopam„œ*Obnovovacia frekvencia:*BIOS default*Verzia DOSu:*Znakov  sada DOSu:*K¢d çt tu pod–a DOSu:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideom¢dy*Preh–ad videom¢dov
+#kompinfo_lfn
+Dlh‚ n zvy s£borov (LFN):
+#schranka_c
+Schr nka Ÿ.
+#schranka_do
+Kop¡rovaœ do schr nky
+#schranka_ze
+Vlo§iœ zo schr nky
+#schranka_copy
+Prekop¡rovaœ do inej schr nky
+#schranka_smaz
+Zma§
+#vyber_jazyk
+Vyber jazyk
+#nutny_restart
+Pre prepnutie jazyka je potrebnì reçtart programu.
+#prevod_html_entity
+Prevod do HTML ent¡t
+#prevod_html_ent_info
+Znaky s ASCII alebo Unicode hodnotou nad 127
+prevedie do HTML ent¡t.
+Rozsah prevodu je urŸenì textovìm blokom.
+#text_je_v_unicode
+Text je v unicode.
+#text_je_v_ascii
+Text je v ASCII k¢dovan¡ a bude
+prevedenì pod–a konverznej tabu–ky.
+#neni_oz_blok
+Nie je oznaŸenì §iadny blok - budem teda prev dzaœ
+celì text
+#prevod_mala_velka
+Text na ve–k‚ p¡smen 
+#prevod_mala_velka_inf
+Mal‚ p¡smen  v zadanom bloku zmen¡ na ve–k‚.
+Ostatn‚ znaky nemen¡.
+#prevod_velka_mala
+Text na mal‚ p¡smen 
+#prevod_velka_mala_inf
+Ve–k‚ p¡smen  v zadanom bloku zmen¡ na mal‚.
+Ostatn‚ znaky nemen¡.
+#kodovani_dokumentu
+k¢dovanie:
+#help_non_unicode
+Iba zmen¡ oznaŸenie znakovej sady. Font nemen¡.
+#help_inter_znaku
+Prevody medzi znakmi a viacznakovìmi sekvenciami v k¢dovaniach UTF-8 alebo UTF-16.
+Niektor‚ podfunkcie je mo§n‚ aplikovaœ aj na blok textu, in‚ iba na celì dokument.
+Pokia– d“jde k zmene Unicode/non-unicode, tak zmen¡ font.
+#help_tabkonv_znaku
+Pomocou prevodnìch tabuliek zmen¡ znaky dokumentu do in‚ho k¢dovania.
+PoŸet znakov zost va rovnakì.
+Mo§no previesœ buÔ celì text alebo len vyznaŸenì blok.
+Pokia– d“jde k zmene Unicode/non-unicode, tak zmen¡ font.
+
+#analyza_nedef_zn_dok
+Analìza nedefinovanìch znakov v celom texte
+
+#analyza_nedef_zn_blok
+Analìza nedefinovanìch znakov v urŸenom bloku
+
+#poc_vysk_nedef_znaku_n
+poŸet vìskytov znaku
+
+#poc_vysk_nedef_znaku_vse
+poŸet vçetkìch nedefinovanìch znakov
+
+#poc_vysk_nedef_znaku_unik
+poŸet unik tnych nedefinovanìch znakov:*ich rozsah:
+
+#zamena_znaku
+Z mena znaku za inì?
+#nedefinovany_znak
+Nedefinovanì znak*Analìza nedef. znakov (blok/dok)
+
+#nedefinovany_znak_zam
+Zameniœ vçetky nedefinovan‚ znaky?
+
+#zamena_znaku_radiob1
+Jednorazov  zmena znaku
+V celom dokumente
+V oznaŸenom bloku
+
+#zamena_znaku_radiob2
+vçade
+od zaŸiatku do vyznaŸen‚ho znaku
+od vyznaŸen‚ho znaku Ôalej
+
+#znak_k_zamene
+N hradnì znak...
+
+#dotaz_pri_zmene
+Dotazovaœ sa pri zmene?
+#kodovaniascii_dlg
+Pravdepodobn‚ k¢dovanie ASCII:*nemo§no urŸiœ*S£hlas¡te?
+
+#polozka_dos
+(tabu–kovo)*(beztabu–kovo)*Ôalçie...
+
+#tbl_filtr_ascii
+Prevod v skupine:*vìchodiskov‚ k¢dovanie*cie–ov‚ k¢dovanie
+
+#niz_nonunicode1
+V ktorom k¢dovan¡ je zobrazenì text?
+
+#niz_nonunicode2
+Vìchodiskov‚ a cie–ov‚ k¢dovanie s£ toto§n‚.
+¦iadne zmeny teda nevykon m.
+
+#ascii_2_utf_1
+Prevody medzi ASCII a viacznakovìmi sekvenciami UTF-8 alebo UTF-16
+
+#ascii_2_utf_2
+Blokov‚ oper cie (k¢dovanie dokumentu neprep¡na)
+
+#ascii_2_utf_3
+Celodokumentov‚ oper cie (k¢dovanie prepne na unicode)
+
+#uni_2_utf_1
+Prevody medzi Unicode a viacznakovìmi sekvenciami UTF-8 alebo UTF-16
+
+#uni_2_utf_2
+Blokov‚ oper cie (k¢dovanie dokumentu neprep¡na)
+
+#uni_2_utf_3
+Celodokumentov‚ oper cie (k¢dovanie prepne na non-unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (v k¢dovan¡ DOS)
+
+#prohozeni_endianity
+Prehodenie endianity Unicode
+
+#tab_konv_zn
+¦iadne prevody nevykon va.
+Iba dokument preznaŸ¡ ako non-Unicode
+Znaky v rozsahu 0-255 nemen¡, znaky nad 255 nahrad¡ z stupnìm symbolom.
+#zda_prenastavit_font1
+M m prenastaviœ aj font a ako k¢dovanie ud vaœ non-Unicode?
+
+#zda_prenastavit_font2
+M m prenastaviœ aj font a ako k¢dovanie ud vaœ Unicode?
+#pren_font_ano
+(m  sa prev dzaœ celì text, tak§e odpor£Ÿam µNO)
+
+#pren_font_ne
+(m  sa prev dzaœ len Ÿasœ textu, tak§e odpor£Ÿam NIE)
+
+#preznacit_kodovani
+M m preznaŸiœ k¢dovanie dokumentu?
+#zm_kod_dok
+Zmena k¢dovania dokumentu
+
+#zak_unicode
+Dokument je zak¢dovanì v çtandarde Unicode.
+
+#sada_a_filtr_souborem
+Znakov  sada a prevodnì filter dokumentu s£ urŸen‚ s£borom:
+
+#interp_nonuni
+Interpret cia non-Unicode
+
+#konv_zn_utf
+Konverzia znak/UTF sekvencia
+
+#tab_konv_zz
+Tabu–kov  konverzia znak/znak
+
+#zmena_fontu
+Zmena fontu
+
+#nas_zal_rad
+Nastavenie zalamovania riadkov
+
+#nas_zal_mozn
+pod–a okna
+78 znakov
+80 znakov
+vlastn‚...
+
+#filesel_nejde_konverze
+Zadanì n zov nemo§no spr vne previesœ do aktu lnej
+k¢dovej str nky DOSu.
+M m napriek tomu pokraŸovaœ?
+
+#podrobnosti
+Podrobnosti
+
+#moznosti...
+Mo§nosti...
+
+#form_konc_rad
+Form t koncov riadkov
+
+#form_konc_help
+Odpor£Ÿam ponechaœ çtandard CRLF, ktorì
+sa pou§¡va v prostred¡ DOS a Windows.
+LF je çtandard Unixu/Linuxu a
+CR sa £dajne pou§¡va na poŸ¡taŸoch Macintosh.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Tìka sa iba s£borov k¢dovanìch v Unicode.
+Ide o trojbajtov£ sekvenciu, ktor  sa
+uklad  na zaŸiatok s£boru.
+Odpor£Ÿa sa ukladaœ u s£borov ulo§enìch vo variantoch UTF-16.
+Pre s£bory v UTF-8 sa obvykle nepou§¡va.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Naozaj m m zafixovaœ nal manie riadkov v celom texte?
+#rozs_fix_lom_blok
+Blok neprech dza cez §iadny koniec riadka
+M m ho rozç¡riœ a pokraŸovaœ?
+
+#jen_nezalam_rezim
+T to funkcia je dostupn  iba v nezalamovacom re§ime.
+#opravdu_spoj_radky
+Naozaj m m v celom texte posp jaœ riadky v odstavcoch?
+
+#nahr_faze
+1.f za:*2.f za:*3.f za:
+
+#jen_v_bloku
+<BARVA=!;KLAVESY=l>L<SB>en v bloku
+
+#prevod_z_html_entit
+Dek¢dovanie HTML ent¡t do znakov
+
+#prevod_z_html_entit_info
+Rozpozn  HTML entity v Ÿ¡selnom form te (napr. &#8222;) a nahrad¡ ich Unicode znakmi
+
+#qr_vygenerovany
+Vygenerovanì QR k¢d
+
+#qr_ulozit
+Ulo§iœ
+
+#qr_velikost
+Ve–kosœ bodu v QR k¢de (1-20)
+
+#qr_uspech
+éspech!
+Ulo§en‚ pod n zvom:
+
+#qr_chyba
+Chyba poŸas prevodu na QR k¢d.
+
+#qr_chyba_save
+Chyba poŸas ukladania QR k¢du.
+#qr_tvorba
+Tvorba QR k¢dov
+
+#qr_text
+Text na prevedenie na QR k¢d
+
+#related_characters
+Pr¡buzn‚ znaky
+
+#zalozky
+Z lo§ky*Z lo§ka Ÿ.*Zobrazovaœ z lo§ky
+
+#menu_slovo
+menu/slovo
+
+#dialogy_menu_slovo
+Dial¢g N jdi*Dial¢g NahraÔ*VE•KíMI*malìmi*Prv‚ ve–k‚*Do schr nky
+
+#menu_radek
+menu/riadok
+
+#dialogy_menu_radek1
+Riadok do bloku:
+<BARVA=!;KLAVESY=s>s<SB>o zalamovan¡m
+<BARVA=!;KLAVESY=b>b<SB>ez zalamovania
+
+#dialogy_menu_radek2
+Medzery:
+zruç medzery na <BARVA=!;KLAVESY=z>z<SB>aŸiatku
+zruç medzery na <BARVA=!;KLAVESY=k>k<SB>onci
+
+#dialogy_menu_radek3
+Odsadenie:
+pod–a riadku <BARVA=!;KLAVESY=v>v<SB>yççie
+pod–a <BARVA=!;KLAVESY=t>t<SB>abul tora
+
+#dialogy_menu_radek4
+plus 1 * m¡nus 1 * plus 4 * m¡nus 4
+
+#pmysmenu
+<BARVA=!;KLAVESY=z>z<SB>nak
+<BARVA=!;KLAVESY=s>s<SB>lovo
+ria<BARVA=!;KLAVESY=d>d<SB>ok
+
+#doprad
+Doplnenie riadka
+
+#doprad_txt
+Nap¡ç jeden alebo viac znakov, ktorìmi
+vypln¡m priestor od konca riadku k miestu
+kliknutia myçi.
+Prednastaven  je [medzera]
+
+#zarovnani
+Zarovnanie:*do–ava*doprava
+
+#carkod_tvorba
+¬iarov‚ k¢dy
+
+#carkod_instr
+Zadaj Ÿ¡slo alebo kr tky text
+Pozn: Niektor‚ z form tov Ÿiarovìch k¢dov podporuj£ iba Ÿ¡sla.
+Okrem toho, niektor‚ k¢dovania (napr. EAN-13) predpokladaj£
+validn‚ k¢dy so spr vnym kontrolnìm s£Ÿtom.
+Nevalidn‚ Ÿ¡sla s¡ce zak¢dovaœ mo§no, ale Ÿ¡taŸky tieto k¢dy
+nemusia byœ schopn‚ preŸ¡taœ Ÿi spracovaœ.
+
+#carkod_ulozit
+Ulo§iœ
+
+#carkod_uspech
+éspech!
+Ulo§en‚ pod n zvom:
+
+#carkod_chyba
+Chyba poŸas prevodu do Ÿiarov‚ho k¢du.
+
+#carkod_chyba_save
+Chyba poŸas ukladania Ÿiarov‚ho k¢du.
+#carkod_combine
+Pridaj k¢dovanì reœazec
+
+#carkod_mozn
+Tento reœazec mo§no zak¢dovaœ do nasleduj£cich Ÿiarovìch k¢dov:

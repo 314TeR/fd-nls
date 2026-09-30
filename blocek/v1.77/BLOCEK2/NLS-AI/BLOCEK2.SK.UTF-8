@@ -1,0 +1,759 @@
+## Blocek2, slovakian, sk, cp852
+## For instructions for translators please look into file TRANSLAT.TXT
+## This translation was created by Google AI.
+## Please help the FreeDOS group to improve it.
+##
+
+#identifikuj_se
+Slovenčina   (sk)
+#identifikuj_se2
+blocek2.sk
+#sys_font
+## latin216.fv
+852-16.fv
+#sys_font_maly
+## latin214.fv
+852-14.fv
+#chyba_videomodu
+Požadovaný videomód nie je k dispozícii:
+#sys_font_kodovani
+852
+#m1
+<BARVA=!;KLAVESY=s>S<SB>úbor
+#m2
+<BARVA=!;KLAVESY=m>M<SB>ožnosti
+#m3
+<BARVA=!;KLAVESY=p>P<SB>omocník
+#m31
+<BARVA=!;KLAVESY=o>O<SB> programe
+#m32
+P<BARVA=!;KLAVESY=r>r<SB>ečítať INFO.TXT  <<Alt-F1>>
+#m33
+<BARVA=!;KLAVESY=i>I<SB>nformácie o systéme
+#m34
+<BARVA=!;KLAVESY=h>H<SB>ypertextový pomocník
+#m4
+<BARVA=!;KLAVESY=t>T<SB>ext
+#m11
+<BARVA=!;KLAVESY=n>N<SB>ový    <<F1>>
+#m12
+<BARVA=!;KLAVESY=o>O<SB>tvoriť <<F3>>
+#m13
+<BARVA=!;KLAVESY=u>U<SB>ložiť  <<F2>>
+#m14
+O<BARVA=!;KLAVESY=d>d<SB>skok do DOSu
+#m15
+<BARVA=!;KLAVESY=k>K<SB>oniec   <<ESC>>
+#m16
+<BARVA=!;KLAVESY=z>Z<SB>avrieť  <<Alt-F3>>
+#m21
+Výber <BARVA=!;KLAVESY=f>f<SB>arieb
+#m211
+Farba p<BARVA=!;KLAVESY=o>o<SB>predia
+#m212
+Farba po<BARVA=!;KLAVESY=z>z<SB>adia
+#m213
+Farba po<BARVA=!;KLAVESY=d>d<SB>kladu
+#m215
+Farba pre z<BARVA=!;KLAVESY=v>v<SB>ýraznenie riadka
+#m22
+<BARVA=!;KLAVESY=j>J<SB>azyk
+#m23
+Zvýraznenie <BARVA=!;KLAVESY=a>a<SB>kt. riadka
+#m24
+Výber <BARVA=!;KLAVESY=p>p<SB>ísma
+#m25
+Výber <BARVA=!;KLAVESY=o>o<SB>brazového filtra
+#m26
+Preferované <BARVA=!;KLAVESY=k>k<SB>lávesnice
+#m27
+<BARVA=!;KLAVESY=b>B<SB>očný panel editora
+#m28
+<BARVA=!;KLAVESY=u>U<SB>ložiť nastavenia
+#m29
+Zvýrazňovanie <BARVA=!;KLAVESY=m>m<SB>edzier
+#m41
+Prevod <BARVA=!;KLAVESY=d>d<SB>o UTF-8
+#m42
+Prevod <BARVA=!;KLAVESY=z>z<SB> UTF-8
+#m43
+Zalamo<BARVA=!;KLAVESY=v>v<SB>anie riadkov
+#m431
+Za<BARVA=!;KLAVESY=f>f<SB>ixuj nalámanie riadkov
+#m432
+<BARVA=!;KLAVESY=s>S<SB>pájanie riadkov
+#m44
+<BARVA=!;KLAVESY=h>H<SB>ľadaj      <<Ctrl-F>>
+#m45
+Hľadaj ď<BARVA=!;KLAVESY=a>a<SB>lší <<Ctrl-S>>
+#m46
+<BARVA=!;KLAVESY=n>N<SB>ahraď      <<Ctrl-H>>
+#m460
+Zál<BARVA=!;KLAVESY=o>o<SB>žky
+#m47
+<BARVA=!;KLAVESY=m>M<SB>apa znakov
+#m48
+Prevody <BARVA=!;KLAVESY=k>k<SB>ódovania <<CTRL-K>>
+#m49
+Operácie s <BARVA=!;KLAVESY=b>b<SB>lokmi
+#m490
+Generuj <BARVA=!;KLAVESY=q>Q<SB>R kód
+#m491
+Znaky do <BARVA=!;KLAVESY=h>H<SB>TML entít
+#m492
+Na <BARVA=!;KLAVESY=v>v<SB>eľké písmená
+#m493
+Na m<BARVA=!;KLAVESY=a>a<SB>lé písmená
+#m494
+H<BARVA=!;KLAVESY=t>T<SB>ML entity na znaky
+#m495
+Č<BARVA=!;KLAVESY=i>i<SB>arové kódy
+#vyber_soubor
+Vyber súbor:
+#jak_to_ulozit
+Ako to mám uložiť?
+#soubor_existuje_prepsat
+Takýto súbor už existuje
+prepísať?
+#o_programu
+O programe
+#napoveda
+nápoveda
+#varovani
+<BARVA=51200>varovanie!<SB>
+#opravdu_konec
+Naozaj skončiť?
+Neuložené zmeny budú stratené.
+#tento_soubor_uz_jednou_mame
+Tento súbor je už raz otvorený.
+Blocek ti dovolí otvoriť ho znovu,
+ale bude sa chovať nezávisle na prvej inštancii!
+tzn.
+NIE AKO IDE PASCALU
+#unicode
+unicode
+#zalamovani
+zalamovanie riadkov
+#proporcionalni_mod
+proporcionálny
+#vyber_barvu_popredi
+Vyber farbu popredia
+#vyber_barvu_pozadi
+Vyber farbu pozadia
+#vyber_barvu_zakladu
+Vyber farbu základu
+#vyber_barvu_prosv
+Vyberte si farbu
+#zda_pro_rad
+Presvecovať akt. riadok?
+#nastaveni_ulozeno
+Nastavenia uložené
+
+#zatim_neni
+Táto funkcia zatiaľ nie je k dispozícii.
+
+#hypertextova_napoveda
+Hypertextový pomocník
+
+#napoveda_koren
+Blocek - textový editor a prehliadač obrázkov
+
+Témy pomocníka:
+1) <OK="napoveda_klavesy">Ovládanie<OK/>
+2) <OK="napoveda_mys">Ovládanie myšou<OK/>
+3) <OK="napoveda_prvky">Ovládacie prvky<OK/>
+
+#napoveda_klavesy
+<FONT=surea37.fn;barva=65346>Ovládanie<SB;SF>
+<barva=65535>F10<sb>   - vstup do hlavného menu
+<barva=65535>F1<sb>    - založ nový súbor
+<barva=65535>F2<sb>    - ulož súbor
+<barva=65535>F3<sb>    - nahraj súbor
+<barva=65535>Alt+F3<sb> - zavri súbor
+<barva=65535>Alt+F1<sb> - nahraj súbor INFO.TXT
+<barva=65535>Ctrl+F<sb> - hľadaj
+<barva=65535>Ctrl+S<sb> - pokračuj v hľadaní
+<barva=65535>Ctrl+H<sb> - hľadaj a nahraď
+<barva=65535>Ctrl+A<sb> - celý dokument označ do bloku
+<barva=65535>Ctrl+Q<sb> - ponúkne príbuzný znak pre naposledy napísaný [a,á,ä...]
+<barva=65535>Ctrl+K<sb> - funkcie pre prevody znakov medzi rôznymi kódovaniami
+<barva=65535>Ctrl+L<sb> - rýchle vyvolanie menu pre úpravu riadka
+<BARVA=65535>LShift+Alt<sb> - zmeň nastavenie klávesnice
+<barva=65535>Ctrl+Alt+hore<sb>  - celý aktuálny riadok označ do bloku
+<barva=65535>Ctrl+Alt+dole<sb>   - slovo, na ktorom je kurzor, označí do bloku
+<barva=65535>Ctrl+Alt+doľava<sb>  - všetky znaky naľavo od kurzora označí do bloku
+<barva=65535>Ctrl+Alt+doprava<sb> - všetky znaky vpravo od kurzora označí do bloku
+<barva=65535>Backspace<sb> - zmaž znak vľavo od kurzora
+<barva=65535>Delete<sb> - zmaž znak vpravo od kurzora
+<barva=65535>Shift+Delete<sb> - zmaž zadaný blok
+<barva=65535>*šípky<sb> - presun kurzora
+<barva=65535>*Ctrl+PageUp<sb> alebo <barva=65535>*Ctrl+Home<sb> - preskoč na prvý riadok dokumentu
+<barva=65535>*Ctrl+PageDown<sb> alebo <barva=65535>*Ctrl+End<sb> - preskoč na posledný riadok dokumentu
+<barva=65535>*Ctrl+doprava<sb> - posun o jedno slovo doprava
+<barva=65535>*Ctrl+doľava<sb> - posun o jedno slovo doľava
+   Klávesy či klávesové kombinácie označené symbolom "*" môžu byť
+   kombinované s klávesom <barva=65535><Shift><sb>.
+V takom prípade sa spoločne s pohybom kurzora upraví rozsah bloku pre
+   zadávanie textu.
+<barva=65535>Ctrl+[1-7]<sb> - skopíruj označený blok do schránky č. 1-7
+<barva=65535>Alt+[1-7]<sb> - vlož text zo schránky č. 1-7 na aktuálnu pozíciu kurzora
+<barva=65535>Ctrl+plus<sb> a <barva=65535>Ctrl+mínus<sb> (plus a mínus na numerickej klávesnici) - rýchle rolovanie medzi otvorenými súbormi vpred či vzad
+<barva=65535>ESC<sb>   - koniec
+<barva=65535>Alt+F2<sb> - ulož aktuálnu obrazovku
+
+#napoveda_mys
+<FONT=surea37.fn;barva=65346>Ovládanie myšou<SB;SF>
+<barva=65535>1) V okne s dokumentom<SB>
+Kliknutie ľavým tlačidlom (ĽT) - presunie kurzor na dané miesto v textovom dokumente.
+ĽT+shift - špecifikuje začiatok a koniec textového bloku
+Stlačenie ĽT a ťahanie myši - interaktívne označovanie textového bloku
+Kliknutie pravým tlačidlom (PT) - zobrazí informáciu o zameranom znaku a ponúkne dialógové okno
+pre znakové konverzné funkcie.
+Taktiež ponúkne funkcie pre prácu so záložkami.
+
+<barva=65535>2) V páse kariet otvorených súborov<SB>
+Kliknutie ĽT - daný súbor prepne do hlavného okna
+Kliknutie PT - ponuka niekoľkých akcií s daným súborom
+(uzavretie, uzavretie všetkých ostatných okrem špecifikovaného, zobrazenie úplnej cesty k súboru)
+
+<barva=65535>3) V indikátore textových schránok<SB>
+Kliknutie ĽT - ponuka operácií s obsahom danej textovej schránky
+
+<barva=65535>4) Ostatné poznámky<SB>
+->> Všetky ostatné prvky grafického rozhrania teraz používajú iba ľavé tlačidlo myši
+->> Takmer všetky dialógové okná je možné posúvať po obrazovke ťahaním myši za horný titulkový pruh.
+->> Ťahaním myši po texte v informačných oknách (vrátane tohto okna) je možné označovať text a potom ho
+    klávesom <OK="napoveda_klavesy">CTRL+[1-7]<OK/> skopírovať do schránky na neskoršie obnovenie.
+
+#napoveda_prvky
+<FONT=surea37.fn;barva=65346>Ovládacie prvky<SB;SF>
+Väčšinu pracovnej plochy zaberá <barva=65535>hlavné okno<SB>. V ňom sa zobrazuje buď dokument s editovateľným textom
+alebo prehliadač s nahraným obrázkom.
+Na ľavom okraji okna s dokumentom môže byť zobrazený bočný panel signalizujúci
+akým spôsobom sú ukončené jednotlivé riadky dokumentu.
+Nad oknom editora či prehliadača sú nad sebou tri panely.
+
+<barva=65535>1) Stály riadok<SB>
+Hlavné menu s položkami: <barva=65535>Súbor<SB>, <barva=65535>Text<SB>, <barva=65535>Možnosti<SB>, <barva=65535>Pomocník<SB>
+Vpravo od tohto menu sú <OK="napoveda_indikatory">indikátory schránok<OK/> pre textové bloky očíslované 1-7.
+Ešte viac vpravo (v pravom hornom rohu) je roletový zoznam, kde je možné navoliť rozvrhnutie klávesnice.
+Tento zoznam je možné
+tiež otvoriť klávesovou skratkou <OK="napoveda_klavesy">ALT+SHIFT<OK/>
+
+<barva=65535>2) Kontextový riadok<SB>
+Mení sa v závislosti na obsahu aktuálneho hlavného okna.
+Pokiaľ je v ňom otvorený obrázok, tak vľavo zobrazuje jeho rozmery v pixeloch.
+Vpravo sú potom tlačidlá na prepnutie na celú obrazovku, na optimálne vyplnenie okna a na otáčanie a zrkadlenie obrázka.
+Pokiaľ je v hlavnom okne nahraný dokument, tak sa zobrazí tlačidlo, pod ktorým sú prístupné rôzne funkcie pre konverzie znakových sád.
+(tiež je možné vyvolať klávesovou skratkou <OK="napoveda_klavesy">CTRL+K<OK/>). Vpravo od neho je tlačidlo,
+ktorým je možné prepínať rôzne režimy pre zalamovanie riadkov podľa slov.
+Vpravo od tlačidla je zaškrtávacie políčko, ktoré prepína zalamovací a nezalamovací režim.
+Úplne vpravo sa potom zobrazuje aktuálny stĺpec a riadok s kurzorom.
+
+<barva=65535>3) Karty s otvorenými súbormi<SB>
+Kým nie je nahraný žiadny súbor, tak je spodný pás prázdny.
+Akonáhle však otvoríte nejaký súbor, tak sa v tomto páse zobrazí jeho karta.
+V Bločku je možné mať otvorené mnoho súborov naraz.
+Ich karty sa potom zobrazujú vedľa seba a <OK="napoveda_mys">myšou<OK/> je možné medzi nimi prepínať.
+Ľavé tlačidlo myši prepne hlavné okno na určený súbor (dokument alebo obrázok).
+Pravé tlačidlo myši potom otvára podmenu, ktoré ponúka zatvorenie súboru, zatvorenie všetkých súborov okrem zadaného a funkcie pre zobrazenie cesty k súboru.
+
+#napoveda_indikatory
+Pokiaľ skopírujete text do schránky (klávesom <OK="napoveda_klavesy">CTRL+[1-7]<OK/>) alebo pomocou tlačidla v dialógovom okne,
+tak sa prítomnosť obsahu v schránke znázorní tým, že príslušný indikátor zbelie a pripomína rozsvietenú žiarovku.
+Pokiaľ je daná schránka prázdna, tak sa zobrazuje čiernym symbolom preškrtnutého krúžku.
+Indikátor schránky č.7 sa môže zobrazovať ako <BARVA=65535>7W<SB>.
+To znamená, že sú k dispozícii služby systémovej schránky MS Windows (či kompatibilného rozhrania).
+V tomto prípade je schránka č.7 prepojená so schránkou Windows a je tak možné vymieňať bloky textu s ďalšími programami.
+Podrobnosti v súbore TECHNOTE.TXT
+
+#text_napovedy
+<FONT=surea37.fn>Blocek<SF>
+verzia 1.77b
+dátum kompilácie: <BARVA=65535>28.9.2026<SB>
+Laaca (laaca@seznam.cz)
+
+Blocek je textový editor a prehliadač obrázkov
+schopný okrem iného práce so súbormi v kódovaní UTF-8,
+čo ho robí veľmi vhodným napríklad na tvorbu WWW stránok.
+Blocek je schopný pracovať aj s veľmi veľkými súbormi a s veľmi
+dlhými riadkami. Ďakujem Mateuszovi Vistemu za Unicode fonty.
+Blocek sa rovnako vie chovať ako prehliadač obrázkov v bežných formátoch.
+Nie je ale schopný ich editácie.
+Tento program môže byť šírený pod podmienkami GNU/GPL licencie
+
+#parametr_otaznik
+Syntax:
+BLOCEK [súbor1 [, súbor2 [,...]]]
+#ovladani_obrazku
+fullscreen*o<<>>O*+90*-90*horiz*vert*Exif dáta
+
+#soubor_nebyl_ulozen
+Súbor nebol uložený!
+na jednotke je málo miesta alebo je
+jednotka len na čítanie
+
+#chyba_font_int
+Pri nahrávaní súboru s fontom nastala chyba
+#chyba_font_neint
+Súbor s fontom chýba alebo pri jeho nahrávaní nastala chyba:
+
+#informace_exif
+Informácie z Exif bloku
+#exif_date_strs
+Dátum a čas:*Dátum a čas originálu:*Dátum a čas obstarania snímky:
+#exif_camera_info
+Výrobca fotoaparátu:*Model fotoaparátu:*Popis:*Softvér:*Zdroj svetla:*Blesk:*Režim expozície:*ISO:*Čas expozície:*Orientácia:*Zoom:
+#exif_lightsrc_info
+Neznámy*Denné svetlo*Fluorescenčné*Volfrámové*Blesk*Štandardné svetlo A*Štandardné svetlo B*Štandardné svetlo C*D55*D65*D75*Iný zdroj*Neznámy
+#exif_flash_info
+Bez blesku*Blesk*Blesk bez predbleskov*Blesk s predbleskami*Blesk podľa automatiky*Bez blesku*Neznáme
+#exif_expos_mode
+Neznámy*Manuálny režim*Normálny program*Priorita clony*Priorita uzávierky*Kreatívny program*Režim akcie*Režim portrétu*Režim krajiny*Neznámy
+#exif_orientation_desc
+Normálna*Horiz. prevrátenie*Otočenie o 180°*Vert. prevrátenie*Otočenie o 90° vľavo a prevrátenie*Otočenie o 90° vpravo*Otočenie o 90° vpravo a prevrátenie*Otočenie o 90° vľavo*Neznáma
+#exif_zoom_unused
+Nepoužitý
+#exif_GPS_info
+Informácie o polohe GPS*šírka:*dĺžka:*výška:*azimut*S*J*Z*V*m*stupne*min*sek
+#zkopirovat_exif
+Do schránky
+#nejde_o_obrazek
+Súbor je poškodený alebo obrazové
+dáta nie sú v podporovanom formáte
+Súbor bude otvorený ako text.
+#nelze_fixovat_zalamani
+Táto funkcia je dostupná
+iba v zalamovacom režime.
+#vyhledavani
+Vyhľadávanie
+#rezim_vyhled
+<POZADI=1147;BARVA=65535>režim vyhľadávania<POZADI=->
+#vyhled_mozn
+od kurzora <BARVA=!;KLAVESY=d>d<SB>alej
+od kurzora <BARVA=!;KLAVESY=s>s<SB>päť
+od začiatku sú<BARVA=!;KLAVESY=b>b<SB>oru
+#roz_vel_pismen
+Rozl<BARVA=!;KLAVESY=i>i<SB>šovať veľkosť písmen
+
+#text_nenalezen
+Zadaný text nebol nájdený.
+#nahradit_vyskyt
+Mám nahradiť tento výskyt?
+#potvrzovat
+<BARVA=!;KLAVESY=p>p<SB>otvrdzovať
+#nahradvse
+nahraď <BARVA=!;KLAVESY=v>v<SB>šetko
+#hledany_text
+hľadaný text:
+#novy_text
+nový text
+#nahrada_textu
+náhrada textu
+#vyber_filtr
+Vyber filter
+#opravdu_zavrit
+Súbor bol zmenený.
+Mám ho uložiť?
+#zavrit_ostatni
+Zavrieť všetky ostatné
+#umisteni_souboru
+Umiestnenie súboru
+#bezejmenny
+<BARVA=46815><<nový>><SB>
+#bezejmenny_soubor
+Nový súbor
+
+#zrusit_nac
+Prerušiť načítavanie?
+#chybi_bcfg
+Konfiguračný súbor <BARVA=65535>BLOCEK.CFG<SB>
+zatiaľ neexistuje.
+Vytvorím ho skopírovaním súboru
+<BARVA=65535>DEFAULT.CFG<SB>
+#chybny_bcfg
+Konfiguračný súbor <BARVA=65535>BLOCEK.CFG<SB>
+nie je v požadovanom formáte.
+Preto ho prepíšem súborom
+<BARVA=65535>DEFAULT.CFG<SB>
+#pridani_bcfg
+Do konfiguračného súboru <BARVA=65535>BLOCEK.CFG<SB>
+boli zo súboru <BARVA=65535>DEFAULT.CFG<SB> prekopírované tieto položky:
+#pocet_zmen
+Nájdené*Počet zmien:*Počet výskytov*<BARVA=!;KLAVESY=r>R<SB>ežim počítania
+#neniswap
+Váš systém nepodporuje virtuálnu pamäť!
+To môže byť nebezpečné a hrozí nedostatok pamäte.
+Skúste použiť iného správcu DPMI.
+momentálne je nainštalovaný:
+#dpmineznamy
+<BARVA=333>neznámy správca DPMI :-(<SB>
+#kaslinaswap
+(Túto kontrolu môžete zrušiť v BLOCEK.CFG nastavením
+<BARVA=65530>zkontroluj_swap = 0<SB>)
+#plnyseznam
+Úplný zoznam...
+#vybprefkl
+Ktoré klávesnice majú byť v základnej ponuke?
+#vybprefflt
+Ktoré filtre majú byť v základnej ponuke?
+
+#asciiauto
+autodetekcia
+
+#vkod
+<PODTRH=+>východiskové<PODTRH=->
+#ckod
+<PODTRH=+>cieľové<PODTRH=->
+#oznaceno
+označené:
+#ozn_nic
+nič
+#kompinfo
+Procesor:*Pamäť:*MB RAM*Video:* Verzia VESA:*Videomód:*Videopamäť*Obnovovacia frekvencia:*BIOS default*Verzia DOSu:*Znaková sada DOSu:*Kód štátu podľa DOSu:*OS
+#videomody
+<BARVA=!;KLAVESY=v>V<SB>ideomódy*Prehľad videomódov
+#kompinfo_lfn
+Dlhé názvy súborov (LFN):
+#schranka_c
+Schránka č.
+#schranka_do
+Kopírovať do schránky
+#schranka_ze
+Vložiť zo schránky
+#schranka_copy
+Prekopírovať do inej schránky
+#schranka_smaz
+Zmaž
+#vyber_jazyk
+Vyber jazyk
+#nutny_restart
+Pre prepnutie jazyka je potrebný reštart programu.
+#prevod_html_entity
+Prevod do HTML entít
+#prevod_html_ent_info
+Znaky s ASCII alebo Unicode hodnotou nad 127
+prevedie do HTML entít.
+Rozsah prevodu je určený textovým blokom.
+#text_je_v_unicode
+Text je v unicode.
+#text_je_v_ascii
+Text je v ASCII kódovaní a bude
+prevedený podľa konverznej tabuľky.
+#neni_oz_blok
+Nie je označený žiadny blok - budem teda prevádzať
+celý text
+#prevod_mala_velka
+Text na veľké písmená
+#prevod_mala_velka_inf
+Malé písmená v zadanom bloku zmení na veľké.
+Ostatné znaky nemení.
+#prevod_velka_mala
+Text na malé písmená
+#prevod_velka_mala_inf
+Veľké písmená v zadanom bloku zmení na malé.
+Ostatné znaky nemení.
+#kodovani_dokumentu
+kódovanie:
+#help_non_unicode
+Iba zmení označenie znakovej sady. Font nemení.
+#help_inter_znaku
+Prevody medzi znakmi a viacznakovými sekvenciami v kódovaniach UTF-8 alebo UTF-16.
+Niektoré podfunkcie je možné aplikovať aj na blok textu, iné iba na celý dokument.
+Pokiaľ dôjde k zmene Unicode/non-unicode, tak zmení font.
+#help_tabkonv_znaku
+Pomocou prevodných tabuliek zmení znaky dokumentu do iného kódovania.
+Počet znakov zostáva rovnaký.
+Možno previesť buď celý text alebo len vyznačený blok.
+Pokiaľ dôjde k zmene Unicode/non-unicode, tak zmení font.
+
+#analyza_nedef_zn_dok
+Analýza nedefinovaných znakov v celom texte
+
+#analyza_nedef_zn_blok
+Analýza nedefinovaných znakov v určenom bloku
+
+#poc_vysk_nedef_znaku_n
+počet výskytov znaku
+
+#poc_vysk_nedef_znaku_vse
+počet všetkých nedefinovaných znakov
+
+#poc_vysk_nedef_znaku_unik
+počet unikátnych nedefinovaných znakov:*ich rozsah:
+
+#zamena_znaku
+Zámena znaku za iný?
+#nedefinovany_znak
+Nedefinovaný znak*Analýza nedef. znakov (blok/dok)
+
+#nedefinovany_znak_zam
+Zameniť všetky nedefinované znaky?
+
+#zamena_znaku_radiob1
+Jednorazová zmena znaku
+V celom dokumente
+V označenom bloku
+
+#zamena_znaku_radiob2
+všade
+od začiatku do vyznačeného znaku
+od vyznačeného znaku ďalej
+
+#znak_k_zamene
+Náhradný znak...
+
+#dotaz_pri_zmene
+Dotazovať sa pri zmene?
+#kodovaniascii_dlg
+Pravdepodobné kódovanie ASCII:*nemožno určiť*Súhlasíte?
+
+#polozka_dos
+(tabuľkovo)*(beztabuľkovo)*ďalšie...
+
+#tbl_filtr_ascii
+Prevod v skupine:*východiskové kódovanie*cieľové kódovanie
+
+#niz_nonunicode1
+V ktorom kódovaní je zobrazený text?
+
+#niz_nonunicode2
+Východiskové a cieľové kódovanie sú totožné.
+Žiadne zmeny teda nevykonám.
+
+#ascii_2_utf_1
+Prevody medzi ASCII a viacznakovými sekvenciami UTF-8 alebo UTF-16
+
+#ascii_2_utf_2
+Blokové operácie (kódovanie dokumentu neprepína)
+
+#ascii_2_utf_3
+Celodokumentové operácie (kódovanie prepne na unicode)
+
+#uni_2_utf_1
+Prevody medzi Unicode a viacznakovými sekvenciami UTF-8 alebo UTF-16
+
+#uni_2_utf_2
+Blokové operácie (kódovanie dokumentu neprepína)
+
+#uni_2_utf_3
+Celodokumentové operácie (kódovanie prepne na non-unicode [DOS])
+
+#uni_2_utf_4
+Unicode --> UTF-8 (v kódovaní DOS)
+
+#prohozeni_endianity
+Prehodenie endianity Unicode
+
+#tab_konv_zn
+Žiadne prevody nevykonáva.
+Iba dokument preznačí ako non-Unicode
+Znaky v rozsahu 0-255 nemení, znaky nad 255 nahradí zástupným symbolom.
+#zda_prenastavit_font1
+Mám prenastaviť aj font a ako kódovanie udávať non-Unicode?
+
+#zda_prenastavit_font2
+Mám prenastaviť aj font a ako kódovanie udávať Unicode?
+#pren_font_ano
+(má sa prevádzať celý text, takže odporúčam ÁNO)
+
+#pren_font_ne
+(má sa prevádzať len časť textu, takže odporúčam NIE)
+
+#preznacit_kodovani
+Mám preznačiť kódovanie dokumentu?
+#zm_kod_dok
+Zmena kódovania dokumentu
+
+#zak_unicode
+Dokument je zakódovaný v štandarde Unicode.
+
+#sada_a_filtr_souborem
+Znaková sada a prevodný filter dokumentu sú určené súborom:
+
+#interp_nonuni
+Interpretácia non-Unicode
+
+#konv_zn_utf
+Konverzia znak/UTF sekvencia
+
+#tab_konv_zz
+Tabuľková konverzia znak/znak
+
+#zmena_fontu
+Zmena fontu
+
+#nas_zal_rad
+Nastavenie zalamovania riadkov
+
+#nas_zal_mozn
+podľa okna
+78 znakov
+80 znakov
+vlastné...
+
+#filesel_nejde_konverze
+Zadaný názov nemožno správne previesť do aktuálnej
+kódovej stránky DOSu.
+Mám napriek tomu pokračovať?
+
+#podrobnosti
+Podrobnosti
+
+#moznosti...
+Možnosti...
+
+#form_konc_rad
+Formát koncov riadkov
+
+#form_konc_help
+Odporúčam ponechať štandard CRLF, ktorý
+sa používa v prostredí DOS a Windows.
+LF je štandard Unixu/Linuxu a
+CR sa údajne používa na počítačoch Macintosh.
+#form_konc_mozn
+CRLF (DOS/win)
+LF (Unix)
+CR (Mac)
+
+#b_ord_mark
+Byte order mark (BOM)
+
+#bom_help
+"BOM" = "byte order mark"
+Týka sa iba súborov kódovaných v Unicode.
+Ide o trojbajtovú sekvenciu, ktorá sa
+ukladá na začiatok súboru.
+Odporúča sa ukladať u súborov uložených vo variantoch UTF-16.
+Pre súbory v UTF-8 sa obvykle nepoužíva.
+
+#bom_mozn
+UTF-8
+UTF-16le
+UTF-16be
+
+#opravdu_fix_lom
+Naozaj mám zafixovať nalámanie riadkov v celom texte?
+#rozs_fix_lom_blok
+Blok neprechádza cez žiadny koniec riadka
+Mám ho rozšíriť a pokračovať?
+
+#jen_nezalam_rezim
+Táto funkcia je dostupná iba v nezalamovacom režime.
+#opravdu_spoj_radky
+Naozaj mám v celom texte pospájať riadky v odstavcoch?
+
+#nahr_faze
+1.fáza:*2.fáza:*3.fáza:
+
+#jen_v_bloku
+<BARVA=!;KLAVESY=l>L<SB>en v bloku
+
+#prevod_z_html_entit
+Dekódovanie HTML entít do znakov
+
+#prevod_z_html_entit_info
+Rozpozná HTML entity v číselnom formáte (napr. &#8222;) a nahradí ich Unicode znakmi
+
+#qr_vygenerovany
+Vygenerovaný QR kód
+
+#qr_ulozit
+Uložiť
+
+#qr_velikost
+Veľkosť bodu v QR kóde (1-20)
+
+#qr_uspech
+Úspech!
+Uložené pod názvom:
+
+#qr_chyba
+Chyba počas prevodu na QR kód.
+
+#qr_chyba_save
+Chyba počas ukladania QR kódu.
+#qr_tvorba
+Tvorba QR kódov
+
+#qr_text
+Text na prevedenie na QR kód
+
+#related_characters
+Príbuzné znaky
+
+#zalozky
+Záložky*Záložka č.*Zobrazovať záložky
+
+#menu_slovo
+menu/slovo
+
+#dialogy_menu_slovo
+Dialóg Nájdi*Dialóg Nahraď*VEĽKÝMI*malými*Prvé veľké*Do schránky
+
+#menu_radek
+menu/riadok
+
+#dialogy_menu_radek1
+Riadok do bloku:
+<BARVA=!;KLAVESY=s>s<SB>o zalamovaním
+<BARVA=!;KLAVESY=b>b<SB>ez zalamovania
+
+#dialogy_menu_radek2
+Medzery:
+zruš medzery na <BARVA=!;KLAVESY=z>z<SB>ačiatku
+zruš medzery na <BARVA=!;KLAVESY=k>k<SB>onci
+
+#dialogy_menu_radek3
+Odsadenie:
+podľa riadku <BARVA=!;KLAVESY=v>v<SB>yššie
+podľa <BARVA=!;KLAVESY=t>t<SB>abulátora
+
+#dialogy_menu_radek4
+plus 1 * mínus 1 * plus 4 * mínus 4
+
+#pmysmenu
+<BARVA=!;KLAVESY=z>z<SB>nak
+<BARVA=!;KLAVESY=s>s<SB>lovo
+ria<BARVA=!;KLAVESY=d>d<SB>ok
+
+#doprad
+Doplnenie riadka
+
+#doprad_txt
+Napíš jeden alebo viac znakov, ktorými
+vyplním priestor od konca riadku k miestu
+kliknutia myši.
+Prednastavená je [medzera]
+
+#zarovnani
+Zarovnanie:*doľava*doprava
+
+#carkod_tvorba
+Čiarové kódy
+
+#carkod_instr
+Zadaj číslo alebo krátky text
+Pozn: Niektoré z formátov čiarových kódov podporujú iba čísla.
+Okrem toho, niektoré kódovania (napr. EAN-13) predpokladajú
+validné kódy so správnym kontrolným súčtom.
+Nevalidné čísla síce zakódovať možno, ale čítačky tieto kódy
+nemusia byť schopné prečítať či spracovať.
+
+#carkod_ulozit
+Uložiť
+
+#carkod_uspech
+Úspech!
+Uložené pod názvom:
+
+#carkod_chyba
+Chyba počas prevodu do čiarového kódu.
+
+#carkod_chyba_save
+Chyba počas ukladania čiarového kódu.
+#carkod_combine
+Pridaj kódovaný reťazec
+
+#carkod_mozn
+Tento reťazec možno zakódovať do nasledujúcich čiarových kódov:
