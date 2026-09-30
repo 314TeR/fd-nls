@@ -1,0 +1,55 @@
+; This file is a part of CuteMouse source
+; Here are messages in Hungarian
+; Translated by Nagy Daniel <nagyd@users.sourceforge.net>
+
+E_needvga       db 'No VGA? Use older CTMOUSE if you need EGA RIL support',nl,eos
+E_error		db nl,'Hiba: Érvénytelen opció'
+E_option	db eos
+E_argument	db ' argumentum',eos
+E_help		db 5,nl,'A /? parancs ad további segítséget',eos
+
+E_mousepresent	db 5,'Az egérmeghajtó már telepítve van',eos
+E_notfound	db 5,'Hiba: az eszköz nem található',eos
+;;+E_noIRQ	db 5,'Hiba: az IRQ nem detektálható',eos
+
+E_nocute	db 1,'CuteMouse meghajtó nincs telepítve!',eos
+E_notunload	db 2,'Egérmeghajtó nem távolítható el: a megszakításokat más program használja...',eos
+S_unloaded	db 0,'Egérmeghajtó sikeresen eltávolítva...',eos
+
+S_reset		db 'Rezidens rész átállítva: ',eos
+S_installed	db 'Telepítve: ',eos
+S_atPS2		db 'PS/2 port',eos
+S_atCOM		db 'COM'
+com_port	db ?,' ('
+S_atIO		db '0000h/IRQ'
+IRQno		db ?
+S_in		db ') in ',eos
+S_inMSYS	db 'Mouse Systems mód',eos
+S_inMS		db 'Microsoft mód',eos
+S_inLT		db 'Logitech mód',eos
+S_wheel		db ' (görgetôgomb támogatva)'
+S_CRLF		db nl,eos
+
+Copyright	db nl,'CuteMouse v',CTMRELEASE,' [FreeDOS]',nl,eos
+Syntax		label byte
+    db 0,'Opciók:',nl
+    db '  /P	   - PS/2 egér mód',nl
+    db '  /S[c[i]] - soros egér mód a c COM porton (1-4) az i IRQ megszakításon (1-7)',nl
+;;+ db '  /S$a[,i] - soros egér mód az a I/O címen (hexadecimális szám)',nl
+;;+ db '	     és i IRQ megszakításon (1-7)',nl
+    db '  /O       - enable PS2 and BIOS USB wheel detection (might hang)',nl
+; 2008: made /Y (ignore MSys) the default and introduced /M (enable MSys)
+;   db '  /Y	   - do not try Mouse Systems mode for non-PnP devices',nl,nl
+    db '  /M       - try *old* Mouse Systems / Genius for non-PnP mice',nl,nl
+    db '  /V	   - fordított keresés: soros portok majd PS/2 port vizsgálata',nl
+    db '  /3	   - 3 gombos mód (Microsoft és PS/2 egér esetén)',nl
+    db '  /R[h[v]] - horizontális/vertikális felbontás (h,v=0-9; hiányzó R opció,',nl
+    db '	     hiányzó argumentum vagy 0 argumentum esetén automatikus felbontás;',nl
+    db '	     hiányzó második argumentum esetén horizontális érték használata)',nl
+    db '  /L	   - balkezes mód (jobbkezes mód az alapbeállítás)',nl
+    db '  /B	   - telepítés megakadályozása, ha másik egérmeghajtó telepítve van',nl
+    db '  /N	   - CuteMouse betöltése új TSR-ként akkor is, ha már telepítve van',nl
+    db '	     (batch programoknál hasznos, melyek eltávolítják a CuteMouse-t)',nl
+    db '  /W	   - UMB használatának tiltása',nl
+    db '  /U	   - egérmeghajtó eltávolítása',nl
+    db '  /?	   - ez a help üzenet',eos

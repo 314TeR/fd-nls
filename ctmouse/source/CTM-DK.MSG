@@ -1,0 +1,56 @@
+; Language: Danish, dk, CP865
+; created by Google Gemini, 
+; please help the FreeDOS group to improve it.
+; This file is a part of CuteMouse source
+; Here are messages in Danish
+
+E_needvga       db 'Ingen VGA? Brug ‘ldre CTMOUSE, hvis du har brug for EGA RIL',nl,eos
+E_error         db nl,'Fejl: Ugyldig indstilling'
+E_option    db eos
+E_argument  db ' argument',eos
+E_help      db 5,nl,'Skriv /? p† kommandolinjen for hj‘lp',eos
+
+E_mousepresent  db 5,'Musetjenester er allerede indl‘st',eos
+E_notfound  db 5,'Fejl: Enheden blev ikke fundet',eos
+;;+E_noIRQ  db 5,'Fejl: IRQ-linje ikke registreret',eos
+
+E_nocute    db 1,'CuteMouse-driveren er ikke installeret!',eos
+E_notunload db 2,'Afl‘sning af driver mislykkedes: Nogle interrupts blev opsnappet...',eos
+S_unloaded  db 0,'Driveren er fjernet med succes...',eos
+
+S_reset     db 'Resident del nulstillet til ',eos
+S_installed db 'Installeret p† ',eos
+S_atPS2     db 'PS/2-port',eos
+S_atCOM     db 'COM'
+com_port    db ?,' ('
+S_atIO      db '0000h/IRQ'
+IRQno       db ?
+S_in        db ') i ',eos
+S_inMSYS    db 'Mouse Systems-tilstand',eos
+S_inMS      db 'Microsoft-tilstand',eos
+S_inLT      db 'Logitech-tilstand',eos
+S_wheel     db ' (musehjul fundet)'
+S_CRLF      db nl,eos
+
+Copyright   db nl,'CuteMouse v',CTMRELEASE,' [FreeDOS]',nl,eos
+Syntax      label byte
+    db 0,nl,'Indstillinger:',nl
+    db '  /V       - Omvendt s›gning: Find PS/2 efter seriel mus',nl
+    db '  /P       - Gennemtving PS/2-tilstand, test ikke serielle porte',nl
+    db '  /S[c[i]] - Gennemtving seriel mus p† COM c (1-4) med IRQ i (1-7)',nl
+    db '  /3       - Gennemtving 3-knapstilstand ved Microsoft/PS2-mus',nl
+; Note: /O now acts inverse compared to 2.1 beta 3
+    db '  /O       - Aktiv‚r PS2 & BIOS USB hjul-detektion (kan fryse)',nl
+; 2008: made /Y (ignore MSys) the default and introduced /M (enable MSys)
+;   db '  /Y       - Pr›v ikke Mouse Systems-tilstand for non-PnP-enheder',nl,nl
+    db '  /M       - Pr›v *gamle* Mouse Systems/Genius til non-PnP-mus',nl,nl
+    db '  /R[h[v]] - Horisontal / vertikal opl›sning: h,v = 1-9, 0 for auto',nl
+    db '         (Ingen v‘rdi = standard: auto for h, eller "som h" for v)',nl
+    db '  /L       - Ombyt venstre og h›jre museknap',nl,nl
+;
+    db '  /B       - Afbryd, hvis musetjenester allerede er indl‘st',nl
+    db '  /N       - Indl‘s CuteMouse som ny TSR, selv hvis allerede indl‘st',nl
+    db '         (Nyttigt til batch-filer, som fjerner CuteMouse til sidst)',nl
+    db '  /W       - Tillad ikke CuteMouse at flytte sig selv til UMB',nl
+    db '  /U       - Afinstaller driver, fjern TSR fra hukommelsen',nl
+    db '  /?       - Vis denne hj‘lp',eos

@@ -1,0 +1,58 @@
+; This file is a part of CuteMouse source
+; Here are messages in Slovak
+; Translated by Henrich Fukna <henrich.fukna@kiwwi.sk>, <fuky@azet.sk>
+;
+; Note: this file should be used with codepage 852
+
+E_needvga       db 'No VGA? Use older CTMOUSE if you need EGA RIL support',nl,eos
+E_error		db nl,'Chyba: Neznámy ',eos
+E_option	db 'prepínač',eos
+E_argument	db 'argument prepínača',eos
+E_help		db 5,nl,'Napíšte /? do príkazového riadku pre nápoveď',eos
+
+E_mousepresent	db 5,'Služba myši už je prítomná',eos
+E_notfound	db 5,'Chyba: zariadenie nenájdené',eos
+;;+E_noIRQ	db 5,'Chyba: IRQ nedetegované',eos
+
+E_nocute	db 1,'CuteMouse ovládač nie je nainštalovaný!',eos
+E_notunload	db 2,'Ovládač nemožno odinštalovať: niektoré prerušenia sú zmenené...',eos
+S_unloaded	db 0,'Ovládač úspešne odinštalovaný...',eos
+
+S_reset		db 'Rezidentná časť nastavená na ',eos
+S_installed	db 'Inštalovaný na ',eos
+S_atPS2		db 'porte PS/2',eos
+S_atCOM		db 'COM'
+com_port	db ?,' ('
+S_atIO		db '0000h/IRQ'
+IRQno		db ?
+S_in		db ') pre ',eos
+S_inMSYS	db 'Mouse Systems mód',eos
+S_inMS		db 'Microsoft mód',eos
+S_inLT		db 'Logitech mód',eos
+S_wheel		db ' (podpora kolieska)'
+S_CRLF		db nl,eos
+
+Copyright	db nl,'CuteMouse v',CTMRELEASE,' [FreeDOS]',nl,eos
+Syntax		label byte
+    db 0,'Možnosti:',nl
+    db '  /P	   - vynúti PS/2 mód',nl
+    db '  /S[c[i]] - vynúti sériový mód na COM porte c (1-4) s IRQ i (1-7)',nl
+;;+ db '  /S$a[,i] - vynúti sériový mód na I/O adrese a (hexadecimálne číslo)',nl
+;;+ db '	     s IRQ i (1-7)',nl
+    db '  /O       - enable PS2 and BIOS USB wheel detection (might hang)',nl
+; 2008: made /Y (ignore MSys) the default and introduced /M (enable MSys)
+;   db '  /Y	   - do not try Mouse Systems mode for non-PnP devices',nl,nl
+    db '  /M       - try *old* Mouse Systems / Genius for non-PnP mice',nl,nl
+    db '  /V	   - opačné hľadanie: PS/2 po sériových myšiach',nl
+    db '  /3	   - vynúti 3-tlačítkový mód (pre Microsoft a PS/2 myši)',nl
+    db '  /R[h[v]] - horizontálne/vertikálne rozlíšenie (h,v=0-9; chýbajúca voľba R,',nl
+    db '	     žiadne argumenty alebo 0 ako argument po R znamená automatické',nl
+    db '	     rozlíšenie, chýbajúci druhý argument znamená rovnakú hodnotu',nl
+    db '	     ako pre prvý argument)',nl
+    db '  /L	   - mód pre ľavú ruku (prednastavené pre pravú ruku)',nl
+    db '  /B	   - preruší vykonávanie ak služba myši je už prítomná',nl
+    db '  /N	   - načíta CuteMouse ako nový TSR, aj keď je už CuteMouse načítaný',nl
+    db '	     (vhodné pre dávkové súbory ktoré odinštalúvajú CuteMouse na konci)',nl
+    db '  /W	   - zabráni načítaniu TSR do UMB',nl
+    db '  /U	   - odinštaluje ovládač',nl
+    db '  /?	   - zobrazí návod na použitie',eos
