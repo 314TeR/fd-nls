@@ -1,0 +1,153 @@
+# Language: Latvian
+# File ending: lv
+# Codepage: 775
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Nav pietiekami atmiìas. NepiecieÕami v‰l %ld baiti.\n
+0.1:SISTíMAS ATMIîA BOJ TA! (int 21.5803 kë×da)\n
+0.2:UMB kë×da: è‰de nesasniedz pamatatmiìas augÕu pie %dk. P‰d‰jais=0x%x.\n
+0.3:MCB é‰de bojƒta (nav Z MCB p‰c p‰d‰jƒ M MCB, bet %c atrodas segm. 0x%x).\n
+0.4:Izmantojiet /? palŒdzŒbai\n
+0.5:Nezinƒms sl‰dzis: %s\n%s
+0.6:Sl‰dzis /NOSUMMARY norƒdŒts bez citiem izvades sl‰dØiem.\nIzvade netiks veidota.\n%s
+0.7:Kritiska kë×da: neizdevƒs atbrŒvot HMA, kë×das kods %02Xh\n
+0.8:Nezinƒms sl‰dzis (gaidŒts '/'): %s\n%s
+0.9:GaidŒta v‰rtŒba p‰c /%s, nevis cits sl‰dzis\n%s
+0.10:IekÕ‰ja kë×da: sl‰dzim '%s' ir prefikss '%s'\nun v‰l viens tƒda paÕa garuma prefikss
+0.11:IekÕ‰ja kë×da: sl‰dzis '%s' precŒzi atbilst diviem\ndaØƒdiem sl‰dØiem\n
+0.12:Kë×da: sl‰dzis '%s' ir neviennozŒmŒgs - daë‰ja atbilstŒba\ndiviem vai vairƒkiem daØƒdiem sl‰dØiem\n%s
+0.13:GaidŒta v‰rtŒba p‰c /%s\n%s
+0.14:NederŒgs sl‰dzis '%s': jƒnorƒda vismaz viens burts\nno sl‰dØa nosaukuma
+# misc messages
+1.0:Nezinƒma oper‰tƒjsist‰ma
+1.1:%s baiti\n
+1.2:(%s baiti)\n
+1.3: (%7s baiti)\n
+1.4:BrŒdinƒjums: Õéiet, ka ierŒce pieder vairƒkiem\natmiìas blokiem (%s un %s)\n
+1.5:(nav diska)
+1.6:Nav brŒvas %s atmiìas\n
+1.7:%s paÕlaik nav atmiìƒ.\n
+1.8:%s izmanto Õƒdu atmiìu:\n
+1.9:%s atmiìa nav pieejama\n
+# memory types
+2.0:Atmiìas tips      Kopƒ       Izmantots  BrŒvs\n
+#   ----------------  --------   --------   --------
+2.1:Pamatatmiìa
+2.2:AugÕ‰jƒ
+2.3:Rezerv‰tƒ
+2.4:PaplaÕinƒtƒ (XMS)
+2.5:Kop‰jƒ atmiìa
+2.6:Kopƒ zem 1 MB
+2.7:Kopƒ Ekspand‰tƒ (EMS)
+2.8:BrŒvƒ Ekspand‰tƒ (EMS)
+2.9:Lielƒkƒ izpildƒmƒs programmas atmiìa
+2.10:Lielƒkais brŒvais UMB bloks
+2.11:%s atrodas augstƒs atmiìas apgabalƒ (HMA).\n
+2.12:Pieejamƒ vieta HMA apgabalƒ
+2.13:HMA ir pieejama caur XMS draiveri\n
+2.14:HMA nav pieejama caur XMS: draiveris to neatbalsta\n
+2.15:HMA nav pieejama caur XMS draiveri: atrasta VDISK ierŒce\n
+2.16:HMA nav pieejama caur XMS draiveri: HMA neeksist‰\n
+2.17:HMA nav pieejama caur XMS draiveri: HMA jau tiek izmantota\n
+2.18:HMA nav pieejama caur XMS: HMAMIN ir lielƒks nekƒ HMA\n
+2.19:HMA pieejama caur XMS, min. TSR izm‰rs (HMAMIN): %u baiti\n
+2.20:HMA nav pieejama caur XMS draiveri: nezinƒma kë×da %02Xh\n
+2.21:HMA nav pieejama, jo nav ielƒd‰ts XMS draiveris\n
+2.22:Atmiìa pieejama caur Int 15h
+2.23:Atmiìa nav pieejama caur Int 15h (kods %02xh)\n
+# block types
+3.0:
+3.1:brŒvs
+3.2:sist‰mas kods
+3.3:sist‰mas dati
+3.4:programma
+3.5:vide
+3.6:datu apgabals
+3.7:rezerv‰ts
+3.8:pƒrtraukumu vektoru tabula
+3.9:BIOS datu apgabals
+3.10:sist‰mas dati
+3.11:ierŒces draiveris
+3.12:datu apgabals
+3.13:IFS
+3.14:(kë×da)
+# classify msgs
+4.0:\nModuëi, kas izmanto atmiìu zem 1 MB:\n\n
+4.1:  Nosaukums Kopƒ               Pamatatmiìa        AugÕ‰jƒ Atmiìa\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SISTíMA
+4.3:BrŒvs
+4.4:\nSegments  Kopƒ              Nosaukums     Tips\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Adrese      Atr.    Nosaukums  Programma\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegments  Kopƒ\n
+#     -------  ----------------
+#            ----------------
+4.7:Kopƒ: 
+4.8:sist‰mas ierŒces draiveris\n
+4.9:instal‰ts DEVICE=%s\n
+4.10:%s atmiìas detaëas:\n
+4.11:BrŒvƒ %s atmiìa:\n
+4.12: (%u Õajƒ blokƒ)
+# EMS stuff
+5.0:IEK¾íJA EMS KêÇDA.\n
+5.1:  EMS draiveris nav instal‰ts sist‰mƒ.\n
+5.2:EMS draivera versija
+5.3:EMS lapu rƒmis
+5.4:Kop‰jƒ EMS atmiìa
+5.5:BrŒvƒ EMS atmiìa
+5.6:Kop‰jais rokturu skaits
+5.7:BrŒvie rokturi
+5.8:\n  Rokturis Lapas    Izm‰rs     Nosaukums\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS draiveris nav instal‰ts sist‰mƒ.\n
+6.1:\nTest‰ XMS atmiìu ...\n
+6.2:IEK¾íJA XMS KêÇDA.\n
+6.3:INT 2F AX=4309 atbalstŒts\n
+6.4:XMS versija
+6.5:XMS draivera versija
+6.6:HMA
+6.7:eksist‰
+6.8:neeksist‰
+6.9:A20 lŒnija
+6.10:iesl‰gta
+6.11:izsl‰gta
+6.12:BrŒvƒ XMS atmiìa
+6.13:Maks. brŒvais XMS bloks
+6.14:BrŒvie rokturi
+6.15: Bloks   Rokturis   Izm‰rs   Bloé‰jumi\n
+#    ------- --------  --------  -------
+6.16:BrŒvƒ augÕ‰jƒ atmiìa
+6.17:Lielƒkais augÕ‰jais bloks
+6.18:AugÕ‰jƒ atmiìa nav pieejama\n
+# help message
+7.0:FreeDOS MEM versija %s
+7.1:Parƒda izmantotƒs un brŒvƒs atmiìas apjomu j×su sist‰mƒ.
+7.2:Sintakse: MEM [nulle vai vairƒki no zemƒk norƒdŒtajiem sl‰dØiem]
+7.3:/E          Parƒda visu informƒciju par Ekspand‰to Atmiìu (EMS)
+7.4:/FULL       Pilns atmiìas bloku saraksts
+7.5:/C          Klasific‰ moduëus, kas izmanto atmiìu zem 1 MB
+7.6:/DEVICE     Sist‰mas atmiìƒ esoÕo ierŒÑu draiveru saraksts
+7.7:/U          Programmu saraksts pamatatmiìƒ un augÕ‰jƒ atmiìƒ
+7.8:/X          Parƒda visu informƒciju par PaplaÕinƒto Atmiìu (XMS)
+7.9:/P          Aptur izvadi p‰c katra pilna ekrƒna
+7.10:/?          Parƒda Õo palŒdzŒbas paziìojumu
+7.11:/DEBUG      Parƒda programmas un ierŒces pamatatmiìƒ/augÕ. atmiìƒ
+7.12:/M <nosauk> | /MODULE <nosauk>\n            Parƒda atmiìu, ko izmanto norƒdŒtƒ programma vai draiveris
+7.13:/FREE       Parƒda brŒvos pamatatmiìas un augÕ‰jƒs atmiìas blokus
+7.14:/ALL        Parƒda visu informƒciju par augstƒs atmiìas apgabalu (HMA)
+7.15:/NOSUMMARY  Sl‰pj kopsavilkumu, kas parasti tiek parƒdŒts, kad\n            nav norƒdŒti citi sl‰dØi
+7.16:/SUMMARY    Atceë sl‰dØa /NOSUMMARY darbŒbu
+7.17:/%-10s ¾im sl‰dzim palŒdzŒba nav pieejama\n
+7.18:/OLD        SaderŒba ar FreeDOS MEM 1.7 beta
+7.19:/D          Kƒ /DEBUG p‰c noklus‰juma (vai /DEVICE, ja lieto /OLD)
+7.20:/F          Kƒ /FREE p‰c noklus‰juma (vai /FULL, ja lieto /OLD)
+8.0:\nNospiediet <Enter>, lai turpinƒtu, vai <Esc>, lai izietu . . .
+# Memory type names
+9.0:Pamatatmiìa
+9.1:AugÕ‰jƒ
+9.2:(kë×da)

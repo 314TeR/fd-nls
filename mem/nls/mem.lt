@@ -1,0 +1,153 @@
+# Language: Lithuanian
+# File ending: lt
+# Codepage: 775
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Nepakanka atminties. Reikia dar %ld bait÷.\n
+0.1:SISTEMOS ATMINTIS SUGADINTA! (int 21.5803 klaida)\n
+0.2:UMB paÿeidimas: grandin” nesiekia pagr. atminties vir’aus ties %dk. Pask.=0x%x.\n
+0.3:MCB grandin” paÿeista (n”ra Z MCB po pask. M MCB, bet %c segm. 0x%x).\n
+0.4:Naudokite /? pagalbai\n
+0.5:Neÿinomas parametras: %s\n%s
+0.6:Parametras /NOSUMMARY nurodytas be kit÷ i’vest‘\nkurian—i÷ parametr÷. I’vestis nebus rodoma.\n%s
+0.7:Lemtinga klaida: nepavyko atlaisvinti HMA, klaidos kodas %02Xh\n
+0.8:Neÿinomas parametras (tik”tasi '/'): %s\n%s
+0.9:Tik”tasi reik’m”s po /%s, o ne kito parametro\n%s
+0.10:Vidin” klaida: parametras '%s' turi prefiks– '%s'\nir kit– tokio pat ilgio prefiks–
+0.11:Vidin” klaida: parametras '%s' tiksliai atitiko du\nskirtingus parametrus\n
+0.12:Klaida: parametras '%s' dviprasmi’kas - dalinis atitikimas\ndviem ar daugiau skirting÷ parametr÷\n%s
+0.13:Tik”tasi reik’m”s po /%s\n%s
+0.14:Neteisingas parametras '%s': turite nurodyti bent vien–\nparametro pavadinimo raid“
+# misc messages
+1.0:Neÿinoma operacin” sistema
+1.1:%s bait÷\n
+1.2:(%s bait÷)\n
+1.3: (%7s bait÷)\n
+1.4:Ωsp”jimas: ‘renginys priklauso keliems atminties blokams\n(%s ir %s)\n
+1.5:(n”ra disko)
+1.6:N”ra laisvos %s atminties\n
+1.7:%s ’iuo metu n”ra atmintyje.\n
+1.8:%s naudoja ’i– atmint‘:\n
+1.9:%s atmintis nepasiekiama\n
+# memory types
+2.0:Atminties tipas   Viso       Naudota    Laisva\n
+#   ----------------  --------   --------   --------
+2.1:Ωprastin”
+2.2:Auk’tesnioji
+2.3:Rezervuota
+2.4:I’pl”stin” (XMS)
+2.5:Viso atminties
+2.6:Viso iki 1 MB
+2.7:Viso papildomos (EMS)
+2.8:Laisvos papildomos (EMS)
+2.9:Didÿiausias vykdomos programos dydis
+2.10:Maks. laisvas UMB blokas
+2.11:%s reziduoja auk’tosios atminties srityje (HMA).\n
+2.12:Laisva vieta HMA
+2.13:HMA pasiekiama per XMS tvarkykl“\n
+2.14:HMA nepasiekiama per XMS tvarkykl“: tvarkykl” nepalaiko\n
+2.15:HMA nepasiekiama per XMS tvarkykl“: rastas VDISK ‘renginys\n
+2.16:HMA nepasiekiama per XMS tvarkykl“: HMA neegzistuoja\n
+2.17:HMA nepasiekiama per XMS tvarkykl“: HMA jau naudojama\n
+2.18:HMA nepasiekiama per XMS: HMAMIN yra didesnis nei HMA\n
+2.19:HMA pasiekiama per XMS, min. TSR dydis (HMAMIN): %u bait÷\n
+2.20:HMA nepasiekiama per XMS tvarkykl“: neÿinoma klaida %02Xh\n
+2.21:HMA nepasiekiama, nes XMS tvarkykl” ne‘kelta\n
+2.22:Atmintis pasiekiama per Int 15h
+2.23:Atmintis nepasiekiama per Int 15h (kodas %02xh)\n
+# block types
+3.0:
+3.1:laisva
+3.2:sistemos kodas
+3.3:sistemos duomenys
+3.4:programa
+3.5:aplinka
+3.6:duomen÷ sritis
+3.7:rezervuota
+3.8:pertrauk—i÷ vektori÷ lentel”
+3.9:BIOS duomen÷ sritis
+3.10:sistemos duomenys
+3.11:‘renginio tvarkykl”
+3.12:duomen÷ sritis
+3.13:IFS
+3.14:(klaida)
+# classify msgs
+4.0:\nModuliai, naudojantys atmint‘ iki 1 MB:\n\n
+4.1:  Pavadin.  Viso               Ωprastin”          Auk’tesn. atm.\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SISTEMA
+4.3:Laisva
+4.4:\nSegment   Viso              Pavadinimas   Tipas\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Adresas      Atr.   Pavadin.   Programa\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment. Viso\n
+#     -------  ----------------
+#            ----------------
+4.7:Viso: 
+4.8:sistemos ‘renginio tvarkykl”\n
+4.9:‘diegtas DEVICE=%s\n
+4.10:%s atminties detal”s:\n
+4.11:Laisva %s atmintis:\n
+4.12: (%u ’iame bloke)
+# EMS stuff
+5.0:VIDIN∏ EMS KLAIDA.\n
+5.1:  EMS tvarkykl” sistemoje ne‘diegta.\n
+5.2:EMS tvarkykl”s versija
+5.3:EMS puslapi÷ kadras
+5.4:Viso EMS atminties
+5.5:Laisva EMS atmintis
+5.6:Viso rodykli÷
+5.7:Laisvos rodykl”s
+5.8:\n  Rodykl”  Pusl.    Dydis      Pavadinim.\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS tvarkykl” sistemoje ne‘diegta.\n
+6.1:\nTestuojama XMS atmintis ...\n
+6.2:VIDIN∏ XMS KLAIDA.\n
+6.3:INT 2F AX=4309 palaikoma
+6.4:XMS versija
+6.5:XMS tvarkykl”s versija
+6.6:HMA
+6.7:egzistuoja
+6.8:neegzistuoja
+6.9:A20 linija
+6.10:‘jungta
+6.11:i’jungta
+6.12:Laisva XMS atmintis
+6.13:Maks. laisvas XMS blokas
+6.14:Laisvos rodykl”s
+6.15: Blokas  Rodykl”   Dydis    Uÿrakt.\n
+#    ------- --------  --------  -------
+6.16:Laisva UMB atmintis
+6.17:Didÿiausias auk’t. blokas
+6.18:Auk’tesnioji atmintis nepasiekiama\n
+# help message
+7.0:FreeDOS MEM versija %s
+7.1:Rodo naudojamos ir laisvos sistemos atminties kiek‘.
+7.2:Sintaks”: MEM [nulis ar daugiau ÿemiau nurodyt÷ parametr÷]
+7.3:/E          Rodo vis– informacij– apie papildom– atmint‘ (EMS)
+7.4:/FULL       Pilnas atminties blok÷ s–ra’as
+7.5:/C          Klasifikuoja modulius, naudojan—ius atmint‘ iki 1 MB
+7.6:/DEVICE     æiuo metu atmintyje esan—i÷ ‘rengini÷ tvarkykli÷ s–ra’as
+7.7:/U          Program÷ ‘prastin”je ir auk’tesniojoje atmintyje s–ra’as
+7.8:/X          Rodo vis– informacij– apie i’pl”stin“ atmint‘ (XMS)
+7.9:/P          Pristabdo po kiekvieno pilno informacijos ekrano
+7.10:/?          Rodo ’‘ pagalbos prane’im–
+7.11:/DEBUG      Rodo programas ir ‘renginius ‘prastin”je ir auk’tesn. atm.
+7.12:/M <pavad> | /MODULE <pavad>\n            Rodo nurodytos programos ar tvarkykl”s naudojam– atmint‘
+7.13:/FREE       Rodo laisvus ‘prastin”s ir auk’tesniosios atm. blokus
+7.14:/ALL        Rodo vis– informacij– apie auk’tosios atm. srit‘ (HMA)
+7.15:/NOSUMMARY  Nerodo suvestin”s, kuri paprastai rodoma, kai n”ra\n            nurodyti jokie kiti parametrai
+7.16:/SUMMARY    At’aukia /NOSUMMARY parametr–
+7.17:/%-10s æiam parametrui pagalbos n”ra\n
+7.18:/OLD        Suderinamumas su FreeDOS MEM 1.7 beta
+7.19:/D          Tas pats, kas /DEBUG (arba /DEVICE, jei naudojamas /OLD)
+7.20:/F          Tas pats, kas /FREE (arba /FULL, jei naudojamas /OLD)
+8.0:\nPaspauskite <Enter> t“sti arba <Esc> i’eiti . . .
+# Memory type names
+9.0:Ωprastin”
+9.1:Auk’tesn.
+9.2:(klaida)

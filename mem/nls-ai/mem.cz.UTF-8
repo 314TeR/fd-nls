@@ -1,0 +1,153 @@
+# Language: Czech
+# File ending: cz
+# Codepage: 852
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Nedostatek paměti. Je potřeba ještě %ld bajtů.\n
+0.1:SYSTÉMOVÁ PAMĚŤ POŠKOZENA! (chyba int 21.5803)\n
+0.2:Chyba UMB: Řetězec nedosahuje vrcholu zákl. paměti na %dk. Poslední=0x%x.\n
+0.3:Řetězec MCB poškozen (chybí Z MCB po posledním M MCB, je %c v seg. 0x%x).\n
+0.4:Použijte /? pro nápovědu\n
+0.5:Neznámý přepínač: %s\n%s
+0.6:Byl zadán přepínač /NOSUMMARY bez dalších výstupních přepínačů.\nNebude vytvořen žádný výstup.\n%s
+0.7:Kritická chyba: nepodařilo se uvolnit HMA, kód chyby %02Xh\n
+0.8:Neznámý přepínač (očekáváno '/'): %s\n%s
+0.9:Očekávána hodnota po /%s, nikoli další přepínač\n%s
+0.10:Interní chyba: přepínač '%s' má předponu '%s'\na další předponu stejné délky
+0.11:Interní chyba: přepínač '%s' je přesnou shodou pro dva\nrůzné přepínače\n
+0.12:Chyba: přepínač '%s' je nejednoznačný - částečná shoda pro dva\nnebo více různých přepínačů\n%s
+0.13:Očekávána hodnota po /%s\n%s
+0.14:Neplatný přepínač '%s': musíte zadat alespoň jedno písmeno\nz názvu přepínače
+# misc messages
+1.0:Neznámý operační systém
+1.1:%s bajtů\n
+1.2:(%s bajtů)\n
+1.3: (%7s bajtů)\n
+1.4:Varování: zařízení zřejmě náleží k více paměťovým blokům\n(%s a %s)\n
+1.5:(žádná jedn.)
+1.6:Žádná paměť %s není volná\n
+1.7:%s se momentálně nenachází v paměti.\n
+1.8:%s používá následující paměť:\n
+1.9:Paměť %s není přístupná\n
+# memory types
+2.0:Typ paměti        Celkem     Použito     Volno\n
+#   ----------------  --------   --------   --------
+2.1:Konvenční
+2.2:Horní
+2.3:Vyhrazená
+2.4:Rozšířená (XMS)
+2.5:Paměť celkem
+2.6:Celkem pod 1 MB
+2.7:Stránkovaná (EMS) celkem
+2.8:Volná str. paměť (EMS)
+2.9:Největší velikost spustit. programu 
+2.10:Největší volný blok horní paměti
+2.11:%s sídlí v oblasti vysoké paměti (HMA).\n
+2.12:Dostupné místo ve vysoké paměti (HMA)
+2.13:Oblast HMA je dostupná přes ovladač XMS\n
+2.14:Oblast HMA nedostupná přes ovl. XMS: není implementováno ovladačem\n
+2.15:Oblast HMA nedostupná přes ovl. XMS: je přítomno zařízení VDISK\n
+2.16:Oblast HMA nedostupná přes ovl. XMS: oblast HMA neexistuje\n
+2.17:Oblast HMA nedostupná přes ovl. XMS: oblast HMA se již používá\n
+2.18:Oblast HMA nedostupná přes ovl. XMS: HMAMIN je větší než HMA\n
+2.19:HMA dostupná přes XMS, minimální velikost TSR (HMAMIN): %u bajtů\n
+2.20:Oblast HMA nedostupná přes ovl. XMS: neznámá chyba %02Xh\n
+2.21:Oblast HMA nedostupná, protože nebyl zaveden žádný ovladač XMS\n
+2.22:Paměť je dostupná pomocí Int 15h
+2.23:Paměť není dostupná pomocí Int 15h (kód %02xh)\n
+# block types
+3.0:
+3.1:volno
+3.2:kód systému
+3.3:systémová data
+3.4:program
+3.5:prostředí
+3.6:datová oblast
+3.7:vyhrazeno
+3.8:tabulka vektorů přerušení
+3.9:datová oblast BIOSu
+3.10:systémová data
+3.11:ovladač zařízení
+3.12:datová oblast
+3.13:IFS
+3.14:(chyba)
+# classify msgs
+4.0:\nModuly využívající paměť pod hranicí 1 MB:\n\n
+4.1:  Název     Celkem             Konvenční          Horní Paměť\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SYSTÉM
+4.3:Volno
+4.4:\nSegment       Celkem           Název         Typ\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Adresa      Atr.    Název      Program\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment       Celkem\n
+#     -------  ----------------
+#            ----------------
+4.7:Celkem
+4.8:systémový ovladač zařízení\n
+4.9:nainstalováno DEVICE=%s\n
+4.10:%s - detaily paměti:\n
+4.11:Volná paměť %s:\n
+4.12: (%u v tomto bloku)
+# EMS stuff
+5.0:INTERNÍ CHYBA EMS.\n
+5.1:  Ovladač EMS není v systému nainstalován.\n
+5.2:Verze ovladače EMS
+5.3:Rámec stránek EMS
+5.4:Paměť EMS celkem
+5.5:Volná paměť EMS
+5.6:Úchyty celkem
+5.7:Volné úchyty
+5.8:\n  Úchyt    Stránky  Velikost   Název\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:Ovladač XMS není v systému nainstalován.\n
+6.1:\nTestování paměti XMS ...\n
+6.2:INTERNÍ CHYBA XMS.\n
+6.3:INT 2F AX=4309 podporováno\n
+6.4:Verze XMS
+6.5:Verze ovladače XMS
+6.6:HMA
+6.7:existuje
+6.8:neexistuje
+6.9:Linka A20
+6.10:povolena
+6.11:zakázána
+6.12:Volná paměť XMS
+6.13:Největší volný blok XMS
+6.14:Volné úchyty
+6.15: Blok    Úchyt      Velikost Zámky\n
+#    ------- --------  --------  -------
+6.16:Volná horní paměť
+6.17:Největší horní blok
+6.18:Horní paměť není k dispozici\n
+# help message
+7.0:FreeDOS MEM verze %s
+7.1:Zobrazí množství využité a volné paměti ve vašem systému.
+7.2:Syntaxe: MEM [nula nebo více z níže uvedených přepínačů]
+7.3:/E          Zobrazí všechny informace o stránkované paměti (EMS)
+7.4:/FULL       Úplný seznam paměťových bloků
+7.5:/C          Klasifikuje moduly využívající paměť pod hranicí 1 MB
+7.6:/DEVICE     Seznam ovladačů zařízení aktuálně zavedených v paměti
+7.7:/U          Seznam programů v konvenční a horní paměti
+7.8:/X          Zobrazí všechny informace o rozšířené paměti (XMS)
+7.9:/P          Pozastaví výpis po každé zaplněné obrazovce
+7.10:/?          Zobrazí tuto nápovědu
+7.11:/DEBUG      Zobrazí programy/zařízení v konvenční/horní paměti
+7.12:/M <název> | /MODULE <název>\n            Zobrazí paměť využívanou zadaným programem nebo ovladačem
+7.13:/FREE       Zobrazí volné bloky konvenční a horní paměti
+7.14:/ALL        Zobrazí všechny detaily o oblasti vysoké paměti (HMA)
+7.15:/NOSUMMARY  Skryje souhrn, který se běžně zobrazuje,\n            když nejsou zadány žádné jiné přepínače
+7.16:/SUMMARY    Zruší platnost přepínače /NOSUMMARY
+7.17:/%-10s Pro tento přepínač není k dispozici žádná nápověda\n
+7.18:/OLD        Kompatibilita s FreeDOS MEM 1.7 beta
+7.19:/D          Jako /DEBUG výchozí (nebo /DEVICE při použití /OLD)
+7.20:/F          Jako /FREE výchozí (nebo /FULL při použití /OLD)
+8.0:\nPokračujte stisknutím <Enter> nebo stiskněte <Esc> pro ukončení . . .
+# Memory type names
+9.0:Konvenční
+9.1:Horní
+9.2:(chyba)

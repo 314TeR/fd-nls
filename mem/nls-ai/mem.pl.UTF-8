@@ -1,0 +1,153 @@
+# Language: Polish
+# File ending: pl
+# Codepage: 852
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Brak pamięci. Potrzeba dodatkowo %ld bajtów.\n
+0.1:PAMIĘĆ SYSTEMOWA USZKODZONA! (błąd int 21.5803)\n
+0.2:Błąd UMB: Łańcuch nie sięga szczytu pamięci podst. w %dk. Ostatni=0x%x.\n
+0.3:Łańcuch MCB uszkodzony (brak Z MCB po ostatnim M MCB, jest %c w seg 0x%x).\n
+0.4:Użyj /? aby uzyskać pomoc\n
+0.5:Nieznany przełącznik: %s\n%s
+0.6:Przełącznik /NOSUMMARY podano bez innych opcji wyjścia.\nBrak danych do wyświetlenia.\n%s
+0.7:Błąd krytyczny: nie można zwolnić HMA, kod błędu %02Xh\n
+0.8:Nieznany przełącznik (oczekiwano '/'): %s\n%s
+0.9:Oczekiwano wartości po /%s, a nie kolejnego przełącznika\n%s
+0.10:Błąd wewn.: przełącznik '%s' ma prefiks '%s'\noraz inny prefiks tej samej długości
+0.11:Błąd wewn.: przełącznik '%s' dokładnie pasuje do dwóch\nróżnych opcji\n
+0.12:Błąd: przełącznik '%s' niejednoznaczny - częściowe\ndopasowanie do co najmniej dwóch opcji\n%s
+0.13:Oczekiwano wartości po /%s\n%s
+0.14:Błędny przełącznik '%s': podaj przynajmniej jedną literę\nnazwy przełącznika
+# misc messages
+1.0:Nieznany system operacyjny
+1.1:%s bajtów\n
+1.2:(%s bajtów)\n
+1.3: (%7s bajtów)\n
+1.4:Ostrzeżenie: urządzenie wydaje się należeć do wielu bloków\npamięci (%s i %s)\n
+1.5:(brak nap.)
+1.6:Brak wolnej pamięci %s\n
+1.7:%s nie znajduje się obecnie w pamięci.\n
+1.8:%s używa następującej pamięci:\n
+1.9:Pamięć %s jest niedostępna\n
+# memory types
+2.0:Typ pamięci       Razem      Zajęta     Wolna\n
+#   ----------------  --------   --------   --------
+2.1:Konwencjonalna
+2.2:Górna
+2.3:Zarezerwowana
+2.4:Rozszerzona (XMS)
+2.5:Pamięć ogółem
+2.6:Razem poniżej 1MB
+2.7:Pamięć EMS ogółem
+2.8:Wolna pamięć EMS
+2.9:Maks. rozmiar programu wykonywalnego
+2.10:Największy wolny blok pamięci górnej
+2.11:%s rezyduje w obszarze pamięci wysokiej (HMA).\n
+2.12:Wolne miejsce w obszarze HMA
+2.13:Obszar HMA jest dostępny przez sterownik XMS\n
+2.14:Obszar HMA niedostępny przez st. XMS: nieobsługiwany przez sterownik\n
+2.15:Obszar HMA niedostępny przez st. XMS: obecny sterownik VDISK\n
+2.16:Obszar HMA niedostępny przez st. XMS: HMA nie istnieje\n
+2.17:Obszar HMA niedostępny przez st. XMS: HMA jest już w użyciu\n
+2.18:Obszar HMA niedostępny przez XMS: HMAMIN większe od HMA\n
+2.19:Obszar HMA dostępny (XMS), min. rozmiar TSR (HMAMIN): %u bajtów\n
+2.20:Obszar HMA niedostępny przez sterownik XMS: nieznany błąd %02Xh\n
+2.21:Obszar HMA niedostępny, ponieważ nie załadowano sterownika XMS\n
+2.22:Pamięć dostępna przez Int 15h
+2.23:Pamięć niedostępna przez Int 15h (kod %02xh)\n
+# block types
+3.0:
+3.1:wolna
+3.2:kod systemu
+3.3:dane systemu
+3.4:program
+3.5:środowisko
+3.6:obszar danych
+3.7:zarezerwowana
+3.8:tablica wektorów przerwań
+3.9:obszar danych BIOS
+3.10:dane systemu
+3.11:sterownik urządz.
+3.12:obszar danych
+3.13:IFS
+3.14:(błąd)
+# classify msgs
+4.0:\nModuły używające pamięci poniżej 1 MB:\n\n
+4.1:  Nazwa     Razem              Konwencjonalna     Pamięć Górna\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SYSTEM
+4.3:Wolna
+4.4:\nSegment       Razem            Nazwa         Typ\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Adres       Atr.    Nazwa      Program\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment       Razem\n
+#     -------  ----------------
+#            ----------------
+4.7:Razem:
+4.8:systemowy sterownik urządz.\n
+4.9:zainstalowany DEVICE=%s\n
+4.10:Szczegóły pamięci %s:\n
+4.11:Wolna pamięć %s:\n
+4.12: (%u w tym bloku)
+# EMS stuff
+5.0:WEWNĘTRZNY BŁĄD EMS.\n
+5.1:  Brak zainstalowanego sterownika EMS w systemie.\n
+5.2:Wersja sterownika EMS
+5.3:Ramka strony EMS
+5.4:Pamięć EMS ogółem
+5.5:Wolna pamięć EMS
+5.6:Uchwyty ogółem
+5.7:Wolne uchwyty
+5.8:\n  Uchwyt   Strony   Rozmiar    Nazwa\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:Brak zainstalowanego sterownika XMS w systemie.\n
+6.1:\nTestowanie pamięci XMS ...\n
+6.2:WEWNĘTRZNY BŁĄD XMS.\n
+6.3:INT 2F AX=4309 obsługiwane\n
+6.4:Wersja XMS
+6.5:Wersja sterownika XMS
+6.6:HMA
+6.7:istnieje
+6.8:nie istnieje
+6.9:Linia A20
+6.10:włączona
+6.11:wyłączona
+6.12:Wolna pamięć XMS
+6.13:Największy wolny blok XMS
+6.14:Wolne uchwyty
+6.15: Blok    Uchwyt     Rozmiar  Blokady\n
+#    ------- --------  --------  -------
+6.16:Wolna pamięć górna
+6.17:Największy blok górny
+6.18:Pamięć górna jest niedostępna\n
+# help message
+7.0:FreeDOS MEM, wersja %s
+7.1:Wyświetla ilość zajętej i wolnej pamięci w systemie.
+7.2:Składnia: MEM [zero lub więcej z poniższych opcji]
+7.3:/E          Wyświetla informacje o pamięci stronicowanej (EMS)
+7.4:/FULL       Pełna lista bloków pamięci
+7.5:/C          Klasyfikuje moduły używające pamięci poniżej 1 MB
+7.6:/DEVICE     Lista sterowników urządzeń załadowanych do pamięci
+7.7:/U          Lista programów w pamięci konwencjonalnej i górnej
+7.8:/X          Wyświetla informacje o pamięci rozszerzonej (XMS)
+7.9:/P          Wstrzymuje przewijanie po każdym pełnym ekranie
+7.10:/?          Wyświetla ten komunikat pomocy
+7.11:/DEBUG      Pokazuje programy/urządz. w pamięci konwencj./górnej
+7.12:/M <nazwa> | /MODULE <nazwa>\n            Wyświetla pamięć używaną przez program lub sterownik
+7.13:/FREE       Wyświetla wolne bloki pamięci konwencjonalnej i górnej
+7.14:/ALL        Pokazuje szczegóły obszaru pamięci wysokiej (HMA)
+7.15:/NOSUMMARY  Ukrywa podsumowanie normalnie wyświetlane, gdy\n            nie podano innych przełączników
+7.16:/SUMMARY    Anuluje działanie opcji /NOSUMMARY
+7.17:/%-10s Brak pomocy dla tego przełącznika\n
+7.18:/OLD        Zgodność z wersją FreeDOS MEM 1.7 beta
+7.19:/D          Jak /DEBUG domyślnie (albo /DEVICE z /OLD)
+7.20:/F          Jak /FREE domyślnie (albo /FULL z /OLD)
+8.0:\nNaciśnij <Enter>, aby kontynuować, lub <Esc>, aby wyjść . . .
+# Memory type names
+9.0:Konwencjon.
+9.1:Górna
+9.2:(błąd)

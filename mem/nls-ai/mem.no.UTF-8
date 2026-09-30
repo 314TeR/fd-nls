@@ -1,0 +1,153 @@
+# Language: Norwegian
+# File ending: no
+# Codepage: 865
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Ikke nok minne. Mangler %ld byte.\n
+0.1:SYSTEMMINNE ØDELAGT! (int 21.5803 feil)\n
+0.2:UMB-feil: Kjeden når ikke toppen av lav RAM ved %dk. Siste=0x%x.\n
+0.3:MCB-kjede ødelagt (ingen Z MCB etter siste M MCB, men %c på seg 0x%x).\n
+0.4:Bruk /? for hjelp\n
+0.5:Ukjent parameter: %s\n%s
+0.6:Parameteren /NOSUMMARY ble angitt uten andre utdataparametere.\nIngen utdata genereres.\n%s
+0.7:Kritisk feil: Kunne ikke frigjøre HMA, feilkode %02Xh\n
+0.8:Ukjent parameter (forventet en '/'): %s\n%s
+0.9:Forventet en verdi etter /%s, ikke enda en parameter\n%s
+0.10:Intern feil: parameter '%s' har '%s' som prefiks\nog et annet prefiks av lik lengde
+0.11:Intern feil: parameter '%s' var et eksakt treff for to\nulike parametere\n
+0.12:Feil: parameter '%s' er tvetydig - delvis treff for to\neller flere valg\n%s
+0.13:Forventet en verdi etter /%s\n%s
+0.14:Ugyldig parameter '%s': du må angi minst én bokstav\ni parameternavnet
+# misc messages
+1.0:Et ukjent operativsystem
+1.1:%s byte\n
+1.2:(%s byte)\n
+1.3: (%7s byte)\n
+1.4:Advarsel: enheten ser ut til å eies av flere minneblokker\n(%s og %s)\n
+1.5:(ingen drv)
+1.6:Ingen %s-minne er ledig\n
+1.7:%s er ikke i minnet for øyeblikket.\n
+1.8:%s bruker følgende minne:\n
+1.9:%s-minne er ikke tilgjengelig\n
+# memory types
+2.0:Minnetype          Totalt      Brukt      Ledig\n
+#   ----------------  --------   --------   --------
+2.1:Konvensjonelt
+2.2:Øvre
+2.3:Reservert
+2.4:Utvidet (XMS)
+2.5:Totalt minne
+2.6:Totalt under 1 MB
+2.7:Totalt Ekspandert (EMS)
+2.8:Ledig Ekspandert (EMS)
+2.9:Største kjørbare programstørrelse
+2.10:Største ledige øvre minneblokk
+2.11:%s er resident i det høye minneområdet (HMA).\n
+2.12:Tilgjengelig plass i HMA
+2.13:HMA er tilgjengelig via XMS-driveren\n
+2.14:HMA ikke tilgjengelig via XMS-driver: ikke implementert av driver\n
+2.15:HMA ikke tilgjengelig via XMS-driver: en VDISK-enhet er til stede\n
+2.16:HMA ikke tilgjengelig via XMS-driver: HMA finnes ikke\n
+2.17:HMA ikke tilgjengelig via XMS-driver: HMA er allerede i bruk\n
+2.18:HMA ikke tilgjengelig via XMS: HMAMIN er større enn HMA\n
+2.19:HMA tilgjengelig via XMS, minimum TSR-størrelse (HMAMIN): %u byte\n
+2.20:HMA ikke tilgjengelig via XMS-driver: ukjent feil %02Xh\n
+2.21:HMA ikke tilgjengelig da ingen XMS-driver er lastet\n
+2.22:Minne tilgjengelig via Int 15h
+2.23:Minne ikke tilgjengelig via Int 15h (kode %02xh)\n
+# block types
+3.0:
+3.1:ledig
+3.2:systemkode
+3.3:systemdata
+3.4:program
+3.5:miljø
+3.6:dataområde
+3.7:reservert
+3.8:avbruddsvektortabell
+3.9:BIOS-dataområde
+3.10:systemdata
+3.11:enhetsdriver
+3.12:dataområde
+3.13:IFS
+3.14:(feil)
+# classify msgs
+4.0:\nModuler som bruker minne under 1 MB:\n\n
+4.1:  Navn           Totalt          Konvensjonelt      Øvre Minne\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SYSTEM
+4.3:Ledig
+4.4:\nSegment       Totalt           Navn          Type\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Adresse     Attr    Navn       Program\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment       Totalt\n
+#     -------  ----------------
+#            ----------------
+4.7:Totalt
+4.8:system-enhetsdriver\n
+4.9:installert DEVICE=%s\n
+4.10:%s Minnedetaljer:\n
+4.11:Ledig %s-minne:\n
+4.12: (%u i denne blokken)
+# EMS stuff
+5.0:INTERN EMS-FEIL.\n
+5.1:  EMS-driver er ikke installert i systemet.\n
+5.2:EMS-driverversjon
+5.3:EMS-sideramme
+5.4:Totalt EMS-minne
+5.5:Ledig EMS-minne
+5.6:Totale handles
+5.7:Ledige handles
+5.8:\n  Handle   Sider    Størr.     Navn\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS-driver er ikke installert i systemet.\n
+6.1:\nTester XMS-minne ...\n
+6.2:INTERN XMS-FEIL.\n
+6.3:INT 2F AX=4309 støttes\n
+6.4:XMS-versjon
+6.5:XMS-driverversjon
+6.6:HMA
+6.7:eksisterer
+6.8:eksisterer ikke
+6.9:A20-linje
+6.10:aktivert
+6.11:deaktivert
+6.12:Ledig XMS-minne
+6.13:Største ledige XMS-blokk
+6.14:Ledige handles
+6.15: Blokk   Handle     Størr.   Låser\n
+#    ------- --------  --------  -------
+6.16:Ledig øvre minne
+6.17:Største øvre blokk
+6.18:Øvre minne ikke tilgjengelig\n
+# help message
+7.0:FreeDOS MEM versjon %s
+7.1:Viser mengden brukt og ledig minne i systemet ditt.
+7.2:Syntaks: MEM [null eller flere av parameterne vist under]
+7.3:/E          Viser all info om Ekspandert Minne (EMS)
+7.4:/FULL       Fullstendig liste over minneblokker
+7.5:/C          Klassifiserer moduler som bruker minne under 1 MB
+7.6:/DEVICE     Liste over enhetsdrivere for øyeblikket i minnet
+7.7:/U          Liste over programmer i konvensjonelt og øvre minne
+7.8:/X          Viser all info om Utvidet Minne (XMS)
+7.9:/P          Pauser etter hver full skjerm med informasjon
+7.10:/?          Viser denne hjelpemeldingen
+7.11:/DEBUG      Vis program/enheter i konvensjonelt/øvre minne
+7.12:/M <navn> | /MODULE <navn>\n            Vis minne brukt av angitt program eller driver
+7.13:/FREE       Vis ledige konvensjonelle og øvre minneblokker
+7.14:/ALL        Vis alle detaljer om høyt minneområde (HMA)
+7.15:/NOSUMMARY  Skjul sammendrag (som normalt vises når ingen andre\n            parametere er angitt)
+7.16:/SUMMARY    Opphever /NOSUMMARY-parameteren
+7.17:/%-10s Ingen hjelp tilgjengelig for denne parameteren\n
+7.18:/OLD        Kompatibilitet med FreeDOS MEM 1.7 beta
+7.19:/D          Som /DEBUG som standard (eller /DEVICE hvis /OLD brukes)
+7.20:/F          Som /FREE som standard (eller /FULL hvis /OLD brukes)
+8.0:\nTrykk <Enter> for å fortsette eller <Esc> for å avslutte . . .
+# Memory type names
+9.0:Konvensjonelt
+9.1:Øvre
+9.2:(feil)

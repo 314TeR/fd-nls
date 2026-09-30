@@ -1,0 +1,153 @@
+# Language: Danish
+# File ending: dk
+# Codepage: 865
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Ikke nok hukommelse. Mangler %ld bytes.\n
+0.1:SYSTEMHUKOMMELSE ùDELAGT! (int 21.5803 fejl)\n
+0.2:UMB-fejl: Këden nÜr ikke toppen af lav RAM ved %dk. Sidste=0x%x.\n
+0.3:MCB-këde õdelagt (ingen Z MCB efter sidste M MCB, men %c pÜ seg 0x%x).\n
+0.4:Brug /? for hjëlp\n
+0.5:Ukendt parameter: %s\n%s
+0.6:Parameteren /NOSUMMARY blev angivet uden andre output-parametre.\nDer produceres intet output.\n%s
+0.7:Fatal fejl: Kunne ikke frigõre HMA, fejlkode %02Xh\n
+0.8:Ukendt parameter (forventede et '/'): %s\n%s
+0.9:Forventede en vërdi efter /%s, ikke endnu en parameter\n%s
+0.10:Intern fejl: parameteren '%s' har '%s' som prëfiks\nog et andet prëfiks af samme lëngde
+0.11:Intern fejl: parameteren '%s' var et eksakt match for to\nforskellige parametre\n
+0.12:Fejl: parameteren '%s' er tvetydig - den matcher delvist to\neller flere parametre\n%s
+0.13:Forventede en vërdi efter /%s\n%s
+0.14:Ugyldig parameter '%s': du skal angive mindst et bogstav\naf parameterens navn
+# misc messages
+1.0:Et ukendt operativsystem
+1.1:%s bytes\n
+1.2:(%s bytes)\n
+1.3: (%7s bytes)\n
+1.4:Advarsel: enheden ser ud til at tilhõre flere hukommelsesblokke\n(%s og %s)\n
+1.5:(intet drv)
+1.6:Ingen %s hukommelse er ledig\n
+1.7:%s er ikke i hukommelsen i õjeblikket.\n
+1.8:%s bruger fõlgende hukommelse:\n
+1.9:%s hukommelse er ikke tilgëngelig\n
+# memory types
+2.0:Hukommelsestype   Total      Brugt      Ledig\n
+#   ----------------  --------   --------   --------
+2.1:Konventionel
+2.2:ùvre
+2.3:Reserveret
+2.4:Udvidet (XMS)
+2.5:Total hukommelse
+2.6:Total under 1 MB
+2.7:Total Ekspanderet (EMS)
+2.8:Ledig Ekspanderet (EMS)
+2.9:Stõrste eksekverbare programstõrrelse
+2.10:Stõrste ledige õvre hukommelsesblok
+2.11:%s er resident i det hõje hukommelsesomrÜde (HMA).\n
+2.12:Tilgëngelig plads i HMA
+2.13:HMA er tilgëngelig via XMS-driveren\n
+2.14:HMA ikke tilgëngelig via XMS-driver: ikke implementeret af driver\n
+2.15:HMA ikke tilgëngelig via XMS-driver: en VDISK-enhed er til stede\n
+2.16:HMA ikke tilgëngelig via XMS-driver: HMA eksisterer ikke\n
+2.17:HMA ikke tilgëngelig via XMS-driver: HMA er allerede i brug\n
+2.18:HMA ikke tilgëngelig via XMS: HMAMIN er stõrre end HMA\n
+2.19:HMA tilgëngelig via XMS, minimum TSR-stõrrelse (HMAMIN): %u bytes\n
+2.20:HMA ikke tilgëngelig via XMS-driver: ukendt fejl %02Xh\n
+2.21:HMA ikke tilgëngelig, da ingen XMS-driver er indlëst\n
+2.22:Hukommelse tilgëngelig via Int 15h
+2.23:Hukommelse ikke tilgëngelig via Int 15h (kode %02xh)\n
+# block types
+3.0:
+3.1:ledig
+3.2:systemkode
+3.3:systemdata
+3.4:program
+3.5:miljõ
+3.6:dataomrÜde
+3.7:reserveret
+3.8:interrupt-vektortabel
+3.9:BIOS-dataomrÜde
+3.10:systemdata
+3.11:enhedsdriver
+3.12:dataomrÜde
+3.13:IFS
+3.14:(fejl)
+# classify msgs
+4.0:\nModuler der bruger hukommelse under 1 MB:\n\n
+4.1:  Navn          Total              Konventionel       ùvre Hukommelse\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SYSTEM
+4.3:Ledig
+4.4:\nSegment  Total             Navn          Type\n
+#     -------  ----------------  ------------  -------------
+4.5:\n Adresse      Attr   Navn        Program\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment  Total\n
+#     -------  ----------------
+#            ----------------
+4.7:Total:
+4.8:system-enhedsdriver\n
+4.9:installeret DEVICE=%s\n
+4.10:%s Hukommelsesdetaljer:\n
+4.11:Ledig %s hukommelse:\n
+4.12: (%u i denne blok)
+# EMS stuff
+5.0:INTERN EMS-FEJL.\n
+5.1:  EMS-driver er ikke installeret i systemet.\n
+5.2:EMS-driver version
+5.3:EMS-sideramme
+5.4:Total EMS-hukommelse
+5.5:Ledig EMS-hukommelse
+5.6:Totale handles
+5.7:Ledige handles
+5.8:\n  Handle   Sider    Stõrr.     Navn\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS-driver er ikke installeret i systemet.\n
+6.1:\nTester XMS-hukommelse ...\n
+6.2:INTERN XMS-FEJL.\n
+6.3:INT 2F AX=4309 understõttet\n
+6.4:XMS-version
+6.5:XMS-driver version
+6.6:HMA
+6.7:eksisterer
+6.8:eksisterer ikke
+6.9:A20-linje
+6.10:aktiveret
+6.11:deaktiveret
+6.12:Ledig XMS-hukommelse
+6.13:Stõrste ledige XMS-blok
+6.14:Ledige handles
+6.15: Blok   Handle    Stõrr.    LÜse\n
+#    ------- --------  --------  -------
+6.16:Ledig õvre hukommelse
+6.17:Stõrste õvre blok
+6.18:ùvre hukommelse ikke tilgëngelig\n
+# help message
+7.0:FreeDOS MEM version %s
+7.1:Viser mëngden af brugt og ledig hukommelse i dit system.
+7.2:Syntaks: MEM [nul eller flere af parametrene vist herunder]
+7.3:/E          Viser al info om Ekspanderet Hukommelse (EMS)
+7.4:/FULL       Fuld liste over hukommelsesblokke
+7.5:/C          Klassificerer moduler der bruger hukommelse under 1 MB
+7.6:/DEVICE     Liste over enhedsdrivere, der aktuelt er i hukommelsen
+7.7:/U          Liste over programmer i konventionel og õvre hukommelse
+7.8:/X          Viser al info om Udvidet Hukommelse (XMS)
+7.9:/P          Pauserer efter hver fuld skërm af information
+7.10:/?          Viser denne hjëlpemeddelelse
+7.11:/DEBUG      Viser program./enheder i konventionel/õvre hukommelse
+7.12:/M <navn> | /MODULE <navn>\n            Vis hukommelse brugt af angivet program eller driver
+7.13:/FREE       Vis ledige konventionelle og õvre hukommelsesblokke
+7.14:/ALL        Vis alle detaljer om hõjt hukommelsesomrÜde (HMA)
+7.15:/NOSUMMARY  Skjul resumÇet (som normalt vises, nÜr der ikke er\n            angivet andre parametre)
+7.16:/SUMMARY    Ophëver /NOSUMMARY-parameteren
+7.17:/%-10s Ingen hjëlp tilgëngelig for denne parameter\n
+7.18:/OLD        Kompatibilitet med FreeDOS MEM 1.7 beta
+7.19:/D          Som /DEBUG som standard (eller /DEVICE hvis /OLD bruges)
+7.20:/F          Som /FREE som standard (eller /FULL hvis /OLD bruges)
+8.0:\nTryk pÜ <Enter> for at fortsëtte eller <Esc> for at afslutte...
+# Memory type names
+9.0:Konventionel
+9.1:ùvre
+9.2:(fejl)

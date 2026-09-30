@@ -5,7 +5,7 @@
 0.3:Chaîne MCB corrompue (pas de Z MCB après dernier M MCB, mais %c à seg 0x%x).\n
 0.4:Utiliser /? pour l'aide\n
 0.5:option inconnue: %s\n%s
-0.6:L'option /NOSUMMARY a été spécifiée, mais aucune autre option produisant une\n sortie n'a été spécifiée, donc aucune sortie ne sera générée.\n%s
+0.6:L'option /NOSUMMARY a été spécifiée, mais aucune autre option produisant\nune sortie n'a été spécifiée, donc aucune sortie ne sera générée.\n%s
 0.7:Erreur fatale : échec de la libération de HMA, code d'erreur %02Xh\n
 0.8:option inconnue (une '/' était attendue): %s\n%s
 0.9:Une valeur après /%s, était attendue, pas un autre commutateur\n%s
@@ -32,14 +32,14 @@
 2.2:Haute
 2.3:Réservée
 2.4:Étendue (XMS)
-2.5:Total de la mémoire
+2.5:Mémoire totale
 2.6:Total sous 1 Mo
 2.7:Total de la mémoire paginée (EMS)
 2.8:Mémoire paginée libre (EMS)
-2.9:Taille maximale de programme exécutable
-2.10:Le plus grand bloc de mémoire haute libre
+2.9:Plus grand programme exéc.
+2.10:Le plus grand bloc UMB libre
 2.11:%s est résident dans la mémoire haute.\n
-2.12:Espace disponible dans la zone de mémoire haute
+2.12:Espace disponible en HMA
 2.13:HMA est disponible via le pilote XMS\n
 2.14:HMA n'est pas disponible via le pilote XMS : non implémenté par le pilote\n
 2.15:HMA indisponible via le pilote XMS : un dispositif VDISK est présent\n
@@ -49,8 +49,8 @@
 2.19:HMA indisponible via le pilote XMS, taille min de TSR (HMAMIN): %u octets\n
 2.20:HMA n'est pas disponible via le pilote XMS : erreur inconnue %02Xh\n
 2.21:HMA n'est pas disponible car aucun pilote XMS n'est chargé\n
-2.22:Mémoire accessible en utilisant Int 15h
-2.23:La mémoire n'est pas accessible en utilisant Int 15h (code %02xh)\n
+2.22:Mémoire disponible via Int 15h
+2.23:Mémoire non accessible via Int 15h (code %02xh)\n
 # block types
 3.0:
 3.1:libre
@@ -80,7 +80,7 @@
 4.6:\nSegment       Total\n
 #     -------  ----------------
 #            ----------------
-4.7:Total :
+4.7:Total:
 4.8:pilote de périphérique système\n
 4.9:DEVICE=%s installé\n
 4.10:Détails de la mémoire de % :\n
@@ -112,7 +112,7 @@
 6.10:activé
 6.11:désactivé
 6.12:Mémoire XMS libre
-6.13:Bloc libre XMS le plus grand
+6.13:Bloc libre XMS max.
 6.14:Descripteurs libres
 6.15: Bloc   Descript   Taille   Verrous\n
 #    ------- --------  --------  -------

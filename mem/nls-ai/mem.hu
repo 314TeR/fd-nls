@@ -1,0 +1,153 @@
+# Language: Hungarian
+# File ending: hu
+# Codepage: 852
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Nincs elÇg mem¢ria. MÇg %ld b†jt szÅksÇges.\n
+0.1:RENDSZERMEM‡RIA SêRöLT! (int 21.5803 hiba)\n
+0.2:UMB hiba: A l†nc nem Çri el az alap RAM tetejÇt %dk-n†l. Utols¢=0x%x.\n
+0.3:MCB l†nc sÇrÅlt (nincs Z MCB az utols¢ M MCB ut†n, de %c van a 0x%x segm.-ben).\n
+0.4:Haszn†lja a /? kapcsol¢t a s£g¢hoz\n
+0.5:Ismeretlen kapcsol¢: %s\n%s
+0.6:A /NOSUMMARY kapcsol¢ lett megadva egyÇb kimeneti kapcsol¢k\nnÇlkÅl. Nem kÇszÅl kimenet.\n%s
+0.7:VÇgzetes hiba: HMA felszabad°t†sa sikertelen, hibak¢d %02Xh\n
+0.8:Ismeretlen kapcsol¢ ('/' v†rt): %s\n%s
+0.9:êrtÇk v†rt a /%s ut†n, nem egy £jabb kapcsol¢\n%s
+0.10:Belsã hiba: a(z) '%s' kapcsol¢nak '%s' az elãtagja\nÇs egy m†sik, azonos hossz£s†g£ elãtagja
+0.11:Belsã hiba: a(z) '%s' kapcsol¢ pontosan egyezik\nkÇt kÅlînbîzã kapcsol¢val\n
+0.12:Hiba: a(z) '%s' kapcsol¢ kÇtÇrtelm˚ - rÇszleges egyezÇs\nkÇt vagy tîbb kÅlînbîzã kapcsol¢val\n%s
+0.13:êrtÇk v†rt a /%s ut†n\n%s
+0.14:êrvÇnytelen kapcsol¢ '%s': meg kell adnia legal†bb egy\nbet˚t a kapcsol¢ nevÇbãl
+# misc messages
+1.0:Ismeretlen oper†ci¢s rendszer
+1.1:%s b†jt\n
+1.2:(%s b†jt)\n
+1.3: (%7s b†jt)\n
+1.4:FigyelmeztetÇs: az eszkîz £gy t˚nik, tîbb\nmem¢riablokkhoz is tartozik (%s Çs %s)\n
+1.5:(nincs)
+1.6:Nincs szabad %s mem¢ria\n
+1.7:%s jelenleg nincs a mem¢ri†ban.\n
+1.8:%s a kîvetkezã mem¢ri†t haszn†lja:\n
+1.9:%s mem¢ria nem elÇrhetã\n
+# memory types
+2.0:Mem¢riat°pus      ôsszesen   Haszn†lt   Szabad\n
+#   ----------------  --------   --------   --------
+2.1:Hagyom†nyos
+2.2:Felsã
+2.3:Fenntartott
+2.4:Kiterj. (XMS)
+2.5:ôssz. mem¢ria
+2.6:ôssz. 1 MB alatt
+2.7:ôsszes Kibãv°tett (EMS)
+2.8:Szabad Kibãv°tett (EMS)
+2.9:Legnagyobb futt. program
+2.10:Legnagyobb szabad UMB
+2.11:%s a magas mem¢riaterÅleten (HMA) tal†lhat¢.\n
+2.12:ElÇrhetã hely a HMA-ban
+2.13:A HMA elÇrhetã az XMS illesztãprogramon keresztÅl\n
+2.14:A HMA nem elÇrhetã: az XMS illesztãprogram nem t†mogatja\n
+2.15:A HMA nem elÇrhetã XMS illesztãn keresztÅl: VDISK eszkîz jelen van\n
+2.16:A HMA nem elÇrhetã XMS illesztãn keresztÅl: HMA nem lÇtezik\n
+2.17:A HMA nem elÇrhetã XMS illesztãn keresztÅl: a HMA m†r haszn†latban van\n
+2.18:HMA nem elÇrhetã XMS-en keresztÅl: a HMAMIN nagyobb, mint a HMA\n
+2.19:HMA elÇrhetã XMS-en keresztÅl, min. TSR mÇret (HMAMIN): %u b†jt\n
+2.20:A HMA nem elÇrhetã az XMS illesztãn keresztÅl: ismeretlen hiba %02Xh\n
+2.21:A HMA nem elÇrhetã, mert nincs XMS illesztãprogram betîltve\n
+2.22:Mem¢ria elÇrhetã Int 15h-val
+2.23:Mem¢ria nem elÇrhetã Int 15h-val (k¢d %02xh)\n
+# block types
+3.0:
+3.1:szabad
+3.2:rendszerk¢d
+3.3:rendszeradatok
+3.4:program
+3.5:kîrnyezet
+3.6:adatterÅlet
+3.7:fenntartott
+3.8:megszak°t†svektor-t†bla
+3.9:BIOS adatterÅlet
+3.10:rendszeradatok
+3.11:eszkîzillesztã
+3.12:adatterÅlet
+3.13:IFS
+3.14:(hiba)
+# classify msgs
+4.0:\nAz 1 MB alatti mem¢ri†t haszn†l¢ modulok:\n\n
+4.1:  NÇv       ôsszesen           Hagyom†nyos        Felsã Mem¢ria\n
+#     --------  ----------------   ----------------   ----------------
+4.2:RENDSZER
+4.3:Szabad
+4.4:\nSzegm.    ôsszesen         NÇv           T°pus\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   C°m          Attr.   NÇv        Program\n
+#      -----------  ------ ----------  ----------
+4.6:\nSzegm.    ôsszesen\n
+#     -------  ----------------
+#            ----------------
+4.7:ôssz.:
+4.8:rendszereszkîz-illesztã\n
+4.9:telep°tett DEVICE=%s\n
+4.10:%s mem¢riarÇszletek:\n
+4.11:Szabad %s mem¢ria:\n
+4.12: (%u ebben a blokkban)
+# EMS stuff
+5.0:BELSä EMS HIBA.\n
+5.1:  EMS illesztãprogram nincs telep°tve a rendszerben.\n
+5.2:EMS illesztã verzi¢ja
+5.3:EMS lapkeret
+5.4:ôssz. EMS mem¢ria
+5.5:Szabad EMS mem¢ria
+5.6:ôsszes le°r¢
+5.7:Szabad le°r¢k
+5.8:\n  Le°r¢    Lapok    MÇret      NÇv\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS illesztãprogram nincs telep°tve a rendszerben.\n
+6.1:\nXMS mem¢ria tesztelÇse ...\n
+6.2:BELSä XMS HIBA.\n
+6.3:INT 2F AX=4309 t†mogatott\n
+6.4:XMS verzi¢
+6.5:XMS illesztã verzi¢ja
+6.6:HMA
+6.7:lÇtezik
+6.8:nem lÇtezik
+6.9:A20 vonal
+6.10:engedÇlyezve
+6.11:letiltva
+6.12:Szabad XMS mem¢ria
+6.13:Legn. szabad XMS blokk
+6.14:Szabad le°r¢k
+6.15: Blokk   Le°r¢      MÇret   Z†rak\n
+#    ------- --------  --------  -------
+6.16:Szabad felsã mem¢ria
+6.17:Legnagyobb felsã blokk
+6.18:Felsã mem¢ria nem elÇrhetã\n
+# help message
+7.0:FreeDOS MEM verzi¢ %s
+7.1:Megjelen°ti a haszn†lt Çs szabad mem¢ria mennyisÇgÇt a rendszerben.
+7.2:Szintaxis: MEM [nulla vagy tîbb az al†bb felsorolt kapcsol¢kb¢l]
+7.3:/E          Minden inform†ci¢t megjelen°t a Kibãv°tett Mem¢ri†r¢l (EMS)
+7.4:/FULL       A mem¢riablokkok teljes list†ja
+7.5:/C          Oszt†lyozza az 1 MB alatti mem¢ri†t haszn†l¢ modulokat
+7.6:/DEVICE     A mem¢ri†ban jelenleg lÇvã eszkîzillesztãk list†ja
+7.7:/U          A hagyom†nyos Çs felsã mem¢ri†ban lÇvã programok list†ja
+7.8:/X          Minden inform†ci¢t megjelen°t a Kiterjesztett Mem¢ri†r¢l (XMS)
+7.9:/P          SzÅnetelteti a megjelen°tÇst minden tele kÇpernyã ut†n
+7.10:/?          Megjelen°ti ezt a s£g¢Åzenetet
+7.11:/DEBUG      Programok/eszkîzîk mutat†sa a hagyom†nyos/felsã mem¢ri†ban
+7.12:/M <nÇv> | /MODULE <nÇv>\n            Megjelen°ti a megadott program vagy illesztã mem¢riahaszn†lat†t
+7.13:/FREE       Megjelen°ti a szabad hagyom†nyos Çs felsã mem¢riablokkokat
+7.14:/ALL        Minden rÇszletet megjelen°t a magas mem¢riaterÅletrãl (HMA)
+7.15:/NOSUMMARY  Elrejti az îsszegzÇst, amely †ltal†ban akkor jelenik meg,\n            ha nincsenek megadva egyÇb kapcsol¢k
+7.16:/SUMMARY    êrvÇnytelen°ti a /NOSUMMARY kapcsol¢t
+7.17:/%-10s Nincs elÇrhetã s£g¢ ehhez a kapcsol¢hoz\n
+7.18:/OLD        Kompatibilit†s a FreeDOS MEM 1.7 bÇta verzi¢val
+7.19:/D          Ugyanaz, mint a /DEBUG (vagy /DEVICE, ha az /OLD van megadva)
+7.20:/F          Ugyanaz, mint a /FREE (vagy /FULL, ha az /OLD van megadva)
+8.0:\nNyomjon <Enter>-t a folytat†shoz vagy <Esc>-et a kilÇpÇshez . . .
+# Memory type names
+9.0:Hagyom†nyos
+9.1:Felsã
+9.2:(hiba)

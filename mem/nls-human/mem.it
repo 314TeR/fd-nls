@@ -8,34 +8,34 @@
 # catalog codepage: UTF8
 # needed DOS Codepage: CP850
 # translators: Gemini
-# Questo √® un testo generato automaticamente. Se trovi errori,
+# Questo ä un testo generato automaticamente. Se trovi errori,
 # sei invitato a correggerli e a informare il gruppo FreeDOS.
 #
 # fatal errors
 0.0:Memoria esaurita. Servono altri %ld byte.\n
 0.1:MEMORIA DI SISTEMA DANNEGGIATA! (errore int 21.5803)\n
 0.2:Corruzione UMB: La catena non raggiunge la fine della RAM bassa a %dk. Ultimo=0x%x.\n
-0.3:La catena MCB √® corrotta (nessun MCB Z dopo l'ultimo MCB M, ma %c al seg 0x%x).\n
+0.3:La catena MCB ä corrotta (nessun MCB Z dopo l'ultimo MCB M, ma %c al seg 0x%x).\n
 0.4:Usare /? per l'aiuto\n
 0.5:opzione sconosciuta: %s\n%s
-0.6:L'opzione /NOSUMMARY √® stata specificata, ma nessun'altra opzione che produce\noutput √® stata indicata, quindi non viene prodotto alcun output.\n%s
+0.6:L'opzione /NOSUMMARY ä stata specificata, ma nessun'altra opzione che produce\noutput ä stata indicata, quindi non viene prodotto alcun output.\n%s
 0.7:Errore fatale: impossibile liberare HMA, codice errore %02Xh\n
 0.8:opzione sconosciuta (atteso un '/'): %s\n%s
 0.9:Atteso un valore dopo /%s, not another switch\n%s
-0.10:Errore interno: l'opzione '%s' ha '%s' come prefisso\npi√π un altro prefisso di uguale lunghezza
+0.10:Errore interno: l'opzione '%s' ha '%s' come prefisso\npió un altro prefisso di uguale lunghezza
 0.11:Errore interno: l'opzione '%s' corrisponde esattamente a due\nswitch diversi\n
-0.12:Errore: l'opzione '%s' √® ambigua - corrisponde parzialmente a due\no pi√π opzioni diverse\n%s
+0.12:Errore: l'opzione '%s' ä ambigua - corrisponde parzialmente a due\no pió opzioni diverse\n%s
 0.13:Atteso un valore dopo /%s\n%s
-0.14:Opzione non valida '%s': √® necessario specificare almeno una lettera del\nnome dell'opzione
+0.14:Opzione non valida '%s': ä necessario specificare almeno una lettera del\nnome dell'opzione
 # misc messages
 1.0:Un sistema operativo sconosciuto
 1.1:%s byte\n
 1.2:(%s byte)\n
 1.3: (%7s byte)\n
-1.4:Attenzione: la periferica sembra essere di propriet√† di pi√π blocchi di memoria (%s\ne %s)\n
+1.4:Attenzione: la periferica sembra essere di proprietÖ di pió blocchi di memoria (%s\ne %s)\n
 1.5:(nessun drv)
 1.6:Nessuna memoria %s libera\n
-1.7:%s non √® attualmente in memoria.\n
+1.7:%s non ä attualmente in memoria.\n
 1.8:%s sta usando la seguente memoria:\n
 1.9:Memoria %s non accessibile\n
 # memory types
@@ -50,18 +50,18 @@
 2.7:Totale Espansa (EMS)
 2.8:Espansa Libera (EMS)
 2.9:Dim. max programma eseguibile
-2.10:Blocco di memoria superiore libero pi√π grande
-2.11:%s √® residente nell'area di memoria alta (HMA).\n
-2.12:Spazio disponibile nell'Area di Memoria Alta
-2.13:HMA √® disponibile tramite il driver XMS\n
+2.10:Il pió grande blocco UMB libero
+2.11:%s ä residente nell'area di memoria alta (HMA).\n
+2.12:Spazio disponibile in HMA
+2.13:HMA ä disponibile tramite il driver XMS\n
 2.14:HMA non disponibile tramite driver XMS: non implementato dal driver\n
-2.15:HMA non disponibile tramite driver XMS: un VDISK √® presente\n
+2.15:HMA non disponibile tramite driver XMS: un VDISK ä presente\n
 2.16:HMA non disponibile tramite driver XMS: HMA non esiste\n
-2.17:HMA non disponibile tramite driver XMS: HMA gi√† in uso\n
-2.18:HMA non disponibile tramite driver XMS: HMAMIN pi√π grande di HMA\n
+2.17:HMA non disponibile tramite driver XMS: HMA giÖ in uso\n
+2.18:HMA non disponibile tramite driver XMS: HMAMIN pió grande di HMA\n
 2.19:HMA disponibile tramite driver XMS, dimensione min TSR (HMAMIN): %u byte\n
 2.20:HMA non disponibile tramite driver XMS: errore sconosciuto %02Xh\n
-2.21:HMA non disponibile poich√© nessun driver XMS √® caricato\n
+2.21:HMA non disponibile poichÇ nessun driver XMS ä caricato\n
 2.22:Memoria accessibile usando Int 15h
 2.23:Memoria non accessibile usando Int 15h (codice %02xh)\n
 # block types
@@ -93,7 +93,7 @@
 4.6:\nSegmento      Totale\n
 #     -------  ----------------
 #            ----------------
-4.7:Totale:
+4.7:Totale
 4.8:driver di dispositivo di sistema\n
 4.9:DEVICE=%s installato\n
 4.10:Dettaglio Memoria %s:\n
@@ -125,17 +125,17 @@
 6.10:abilitata
 6.11:disabilitata
 6.12:Memoria XMS libera
-6.13:Blocco XMS libero pi√π grande
+6.13:Maggior blocco XMS libero
 6.14:Handle liberi
 6.15: Blocco   Handle     Dimens.    Lock\n
 #    ------- --------  --------  -------
 6.16:Memoria superiore libera
-6.17:Blocco superiore pi√π grande
+6.17:Blocco UMB pió grande
 6.18:Memoria superiore non disponibile\n
 # help message
 7.0:FreeDOS MEM versione %s
-7.1:Mostra la quantit√† di memoria usata e libera nel sistema.
-7.2:Sintassi: MEM [zero o pi√π opzioni mostrate sotto]
+7.1:Mostra la quantitÖ di memoria usata e libera nel sistema.
+7.2:Sintassi: MEM [zero o pió opzioni mostrate sotto]
 7.3:/E          Mostra tutte le informazioni sulla Memoria Espansa
 7.4:/FULL       Elenco completo dei blocchi di memoria
 7.5:/C          Classifica i moduli che usano memoria sotto 1 MB
@@ -151,7 +151,7 @@
 7.15:/NOSUMMARY  Non mostrare il riepilogo normalmente visualizzato quando non\n            vengono specificate altre opzioni
 7.16:/SUMMARY    Nega l'opzione /NOSUMMARY
 7.17:/%-10s Nessun aiuto disponibile per questa opzione\n
-7.18:/OLD        Compatibilit√† con FreeDOS MEM 1.7 beta
+7.18:/OLD        CompatibilitÖ con FreeDOS MEM 1.7 beta
 7.19:/D          Come /DEBUG per default, come /DEVICE se usato /OLD
 7.20:/F          Come /FREE per default, come /FULL se usato /OLD
 8.0:\nPremere <Invio> per continuare o <Esc> per uscire . . .

@@ -1,0 +1,153 @@
+# Language: Hungarian
+# File ending: hu
+# Codepage: 852
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Nincs elég memória. Még %ld bájt szükséges.\n
+0.1:RENDSZERMEMÓRIA SÉRÜLT! (int 21.5803 hiba)\n
+0.2:UMB hiba: A lánc nem éri el az alap RAM tetejét %dk-nál. Utolsó=0x%x.\n
+0.3:MCB lánc sérült (nincs Z MCB az utolsó M MCB után, de %c van a 0x%x segm.-ben).\n
+0.4:Használja a /? kapcsolót a súgóhoz\n
+0.5:Ismeretlen kapcsoló: %s\n%s
+0.6:A /NOSUMMARY kapcsoló lett megadva egyéb kimeneti kapcsolók\nnélkül. Nem készül kimenet.\n%s
+0.7:Végzetes hiba: HMA felszabadítása sikertelen, hibakód %02Xh\n
+0.8:Ismeretlen kapcsoló ('/' várt): %s\n%s
+0.9:Érték várt a /%s után, nem egy újabb kapcsoló\n%s
+0.10:Belső hiba: a(z) '%s' kapcsolónak '%s' az előtagja\nés egy másik, azonos hosszúságú előtagja
+0.11:Belső hiba: a(z) '%s' kapcsoló pontosan egyezik\nkét különböző kapcsolóval\n
+0.12:Hiba: a(z) '%s' kapcsoló kétértelmű - részleges egyezés\nkét vagy több különböző kapcsolóval\n%s
+0.13:Érték várt a /%s után\n%s
+0.14:Érvénytelen kapcsoló '%s': meg kell adnia legalább egy\nbetűt a kapcsoló nevéből
+# misc messages
+1.0:Ismeretlen operációs rendszer
+1.1:%s bájt\n
+1.2:(%s bájt)\n
+1.3: (%7s bájt)\n
+1.4:Figyelmeztetés: az eszköz úgy tűnik, több\nmemóriablokkhoz is tartozik (%s és %s)\n
+1.5:(nincs)
+1.6:Nincs szabad %s memória\n
+1.7:%s jelenleg nincs a memóriában.\n
+1.8:%s a következő memóriát használja:\n
+1.9:%s memória nem elérhető\n
+# memory types
+2.0:Memóriatípus      Összesen   Használt   Szabad\n
+#   ----------------  --------   --------   --------
+2.1:Hagyományos
+2.2:Felső
+2.3:Fenntartott
+2.4:Kiterj. (XMS)
+2.5:Össz. memória
+2.6:Össz. 1 MB alatt
+2.7:Összes Kibővített (EMS)
+2.8:Szabad Kibővített (EMS)
+2.9:Legnagyobb futt. program
+2.10:Legnagyobb szabad UMB
+2.11:%s a magas memóriaterületen (HMA) található.\n
+2.12:Elérhető hely a HMA-ban
+2.13:A HMA elérhető az XMS illesztőprogramon keresztül\n
+2.14:A HMA nem elérhető: az XMS illesztőprogram nem támogatja\n
+2.15:A HMA nem elérhető XMS illesztőn keresztül: VDISK eszköz jelen van\n
+2.16:A HMA nem elérhető XMS illesztőn keresztül: HMA nem létezik\n
+2.17:A HMA nem elérhető XMS illesztőn keresztül: a HMA már használatban van\n
+2.18:HMA nem elérhető XMS-en keresztül: a HMAMIN nagyobb, mint a HMA\n
+2.19:HMA elérhető XMS-en keresztül, min. TSR méret (HMAMIN): %u bájt\n
+2.20:A HMA nem elérhető az XMS illesztőn keresztül: ismeretlen hiba %02Xh\n
+2.21:A HMA nem elérhető, mert nincs XMS illesztőprogram betöltve\n
+2.22:Memória elérhető Int 15h-val
+2.23:Memória nem elérhető Int 15h-val (kód %02xh)\n
+# block types
+3.0:
+3.1:szabad
+3.2:rendszerkód
+3.3:rendszeradatok
+3.4:program
+3.5:környezet
+3.6:adatterület
+3.7:fenntartott
+3.8:megszakításvektor-tábla
+3.9:BIOS adatterület
+3.10:rendszeradatok
+3.11:eszközillesztő
+3.12:adatterület
+3.13:IFS
+3.14:(hiba)
+# classify msgs
+4.0:\nAz 1 MB alatti memóriát használó modulok:\n\n
+4.1:  Név       Összesen           Hagyományos        Felső Memória\n
+#     --------  ----------------   ----------------   ----------------
+4.2:RENDSZER
+4.3:Szabad
+4.4:\nSzegm.    Összesen         Név           Típus\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Cím          Attr.   Név        Program\n
+#      -----------  ------ ----------  ----------
+4.6:\nSzegm.    Összesen\n
+#     -------  ----------------
+#            ----------------
+4.7:Össz.:
+4.8:rendszereszköz-illesztő\n
+4.9:telepített DEVICE=%s\n
+4.10:%s memóriarészletek:\n
+4.11:Szabad %s memória:\n
+4.12: (%u ebben a blokkban)
+# EMS stuff
+5.0:BELSŐ EMS HIBA.\n
+5.1:  EMS illesztőprogram nincs telepítve a rendszerben.\n
+5.2:EMS illesztő verziója
+5.3:EMS lapkeret
+5.4:Össz. EMS memória
+5.5:Szabad EMS memória
+5.6:Összes leíró
+5.7:Szabad leírók
+5.8:\n  Leíró    Lapok    Méret      Név\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS illesztőprogram nincs telepítve a rendszerben.\n
+6.1:\nXMS memória tesztelése ...\n
+6.2:BELSŐ XMS HIBA.\n
+6.3:INT 2F AX=4309 támogatott\n
+6.4:XMS verzió
+6.5:XMS illesztő verziója
+6.6:HMA
+6.7:létezik
+6.8:nem létezik
+6.9:A20 vonal
+6.10:engedélyezve
+6.11:letiltva
+6.12:Szabad XMS memória
+6.13:Legn. szabad XMS blokk
+6.14:Szabad leírók
+6.15: Blokk   Leíró      Méret   Zárak\n
+#    ------- --------  --------  -------
+6.16:Szabad felső memória
+6.17:Legnagyobb felső blokk
+6.18:Felső memória nem elérhető\n
+# help message
+7.0:FreeDOS MEM verzió %s
+7.1:Megjeleníti a használt és szabad memória mennyiségét a rendszerben.
+7.2:Szintaxis: MEM [nulla vagy több az alább felsorolt kapcsolókból]
+7.3:/E          Minden információt megjelenít a Kibővített Memóriáról (EMS)
+7.4:/FULL       A memóriablokkok teljes listája
+7.5:/C          Osztályozza az 1 MB alatti memóriát használó modulokat
+7.6:/DEVICE     A memóriában jelenleg lévő eszközillesztők listája
+7.7:/U          A hagyományos és felső memóriában lévő programok listája
+7.8:/X          Minden információt megjelenít a Kiterjesztett Memóriáról (XMS)
+7.9:/P          Szünetelteti a megjelenítést minden tele képernyő után
+7.10:/?          Megjeleníti ezt a súgóüzenetet
+7.11:/DEBUG      Programok/eszközök mutatása a hagyományos/felső memóriában
+7.12:/M <név> | /MODULE <név>\n            Megjeleníti a megadott program vagy illesztő memóriahasználatát
+7.13:/FREE       Megjeleníti a szabad hagyományos és felső memóriablokkokat
+7.14:/ALL        Minden részletet megjelenít a magas memóriaterületről (HMA)
+7.15:/NOSUMMARY  Elrejti az összegzést, amely általában akkor jelenik meg,\n            ha nincsenek megadva egyéb kapcsolók
+7.16:/SUMMARY    Érvényteleníti a /NOSUMMARY kapcsolót
+7.17:/%-10s Nincs elérhető súgó ehhez a kapcsolóhoz\n
+7.18:/OLD        Kompatibilitás a FreeDOS MEM 1.7 béta verzióval
+7.19:/D          Ugyanaz, mint a /DEBUG (vagy /DEVICE, ha az /OLD van megadva)
+7.20:/F          Ugyanaz, mint a /FREE (vagy /FULL, ha az /OLD van megadva)
+8.0:\nNyomjon <Enter>-t a folytatáshoz vagy <Esc>-et a kilépéshez . . .
+# Memory type names
+9.0:Hagyományos
+9.1:Felső
+9.2:(hiba)

@@ -1,0 +1,153 @@
+# Language: Icelandic
+# File ending: is
+# Codepage: 861
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Ekki n¢g minni. Vantar %ld bëti til viåb¢tar.\n
+0.1:KERFISMINNI EYãILAGT! (int 21.5803 villa)\n
+0.2:UMB-spilling: Keåja nër ekki efri mîrkum l†gs RAM viå %dk. S°åasta=0x%x.\n
+0.3:MCB-keåja er spillt (enginn Z MCB † eftir s°åasta M, en %c † segm. 0x%x).\n
+0.4:Notiå /? til aå f† hj†lp\n
+0.5:¶ïekktur rofi: %s\n%s
+0.6:Rofinn /NOSUMMARY var gefinn †n annarra £ttaksrofa.\nEkkert £ttak veråur til.\n%s
+0.7:Alvarleg villa: t¢kst ekki aå losa HMA, villuk¢åi %02Xh\n
+0.8:¶ïekktur rofi (bj¢st viå '/'): %s\n%s
+0.9:Bj¢st viå gildi † eftir /%s, ekki îårum rofa\n%s
+0.10:Innri villa: rofinn '%s' er meå '%s' sem forskeyti\nog annaå jafnlangt forskeyti
+0.11:Innri villa: rofinn '%s' passaåi n†kvëmlega viå tvo\nmismunandi rofa\n
+0.12:Villa: rofinn '%s' er tv°rëåur - hluta-pîrun fyrir tvo\neåa fleiri rofa\n%s
+0.13:Bj¢st viå gildi † eftir /%s\n%s
+0.14:¶gildur rofi '%s': ï£ veråur aå tilgreina a.m.k. einn\nstaf £r nafni rofans
+# misc messages
+1.0:¶ïekkt stòrikerfi
+1.1:%s bëti\n
+1.2:(%s bëti)\n
+1.3: (%7s bëti)\n
+1.4:Aåvîrun: tëki viråist tilheyra mîrgum minnisblokkum\n(%s og %s)\n
+1.5:(ekkert drif)
+1.6:Ekkert %s minni er laust\n
+1.7:%s er ekki ° minni eins og er.\n
+1.8:%s er aå nota eftirfarandi minni:\n
+1.9:%s minni er ekki aågengilegt\n
+# memory types
+2.0:Minnistegund       Samtals     Notaå      Laust\n
+#   ----------------  --------   --------   --------
+2.1:Hefåbundiå
+2.2:Efra
+2.3:Fr†tekiå
+2.4:ßtv°kkaå (XMS)
+2.5:Samtals minni
+2.6:Samtals undir 1MB
+2.7:Samtals stëkkaå (EMS)
+2.8:Laust stëkkaå (EMS)
+2.9:Stërsta keyranlega forritsstërå
+2.10:Stërsta lausa efra minnisblokk
+2.11:%s er ° b£setu † h†u minnissvëåi (HMA).\n
+2.12:Tiltëkt ròmi † h†u minnissvëåi (HMA)
+2.13:HMA er tiltëkt ° gegnum XMS-rekilinn\n
+2.14:HMA ekki tiltëkt: ekki £tfërt af XMS-rekli\n
+2.15:HMA ekki tiltëkt gegnum XMS-rekil: VDISK tëki er til staåar\n
+2.16:HMA ekki tiltëkt gegnum XMS-rekil: HMA er ekki til\n
+2.17:HMA ekki tiltëkt gegnum XMS-rekil: HMA ïegar ° notkun\n
+2.18:HMA ekki tiltëkt ° gegnum XMS: HMAMIN er stërra en HMA\n
+2.19:HMA tiltëkt gegnum XMS, l†gmarksstërå TSR (HMAMIN): %u bëti\n
+2.20:HMA ekki tiltëkt vegna XMS-rekils: ¢ïekkt villa %02Xh\n
+2.21:HMA ekki tiltëkt ïar sem enginn XMS-rekill er hlaåinn\n
+2.22:Minni aågengilegt meå Int 15h
+2.23:Minni ekki aågengilegt meå Int 15h (k¢åi %02xh)\n
+# block types
+3.0:
+3.1:laust
+3.2:kerfisk¢åi
+3.3:kerfisgîgn
+3.4:forrit
+3.5:umhverfi
+3.6:gagnasvëåi
+3.7:fr†tekiå
+3.8:rofatîflu£tskrift
+3.9:BIOS gagnasvëåi
+3.10:kerfisgîgn
+3.11:tëkjarekill
+3.12:gagnasvëåi
+3.13:IFS
+3.14:(villa)
+# classify msgs
+4.0:\nEiningar sem nota minni undir 1 MB:\n\n
+4.1:  Nafn      Samtals            Hefåbundiå         Efra Minni\n
+#     --------  ----------------   ----------------   ----------------
+4.2:KERFI
+4.3:Laust
+4.4:\nSegment  Samtals           Nafn          Tegund\n
+#     -------  ----------------  ------------  -------------
+4.5:\n Vistfang      Eigin   Nafn       Forrit\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment  Samtals\n
+#     -------  ----------------
+#            ----------------
+4.7:Alls: 
+4.8:kerfistëkjarekill\n
+4.9:sett upp DEVICE=%s\n
+4.10:%s Minnisatriåi:\n
+4.11:Laust %s minni:\n
+4.12: (%u ° ïessari blokk)
+# EMS stuff
+5.0:INNRI EMS VILLA.\n
+5.1:  EMS-rekill ekki settur upp ° kerfinu.\n
+5.2:ßtg†fa EMS-rekils
+5.3:EMS s°åuramma
+5.4:Samtals EMS-minni
+5.5:Laust EMS-minni
+5.6:Samtals handfîng
+5.7:Laus handfîng
+5.8:\n  Handfang S°åur    Stërå      Nafn\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS-rekill ekki settur upp ° kerfinu.\n
+6.1:\nPr¢far XMS-minni ...\n
+6.2:INNRI XMS VILLA.\n
+6.3:INT 2F AX=4309 studd\n
+6.4:XMS £tg†fa
+6.5:ßtg†fa XMS-rekils
+6.6:HMA
+6.7:til staåar
+6.8:ekki til staåar
+6.9:A20 l°na
+6.10:virkjuå
+6.11:¢virkjuå
+6.12:Laust XMS-minni
+6.13:Stërsta lausa XMS-blokk
+6.14:Laus handfîng
+6.15: Blokk   Handfang   Stërå    L†sar\n
+#    ------- --------  --------  -------
+6.16:Laust efra minni
+6.17:Stërsta efra blokk
+6.18:Efra minni ekki tiltëkt\n
+# help message
+7.0:FreeDOS MEM £tg†fa %s
+7.1:Sònir magn notaås og lauss minnis ° kerfinu ï°nu.
+7.2:Setning: MEM [n£ll eåa fleiri af rofum hÇr aå neåan]
+7.3:/E          Sònir allar upplòsingar um stëkkaå minni (EMS)
+7.4:/FULL       Fullur listi yfir minnisblokkir
+7.5:/C          Flokkar einingar sem nota minni undir 1 MB
+7.6:/DEVICE     Listi yfir tëkjarekla sem eru ° minni
+7.7:/U          Listi yfir forrit ° hefåbundnu og efra minni
+7.8:/X          Sònir allar upplòsingar um £tv°kkaå minni (XMS)
+7.9:/P          Gerir hlÇ † eftir hverja skj†mynd af upplòsingum
+7.10:/?          Sònir ïessi hj†lparboå
+7.11:/DEBUG      Sònir forrit og tëki ° hefåbundnu og efra minni
+7.12:/M <nafn> | /MODULE <nafn>\n            Sònir minni sem notaå er af forriti eåa rekli
+7.13:/FREE       Sònir lausar hefåbundnar og efri minnisblokkir
+7.14:/ALL        Sònir îll sm†atriåi um h†tt minnissvëåi (HMA)
+7.15:/NOSUMMARY  Sònir ekki samantektina sem venjulega birtist\n            ïegar engir aårir rofar eru tilgreindir
+7.16:/SUMMARY    Hlutleysir /NOSUMMARY rofann
+7.17:/%-10s Engin hj†lp er tiltëk fyrir ïennan rofa\n
+7.18:/OLD        Samhëfni viå FreeDOS MEM 1.7 beta
+7.19:/D          Sem /DEBUG sj†lfgefiå (eåa /DEVICE meå /OLD)
+7.20:/F          Sem /FREE sj†lfgefiå (eåa /FULL meå /OLD)
+8.0:\nóttu † <Enter> til aå halda †fram eåa <Esc> til aå hëtta...
+# Memory type names
+9.0:Hefåbundiå
+9.1:Efra
+9.2:(villa)

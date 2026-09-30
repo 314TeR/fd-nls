@@ -1,0 +1,153 @@
+# Language: Icelandic
+# File ending: is
+# Codepage: 861
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Ekki nóg minni. Vantar %ld bæti til viðbótar.\n
+0.1:KERFISMINNI EYÐILAGT! (int 21.5803 villa)\n
+0.2:UMB-spilling: Keðja nær ekki efri mörkum lágs RAM við %dk. Síðasta=0x%x.\n
+0.3:MCB-keðja er spillt (enginn Z MCB á eftir síðasta M, en %c á segm. 0x%x).\n
+0.4:Notið /? til að fá hjálp\n
+0.5:Óþekktur rofi: %s\n%s
+0.6:Rofinn /NOSUMMARY var gefinn án annarra úttaksrofa.\nEkkert úttak verður til.\n%s
+0.7:Alvarleg villa: tókst ekki að losa HMA, villukóði %02Xh\n
+0.8:Óþekktur rofi (bjóst við '/'): %s\n%s
+0.9:Bjóst við gildi á eftir /%s, ekki öðrum rofa\n%s
+0.10:Innri villa: rofinn '%s' er með '%s' sem forskeyti\nog annað jafnlangt forskeyti
+0.11:Innri villa: rofinn '%s' passaði nákvæmlega við tvo\nmismunandi rofa\n
+0.12:Villa: rofinn '%s' er tvíræður - hluta-pörun fyrir tvo\neða fleiri rofa\n%s
+0.13:Bjóst við gildi á eftir /%s\n%s
+0.14:Ógildur rofi '%s': þú verður að tilgreina a.m.k. einn\nstaf úr nafni rofans
+# misc messages
+1.0:Óþekkt stýrikerfi
+1.1:%s bæti\n
+1.2:(%s bæti)\n
+1.3: (%7s bæti)\n
+1.4:Aðvörun: tæki virðist tilheyra mörgum minnisblokkum\n(%s og %s)\n
+1.5:(ekkert drif)
+1.6:Ekkert %s minni er laust\n
+1.7:%s er ekki í minni eins og er.\n
+1.8:%s er að nota eftirfarandi minni:\n
+1.9:%s minni er ekki aðgengilegt\n
+# memory types
+2.0:Minnistegund       Samtals     Notað      Laust\n
+#   ----------------  --------   --------   --------
+2.1:Hefðbundið
+2.2:Efra
+2.3:Frátekið
+2.4:Útvíkkað (XMS)
+2.5:Samtals minni
+2.6:Samtals undir 1MB
+2.7:Samtals stækkað (EMS)
+2.8:Laust stækkað (EMS)
+2.9:Stærsta keyranlega forritsstærð
+2.10:Stærsta lausa efra minnisblokk
+2.11:%s er í búsetu á háu minnissvæði (HMA).\n
+2.12:Tiltækt rými á háu minnissvæði (HMA)
+2.13:HMA er tiltækt í gegnum XMS-rekilinn\n
+2.14:HMA ekki tiltækt: ekki útfært af XMS-rekli\n
+2.15:HMA ekki tiltækt gegnum XMS-rekil: VDISK tæki er til staðar\n
+2.16:HMA ekki tiltækt gegnum XMS-rekil: HMA er ekki til\n
+2.17:HMA ekki tiltækt gegnum XMS-rekil: HMA þegar í notkun\n
+2.18:HMA ekki tiltækt í gegnum XMS: HMAMIN er stærra en HMA\n
+2.19:HMA tiltækt gegnum XMS, lágmarksstærð TSR (HMAMIN): %u bæti\n
+2.20:HMA ekki tiltækt vegna XMS-rekils: óþekkt villa %02Xh\n
+2.21:HMA ekki tiltækt þar sem enginn XMS-rekill er hlaðinn\n
+2.22:Minni aðgengilegt með Int 15h
+2.23:Minni ekki aðgengilegt með Int 15h (kóði %02xh)\n
+# block types
+3.0:
+3.1:laust
+3.2:kerfiskóði
+3.3:kerfisgögn
+3.4:forrit
+3.5:umhverfi
+3.6:gagnasvæði
+3.7:frátekið
+3.8:rofatöfluútskrift
+3.9:BIOS gagnasvæði
+3.10:kerfisgögn
+3.11:tækjarekill
+3.12:gagnasvæði
+3.13:IFS
+3.14:(villa)
+# classify msgs
+4.0:\nEiningar sem nota minni undir 1 MB:\n\n
+4.1:  Nafn      Samtals            Hefðbundið         Efra Minni\n
+#     --------  ----------------   ----------------   ----------------
+4.2:KERFI
+4.3:Laust
+4.4:\nSegment  Samtals           Nafn          Tegund\n
+#     -------  ----------------  ------------  -------------
+4.5:\n Vistfang      Eigin   Nafn       Forrit\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment  Samtals\n
+#     -------  ----------------
+#            ----------------
+4.7:Alls: 
+4.8:kerfistækjarekill\n
+4.9:sett upp DEVICE=%s\n
+4.10:%s Minnisatriði:\n
+4.11:Laust %s minni:\n
+4.12: (%u í þessari blokk)
+# EMS stuff
+5.0:INNRI EMS VILLA.\n
+5.1:  EMS-rekill ekki settur upp í kerfinu.\n
+5.2:Útgáfa EMS-rekils
+5.3:EMS síðuramma
+5.4:Samtals EMS-minni
+5.5:Laust EMS-minni
+5.6:Samtals handföng
+5.7:Laus handföng
+5.8:\n  Handfang Síður    Stærð      Nafn\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS-rekill ekki settur upp í kerfinu.\n
+6.1:\nPrófar XMS-minni ...\n
+6.2:INNRI XMS VILLA.\n
+6.3:INT 2F AX=4309 studd\n
+6.4:XMS útgáfa
+6.5:Útgáfa XMS-rekils
+6.6:HMA
+6.7:til staðar
+6.8:ekki til staðar
+6.9:A20 lína
+6.10:virkjuð
+6.11:óvirkjuð
+6.12:Laust XMS-minni
+6.13:Stærsta lausa XMS-blokk
+6.14:Laus handföng
+6.15: Blokk   Handfang   Stærð    Lásar\n
+#    ------- --------  --------  -------
+6.16:Laust efra minni
+6.17:Stærsta efra blokk
+6.18:Efra minni ekki tiltækt\n
+# help message
+7.0:FreeDOS MEM útgáfa %s
+7.1:Sýnir magn notaðs og lauss minnis í kerfinu þínu.
+7.2:Setning: MEM [núll eða fleiri af rofum hér að neðan]
+7.3:/E          Sýnir allar upplýsingar um stækkað minni (EMS)
+7.4:/FULL       Fullur listi yfir minnisblokkir
+7.5:/C          Flokkar einingar sem nota minni undir 1 MB
+7.6:/DEVICE     Listi yfir tækjarekla sem eru í minni
+7.7:/U          Listi yfir forrit í hefðbundnu og efra minni
+7.8:/X          Sýnir allar upplýsingar um útvíkkað minni (XMS)
+7.9:/P          Gerir hlé á eftir hverja skjámynd af upplýsingum
+7.10:/?          Sýnir þessi hjálparboð
+7.11:/DEBUG      Sýnir forrit og tæki í hefðbundnu og efra minni
+7.12:/M <nafn> | /MODULE <nafn>\n            Sýnir minni sem notað er af forriti eða rekli
+7.13:/FREE       Sýnir lausar hefðbundnar og efri minnisblokkir
+7.14:/ALL        Sýnir öll smáatriði um hátt minnissvæði (HMA)
+7.15:/NOSUMMARY  Sýnir ekki samantektina sem venjulega birtist\n            þegar engir aðrir rofar eru tilgreindir
+7.16:/SUMMARY    Hlutleysir /NOSUMMARY rofann
+7.17:/%-10s Engin hjálp er tiltæk fyrir þennan rofa\n
+7.18:/OLD        Samhæfni við FreeDOS MEM 1.7 beta
+7.19:/D          Sem /DEBUG sjálfgefið (eða /DEVICE með /OLD)
+7.20:/F          Sem /FREE sjálfgefið (eða /FULL með /OLD)
+8.0:\nÝttu á <Enter> til að halda áfram eða <Esc> til að hætta...
+# Memory type names
+9.0:Hefðbundið
+9.1:Efra
+9.2:(villa)

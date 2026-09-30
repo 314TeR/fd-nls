@@ -39,7 +39,7 @@
 2.9:Största körbara programstorlek
 2.10:Största fria övre minnesblock
 2.11:%s är resident i det höga minnesområdet.\n
-2.12:Tillgängligt utrymme i Höga minnesområdet
+2.12:Tillgängligt utrymme i HMA
 2.13:HMA är tillgängligt via XMS-drivrutinen\n
 2.14:HMA är inte tillgängligt via XMS-drivrutinen: inte implementerat av drivrutinen\n
 2.15:HMA är inte tillgängligt via XMS-drivrutinen: en VDISK-enhet finns\n
@@ -80,7 +80,7 @@
 4.6:\nSegment       Totalt\n
 #     -------  ----------------
 #            ----------------
-4.7:Totalt:
+4.7:Totalt
 4.8:systemdrivrutin\n
 4.9:installerad DEVICE=%s\n
 4.10:%s minnes detaljer:\n

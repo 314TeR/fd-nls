@@ -1,0 +1,153 @@
+# Language: Brazilian Portuguese
+# File ending: pb
+# Codepage: 858
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Memoria insuficiente. Precisa de %ld mais bytes.\n
+0.1:MEMORIA DO SISTEMA CORROMPIDA! (falha int 21.5803)\n
+0.2:Corrupção de UMB: Cadeia não atinge topo da RAM baixa em %dk. Ult=0x%x.\n
+0.3:Cadeia MCB corrompida (sem MCB Z após último M, mas %c no seg 0x%x).\n
+0.4:Use /? para ajuda\n
+0.5:Opção desconhecida: %s\n%s
+0.6:A opção /NOSUMMARY foi especificada sem outras opções de\nsaída. Nenhuma saída será gerada.\n%s
+0.7:Erro fatal: falha ao liberar HMA, código de erro %02Xh\n
+0.8:Opção desconhecida (esperava um '/'): %s\n%s
+0.9:Esperava um valor após /%s, não outra opção\n%s
+0.10:Erro interno: a opção '%s' tem prefixo '%s'\ne outro prefixo de mesmo tamanho
+0.11:Erro interno: a opção '%s' coincidiu exatamente com duas\nopções diferentes\n
+0.12:Erro: a opção '%s' é ambígua - corresponde parcialmente a\nduas ou mais opções\n%s
+0.13:Esperava um valor após /%s\n%s
+0.14:Opção inválida '%s': especifique pelo menos uma letra\ndo nome da opção
+# misc messages
+1.0:Um sistema operacional desconhecido
+1.1:%s bytes\n
+1.2:(%s bytes)\n
+1.3: (%7s bytes)\n
+1.4:Aviso: o dispositivo parece pertencer a vários blocos de\nmemória (%s e %s)\n
+1.5:(sem drv)
+1.6:Nenhuma Memória %s está livre\n
+1.7:%s não está atualmente na memória.\n
+1.8:%s está usando a seguinte memória:\n
+1.9:A memória %s não está acessível\n
+# memory types
+2.0:Tipo de Memória    Total       Usado      Livre\n
+#   ----------------  --------   --------   --------
+2.1:Convencional
+2.2:Superior
+2.3:Reservada
+2.4:Estendida (XMS)
+2.5:Memória total
+2.6:Total < 1 MB
+2.7:Total Expandida (EMS)
+2.8:Livre Expandida (EMS)
+2.9:Maior tamanho de programa executável
+2.10:Maior bloco livre de UMB
+2.11:%s está residente na área de memória alta (HMA).\n
+2.12:Espaço disponível na HMA
+2.13:HMA está disponível pelo driver XMS\n
+2.14:HMA indisponível pelo driver XMS: não implementado pelo driver\n
+2.15:HMA indisponível pelo driver XMS: há um dispositivo VDISK\n
+2.16:HMA indisponível pelo driver XMS: HMA não existe\n
+2.17:HMA indisponível pelo driver XMS: HMA já em uso\n
+2.18:HMA indisponível via XMS: HMAMIN é maior que HMA\n
+2.19:HMA disponível via XMS, tamanho mín. de TSR (HMAMIN): %u bytes\n
+2.20:HMA indisponível pelo driver XMS: erro desconhecido %02Xh\n
+2.21:HMA indisponível pois não há driver XMS carregado\n
+2.22:Memória acessível usando Int 15h
+2.23:Memória não acessível usando Int 15h (código %02xh)\n
+# block types
+3.0:
+3.1:livre
+3.2:código do sistema
+3.3:dados do sistema
+3.4:programa
+3.5:ambiente
+3.6:área de dados
+3.7:reservada
+3.8:tabela de vetores de interrupção
+3.9:área de dados do BIOS
+3.10:dados do sistema
+3.11:driver de dispositivo
+3.12:área de dados
+3.13:IFS
+3.14:(erro)
+# classify msgs
+4.0:\nMódulos usando memória abaixo de 1 MB:\n\n
+4.1:  Nome           Total           Convencional       Mem. Superior\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SISTEMA
+4.3:Livre
+4.4:\nSegmen.       Total            Nome          Tipo\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Endereço    Atrib   Nome       Programa\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegmen.       Total\n
+#     -------  ----------------
+#            ----------------
+4.7:Total:
+4.8:driver de dispositivo do sistema\n
+4.9:DEVICE instalado=%s\n
+4.10:%s Detalhe de Memória:\n
+4.11:Memória %s Livre:\n
+4.12: (%u neste bloco)
+# EMS stuff
+5.0:ERRO INTERNO DO EMS.\n
+5.1:  Driver EMS não instalado no sistema.\n
+5.2:Versão do driver EMS
+5.3:Quadro de página EMS
+5.4:Total de memória EMS
+5.5:Memória EMS livre
+5.6:Total de handles
+5.7:Handles livres
+5.8:\n  Handle   Páginas  Tamanho    Nome\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:Driver XMS não instalado no sistema.\n
+6.1:\nTestando a memória XMS ...\n
+6.2:ERRO INTERNO DO XMS.\n
+6.3:INT 2F AX=4309 suportado\n
+6.4:Versão do XMS
+6.5:Versão do driver XMS
+6.6:HMA
+6.7:existe
+6.8:não existe
+6.9:Linha A20
+6.10:ativada
+6.11:desativada
+6.12:Memória XMS livre
+6.13:Maior bloco XMS livre
+6.14:Handles livres
+6.15: Bloco   Handle     Tamanho  Travas\n
+#    ------- --------  --------  -------
+6.16:Memória superior livre
+6.17:Maior bloco superior
+6.18:Memória superior não disponível\n
+# help message
+7.0:FreeDOS MEM versão %s
+7.1:Mostra a quantidade de memória usada e livre em seu sistema.
+7.2:Sintaxe: MEM [zero ou mais das opções mostradas abaixo]
+7.3:/E          Informa tudo sobre Memória Expandida (EMS)
+7.4:/FULL       Lista completa dos blocos de memória
+7.5:/C          Classifica módulos usando memória sob 1 MB
+7.6:/DEVICE     Lista os drivers de dispositivo na memória
+7.7:/U          Lista os programas na memória convencional/superior
+7.8:/X          Informa tudo sobre Memória Estendida (XMS)
+7.9:/P          Pausa após preencher uma tela de informações
+7.10:/?          Mostra esta mensagem de ajuda
+7.11:/DEBUG      Mostra programas/disp. na mem. convenc. e superior
+7.12:/M <nome> | /MODULE <nome>\n            Mostra a memória usada pelo programa ou driver
+7.13:/FREE       Mostra os blocos livres de mem. convenc. e superior
+7.14:/ALL        Mostra detalhes da área de memória alta (HMA)
+7.15:/NOSUMMARY  Oculta o resumo normalmente exibido quando\n            nenhuma outra opção é especificada
+7.16:/SUMMARY    Anula a opção /NOSUMMARY
+7.17:/%-10s Nenhuma ajuda disponível para esta opção\n
+7.18:/OLD        Compatibilidade com FreeDOS MEM 1.7 beta
+7.19:/D          Igual a /DEBUG, ou igual a /DEVICE se usar /OLD
+7.20:/F          Igual a /FREE, ou igual a /FULL se usar /OLD
+8.0:\nPressione <Enter> para continuar ou <Esc> para sair . . .
+# Memory type names
+9.0:Convencional
+9.1:Superior
+9.2:(erro)

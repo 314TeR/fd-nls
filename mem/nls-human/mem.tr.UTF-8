@@ -2,7 +2,7 @@
 0.0:Yetersiz bellek. %ld bayt bellek daha gerekli.\n
 0.1:SİSTEM BELLEĞİ BOŞALTILDI! (iç 21.5803 hatası)\n
 0.2:UMB hasarı: Zincir %dk konumunda düşük belleğin tepesine ulaşamıyor. Son=0x%x.\n
-0.3:MCB zinciri hasarlı (son M MCB'den sonra Z MCB yok; ancak %c\nseg 0x%x'de ).\n
+0.3:MCB zinciri hasarlı (son M MCB'den sonra Z MCB yok; ancak %c\nseg 0x%x'de).\n
 0.4:Yardım için /? kullanın\n
 0.5:Bilinmeyen seçenek: %s\n%s
 0.6:/NOSUMMARY seçeneği belirtildi, ancak başka çıktı üreten seçenek\nverilmediğinden çıktı üretilmiyor.\n%s
@@ -36,21 +36,21 @@
 2.6:1 MB altında
 2.7:Toplam Genişlt. (EMS)
 2.8:Boş Genişlt. (EMS)
-2.9:En büyük program boyutu
-2.10:En büyük boş üst bellek bloku
+2.9:Azami program boyutu
+2.10:Azami boş üst bellek bloku
 2.11:%s yüksek bellek alanında konumlu.\n
-2.12:Yüksek Bellek Alanı kullanılabilir alanı
+2.12:Boş Yüksek Bellek Alanı
 2.13:HMA, XMS sürücüsü aracılığıyla kullanılabilir\n
 2.14:HMA, XMS sürücüsü aracılığıyla kullanılamaz: Sürücü özelliği eklememiş\n
 2.15:HMA, XMS sürücüsü aracılığıyla kullanılamaz: Bir VDISK aygıtı mevcut\n
 2.16:HMA, XMS sürücüsü aracılığıyla kullanılamaz: HMA mevcut değil\n
 2.17:HMA, XMS sürücüsü aracılığıyla kullanılamaz: HMA zaten kullanımda\n
 2.18:HMA, XMS sürücüsü aracılığıyla kullanılamaz: HMAMIN, HMA'dan daha büyük\n
-2.19:HMA, XMS sürücüsü aracılığıyla kullanılabilir, en küçük TSR boyutu\n(HMAMIN): %u bayt\n
+2.19:HMA, XMS sürücüsü aracılığıyla kullanılabilir, asgari TSR boyutu\n(HMAMIN): %u bayt\n
 2.20:HMA, XMS sürücüsü aracılığıyla kullanılamaz: Bilinmeyen hata %02Xh\n
 2.21:HMA, bir XMS sürücüsü yüklenmediğinden kullanılamaz\n
-2.22:Bellek Int 15h kullanılarak erişilebilir
-2.23:Bellek Int 15h kullanılarak erişilemez (kod %02xh)\n
+2.22:Int 15h ile erişilebilir bellek
+2.23:Bellek Int 15h ile erişilemez (kod %02xh)\n
 # block types
 3.0:
 3.1:boş
@@ -80,7 +80,7 @@
 4.6:\nSegment      Toplam\n
 #     -------  ----------------
 #            ----------------
-4.7:Toplam:
+4.7:Toplam
 4.8:sistem aygıt sürücüsü\n
 4.9:yüklü AYGIT=%s\n
 4.10:%s Bellek Ayrıntısı:\n
@@ -112,7 +112,7 @@
 6.10:etkin
 6.11:etkin değil
 6.12:Boş XMS belleği
-6.13:En büyük boş XMS bloku
+6.13:Azami boş XMS bloku
 6.14:Boş işleyiciler
 6.15: Blok   İşleyici   Boyut     Kilit\n
 #    ------- --------  --------  -------

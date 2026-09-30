@@ -1,0 +1,153 @@
+# Language: Estonian
+# File ending: et
+# Codepage: 775
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:M„lu on otsas. Vaja on %ld t„iendavat baiti.\n
+0.1:SšSTEEMIMLU ON RIKUTUD! (int 21.5803 tärge)\n
+0.2:UMB on rikutud: Kett ei jäua baasm„lu tippu %dk juures. Viimane=0x%x.\n
+0.3:MCB-ahel on rikutud (ei ole Z MCB p„rast viimast M MCB, vaid %c seg 0x%x).\n
+0.4:Abi saamiseks kasuta /?\n
+0.5:Tundmatu väti: %s\n%s
+0.6:M„„rati väti /NOSUMMARY ilma teiste v„ljundit andvate\nvätmeteta. V„ljundit ei tekitata.\n%s
+0.7:Kriitiline viga: HMA vabastamine ebaännestus, veakood %02Xh\n
+0.8:Tundmatu väti (oodati '/'): %s\n%s
+0.9:Oodati v„„rtust p„rast /%s, mitte teist vätit\n%s
+0.10:Sisemine viga: vätmel '%s' on eesliide '%s'\nja teine sama pikkusega eesliide
+0.11:Sisemine viga: väti '%s' sobis t„pselt kahe\nerineva vätmega\n
+0.12:Viga: väti '%s' on mitmet„henduslik - osaline sobivus kahe\nväi enama erineva vätmega\n%s
+0.13:Oodati v„„rtust p„rast /%s\n%s
+0.14:Vigane väti '%s': peate m„„rama v„hemalt he t„he\nvätme nimest
+# misc messages
+1.0:Tundmatu operatsioonissteem
+1.1:%s baiti\n
+1.2:(%s baiti)\n
+1.3: (%7s baiti)\n
+1.4:Hoiatus: seade n„ib kuuluvat mitmele m„lublokile\n(%s ja %s)\n
+1.5:(seade puudub)
+1.6:Vaba %s-m„lu ei ole\n
+1.7:%s ei ole praegu m„lus.\n
+1.8:%s kasutab j„rgmist m„lu:\n
+1.9:%s-m„lu ei ole ligip„„setav\n
+# memory types
+2.0:M„lu tp         Kokku      Kasutusel  Vaba\n
+#   ----------------  --------   --------   --------
+2.1:Tavam„lu
+2.2:šlem„lu
+2.3:Reserveeritud
+2.4:Laiendm„lu (XMS)
+2.5:Kogu m„lu
+2.6:Kokku alla 1 MB
+2.7:Kokku lisam„lu (EMS)
+2.8:Vaba lisam„lu (EMS)
+2.9:Suurima k„ivitatava programmi suurus
+2.10:Suurim vaba lem„lu plokk
+2.11:%s asub kärgm„lu alas (HMA).\n
+2.12:Vaba ruum kärgm„lu alas (HMA)
+2.13:HMA on saadaval XMS-draiveri kaudu\n
+2.14:HMA pole saadaval XMS-draiveri kaudu: draiver ei toeta seda\n
+2.15:HMA pole saadaval XMS-draiveri kaudu: VDISK seade on leitud\n
+2.16:HMA pole saadaval XMS-draiveri kaudu: HMA-d ei eksisteeri\n
+2.17:HMA pole saadaval XMS-draiveri kaudu: HMA on juba kasutusel\n
+2.18:HMA pole saadaval XMS-draiveri kaudu: HMAMIN on suurem kui HMA\n
+2.19:HMA on saadaval XMS-draiveri kaudu, min TSR suurus (HMAMIN): %u baiti\n
+2.20:HMA pole saadaval XMS-draiveri kaudu: tundmatu viga %02Xh\n
+2.21:HMA pole saadaval, sest XMS-draiverit ei ole laaditud\n
+2.22:M„lu on ligip„„setav Int 15h kaudu
+2.23:M„lu pole ligip„„setav Int 15h kaudu (kood %02xh)\n
+# block types
+3.0:
+3.1:vaba
+3.2:ssteemikood
+3.3:ssteemi andmed
+3.4:programm
+3.5:keskkond
+3.6:andmeala
+3.7:reserveeritud
+3.8:katkestuste vektoritabel
+3.9:BIOSi andmeala
+3.10:ssteemi andmed
+3.11:seadmedraiver
+3.12:andmeala
+3.13:IFS
+3.14:(viga)
+# classify msgs
+4.0:\nAlla 1 MB m„lu kasutavad moodulid:\n\n
+4.1:  Nimi      Kokku              Tavam„lu           šlem„lu\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SšSTEEM
+4.3:Vaba
+4.4:\nSegment  Kokku             Nimi          Tp\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Aadress      Atr    Nimi       Programm\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment  Kokku\n
+#     -------  ----------------
+#            ----------------
+4.7:Kokku:
+4.8:ssteemi seadmedraiver\n
+4.9:paigaldatud DEVICE=%s\n
+4.10:%s m„lu ksikasjad:\n
+4.11:Vaba %s-m„lu:\n
+4.12: (%u selles plokis)
+# EMS stuff
+5.0:SISEMINE EMS VIGA.\n
+5.1:  EMS-draiverit ei ole ssteemi paigaldatud.\n
+5.2:EMS-draiveri versioon
+5.3:EMS-leheraam
+5.4:Kogu EMS-m„lu
+5.5:Vaba EMS-m„lu
+5.6:Pidemete koguarv
+5.7:Vabad pidemed
+5.8:\n  Pide     Lehed   Suurus     Nimi\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS-draiverit ei ole ssteemi paigaldatud.\n
+6.1:\nTestin XMS-m„lu ...\n
+6.2:SISEMINE XMS VIGA.\n
+6.3:INT 2F AX=4309 on toetatud\n
+6.4:XMS-versioon
+6.5:XMS-draiveri versioon
+6.6:HMA
+6.7:eksisteerib
+6.8:ei eksisteeri
+6.9:A20-liin
+6.10:lubatud
+6.11:keelatud
+6.12:Vaba XMS-m„lu
+6.13:Suurim vaba XMS-plokk
+6.14:Vabad pidemed
+6.15: Plokk   Pide      Suurus    Lukud\n
+#    ------- --------  --------  -------
+6.16:Vaba lem„lu
+6.17:Suurim lem„lu plokk
+6.18:šlem„lu pole saadaval\n
+# help message
+7.0:FreeDOS MEM versioon %s
+7.1:Kuvab ssteemi kasutatud ja vaba m„lu hulga.
+7.2:Sntaks: MEM [null väi enam alln„idatud vätmetest]
+7.3:/E          Kuvab kogu teabe lisam„lu (EMS) kohta
+7.4:/FULL       M„luplokkide t„ielik loend
+7.5:/C          Klassifitseerib alla 1 MB m„lu kasutavad moodulid
+7.6:/DEVICE     Kuvab praegu m„lus olevad seadmedraiverid
+7.7:/U          Tavam„lus ja lem„lus olevate programmide loend
+7.8:/X          Kuvab kogu teabe laiendm„lu (XMS) kohta
+7.9:/P          Peatab iga t„isekraani j„rel
+7.10:/?          Kuvab selle abiteate
+7.11:/DEBUG      Kuvab programmid ja seadmed tava- ja lem„lus
+7.12:/M <nimi> | /MODULE <nimi>\n            N„itab antud programmi väi draiveri kasutatud m„lu
+7.13:/FREE       Kuvab vabad tava- ja lem„lu plokid
+7.14:/ALL        Kuvab käik ksikasjad kärgm„lu ala (HMA) kohta
+7.15:/NOSUMMARY  Ei kuva kokkuvätet, mis tavaliselt kuvatakse, kui muid\n            vätmeid ei ole m„„ratud
+7.16:/SUMMARY    Thistab /NOSUMMARY vätme
+7.17:/%-10s Selle vätme jaoks ei ole abi saadaval\n
+7.18:/OLD        šhilduvus FreeDOS MEM 1.7 beetaga
+7.19:/D          Sama mis /DEBUG, väi /DEVICE kui kasutatakse /OLD
+7.20:/F          Sama mis /FREE, väi /FULL kui kasutatakse /OLD
+8.0:\nVajuta <Enter> j„tkamiseks väi <Esc> v„ljumiseks . . .
+# Memory type names
+9.0:Tavam„lu
+9.1:šlem„lu
+9.2:(viga)

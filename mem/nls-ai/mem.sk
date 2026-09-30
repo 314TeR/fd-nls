@@ -1,0 +1,153 @@
+# Language: Slovak
+# File ending: sk
+# Codepage: 852
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Nedostatok pam„te. Je potrebnìch eçte %ld bajtov.\n
+0.1:SYSTMOVµ PAM› POæKODENµ! (chyba int 21.5803)\n
+0.2:Chyba UMB: Reœazec nedosahuje vrchol z kl. pam„te na %dk. Poslednì=0x%x.\n
+0.3:Reœazec MCB poçkodenì (chìba Z MCB po poslednom M MCB, je %c v seg 0x%x).\n
+0.4:Pou§ite /? pre n povedu\n
+0.5:Nezn my prep¡naŸ: %s\n%s
+0.6:Bol zadanì prep¡naŸ /NOSUMMARY bez Ôalç¡ch vìstupnìch\nprep¡naŸov. Nebude vytvorenì §iadny vìstup.\n%s
+0.7:Kritick  chyba: nepodarilo sa uvo–niœ HMA, k¢d chyby %02Xh\n
+0.8:Nezn my prep¡naŸ (oŸak van‚ '/'): %s\n%s
+0.9:OŸak van  hodnota po /%s, nie Ôalç¡ prep¡naŸ\n%s
+0.10:Intern  chyba: prep¡naŸ '%s' m  predponu '%s'\na Ôalçiu predponu rovnakej d’§ky
+0.11:Intern  chyba: prep¡naŸ '%s' sa presne zhoduje s dvoma\nr“znymi prep¡naŸmi\n
+0.12:Chyba: prep¡naŸ '%s' je nejednoznaŸnì - ŸiastoŸn  zhoda\npre dva alebo viac r“znych prep¡naŸov\n%s
+0.13:OŸak van  hodnota po /%s\n%s
+0.14:Neplatnì prep¡naŸ '%s': mus¡te zadaœ aspoå jedno p¡smeno\nz n zvu prep¡naŸa
+# misc messages
+1.0:Nezn my operaŸnì syst‚m
+1.1:%s bajtov\n
+1.2:(%s bajtov)\n
+1.3: (%7s bajtov)\n
+1.4:Varovanie: zariadenie zrejme patr¡ k viacerìm pam„œovìm\nblokom (%s a %s)\n
+1.5:(§iadna jedn.)
+1.6:¦iadna pam„œ %s nie je vo–n \n
+1.7:%s sa moment lne nenach dza v pam„ti.\n
+1.8:%s pou§¡va nasleduj£cu pam„œ:\n
+1.9:Pam„œ %s nie je pr¡stupn \n
+# memory types
+2.0:Typ pam„te        Celkom     Pou§it‚     Vo–n‚\n
+#   ----------------  --------   --------   --------
+2.1:KonvenŸn 
+2.2:Horn 
+2.3:Vyhraden 
+2.4:Rozç¡ren  (XMS)
+2.5:Pam„œ celkom
+2.6:Celkom pod 1 MB
+2.7:Str nkovan  (EMS) celkom
+2.8:Vo–n  str. pam„œ (EMS)
+2.9:Najv„Ÿçia ve–kosœ spustite–n‚ho prog.
+2.10:Najv„Ÿç¡ vo–nì blok hornej pam„te
+2.11:%s s¡dli v oblasti vysokej pam„te (HMA).\n
+2.12:Dostupn‚ miesto v HMA
+2.13:Oblasœ HMA je dostupn  cez ovl daŸ XMS\n
+2.14:Oblasœ HMA nedostupn  cez ovl. XMS: nie je implementovan‚ ovl daŸom\n
+2.15:Oblasœ HMA nedostupn  cez ovl. XMS: je pr¡tomn‚ zariadenie VDISK\n
+2.16:Oblasœ HMA nedostupn  cez ovl. XMS: oblasœ HMA neexistuje\n
+2.17:Oblasœ HMA nedostupn  cez ovl. XMS: oblasœ HMA sa u§ pou§¡va\n
+2.18:Oblasœ HMA nedostupn  cez ovl. XMS: HMAMIN je v„Ÿçie ako HMA\n
+2.19:HMA dostupn  cez XMS, minim lna ve–kosœ TSR (HMAMIN): %u bajtov\n
+2.20:Oblasœ HMA nedostupn  cez ovl. XMS: nezn ma chyba %02Xh\n
+2.21:Oblasœ HMA nedostupn , preto§e nebol zavedenì §iadny ovl daŸ XMS\n
+2.22:Pam„œ je dostupn  pomocou Int 15h
+2.23:Pam„œ nie je dostupn  pomocou Int 15h (k¢d %02xh)\n
+# block types
+3.0:
+3.1:vo–n‚
+3.2:k¢d syst‚mu
+3.3:syst‚mov‚ d ta
+3.4:program
+3.5:prostredie
+3.6:d tov  oblasœ
+3.7:vyhraden‚
+3.8:tabu–ka vektorov preruçen¡
+3.9:d tov  oblasœ BIOSu
+3.10:syst‚mov‚ d ta
+3.11:ovl daŸ zariadenia
+3.12:d tov  oblasœ
+3.13:IFS
+3.14:(chyba)
+# classify msgs
+4.0:\nModuly vyu§¡vaj£ce pam„œ pod hranicou 1 MB:\n\n
+4.1:  N zov     Celkom             KonvenŸn           Horn  Pam„œ\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SYSTM
+4.3:Vo–n‚
+4.4:\nSegment       Celkom           N zov         Typ\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Adresa      Atr.    N zov      Program\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegment       Celkom\n
+#     -------  ----------------
+#            ----------------
+4.7:Celkom
+4.8:syst‚movì ovl daŸ zariadenia\n
+4.9:nainçtalovan‚ DEVICE=%s\n
+4.10:%s - detaily pam„te:\n
+4.11:Vo–n  pam„œ %s:\n
+4.12: (%u v tomto bloku)
+# EMS stuff
+5.0:INTERNµ CHYBA EMS.\n
+5.1:  Ovl daŸ EMS nie je v syst‚me nainçtalovanì.\n
+5.2:Verzia ovl daŸa EMS
+5.3:R mec str nok EMS
+5.4:Pam„œ EMS celkom
+5.5:Vo–n  pam„œ EMS
+5.6:Uchopenia celkom
+5.7:Vo–n‚ uchopenia
+5.8:\n  Uchopenie Str nky  Ve–kosœ    N zov\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:Ovl daŸ XMS nie je v syst‚me nainçtalovanì.\n
+6.1:\nTestovanie pam„te XMS ...\n
+6.2:INTERNµ CHYBA XMS.\n
+6.3:INT 2F AX=4309 podporovan‚\n
+6.4:Verzia XMS
+6.5:Verzia ovl daŸa XMS
+6.6:HMA
+6.7:existuje
+6.8:neexistuje
+6.9:Linka A20
+6.10:povolen 
+6.11:zak zan 
+6.12:Vo–n  pam„œ XMS
+6.13:Najv„Ÿç¡ vo–nì blok XMS
+6.14:Vo–n‚ uchopenia
+6.15: Blok   Uchopenie  Ve–kosœ  Z mky\n
+#    ------- --------  --------  -------
+6.16:Vo–n  horn  pam„œ
+6.17:Najv„Ÿç¡ hornì blok
+6.18:Horn  pam„œ nie je k dispoz¡cii\n
+# help message
+7.0:FreeDOS MEM verzia %s
+7.1:Zobraz¡ mno§stvo vyu§itej a vo–nej pam„te vo vaçom syst‚me.
+7.2:Syntax: MEM [nula alebo viac z ni§çie uvedenìch prep¡naŸov]
+7.3:/E          Zobraz¡ vçetky inform cie o str nkovanej pam„ti (EMS)
+7.4:/FULL       éplnì zoznam pam„œovìch blokov
+7.5:/C          Klasifikuje moduly vyu§¡vaj£ce pam„œ pod hranicou 1 MB
+7.6:/DEVICE     Zoznam ovl daŸov zariaden¡ aktu lne zavedenìch v pam„ti
+7.7:/U          Zoznam programov v konvenŸnej a hornej pam„ti
+7.8:/X          Zobraz¡ vçetky inform cie o rozç¡renej pam„ti (XMS)
+7.9:/P          Pozastav¡ vìpis po ka§dej zaplnenej obrazovke
+7.10:/?          Zobraz¡ t£to n povedu
+7.11:/DEBUG      Zobraz¡ programy/zariadenia v konvenŸnej/hornej pam„ti
+7.12:/M <n zov> | /MODULE <n zov>\n            Zobraz¡ pam„œ vyu§¡van£ zadanìm programom alebo ovl daŸom
+7.13:/FREE       Zobraz¡ vo–n‚ bloky konvenŸnej a hornej pam„te
+7.14:/ALL        Zobraz¡ vçetky detaily o oblasti vysokej pam„te (HMA)
+7.15:/NOSUMMARY  Skryje s£hrn, ktorì sa be§ne zobrazuje,\n            keÔ nie s£ zadan‚ §iadne in‚ prep¡naŸe
+7.16:/SUMMARY    Zruç¡ platnosœ prep¡naŸa /NOSUMMARY
+7.17:/%-10s Pre tento prep¡naŸ nie je k dispoz¡cii §iadna n poveda\n
+7.18:/OLD        Kompatibilita s FreeDOS MEM 1.7 beta
+7.19:/D          Ako /DEBUG predvolen‚ (alebo /DEVICE pri pou§it¡ /OLD)
+7.20:/F          Ako /FREE predvolen‚ (alebo /FULL pri pou§it¡ /OLD)
+8.0:\nPokraŸujte stlaŸen¡m <Enter> alebo stlaŸte <Esc> pre ukonŸenie . . .
+# Memory type names
+9.0:KonvenŸn 
+9.1:Horn 
+9.2:(chyba)

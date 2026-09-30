@@ -1,0 +1,153 @@
+# Language: Latvian
+# File ending: lv
+# Codepage: 775
+# This translation was made by Google Gemini.
+# Please help the FreeDOS group to improve it.
+#
+# fatal errors
+0.0:Nav pietiekami atmiņas. Nepieciešami vēl %ld baiti.\n
+0.1:SISTĒMAS ATMIŅA BOJĀTA! (int 21.5803 kļūda)\n
+0.2:UMB kļūda: Ķēde nesasniedz pamatatmiņas augšu pie %dk. Pēdējais=0x%x.\n
+0.3:MCB ķēde bojāta (nav Z MCB pēc pēdējā M MCB, bet %c atrodas segm. 0x%x).\n
+0.4:Izmantojiet /? palīdzībai\n
+0.5:Nezināms slēdzis: %s\n%s
+0.6:Slēdzis /NOSUMMARY norādīts bez citiem izvades slēdžiem.\nIzvade netiks veidota.\n%s
+0.7:Kritiska kļūda: neizdevās atbrīvot HMA, kļūdas kods %02Xh\n
+0.8:Nezināms slēdzis (gaidīts '/'): %s\n%s
+0.9:Gaidīta vērtība pēc /%s, nevis cits slēdzis\n%s
+0.10:Iekšēja kļūda: slēdzim '%s' ir prefikss '%s'\nun vēl viens tāda paša garuma prefikss
+0.11:Iekšēja kļūda: slēdzis '%s' precīzi atbilst diviem\ndažādiem slēdžiem\n
+0.12:Kļūda: slēdzis '%s' ir neviennozīmīgs - daļēja atbilstība\ndiviem vai vairākiem dažādiem slēdžiem\n%s
+0.13:Gaidīta vērtība pēc /%s\n%s
+0.14:Nederīgs slēdzis '%s': jānorāda vismaz viens burts\nno slēdža nosaukuma
+# misc messages
+1.0:Nezināma operētājsistēma
+1.1:%s baiti\n
+1.2:(%s baiti)\n
+1.3: (%7s baiti)\n
+1.4:Brīdinājums: šķiet, ka ierīce pieder vairākiem\natmiņas blokiem (%s un %s)\n
+1.5:(nav diska)
+1.6:Nav brīvas %s atmiņas\n
+1.7:%s pašlaik nav atmiņā.\n
+1.8:%s izmanto šādu atmiņu:\n
+1.9:%s atmiņa nav pieejama\n
+# memory types
+2.0:Atmiņas tips      Kopā       Izmantots  Brīvs\n
+#   ----------------  --------   --------   --------
+2.1:Pamatatmiņa
+2.2:Augšējā
+2.3:Rezervētā
+2.4:Paplašinātā (XMS)
+2.5:Kopējā atmiņa
+2.6:Kopā zem 1 MB
+2.7:Kopā Ekspandētā (EMS)
+2.8:Brīvā Ekspandētā (EMS)
+2.9:Lielākā izpildāmās programmas atmiņa
+2.10:Lielākais brīvais UMB bloks
+2.11:%s atrodas augstās atmiņas apgabalā (HMA).\n
+2.12:Pieejamā vieta HMA apgabalā
+2.13:HMA ir pieejama caur XMS draiveri\n
+2.14:HMA nav pieejama caur XMS: draiveris to neatbalsta\n
+2.15:HMA nav pieejama caur XMS draiveri: atrasta VDISK ierīce\n
+2.16:HMA nav pieejama caur XMS draiveri: HMA neeksistē\n
+2.17:HMA nav pieejama caur XMS draiveri: HMA jau tiek izmantota\n
+2.18:HMA nav pieejama caur XMS: HMAMIN ir lielāks nekā HMA\n
+2.19:HMA pieejama caur XMS, min. TSR izmērs (HMAMIN): %u baiti\n
+2.20:HMA nav pieejama caur XMS draiveri: nezināma kļūda %02Xh\n
+2.21:HMA nav pieejama, jo nav ielādēts XMS draiveris\n
+2.22:Atmiņa pieejama caur Int 15h
+2.23:Atmiņa nav pieejama caur Int 15h (kods %02xh)\n
+# block types
+3.0:
+3.1:brīvs
+3.2:sistēmas kods
+3.3:sistēmas dati
+3.4:programma
+3.5:vide
+3.6:datu apgabals
+3.7:rezervēts
+3.8:pārtraukumu vektoru tabula
+3.9:BIOS datu apgabals
+3.10:sistēmas dati
+3.11:ierīces draiveris
+3.12:datu apgabals
+3.13:IFS
+3.14:(kļūda)
+# classify msgs
+4.0:\nModuļi, kas izmanto atmiņu zem 1 MB:\n\n
+4.1:  Nosaukums Kopā               Pamatatmiņa        Augšējā Atmiņa\n
+#     --------  ----------------   ----------------   ----------------
+4.2:SISTĒMA
+4.3:Brīvs
+4.4:\nSegments  Kopā              Nosaukums     Tips\n
+#     -------  ----------------  ------------  -------------
+4.5:\n   Adrese      Atr.    Nosaukums  Programma\n
+#      -----------  ------ ----------  ----------
+4.6:\nSegments  Kopā\n
+#     -------  ----------------
+#            ----------------
+4.7:Kopā: 
+4.8:sistēmas ierīces draiveris\n
+4.9:instalēts DEVICE=%s\n
+4.10:%s atmiņas detaļas:\n
+4.11:Brīvā %s atmiņa:\n
+4.12: (%u šajā blokā)
+# EMS stuff
+5.0:IEKŠĒJA EMS KĻŪDA.\n
+5.1:  EMS draiveris nav instalēts sistēmā.\n
+5.2:EMS draivera versija
+5.3:EMS lapu rāmis
+5.4:Kopējā EMS atmiņa
+5.5:Brīvā EMS atmiņa
+5.6:Kopējais rokturu skaits
+5.7:Brīvie rokturi
+5.8:\n  Rokturis Lapas    Izmērs     Nosaukums\n
+#      -------- ------  --------   ----------
+# XMS stuff
+6.0:XMS draiveris nav instalēts sistēmā.\n
+6.1:\nTestē XMS atmiņu ...\n
+6.2:IEKŠĒJA XMS KĻŪDA.\n
+6.3:INT 2F AX=4309 atbalstīts\n
+6.4:XMS versija
+6.5:XMS draivera versija
+6.6:HMA
+6.7:eksistē
+6.8:neeksistē
+6.9:A20 līnija
+6.10:ieslēgta
+6.11:izslēgta
+6.12:Brīvā XMS atmiņa
+6.13:Maks. brīvais XMS bloks
+6.14:Brīvie rokturi
+6.15: Bloks   Rokturis   Izmērs   Bloķējumi\n
+#    ------- --------  --------  -------
+6.16:Brīvā augšējā atmiņa
+6.17:Lielākais augšējais bloks
+6.18:Augšējā atmiņa nav pieejama\n
+# help message
+7.0:FreeDOS MEM versija %s
+7.1:Parāda izmantotās un brīvās atmiņas apjomu jūsu sistēmā.
+7.2:Sintakse: MEM [nulle vai vairāki no zemāk norādītajiem slēdžiem]
+7.3:/E          Parāda visu informāciju par Ekspandēto Atmiņu (EMS)
+7.4:/FULL       Pilns atmiņas bloku saraksts
+7.5:/C          Klasificē moduļus, kas izmanto atmiņu zem 1 MB
+7.6:/DEVICE     Sistēmas atmiņā esošo ierīču draiveru saraksts
+7.7:/U          Programmu saraksts pamatatmiņā un augšējā atmiņā
+7.8:/X          Parāda visu informāciju par Paplašināto Atmiņu (XMS)
+7.9:/P          Aptur izvadi pēc katra pilna ekrāna
+7.10:/?          Parāda šo palīdzības paziņojumu
+7.11:/DEBUG      Parāda programmas un ierīces pamatatmiņā/augš. atmiņā
+7.12:/M <nosauk> | /MODULE <nosauk>\n            Parāda atmiņu, ko izmanto norādītā programma vai draiveris
+7.13:/FREE       Parāda brīvos pamatatmiņas un augšējās atmiņas blokus
+7.14:/ALL        Parāda visu informāciju par augstās atmiņas apgabalu (HMA)
+7.15:/NOSUMMARY  Slēpj kopsavilkumu, kas parasti tiek parādīts, kad\n            nav norādīti citi slēdži
+7.16:/SUMMARY    Atceļ slēdža /NOSUMMARY darbību
+7.17:/%-10s Šim slēdzim palīdzība nav pieejama\n
+7.18:/OLD        Saderība ar FreeDOS MEM 1.7 beta
+7.19:/D          Kā /DEBUG pēc noklusējuma (vai /DEVICE, ja lieto /OLD)
+7.20:/F          Kā /FREE pēc noklusējuma (vai /FULL, ja lieto /OLD)
+8.0:\nNospiediet <Enter>, lai turpinātu, vai <Esc>, lai izietu . . .
+# Memory type names
+9.0:Pamatatmiņa
+9.1:Augšējā
+9.2:(kļūda)

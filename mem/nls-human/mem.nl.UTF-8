@@ -22,7 +22,7 @@
 # FIXME: to be translated
 0.13:Verwachtte een waarde na /%s\n%s
 # FIXME: to be translated
-0.14:Fout: optie '%s': geef minimaal ÇÇn letter op
+0.14:Fout: optie '%s': geef minimaal √©√©n letter op
 # misc messages
 1.0:Een onbekend besturingssysteem
 1.1:%s bytes\n
@@ -59,7 +59,7 @@
 # FIXME: to be translated
 2.13:HMA is beschikbaar via het XMS-stuurprogramma\n
 # FIXME: to be translated
-2.14:HMA niet beschikbaar: niet geãmplementeerd door XMS-driver\n
+2.14:HMA niet beschikbaar: niet ge√Ømplementeerd door XMS-driver\n
 # FIXME: to be translated
 2.15:HMA niet beschikbaar via XMS-driver: VDISK is aanwezig\n
 # FIXME: to be translated
@@ -116,7 +116,7 @@
 # FIXME: to be translated
 4.8:systeemstuurprogramma\n
 # FIXME: to be translated
-4.9:geãnstalleerd: DEVICE=%s\n
+4.9:ge√Ønstalleerd: DEVICE=%s\n
 # FIXME: to be translated
 4.10:%s Geheugendetails:\n
 # FIXME: to be translated
@@ -125,7 +125,7 @@
 4.12: (%u in dit blok)
 # EMS stuff
 5.0:EMS INTERNE FOUT.\n
-5.1:  EMS-stuurprogramma niet geãnstalleerd in het systeem.\n
+5.1:  EMS-stuurprogramma niet ge√Ønstalleerd in het systeem.\n
 5.2:EMS-stuurprogramma versie
 5.3:EMS-paginalijst
 5.4:Totaal EMS-geheugen
@@ -135,7 +135,7 @@
 5.8:\n  Hendel  Pagina's Grootte      Naam\n
 #      -------- ------  --------   ----------
 # XMS stuff
-6.0:XMS-stuurprogramma niet geãnstalleerd in het systeem.\n
+6.0:XMS-stuurprogramma niet ge√Ønstalleerd in het systeem.\n
 6.1:\nTesten van het XMS-geheugen ...\n
 6.2:XMS INTERNE FOUT.\n
 6.3:INT 2F AX=4309 ondersteund\n
@@ -183,7 +183,7 @@
 # FIXME: to be translated
 7.17:/%-10s Er is geen hulp beschikbaar voor deze optie\n
 # FIXME: to be translated
-7.18:/OLD        Compatibiliteit met FreeDOS MEM 1.7 bäta
+7.18:/OLD        Compatibiliteit met FreeDOS MEM 1.7 b√®ta
 # FIXME: to be translated
 7.19:/D          Als /DEBUG (of /DEVICE indien /OLD is gebruikt)
 # FIXME: to be translated
